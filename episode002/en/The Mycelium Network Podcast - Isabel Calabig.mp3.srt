@@ -1,0 +1,2000 @@
+1
+00:00:00,000 --> 00:00:06,680
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+
+2
+00:00:06,680 --> 00:00:09,640
+and the mentors and teachers that help them along the way.
+
+3
+00:00:09,640 --> 00:00:12,160
+Today we have Isabel joining us.
+
+4
+00:00:12,160 --> 00:00:13,160
+Welcome, Isabel.
+
+5
+00:00:13,160 --> 00:00:14,160
+Thanks for joining.
+
+6
+00:00:14,160 --> 00:00:18,280
+Yeah, thanks for having me.
+
+7
+00:00:18,280 --> 00:00:19,360
+It's a pleasure.
+
+8
+00:00:19,360 --> 00:00:24,760
+I found you on Twitter when I saw a tweet of yours that said, let's open a call and connect.
+
+9
+00:00:24,760 --> 00:00:29,240
+This is for anyone who wants encouragement when it comes to finding jobs in tech, exploring
+
+10
+00:00:29,240 --> 00:00:30,240
+web dev career.
+
+11
+00:00:30,240 --> 00:00:32,920
+Is that something you do regularly?
+
+12
+00:00:32,920 --> 00:00:38,440
+Yeah, I'm actually fairly active on Twitter.
+
+13
+00:00:38,440 --> 00:00:45,040
+I'm definitely the type that's just all about community and just kind of uplifting people.
+
+14
+00:00:45,040 --> 00:00:47,540
+When it comes to coding, it's not easy.
+
+15
+00:00:47,540 --> 00:00:49,040
+It's not easy doing it alone.
+
+16
+00:00:49,040 --> 00:00:55,000
+And so I think community is just such an essential part of anybody's kind of coding journey.
+
+17
+00:00:55,000 --> 00:00:56,000
+So yeah.
+
+18
+00:00:56,000 --> 00:00:59,640
+That's for sure.
+
+19
+00:00:59,640 --> 00:01:05,520
+So with that, Mycelium Network, as you know, is part of a community that's exactly set
+
+20
+00:01:05,520 --> 00:01:09,980
+up for this to help people who are early-stage web developers.
+
+21
+00:01:09,980 --> 00:01:14,200
+It's kind of focused on web developers, but it's not exclusive.
+
+22
+00:01:14,200 --> 00:01:21,440
+We don't tell people who aren't web developers, sorry, you're not welcome.
+
+23
+00:01:21,440 --> 00:01:27,160
+But also I see the concept of an early-stage web developer, the reason why I use that phrasing
+
+24
+00:01:27,160 --> 00:01:33,360
+as opposed to beginner is because everybody's beginners at something at some point.
+
+25
+00:01:33,360 --> 00:01:39,520
+And I think the word beginner has kind of maybe even gotten a bit of a bad rap, like
+
+26
+00:01:39,520 --> 00:01:41,100
+saying you're a beginner.
+
+27
+00:01:41,100 --> 00:01:45,880
+So that's why I've adopted the phrase of early-stage developer.
+
+28
+00:01:45,880 --> 00:01:50,120
+It sounds a bit different because you might actually have coding experience, but you don't
+
+29
+00:01:50,120 --> 00:01:52,280
+know JavaScript.
+
+30
+00:01:52,280 --> 00:01:56,880
+You can do C every day of the week, but JavaScript, you're new to that.
+
+31
+00:01:56,880 --> 00:01:57,880
+You're new to HTML.
+
+32
+00:01:57,880 --> 00:01:59,080
+You need to CSS.
+
+33
+00:01:59,080 --> 00:02:03,620
+So that's kind of why I adopted that.
+
+34
+00:02:03,620 --> 00:02:10,280
+And also a lot of people like switch careers, like they used to be in enterprise software
+
+35
+00:02:10,280 --> 00:02:11,280
+development.
+
+36
+00:02:11,280 --> 00:02:16,920
+And it's not even a career switch from not being a coder to being a coder, but from enterprise
+
+37
+00:02:16,920 --> 00:02:21,320
+to maybe startup or enterprise to ed tech.
+
+38
+00:02:21,320 --> 00:02:25,560
+And that's also a change because the thinking, the problem solving, that's different.
+
+39
+00:02:25,560 --> 00:02:29,120
+So again, you're new at something or a beginner at something.
+
+40
+00:02:29,120 --> 00:02:32,640
+So with all of that in mind, what is your story?
+
+41
+00:02:32,640 --> 00:02:33,960
+What is your history?
+
+42
+00:02:33,960 --> 00:02:38,800
+I know that you didn't start being a coder, if I understand correctly, that's something
+
+43
+00:02:38,800 --> 00:02:41,200
+that you're transitioning kind of into.
+
+44
+00:02:41,200 --> 00:02:42,200
+Yeah.
+
+45
+00:02:42,200 --> 00:02:48,440
+So for my case, I actually have a background in marketing specifically within the mental
+
+46
+00:02:48,440 --> 00:02:50,080
+health field.
+
+47
+00:02:50,080 --> 00:02:55,200
+And I was working in marketing within mental health for about two years.
+
+48
+00:02:55,200 --> 00:03:00,440
+And I guess basically during COVID, I started to really think about what really interested
+
+49
+00:03:00,440 --> 00:03:06,920
+me, what really wanted me to kind of develop more into the career that I was getting into.
+
+50
+00:03:06,920 --> 00:03:12,200
+And at the time, well, still is, but tech has been like trending, right?
+
+51
+00:03:12,200 --> 00:03:13,640
+Especially during like COVID and such.
+
+52
+00:03:13,640 --> 00:03:18,360
+And so that definitely gave me like a little interest in it.
+
+53
+00:03:18,360 --> 00:03:22,980
+And I kind of wanted to see more of how I can get involved and such.
+
+54
+00:03:22,980 --> 00:03:28,480
+And so now kind of just moving forward, I work for an ed tech company called Dreambox
+
+55
+00:03:28,480 --> 00:03:32,520
+Learning as a marketing operations associate.
+
+56
+00:03:32,520 --> 00:03:39,080
+And basically networking and just knowing how to create landing pages with basic HTML
+
+57
+00:03:39,080 --> 00:03:43,640
+and CSS, that landed me the job in tech.
+
+58
+00:03:43,640 --> 00:03:49,040
+And so now I'm still kind of in the process of like onboarding and training because I
+
+59
+00:03:49,040 --> 00:03:55,560
+literally just got the job of a few weeks ago, but yeah, I'm just kind of helping out
+
+60
+00:03:55,560 --> 00:04:00,800
+like our web developers and such develop the company like landing pages and whatnot.
+
+61
+00:04:00,800 --> 00:04:03,240
+So yeah, that's kind of where I'm at now.
+
+62
+00:04:03,240 --> 00:04:04,240
+Awesome.
+
+63
+00:04:04,240 --> 00:04:05,240
+That's great.
+
+64
+00:04:05,240 --> 00:04:07,280
+Can you tell us a little bit more about Dreambox?
+
+65
+00:04:07,280 --> 00:04:08,640
+It sounds really interesting.
+
+66
+00:04:08,640 --> 00:04:09,640
+Yeah.
+
+67
+00:04:09,640 --> 00:04:10,640
+Yeah.
+
+68
+00:04:10,640 --> 00:04:16,640
+So Dreambox Learning, it's a tech company that focuses on adaptive kind of technology
+
+69
+00:04:16,640 --> 00:04:23,800
+and they really try to make a software or a program curriculum to adapt to a student's
+
+70
+00:04:23,800 --> 00:04:24,860
+like learning.
+
+71
+00:04:24,860 --> 00:04:30,600
+And so it's a very personalized approach to a student's like learning.
+
+72
+00:04:30,600 --> 00:04:35,120
+So it not just helps like the student in their like learning journey, but as well as like
+
+73
+00:04:35,120 --> 00:04:40,200
+the educator, like they're also able to kind of track and see what the student is missing
+
+74
+00:04:40,200 --> 00:04:41,200
+and such.
+
+75
+00:04:41,200 --> 00:04:44,840
+So yeah, it's pretty impressive technology that our company's getting involved in.
+
+76
+00:04:44,840 --> 00:04:45,840
+So yeah.
+
+77
+00:04:45,840 --> 00:04:46,840
+Yeah.
+
+78
+00:04:46,840 --> 00:04:47,840
+It sounds really interesting.
+
+79
+00:04:47,840 --> 00:04:54,440
+I know from people that I've spoken to, one of the things they find tricky besides just
+
+80
+00:04:54,440 --> 00:05:00,480
+finding good content is finding something that fits with their learning style.
+
+81
+00:05:00,480 --> 00:05:08,740
+So having something that can adapt to your learning style, yeah, that sounds really interesting.
+
+82
+00:05:08,740 --> 00:05:16,040
+So as you're new to tech in some way, shape and form, I know from speaking to previous
+
+83
+00:05:16,040 --> 00:05:21,600
+guests and just in general speaking to early stage folk, there are a lot of challenges
+
+84
+00:05:21,600 --> 00:05:25,320
+when you like walk into this new world.
+
+85
+00:05:25,320 --> 00:05:30,760
+So for you, what have been the challenges that you faced?
+
+86
+00:05:30,760 --> 00:05:31,760
+Yeah.
+
+87
+00:05:31,760 --> 00:05:37,760
+So I mean, I can probably go off on the numerous challenges that I'm facing, but I think the
+
+88
+00:05:37,760 --> 00:05:44,200
+common denominator, like the root of it all is just imposter syndrome.
+
+89
+00:05:44,200 --> 00:05:49,640
+Like I would have these constant thoughts of thinking like, I'm not smart enough, or
+
+90
+00:05:49,640 --> 00:05:56,280
+I don't know enough math, or I'm a slow learner, or even something like I don't deserve to
+
+91
+00:05:56,280 --> 00:05:57,280
+be in tech.
+
+92
+00:05:57,280 --> 00:06:03,600
+Like that kind of thinking just really hits hard sometimes.
+
+93
+00:06:03,600 --> 00:06:10,040
+And I don't know, maybe it's also just nowadays, I feel like people put tech at such a high
+
+94
+00:06:10,040 --> 00:06:15,840
+kind of standard or on some sort of pedestal that you have to be a certain somebody to
+
+95
+00:06:15,840 --> 00:06:17,120
+get into tech.
+
+96
+00:06:17,120 --> 00:06:21,000
+But honestly, like really anyone can do it.
+
+97
+00:06:21,000 --> 00:06:23,080
+Anyone can learn how to code.
+
+98
+00:06:23,080 --> 00:06:30,600
+Like I never imagined myself like being able to learn HTML, CSS, and now JavaScript.
+
+99
+00:06:30,600 --> 00:06:38,840
+Like growing up, my dad, he was a software engineer, and he never actually pushed me
+
+100
+00:06:38,840 --> 00:06:46,800
+to like look into web development, but I knew that he knew that I had an interest in it.
+
+101
+00:06:46,800 --> 00:06:54,520
+And I just remember growing up, he actually bought me this web page builder, and I was
+
+102
+00:06:54,520 --> 00:06:56,240
+just obsessed with it.
+
+103
+00:06:56,240 --> 00:07:00,880
+Like it was just so much fun just like putting together like really simple websites, like,
+
+104
+00:07:00,880 --> 00:07:05,480
+I mean, now it probably looks like crap, but like, it was just so much fun, the creative
+
+105
+00:07:05,480 --> 00:07:08,520
+process and stuff.
+
+106
+00:07:08,520 --> 00:07:15,080
+But yeah, and I think like, now I'm actually really thankful that he never really pushed
+
+107
+00:07:15,080 --> 00:07:19,680
+me to like learn how to code like in college or in school or anything like that.
+
+108
+00:07:19,680 --> 00:07:25,320
+Because for me, this is the first time that I'm actually like wanting to do this myself
+
+109
+00:07:25,320 --> 00:07:29,260
+and not really having anybody else kind of push me.
+
+110
+00:07:29,260 --> 00:07:32,640
+Like this is something that I personally want to do.
+
+111
+00:07:32,640 --> 00:07:39,560
+And it's just cool being able to see other people like me who are just like normal or
+
+112
+00:07:39,560 --> 00:07:43,840
+non-tech, non-technical kind of people learn to code.
+
+113
+00:07:43,840 --> 00:07:51,240
+So yeah, I'd say imposter syndrome was definitely like the main challenge for me.
+
+114
+00:07:51,240 --> 00:07:52,240
+Yeah.
+
+115
+00:07:52,240 --> 00:07:53,240
+Gotcha.
+
+116
+00:07:53,240 --> 00:07:54,240
+Yeah.
+
+117
+00:07:54,240 --> 00:07:57,720
+And I think it's something that doesn't ever really go away.
+
+118
+00:07:57,720 --> 00:08:03,520
+Because again, I'm going back to this idea of being a beginner at something.
+
+119
+00:08:03,520 --> 00:08:08,320
+Like I've written JavaScript for a very long time.
+
+120
+00:08:08,320 --> 00:08:12,640
+But in the recent year and a half or so, I started picking up TypeScript.
+
+121
+00:08:12,640 --> 00:08:14,720
+And I mean, I feel like a complete newbie again.
+
+122
+00:08:14,720 --> 00:08:15,720
+Oh, yeah.
+
+123
+00:08:15,720 --> 00:08:17,520
+It's like typing.
+
+124
+00:08:17,520 --> 00:08:24,000
+I used to deal with types and stuff like 10 years ago when I did Java and I left that
+
+125
+00:08:24,000 --> 00:08:28,000
+behind and now suddenly like TypeScripts come on the scene and it's quite the thing.
+
+126
+00:08:28,000 --> 00:08:33,600
+And like especially when you're creating APIs, TypeScript is great because it gives you that
+
+127
+00:08:33,600 --> 00:08:38,840
+layer of protection where it says to the user of your API, hey, you're trying to pass me
+
+128
+00:08:38,840 --> 00:08:41,400
+a string, but I'm expecting an integer.
+
+129
+00:08:41,400 --> 00:08:48,080
+So it protects you from making a mistake even before you've written the code, like when
+
+130
+00:08:48,080 --> 00:08:49,260
+you try to call it.
+
+131
+00:08:49,260 --> 00:08:50,260
+So it's great.
+
+132
+00:08:50,260 --> 00:08:53,760
+But it's a whole new way of thinking about writing JavaScript.
+
+133
+00:08:53,760 --> 00:08:58,280
+And even though people say TypeScript is just a superset of JavaScript, it's significantly
+
+134
+00:08:58,280 --> 00:09:00,760
+different when you really get into it.
+
+135
+00:09:00,760 --> 00:09:05,840
+If you want to really make use of it properly, there's a lot of differences.
+
+136
+00:09:05,840 --> 00:09:13,640
+But the fact that you now have a job doing some web development and stuff like that obviously
+
+137
+00:09:13,640 --> 00:09:18,200
+means that you have found some resources that has been useful to you and has been helped
+
+138
+00:09:18,200 --> 00:09:20,160
+you to learn.
+
+139
+00:09:20,160 --> 00:09:26,880
+And I assume, and correct me if I'm wrong, but the fact that you've gone from one industry
+
+140
+00:09:26,880 --> 00:09:30,560
+to another, you most likely had to do a lot of this by yourself.
+
+141
+00:09:30,560 --> 00:09:34,480
+It wasn't like going to university and doing a computer science degree.
+
+142
+00:09:34,480 --> 00:09:38,880
+It's more like buy the bootstraps, do it yourself.
+
+143
+00:09:38,880 --> 00:09:43,680
+So what resources have you found that you find particularly useful and depend on?
+
+144
+00:09:43,680 --> 00:09:44,680
+Yeah.
+
+145
+00:09:44,680 --> 00:09:50,840
+Well, it all started out with the Codecademy.
+
+146
+00:09:50,840 --> 00:09:56,440
+And I just tried a free trial at first.
+
+147
+00:09:56,440 --> 00:10:04,320
+And it was really nice because on their interface, you're able to see the project and the instructions
+
+148
+00:10:04,320 --> 00:10:09,200
+and then you also have your space to code and then you're also able to preview, have
+
+149
+00:10:09,200 --> 00:10:12,240
+a live preview of what you're coding.
+
+150
+00:10:12,240 --> 00:10:17,120
+So all that kind of side by side, it kind of just made everything click.
+
+151
+00:10:17,120 --> 00:10:21,640
+Like, oh, if I type this out, then this will pop up on the browser or whatever.
+
+152
+00:10:21,640 --> 00:10:29,880
+And so definitely learning by actually coding really, really helped.
+
+153
+00:10:29,880 --> 00:10:35,720
+And then kind of from there, I went off to different resources like Scrimba.
+
+154
+00:10:35,720 --> 00:10:39,640
+Scrimba is kind of similar in that sense.
+
+155
+00:10:39,640 --> 00:10:46,760
+And YouTube, a lot of YouTube tutorials, but I'm very, very cautious around YouTube tutorials
+
+156
+00:10:46,760 --> 00:10:51,560
+just because you can get so caught up in the, what is that called, quote unquote, tutorial
+
+157
+00:10:51,560 --> 00:10:52,560
+hell or whatever.
+
+158
+00:10:52,560 --> 00:10:53,560
+Oh, I forgot about that.
+
+159
+00:10:53,560 --> 00:10:54,560
+Yeah.
+
+160
+00:10:54,560 --> 00:10:55,560
+Yeah.
+
+161
+00:10:55,560 --> 00:11:04,520
+But, I don't know, I feel like as long as you're understanding the concept and the idea
+
+162
+00:11:04,520 --> 00:11:10,120
+of what you're coding and why you're coding it in a certain way, then things will kind
+
+163
+00:11:10,120 --> 00:11:16,080
+of start to click and then you're actually able to make your own projects and such.
+
+164
+00:11:16,080 --> 00:11:24,520
+And so a lot of ways that I kind of learned was through tutorials and then I would watch
+
+165
+00:11:24,520 --> 00:11:28,880
+it, re-watch it, watch it again until I understand what's going on.
+
+166
+00:11:28,880 --> 00:11:35,280
+And then I exit out of the video and I just try to make my own thing, but that's still
+
+167
+00:11:35,280 --> 00:11:40,440
+revolving around the idea of the concept behind that video that I just watched.
+
+168
+00:11:40,440 --> 00:11:46,800
+And so in a way, I guess tutorial hell is not really hell, but it can be kind of useful
+
+169
+00:11:46,800 --> 00:11:49,080
+in some ways.
+
+170
+00:11:49,080 --> 00:11:54,320
+And there's a lot of ways to kind of apply what you learn with those kinds of resources.
+
+171
+00:11:54,320 --> 00:11:56,680
+But as I was...
+
+172
+00:11:56,680 --> 00:12:02,440
+So that was probably last year when I really relied on YouTube, Codecademy, and Scrimba.
+
+173
+00:12:02,440 --> 00:12:06,320
+And then I just kind of got lost.
+
+174
+00:12:06,320 --> 00:12:11,920
+I didn't really know where to go after HTML and CSS.
+
+175
+00:12:11,920 --> 00:12:20,720
+And I was looking on LinkedIn and I saw a lot of people were active in the tech community
+
+176
+00:12:20,720 --> 00:12:21,960
+on Twitter.
+
+177
+00:12:21,960 --> 00:12:28,280
+And then that was when I hopped on Twitter just to see what was going on, like, what
+
+178
+00:12:28,280 --> 00:12:32,400
+do you mean LinkedIn or Twitter's the new LinkedIn or whatever.
+
+179
+00:12:32,400 --> 00:12:39,960
+And so after just kind of exploring different, what is that called, like Twitter communities
+
+180
+00:12:39,960 --> 00:12:49,920
+and such, I connected with my friend Alondra and she is doing the coding bootcamp, the
+
+181
+00:12:49,920 --> 00:12:53,000
+100 devs bootcamp by Leon.
+
+182
+00:12:53,000 --> 00:12:55,320
+And I decided to hop on that too.
+
+183
+00:12:55,320 --> 00:13:01,920
+And it has been great just having more of a structure with my learning.
+
+184
+00:13:01,920 --> 00:13:09,440
+Like I'm able to kind of see, oh, after CSS, you can go to like JavaScript.
+
+185
+00:13:09,440 --> 00:13:15,160
+Like it's a lot better than just kind of creating my own kind of roadmap.
+
+186
+00:13:15,160 --> 00:13:21,480
+And with a bunch of different resources out there, I got really overwhelmed.
+
+187
+00:13:21,480 --> 00:13:25,960
+And there were so many people saying, oh, use this, oh no, you should listen to so-and-so.
+
+188
+00:13:25,960 --> 00:13:32,080
+And after just sticking to like one bootcamp, I'm actually able to like see the connections
+
+189
+00:13:32,080 --> 00:13:35,640
+with everything that I'm learning, you know, because everything is kind of like a building
+
+190
+00:13:35,640 --> 00:13:38,540
+block from then on.
+
+191
+00:13:38,540 --> 00:13:42,840
+So yeah, those are definitely the resources that I've used.
+
+192
+00:13:42,840 --> 00:13:49,600
+But I think the one thing is really community and within the bootcamp and on Twitter, that
+
+193
+00:13:49,600 --> 00:13:51,920
+has been such a huge help.
+
+194
+00:13:51,920 --> 00:13:59,720
+And I just love how experienced web developers are willing to mentor and have coffee chats
+
+195
+00:13:59,720 --> 00:14:01,260
+for anybody.
+
+196
+00:14:01,260 --> 00:14:08,360
+And it's just so great knowing that you have people who have you back, you know?
+
+197
+00:14:08,360 --> 00:14:12,760
+They have like your best interest in mind and want to like push you to be like a good
+
+198
+00:14:12,760 --> 00:14:13,760
+developer.
+
+199
+00:14:13,760 --> 00:14:18,600
+And so it's so nice to have this kind of community that's just so, so supportive.
+
+200
+00:14:18,600 --> 00:14:23,360
+So that's definitely, I think community is like the biggest one.
+
+201
+00:14:23,360 --> 00:14:24,360
+Yeah.
+
+202
+00:14:24,360 --> 00:14:25,360
+Yeah.
+
+203
+00:14:25,360 --> 00:14:28,440
+It's super to hear you say that.
+
+204
+00:14:28,440 --> 00:14:36,240
+I've always been a little weary of the industry not being as friendly and welcoming, especially
+
+205
+00:14:36,240 --> 00:14:42,640
+when we talk about like the wider, you know, non-standard like white male like me.
+
+206
+00:14:42,640 --> 00:14:46,680
+I've always wondered like, what is the experience from that perspective?
+
+207
+00:14:46,680 --> 00:14:49,560
+Because you hear a lot of horror stories, right?
+
+208
+00:14:49,560 --> 00:14:50,560
+Especially women in tech.
+
+209
+00:14:50,560 --> 00:14:54,960
+I've heard a lot of stories about where, you know, it's just like even on Twitter, it's
+
+210
+00:14:54,960 --> 00:14:55,960
+toxic.
+
+211
+00:14:55,960 --> 00:14:58,960
+And I've always been like, how do we approach this?
+
+212
+00:14:58,960 --> 00:15:01,040
+How do we fix this or at least improve it?
+
+213
+00:15:01,040 --> 00:15:06,080
+So it's great for me to hear that you've had this like really positive experience.
+
+214
+00:15:06,080 --> 00:15:07,560
+That's really good to hear.
+
+215
+00:15:07,560 --> 00:15:11,720
+And I think that that leads us nicely into the next question that I had is, like you
+
+216
+00:15:11,720 --> 00:15:18,300
+said, there's so many resources, so many things, so many possible routes you can take.
+
+217
+00:15:18,300 --> 00:15:22,840
+So with all of that in mind and all the things that you have learned, like what has been
+
+218
+00:15:22,840 --> 00:15:27,560
+stuff that you found particularly tricky and stuff that you feel like, this kind of doesn't
+
+219
+00:15:27,560 --> 00:15:28,560
+work so well.
+
+220
+00:15:28,560 --> 00:15:34,520
+It would be nice if we can do X that would have helped me a lot.
+
+221
+00:15:34,520 --> 00:15:43,200
+Honestly, I don't really think there's anything exactly missing, just because everybody just
+
+222
+00:15:43,200 --> 00:15:51,740
+learns differently, hence the various amounts of resources out there, you know, but I honestly
+
+223
+00:15:51,740 --> 00:15:59,720
+think it's important for beginners to just know that if you purchase this course or if
+
+224
+00:15:59,720 --> 00:16:07,080
+you take this class or whatever, it does not guarantee getting a job in tech.
+
+225
+00:16:07,080 --> 00:16:12,440
+Like there should be a fine print for every kind of class or course out there that says
+
+226
+00:16:12,440 --> 00:16:22,200
+it depends because it really depends on the person and how they learn and how they use
+
+227
+00:16:22,200 --> 00:16:27,180
+their knowledge to apply that to their projects.
+
+228
+00:16:27,180 --> 00:16:33,280
+It depends on their mental health, like mental health was such a huge thing for me to really
+
+229
+00:16:33,280 --> 00:16:41,040
+navigate when it comes to coding and just the job hunt, like it can be very draining.
+
+230
+00:16:41,040 --> 00:16:47,480
+And I guess it also depends on their network and how they network and who is in their network
+
+231
+00:16:47,480 --> 00:16:49,260
+too.
+
+232
+00:16:49,260 --> 00:16:53,920
+So yeah, I just think that there should be a fine print out there that just says it really
+
+233
+00:16:53,920 --> 00:17:01,800
+depends because I think it's really misleading when there are ads out there that say, oh,
+
+234
+00:17:01,800 --> 00:17:07,200
+you'll get a job in tech like right after you complete X, Y, and Z. And you know, it's
+
+235
+00:17:07,200 --> 00:17:11,160
+just false advertising, like it's just not realistic.
+
+236
+00:17:11,160 --> 00:17:14,200
+It really depends on the person's process.
+
+237
+00:17:14,200 --> 00:17:15,200
+So yeah.
+
+238
+00:17:15,200 --> 00:17:16,200
+Yeah.
+
+239
+00:17:16,200 --> 00:17:17,200
+Yeah.
+
+240
+00:17:17,200 --> 00:17:18,200
+No, I did.
+
+241
+00:17:18,200 --> 00:17:19,200
+There's quite a couple of those going around.
+
+242
+00:17:19,200 --> 00:17:26,760
+There's actually one or two of them that I personally just classify as a scam, where
+
+243
+00:17:26,760 --> 00:17:32,440
+they advertise this thing where, oh, you can join as an intern in this company sending
+
+244
+00:17:32,440 --> 00:17:33,440
+your resume.
+
+245
+00:17:33,440 --> 00:17:34,440
+Then you do that.
+
+246
+00:17:34,440 --> 00:17:38,720
+Then they get back to you and say, oh, unfortunately you didn't quite make the cut.
+
+247
+00:17:38,720 --> 00:17:44,440
+But if you take our 200 euro course and you do really well, it might just be a job for
+
+248
+00:17:44,440 --> 00:17:45,440
+you.
+
+249
+00:17:45,440 --> 00:17:52,600
+I've seen this on some Slack channels and I've said to people, be careful because this
+
+250
+00:17:52,600 --> 00:17:56,440
+is what happened to a friend of mine and this is how it played out.
+
+251
+00:17:56,440 --> 00:18:03,240
+So I don't want to demotivate you or anything, but be careful, be weary, because not all
+
+252
+00:18:03,240 --> 00:18:06,440
+of this is, you know, it's an old adage.
+
+253
+00:18:06,440 --> 00:18:14,360
+If it sounds too good to be true, it probably is not true, which is unfortunate, but I think
+
+254
+00:18:14,360 --> 00:18:17,040
+people need to be careful.
+
+255
+00:18:17,040 --> 00:18:23,560
+And I think one of the traps people also fall in with tech is you think that it's riches
+
+256
+00:18:23,560 --> 00:18:25,440
+immediately.
+
+257
+00:18:25,440 --> 00:18:36,120
+And I think while there is the opportunity to make good money, I think the work is hard.
+
+258
+00:18:36,120 --> 00:18:43,040
+And if you don't enjoy it, then the money's going to dry up the feeling it gives you in
+
+259
+00:18:43,040 --> 00:18:46,880
+the beginning where it's like you've got some, you know, expendable income and you can buy
+
+260
+00:18:46,880 --> 00:18:51,480
+some nice stuff, but yeah, the work is hard.
+
+261
+00:18:51,480 --> 00:18:54,280
+If you don't enjoy it, it's going to become like any other job.
+
+262
+00:18:54,280 --> 00:18:59,380
+You're going to end up hating it because I think people need to get into coding because
+
+263
+00:18:59,380 --> 00:19:08,960
+you like solving problems and it just happens that you use code to solve those problems.
+
+264
+00:19:08,960 --> 00:19:14,760
+One of the things you mentioned while you were speaking is being tired from all the
+
+265
+00:19:14,760 --> 00:19:18,440
+interviews and the whole process around that.
+
+266
+00:19:18,440 --> 00:19:23,000
+And I know that that's a part of the industry that definitely needs addressing.
+
+267
+00:19:23,000 --> 00:19:28,080
+I think it's not great, to put it mildly.
+
+268
+00:19:28,080 --> 00:19:34,720
+It's a combination of HR challenges and then just the interview process itself being stuck
+
+269
+00:19:34,720 --> 00:19:39,240
+in the 90s or early 2000s or something and it just hasn't evolved.
+
+270
+00:19:39,240 --> 00:19:44,320
+The industry has changed so much and somehow that has stuck with it.
+
+271
+00:19:44,320 --> 00:19:46,600
+What do you see as problems?
+
+272
+00:19:46,600 --> 00:19:50,160
+What makes you nervous or scared about the whole interview process and what would you
+
+273
+00:19:50,160 --> 00:19:52,400
+like to see changed?
+
+274
+00:19:52,400 --> 00:19:59,400
+I think when it just comes to the interview process in general, no matter the industry,
+
+275
+00:19:59,400 --> 00:20:08,080
+I guess the process should be like you should really pay attention to the kind of company
+
+276
+00:20:08,080 --> 00:20:10,880
+that you're interested in.
+
+277
+00:20:10,880 --> 00:20:16,720
+I feel like a lot of people nowadays, they kind of mass applied a bunch of different
+
+278
+00:20:16,720 --> 00:20:22,520
+companies and fill out all these forms and expect something.
+
+279
+00:20:22,520 --> 00:20:28,840
+I don't know, I just feel like that's not the best approach.
+
+280
+00:20:28,840 --> 00:20:35,520
+In my case, I've heard of people that get lucky in that kind of process, but I think
+
+281
+00:20:35,520 --> 00:20:43,920
+it's really important to be very careful with, think about what industry do you want to get
+
+282
+00:20:43,920 --> 00:20:51,160
+into and really pay attention to the people in that industry too and the products in that
+
+283
+00:20:51,160 --> 00:20:52,160
+industry.
+
+284
+00:20:52,160 --> 00:20:58,760
+I feel like that also being easier on the applicant themselves, they're actually able
+
+285
+00:20:58,760 --> 00:21:05,640
+to focus on one kind of industry, one kind of generic idea of what should be on the resume
+
+286
+00:21:05,640 --> 00:21:09,640
+and stuff.
+
+287
+00:21:09,640 --> 00:21:16,000
+I think with just job interviews, when it comes to the technical things, I think there
+
+288
+00:21:16,000 --> 00:21:24,040
+should be more resources out there for learning how to approach more technical side of code.
+
+289
+00:21:24,040 --> 00:21:25,040
+I don't know.
+
+290
+00:21:25,040 --> 00:21:32,440
+I know for myself, I needed to work really hard on remembering the technical words.
+
+291
+00:21:32,440 --> 00:21:38,880
+I don't know, I found that blogging actually really helps, actually writing out my thinking
+
+292
+00:21:38,880 --> 00:21:46,840
+process and I really enjoy thinking of ways to simplify complex concepts and I always
+
+293
+00:21:46,840 --> 00:21:53,400
+have friends read it over to see if it makes sense or something and it's cool just being
+
+294
+00:21:53,400 --> 00:22:01,320
+able to practice that because I think that's also a need, more resources trying to understand
+
+295
+00:22:01,320 --> 00:22:05,960
+how to approach the technical interview.
+
+296
+00:22:05,960 --> 00:22:13,520
+I feel like another thing that should change, this is kind of hard because I know recruiters
+
+297
+00:22:13,520 --> 00:22:20,320
+are just so busy but I think it's just so important to not leave applicants on read
+
+298
+00:22:20,320 --> 00:22:26,760
+or they just give them a generic email that doesn't give any kind of feedback.
+
+299
+00:22:26,760 --> 00:22:34,400
+Obviously it's such a hard process to solve but I don't know, I just feel like maybe there
+
+300
+00:22:34,400 --> 00:22:40,000
+should be a templated email of some sort that addresses the kind of projects that they're
+
+301
+00:22:40,000 --> 00:22:44,280
+expecting or something like that.
+
+302
+00:22:44,280 --> 00:22:53,120
+I've had a few friends that were applying for a few internships and dev jobs and stuff
+
+303
+00:22:53,120 --> 00:23:00,360
+and they got the same kind of email, literally copy and pasted and I don't know, that made
+
+304
+00:23:00,360 --> 00:23:07,560
+me sad because I'm just thinking like well that doesn't help and so it's hard, it's a
+
+305
+00:23:07,560 --> 00:23:14,920
+very complicated process, I don't really know what could be a good solution for something
+
+306
+00:23:14,920 --> 00:23:22,560
+like that but I just think it's just so sad when applicants just get left on read or they're
+
+307
+00:23:22,560 --> 00:23:27,400
+just given that templated kind of response that has no feedback whatsoever.
+
+308
+00:23:27,400 --> 00:23:33,640
+Yeah for sure, no I know, yeah definitely the fact, I feel like at least get back to
+
+309
+00:23:33,640 --> 00:23:39,160
+people and keep them in the loop that even if it's just this thing to say that we're
+
+310
+00:23:39,160 --> 00:23:45,160
+still talking to applicants, we haven't made a decision yet, we'll get back to you as soon
+
+311
+00:23:45,160 --> 00:23:49,160
+as the job's been filled and I think the important thing is also getting back to people when
+
+312
+00:23:49,160 --> 00:23:53,760
+the job is filled even if they didn't get the job to just let them know.
+
+313
+00:23:53,760 --> 00:23:57,440
+The job has been filled, unfortunately you were not the candidate we chose but thanks
+
+314
+00:23:57,440 --> 00:24:03,000
+so much, you know just something being a decent human being I think is what it boils down
+
+315
+00:24:03,000 --> 00:24:04,000
+to.
+
+316
+00:24:04,000 --> 00:24:05,000
+Yeah no exactly.
+
+317
+00:24:05,000 --> 00:24:14,880
+You know a lot of times things become so processed, not just like food but in real life that the
+
+318
+00:24:14,880 --> 00:24:22,460
+humanity is processed right out of it and the thing is it's not always a reflection
+
+319
+00:24:22,460 --> 00:24:28,360
+of the company unfortunately, like I've worked at companies where the interview process was
+
+320
+00:24:28,360 --> 00:24:33,520
+pretty terrible but the engineering group and the people in engineering are wonderful
+
+321
+00:24:33,520 --> 00:24:42,220
+people it's just that there is a very very big gap between HR and the people actually
+
+322
+00:24:42,220 --> 00:24:49,240
+doing the work and I don't know how you could solve that that piece because oftentimes you
+
+323
+00:24:49,240 --> 00:24:55,040
+might get a misperception of the company because of the interactions you have with the recruiting
+
+324
+00:24:55,040 --> 00:24:59,680
+side of it because oftentimes the recruiting side isn't even part of the company, it's
+
+325
+00:24:59,680 --> 00:25:05,320
+outsourced and like for them it's about how many people can be placed because we get a
+
+326
+00:25:05,320 --> 00:25:10,200
+cut of your pay you know for every person that they place so you know there's that all
+
+327
+00:25:10,200 --> 00:25:20,520
+thing to it too, yeah it's a hard problem to solve, related to that I mean some people
+
+328
+00:25:20,520 --> 00:25:24,000
+might say that you know what I'm just gonna forget the whole interview process and start
+
+329
+00:25:24,000 --> 00:25:31,400
+my own business and I think that is a question I have for people sometimes is would you rather
+
+330
+00:25:31,400 --> 00:25:37,400
+be worked for someone or start your own business but I think the bigger question I'm actually
+
+331
+00:25:37,400 --> 00:25:43,920
+trying to get at when I when I ask that is what does success look like to you like you've
+
+332
+00:25:43,920 --> 00:25:50,400
+made this transition right to a new a new you change your career you're in a new industry
+
+333
+00:25:50,400 --> 00:25:55,280
+when you look at your future what what does success look like?
+
+334
+00:25:55,280 --> 00:25:59,800
+Well just to address the the first part when it comes to either wanting to start a business
+
+335
+00:25:59,800 --> 00:26:07,640
+or join existing I've definitely thought about starting a business but I don't know it it
+
+336
+00:26:07,640 --> 00:26:14,280
+just sounds so stressful like I think you would definitely need to have like the right
+
+337
+00:26:14,280 --> 00:26:20,400
+people like on your side and and just I don't know just thinking about like funds and stuff
+
+338
+00:26:20,400 --> 00:26:25,640
+like that I'm just like yeah I don't want to stress about that kind of stuff right now
+
+339
+00:26:25,640 --> 00:26:34,240
+so I don't know I'm really just drawn to businesses or just companies that have a product that
+
+340
+00:26:34,240 --> 00:26:40,920
+I trust and believe in and moving beyond that even just the the company culture is like
+
+341
+00:26:40,920 --> 00:26:48,120
+really important to me like I know like Dreambox like like we're super passionate about diversity
+
+342
+00:26:48,120 --> 00:26:53,840
+and just making sure that people feel heard and like represented I just love everything
+
+343
+00:26:53,840 --> 00:27:00,680
+that our company's doing to really make sure that that's that's seen you know and so that's
+
+344
+00:27:00,680 --> 00:27:05,280
+something that I love about like any kind of company like they're they're not afraid
+
+345
+00:27:05,280 --> 00:27:13,080
+to to show off their their diverse and inclusive culture you know and it's it's just so so
+
+346
+00:27:13,080 --> 00:27:19,520
+great and they're not afraid to even answer the the hard stuff that's like going on in
+
+347
+00:27:19,520 --> 00:27:28,800
+the world like I know our company like once a month like we take like an hour or so a
+
+348
+00:27:28,800 --> 00:27:35,120
+month to just talk about hard stuff that happens in the world like we talked about like Black
+
+349
+00:27:35,120 --> 00:27:39,800
+Lives Matter like things are happening like in Ukraine like it's just you know there's
+
+350
+00:27:39,800 --> 00:27:44,400
+just so much that's like happening and it's so important for companies to be involved
+
+351
+00:27:44,400 --> 00:27:51,200
+in that and so that's yeah so definitely more than just the company's product like definitely
+
+352
+00:27:51,200 --> 00:27:58,480
+their their culture and their values and I just yeah and I just love the structure of
+
+353
+00:27:58,480 --> 00:28:05,520
+like an organization like I just find a lot of comfort in that just for myself and yeah
+
+354
+00:28:05,520 --> 00:28:13,000
+I don't know when it comes to success I'd say that success is celebrating even just
+
+355
+00:28:13,000 --> 00:28:20,120
+the littlest victories that may seem lame or small you know and it's really all about
+
+356
+00:28:20,120 --> 00:28:28,440
+perspective like I I remember when I was just first starting out to learn how to code like
+
+357
+00:28:28,440 --> 00:28:32,560
+imposter syndrome would just like hit me all the time and I needed to figure out a way
+
+358
+00:28:32,560 --> 00:28:39,840
+to get out of that like mental state to like keep going you know and I actually kept a
+
+359
+00:28:39,840 --> 00:28:46,400
+well I still keep a journal that just documents like it's not an in-depth kind of a diary
+
+360
+00:28:46,400 --> 00:28:52,840
+entry or anything but it's just I basically write out little things that I've accomplished
+
+361
+00:28:52,840 --> 00:29:01,480
+throughout my life or like my career or my day even and that that helps like every little
+
+362
+00:29:01,480 --> 00:29:06,520
+step that you take like that's that's such a big deal and even if it feels like you're
+
+363
+00:29:06,520 --> 00:29:10,960
+going back sometimes but like look at all the stuff that you've like done already you
+
+364
+00:29:10,960 --> 00:29:17,000
+know it's really all about perspectives so yeah I think just really keeping in mind the
+
+365
+00:29:17,000 --> 00:29:22,600
+little things that that really helps kind of keep keep me going yeah no for sure for
+
+366
+00:29:22,600 --> 00:29:29,520
+sure I I kind of started doing that as well some time ago because I I felt that oftentimes
+
+367
+00:29:29,520 --> 00:29:36,120
+a week or so we'd go by and I would ask myself what did I do in the last week and I was busy
+
+368
+00:29:36,120 --> 00:29:41,840
+I know I hardly had time for anything but what did I do and so I started jotting them
+
+369
+00:29:41,840 --> 00:29:46,000
+down and you know using like a Kanban type thing where it's like in progress and then
+
+370
+00:29:46,000 --> 00:29:50,240
+to done and like at the end of the week you go look at your done column and you're like
+
+371
+00:29:50,240 --> 00:29:57,640
+oh that's all the things I did and then then it feels like ah cool yeah I did that thing
+
+372
+00:29:57,640 --> 00:30:01,560
+and I did that thing oh that's really neat I think it's cool to go back and celebrate
+
+373
+00:30:01,560 --> 00:30:07,240
+your own accomplishment even if they're small even if it's like I sent an email to this
+
+374
+00:30:07,240 --> 00:30:11,120
+person that I never thought I would send an email to you know like me was starting this
+
+375
+00:30:11,120 --> 00:30:16,520
+podcast like I'm constantly reaching out to people that I'm like I hope it's okay and
+
+376
+00:30:16,520 --> 00:30:20,400
+you have to like imposter syndrome exactly you know you like you have to get past that
+
+377
+00:30:20,400 --> 00:30:24,840
+and just send the thing or contact them over Twitter or something and hope they're not
+
+378
+00:30:24,840 --> 00:30:33,520
+like oh how dare you slide into my DMs so yeah so it's pretty cool so I think one needs
+
+379
+00:30:33,520 --> 00:30:37,880
+to do that and I think it's useful like I know another person on the Mycelium Network
+
+380
+00:30:37,880 --> 00:30:44,080
+Discord he actually keeps like a it's amazing the thing he keeps I wish I'll ask him to
+
+381
+00:30:44,080 --> 00:30:49,600
+share it again but it's like a diary of like his whole learning journey it's like this
+
+382
+00:30:49,600 --> 00:30:55,440
+whole website and you can read like everything he's learning and the struggles he's finding
+
+383
+00:30:55,440 --> 00:31:01,040
+and all this kind of stuff it's so interesting and I think it's nice for others to read that
+
+384
+00:31:01,040 --> 00:31:07,320
+and to see like wow look at this two weeks was really rough like personal events happen
+
+385
+00:31:07,320 --> 00:31:13,200
+that that made you like not feel like learning and or you just hit a wall because sometimes
+
+386
+00:31:13,200 --> 00:31:16,700
+that happens like you just hit a wall and it's like I don't think I'll ever be able
+
+387
+00:31:16,700 --> 00:31:21,640
+to figure this out and then one morning you wake up and whoops you just it just clicks
+
+388
+00:31:21,640 --> 00:31:29,600
+like closure and JavaScript it's one of those topics it's like yeah what closure what variable
+
+389
+00:31:29,600 --> 00:31:37,160
+parent child what and then one day it's like oh that's what closures are that's cool that's
+
+390
+00:31:37,160 --> 00:31:42,600
+super useful but there's a while where it's just like you're saying words but I don't
+
+391
+00:31:42,600 --> 00:31:50,280
+know if they mean anything I think it's really interesting I think it's good to to keep up
+
+392
+00:31:50,280 --> 00:31:55,760
+keep perspective about all these things and and talking about that I saw another tweet
+
+393
+00:31:55,760 --> 00:32:01,480
+of yours where you said you're working on a mini math word problem game how's that curry
+
+394
+00:32:01,480 --> 00:32:08,440
+yeah um it's it's going it's it's a lot of a lot of work I feel like my mind is just
+
+395
+00:32:08,440 --> 00:32:15,560
+so like I'm just I have such a creative mind when it comes to like design like I'm so focused
+
+396
+00:32:15,560 --> 00:32:20,640
+on CSS and like the styling and then like an hour passes by I'm like oh wait crap I
+
+397
+00:32:20,640 --> 00:32:26,040
+need to work on the JavaScript part of it too um and so it's yeah it's going really
+
+398
+00:32:26,040 --> 00:32:31,240
+well like I'm really enjoying um all the different kinds of stuff that I'm learning in in JavaScript
+
+399
+00:32:31,240 --> 00:32:39,520
+but um I really hope to kind of develop this math game for for kids to just kind of practice
+
+400
+00:32:39,520 --> 00:32:44,000
+their like math and reading comprehension because I think that's well at least for me
+
+401
+00:32:44,000 --> 00:32:49,360
+I know like growing up when it came to like math word problems like oh my goodness well
+
+402
+00:32:49,360 --> 00:32:56,200
+first off math was just not my strongest subject but combining both math and reading like that
+
+403
+00:32:56,200 --> 00:33:01,440
+was that was hard because like you really had to understand the text and understand like
+
+404
+00:33:01,440 --> 00:33:08,280
+what is the question asking for right and so I hope that that could be a it's definitely
+
+405
+00:33:08,280 --> 00:33:14,240
+a long term kind of a project but I hope to develop it and eventually make it live and
+
+406
+00:33:14,240 --> 00:33:19,920
+launch it and have it available for anybody who just uh has like kids or is a kid and
+
+407
+00:33:19,920 --> 00:33:26,520
+they want to uh just practice that so yeah I mean I guess it kind of goes in line with
+
+408
+00:33:26,520 --> 00:33:31,760
+like my passion for ed tech so it kind of works out that way too yeah that's perfect
+
+409
+00:33:31,760 --> 00:33:36,800
+yeah yeah that's super interesting yeah no yeah please keep going and keep people up
+
+410
+00:33:36,800 --> 00:33:46,220
+to date on your twitter as it evolves um thank you so yeah um I have a lot of side projects
+
+411
+00:33:46,220 --> 00:33:50,080
+and like some of them are just like a lot of people think you're going to start a side
+
+412
+00:33:50,080 --> 00:33:53,400
+project and especially if it's an open source thing and you're going to do it on get up
+
+413
+00:33:53,400 --> 00:33:56,800
+and the next day you're going to wake up and there's 100 stars and people uploading you
+
+414
+00:33:56,800 --> 00:34:00,480
+on twitter and it's just not true like sometimes you're going to build a thing and like it's
+
+415
+00:34:00,480 --> 00:34:04,960
+crickets but it's fine because you're learning and some and as long as you're building something
+
+416
+00:34:04,960 --> 00:34:11,280
+that's useful for you it doesn't really matter like if if after 10 years somebody stumbles
+
+417
+00:34:11,280 --> 00:34:15,760
+upon it and it's like oh my goodness look at this thing and like one other person finds
+
+418
+00:34:15,760 --> 00:34:20,640
+it useful that's already worth it really um it doesn't always have to be a thing that
+
+419
+00:34:20,640 --> 00:34:25,720
+like you know turns into the next twitter or the next whatever you know insert successful
+
+420
+00:34:25,720 --> 00:34:31,400
+company here it can sometimes just be something that's fun to do and scratches an itch and
+
+421
+00:34:31,400 --> 00:34:38,640
+helps you learn something new yeah um so if you could recommend one resource be it a book
+
+422
+00:34:38,640 --> 00:34:45,280
+uh online course youtube channel anything like that to early stage learners what would
+
+423
+00:34:45,280 --> 00:34:53,800
+that resource um definitely 100 devs the the boot camp and you don't have to join like
+
+424
+00:34:53,800 --> 00:34:58,200
+if you if you feel like you're you're good just kind of going on your own like you don't
+
+425
+00:34:58,200 --> 00:35:06,240
+have to join the boot camp but even just listening and watching to uh or watching um the 100
+
+426
+00:35:06,240 --> 00:35:12,520
+devs like youtube channel like leon is just such a great instructor and he knows how to
+
+427
+00:35:12,520 --> 00:35:21,220
+break things down into little pieces and just simplify things and um like i remember when
+
+428
+00:35:21,220 --> 00:35:29,480
+i came across like his his very first like 100 devs video um the the main thing that
+
+429
+00:35:29,480 --> 00:35:34,560
+i got out of it was you have to understand how you learn like what is the best way for
+
+430
+00:35:34,560 --> 00:35:40,800
+you to understand like these kinds of concepts is it by coding is it by reviewing on like
+
+431
+00:35:40,800 --> 00:35:46,960
+flashcards or like anki cards like you really have to understand how do you learn best and
+
+432
+00:35:46,960 --> 00:35:53,560
+then you can move forward from that you know and so he really helped um i'm not exactly
+
+433
+00:35:53,560 --> 00:36:00,040
+like following the boot camp like um in in order just because there's like other things
+
+434
+00:36:00,040 --> 00:36:07,640
+that i also like want to learn but um he i think really like that was just such a good
+
+435
+00:36:07,640 --> 00:36:12,280
+foundation was oh yeah i need to like step back and figure out yeah how how do i learn
+
+436
+00:36:12,280 --> 00:36:19,480
+like how do i like take information best and i know like for me like this doesn't work
+
+437
+00:36:19,480 --> 00:36:24,560
+for a lot of people but i love taking notes but the kind of notes that i make are like
+
+438
+00:36:24,560 --> 00:36:31,320
+flow charts like that is the best way for me to understand like how things like work
+
+439
+00:36:31,320 --> 00:36:37,620
+like i always just need a visual and then i'll be able to like pick it up and sometimes flashcards
+
+440
+00:36:37,620 --> 00:36:43,720
+works for me i don't know it kind of depends on like what it is but definitely making projects
+
+441
+00:36:43,720 --> 00:36:52,880
+and like um making flow charts really helps solidify uh complex uh concepts so yeah yeah
+
+442
+00:36:52,880 --> 00:36:56,840
+i think if you're a visual what they term a visual learner i think stuff like flow charts
+
+443
+00:36:56,840 --> 00:37:04,480
+really works well um for me as well i i i can't learn something for the sake of learning it
+
+444
+00:37:04,480 --> 00:37:12,960
+i have to have a purpose for it like i'm gonna create this like project or i have this client
+
+445
+00:37:12,960 --> 00:37:18,760
+that i know it's coming up and i'm gonna need to know x to do the work then i jump in and
+
+446
+00:37:18,760 --> 00:37:23,480
+i learn because it's like okay cool i can learn and i can apply learn and apply and
+
+447
+00:37:23,480 --> 00:37:28,520
+i think the other side of that is then this learning part and that oh i don't i can't
+
+448
+00:37:28,520 --> 00:37:34,060
+and then you figure this thing out taking that and writing about it i think the combination
+
+449
+00:37:34,060 --> 00:37:40,080
+of those three things for me personally it's just that's how how it gets stuck up here
+
+450
+00:37:40,080 --> 00:37:46,880
+um i i need to do it very practically like i can't just learn algorithms because maybe
+
+451
+00:37:46,880 --> 00:37:52,040
+in an interview i'd need to answer that it's like uh that that's draining for me to try
+
+452
+00:37:52,040 --> 00:37:56,980
+and do that kind of stuff like i don't know i'm not working on a search engine or anything
+
+453
+00:37:56,980 --> 00:38:03,020
+i i really have not i'm not doing machine learning stuff i don't really have a super
+
+454
+00:38:03,020 --> 00:38:08,080
+need for algorithms and i'm just gonna learn it because maybe i'll need it in an interview
+
+455
+00:38:08,080 --> 00:38:13,400
+yeah so for me that that doesn't quite work yeah that's great yeah i've i leon is amazing
+
+456
+00:38:13,400 --> 00:38:18,760
+i'm i'm gonna i'm trying to get him on the show um to talk with him about the other side
+
+457
+00:38:18,760 --> 00:38:24,880
+of this journey like being the the mentor the teacher who has to like help people get into
+
+458
+00:38:24,880 --> 00:38:29,800
+the industry make it a welcoming place and how do you teach and how do we fix some of
+
+459
+00:38:29,800 --> 00:38:38,400
+the the things that you've raised like so hopefully i can get him okay so we're close
+
+460
+00:38:38,400 --> 00:38:45,520
+to starting to wrap this up so um a new question i have because i think it might be cool is
+
+461
+00:38:45,520 --> 00:38:49,560
+if you could nominate someone that i should speak to and get on the show who would that
+
+462
+00:38:49,560 --> 00:38:57,440
+be um i feel like definitely my uh dev mentor his name is alan villa uh you can find me
+
+463
+00:38:57,440 --> 00:39:07,920
+on on twitter it's at r alan villa a l l a n v i l l a and um he he's honestly just such
+
+464
+00:39:07,920 --> 00:39:15,120
+a great resource like he's been guiding me in my professional career and um he he like
+
+465
+00:39:15,120 --> 00:39:19,440
+we actually have a very similar background like he also has a background in in marketing
+
+466
+00:39:19,440 --> 00:39:25,240
+and um i remember like the first uh coffee chat that i had with him like he really encouraged
+
+467
+00:39:25,240 --> 00:39:32,440
+me to uh use my marketing skills to like get into tech and so he was like you already know
+
+468
+00:39:32,440 --> 00:39:39,600
+html css you can totally use that within emails you can be like an email developer like obviously
+
+469
+00:39:39,600 --> 00:39:45,160
+it's not like an actual like dev kind of job but it's definitely a start just knowing a
+
+470
+00:39:45,160 --> 00:39:50,400
+little bit of html and css like it can definitely give you a step into tech and i feel like
+
+471
+00:39:50,400 --> 00:39:57,200
+not a lot of people uh realize that so definitely i would say him for sure like he has such
+
+472
+00:39:57,200 --> 00:40:04,560
+a great life story and um he's he's also just like like a really friendly guy super outgoing
+
+473
+00:40:04,560 --> 00:40:09,960
+guy who just uh loves life and loves coding like he's just so good yeah he's great that's
+
+474
+00:40:09,960 --> 00:40:15,520
+awesome i'll definitely reach out and then before we wrap up um please tell us about
+
+475
+00:40:15,520 --> 00:40:21,160
+any projects you're working on anything you'd like people to know about uh your own website
+
+476
+00:40:21,160 --> 00:40:25,200
+anything like that of course we'll put all the links in in the transcript that goes with
+
+477
+00:40:25,200 --> 00:40:29,640
+the show but just for you to mention anything you're excited about that you're working on
+
+478
+00:40:29,640 --> 00:40:36,560
+they want people to know about yeah um i mean i guess i'm currently working on uh two big
+
+479
+00:40:36,560 --> 00:40:43,960
+projects um there's a there's one that's called a study break reflection app and uh basically
+
+480
+00:40:43,960 --> 00:40:50,880
+it's the goal of the app is to kind of uh keep a student's uh stress levels in check
+
+481
+00:40:50,880 --> 00:40:55,360
+and to encourage the student to ask for help like when they get really really stressed
+
+482
+00:40:55,360 --> 00:41:00,580
+because um i know at least like for me and like my experience like sometimes like stress
+
+483
+00:41:00,580 --> 00:41:06,360
+actually prevents me from like wanting help or from asking for help so i hope like the
+
+484
+00:41:06,360 --> 00:41:12,080
+way i don't know i have a lot of ideas for how this app is gonna uh play out but yeah
+
+485
+00:41:12,080 --> 00:41:17,920
+that's basically the the gist of it and then um my other one like you said like a like
+
+486
+00:41:17,920 --> 00:41:23,680
+a math game kind of a thing um yeah that's definitely something that i'm really excited
+
+487
+00:41:23,680 --> 00:41:29,520
+on on working on um i don't know i'm not really good with titles for my apps definitely still
+
+488
+00:41:29,520 --> 00:41:36,280
+in the works but i'm excited about those projects um but yeah that's basically what i'm kind
+
+489
+00:41:36,280 --> 00:41:41,920
+of working on right now and um you can i'm izzy and you can find me like anywhere on
+
+490
+00:41:41,920 --> 00:41:49,040
+social media i pretty much have uh my brand my personal brand name izzy visuals um everywhere
+
+491
+00:41:49,040 --> 00:41:56,120
+so yeah you'll be able to find me great stuff thanks so much again for joining it was awesome
+
+492
+00:41:56,120 --> 00:42:01,720
+to talk to you it was really enjoyed i really enjoyed a lot learned a lot and um yeah wishing
+
+493
+00:42:01,720 --> 00:42:05,800
+you all the best with the future of your career and um like to get you back on the show in
+
+494
+00:42:05,800 --> 00:42:10,480
+a year or so and see where you're at that would be super interesting yeah that'd be
+
+495
+00:42:10,480 --> 00:42:17,920
+so cool well thank you so much really appreciate it yeah it's my pleasure thank you for listening
+
+496
+00:42:17,920 --> 00:42:23,520
+to this episode of the my senior network podcast if you're not already please subscribe store
+
+497
+00:42:23,520 --> 00:42:29,120
+and leave a review for us in your podcatcher of choice this helps others find us and helps
+
+498
+00:42:29,120 --> 00:42:35,200
+us make a better podcast for you on this course you can also find and follow us on twitter
+
+499
+00:42:35,200 --> 00:42:41,000
+at meet word mysyndium and join the community on discord all the links are available in
+
+500
+00:42:41,000 --> 00:43:05,640
+the show notes
+

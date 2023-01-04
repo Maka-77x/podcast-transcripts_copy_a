@@ -1,0 +1,724 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Tara, welcome to the Mycelium Network Podcast.
+Thank you so much for joining me.
+Thank you for inviting me.
+I'm excited to be here.
+Yeah, it's a pleasure.
+So I know you from the days at Mozilla when you used to work there, and I'm still there
+to some extent, but you've moved on and started your own company.
+And I know the work, I followed the work that you did at Mozilla, and I've been following
+the work you've been doing with your own company.
+And I really appreciate and respect your input and the way you look at a lot of things.
+And I think this podcast is going to be a little different than some of the others I've
+done, but it's intentionally so, because I think these are really important topics to
+talk about.
+And for early-stage people, I think they need to understand that there's more to the tech
+industry and more to a job than just writing code.
+How we work with each other and how we interact is as critical as the code we write.
+And oftentimes, an unwelcoming environment is going to lead to not great work.
+And so your code might actually end up suffering because the environment's not great.
+And I think I've also spoken to some women that has had it a little tough, especially
+the one, Pamela, who came from Mexico, where being the only woman in the room was definitely
+hard and definitely tough, and it did affect how comfortable she felt.
+And you don't voice your opinion in those situations, and that is a loss for the company
+because we want diverse voices, because it makes our products better, it makes our everything
+better.
+And that's why I wanted to have a chat about this.
+So but I don't want to ramble on.
+I want to give you the floor, and I want you to tell us about who you are.
+And please take as much time as you want, go as far back as you want, and be as detailed
+as you want.
+Thanks.
+So my name is Tara Robertson.
+I'm in Vancouver, Canada on the unceded traditional territories of the Musqueam, Squamish, and
+Tsleil-Waututh First Nations.
+Making a land acknowledgement like this is fairly common in Canada, but I think if we're
+going to talk about power and talk about diversity, equity, and inclusion, like the land that
+I'm on and the power dynamics just that exist in a colonial setting, they kind of inform
+everything.
+I also just think about the land that I'm on, and during the pandemic, the mountains,
+the forest, the ocean, like, I've been able to really resource myself and my brain and
+my heart and my spirit from the land.
+So the land takes care of me, like literally, and we've got a responsibility to figure out
+how we take care of the land as well.
+That was an attention I expected to go on but yeah, like, and if this is like kind of
+the magic of the internet because where it's 11 a.m. where I'm at and it's nighttime where
+you are, and we met at a certain time at Mozilla, and before we hopped on, we're just talking
+about the fondness that we have for the people and the culture and the work there.
+So I kind of love, like at Mozilla, we were finding to keep the internet open and accessible
+for all, and right now we're connected through the internet, on the internet, to have this
+conversation about culture and how we want to work together.
+Yeah, yeah, it's amazing.
+So right now, as a consultant, I do two different things.
+I do data-driven diversity, equity, and inclusion strategy work with companies and organizations
+who want to have, like, an overall strategy so that they can really make this work part
+of everything that they do from, like, the employee, the employee experience through
+to the marketing team, through the products and services that a company is offering, as
+well as stuff like procurement and where they're doing banking.
+Like, for me, diversity, equity, and inclusion is a lens that we need to view everything
+through, not just, like, how we write a job description and who we hire.
+I love what you touched on about, like, people who think it's just about writing code, like,
+but work happens, like, in a context, and just thinking about the problems that we have
+right now, they're huge in the world, and the problems that we're trying to solve in
+tech are really complex, wicked problems.
+So we also need an environment where there's psychological safety, and people feel like
+they can speak up either with, like, a wildly creative idea that might sound, like, just
+way out there, and also speak up when they see something that's wrong.
+And both of those things take a lot of courage.
+They do.
+So, like, there's the individual courage to speak up.
+But there's also how the kind of culture that we build day after day together, where we
+either build a culture where we can take risks and we're more likely to take those risks
+together or not, where we keep our great ideas to ourselves, or when we see something that's
+getting shipped, we're like, oh, is that going to break something?
+I don't know.
+I'm just not going to say anything.
+Yeah.
+We all lose out.
+Yeah, no, for sure.
+For sure.
+I mean, and this is something that a previous guest has touched on.
+She talked about harassment in the workspace.
+And in Mexico, the laws are a little fast and loose when it comes to that.
+And basically, she was talking to somebody, and they said, well, one of your options is
+to go to the CEO and demand change.
+And I'm like, wow, that is super scary.
+Like, if you're somebody, this individual, that already feels out of place, and now you
+feel uncomfortable and harassed, but you're depending on this job to feed your family,
+and your only recourse is to go to the CEO of the company and say, I demand that you
+do something about this.
+What is the chances that you will do that?
+Such a scary thing and such a burden to put on somebody's shoulders, it's just not right.
+No.
+And then there's also other costs, like the people who witness that kind of behavior,
+that harassment or discrimination, they're taking that data in about this is what happens
+here and this is what underrepresented people have to deal with.
+So when things happen again and nothing happens, there is an impact to bystanders as well.
+There's an impact to everybody, not just the person who is discriminated against.
+So yeah, it's funny, I had to drop my dog off at the vet the other day, and as we were
+leaving, there was a woman who'd been hit on her bicycle on the road, and she was in
+the curb lane, almost unconscious, she had like, it was really intense.
+And people hadn't stopped.
+So I've been thinking a lot this week about what happens when bystanders overt their eyes,
+when they see something that's clearly not okay, and they go by.
+And then I don't think any of the people who drove by were bad people.
+And I don't think that I'm a good person.
+There wasn't a decision in my mind that was like, get out of the car and run over, like
+it just happened.
+But as soon as I kind of, I don't know, pop that bubble of bystanderness, other people
+stopped, a trucker stopped, and he ran into the vet to grab gloves, a woman parked her
+car behind to keep this woman safe.
+I called the ambulance while someone who had more first aid experience stepped in, like,
+it just takes one person to kind of name something and follow up with some action, and other
+things start to happen.
+So it's kind of an extreme example of a cyclist on the road, but something I've been thinking
+a lot about this week.
+Yeah, no, no, no, I think that's a very good example.
+And I've seen that a lot.
+And I think it's because I think there's so much judgment going on that nobody wants
+to be the first one, because you're always afraid of what if I do the wrong thing?
+Does this person want my help?
+There's so much confusion these days about what's okay and what's not okay.
+I think that makes a lot of us stand back and say, I think I'm rather not going to
+get involved until you see other people.
+And then I think our natural humanity kicks in, where we then want to all band together
+and see if we can change the situation.
+I saw that you, in an interview you had on open spaces, open scapes, sorry, I keep reading
+it as open spaces.
+In this, you mentioned two books, and I love these titles, I'm definitely going to read
+these books, but I want you to dig it into them a little bit.
+So it's Braiding Sweetgrass and All We Can Save.
+What about those two books have been so influential?
+One of my first clients when I set up my consulting business was open scapes.
+And they're a data science group that they teach data science skills to researchers.
+So they're working with fisheries researchers, Julie Lownes, or Dr. Julie Lownes, Julie Squid
+on Twitter, she's got a PhD in squid, was seeing how do we teach data science skills
+to academic researchers in a cohort model.
+And they hired me to help think about DEI early on.
+And some of the early things that I would do with a company around looking at HR data,
+that wasn't it, because there was just a couple of them, but thinking about how to weave or
+look through what they were doing through the lens of DEI, had us going down some interesting
+conversations.
+Like she's a marine biologist, my background is in the library and information studies,
+and I'm a DEI leader now.
+So it's like kind of a co-creation and a co-design, putting our passions, our values and like putting
+our two heads together to be like, what is the perspective on DEI here?
+And one of the conversations we had early on was like, who can afford to do open science
+and to learn openly?
+And most of the people she was working with were white researchers with PhDs.
+So I was thinking like, who is the most on the margins here?
+Where are the black researchers and where are the indigenous researchers?
+And like not only how do we get those people to the table and how do we work with them,
+but also like what can we learn from them?
+And I knew I didn't have the answers on what are some indigenous perspectives on data science
+and working together collaboratively in the sciences.
+So we kind of started doing this.
+She recommended these two books, All We Can Save, which is different perspectives on climate
+change.
+It's such an inspiring book and it gives me so much hope.
+There's this great Venn diagram from Dr. Iana Elizabeth Johnson, she did a TED talk recently.
+Because I think like with climate change and DEI, there's a similar feeling of overwhelm
+and like, what do I do?
+And it's so overwhelming.
+So people are stuck in inaction and just like overwhelm.
+So for me, her Venn diagram about what you should do is the overlap about what brings
+you joy?
+What's the work that needs doing and what skills do you have?
+I think that's a really useful model, both to think about what our individual and collective
+actions can be around climate change, but also how we show up around DEI and organizations.
+Like what brings you joy?
+Like don't sign up to do something or commit to do something that is absolute drudgery
+or an absolute chore.
+Like you're going to hate it and you're not going to do it.
+But being clear about like, what's the work that needs doing?
+Maybe it is around building better anti-harassment policies in your organization.
+Maybe it's around product and accessibility, like those are two very, very different problems.
+So being clear on the problem you're trying to solve.
+And then like, what skills do you have?
+You and I, we share some values around the open internet, but we have very different
+backgrounds and very different skills and probably very different things in our toolboxes.
+So what you can bring to a problem and what I can bring are very different.
+So like, what's your area of genius and what are you going to do?
+Yeah, I know.
+I really like it.
+You shared that diagram with me in the document and that is actually something I've been struggling
+with.
+I'm trying to find that what should I do?
+And that is a very nice framework for thinking through this, like thinking about because,
+I mean, our lives are finite and it's kind of pointless to spend all our time doing something
+we don't, that doesn't bring us joy and that doesn't feel fulfilling and that doesn't seem
+to have a purpose.
+And I know there's also a bit of privilege in that, in that you can think about those
+things, but I wish we can get to a place where more people can think about this because I
+don't think it should be a privilege.
+I think we all should have the ability to think through what brings us joy and be able
+to make decisions for our lives that include having meaning and finding joy in the work
+we do.
+Well, you inviting me on your podcast and also welcoming conversations about culture
+and psychological safety and inclusion into a podcast where your audience is mostly like
+developers and startup folks, like that, your podcast brings you joy.
+What are the skills that you've got?
+Like you're a host and a convener of conversations that go out much more broadly than just the
+two of us.
+And what are you good at?
+Like, you're good at being a bridge to those worlds.
+So thank you.
+Thank you for getting me here.
+Like one of the things you are doing is this.
+Yeah, that's very true.
+I'm getting chills with this stuff.
+So thank you for saying that.
+Yeah.
+Well, that's very true.
+Yeah.
+Thank you so much for sharing that.
+Oh, can I?
+Yeah, go for it.
+The other book you asked about was Braiding Sweetgrass and Robin Wall Kimner is.
+I don't know.
+Like it's a book that braids together different strands of stuff.
+There's like some of the biology stuff, like indigenous perspectives on biology, some of
+her story and it's woven together.
+I listen to it as an audiobook because I have a hard time reading books and I would listen
+to it early in the morning as I was pottering around and just sometimes I would listen to
+it outside.
+And it's a beautiful book that actually kind of shifted my perspective on how we know things
+and like what science is.
+So I'd encourage either you to read the book or listen to it.
+It's really good.
+Yeah, not for sure.
+I definitely owe my list.
+I heard this quote the other day, I listened to a different podcast and the artist Grimes.
+Apparently it's a quote from a Star Wars movie and I think one of the things that you said
+is very similar to what she said, the quote that she had from that is, don't kill what
+you hate, save what you love.
+I think that was really beautiful.
+I heard that and I was like, holy cow, that's something I want to remember.
+Don't spend your energy trying to kill what you hate, rather spend your energy saving
+what you love.
+And I think this diagram plays into that as well.
+So yeah, that was inspiring.
+What are you trying to save right now?
+What do you love?
+So I want to create opportunity for others because I feel laced in the things that happened
+to me.
+I've taken chances.
+I mean, before I started my job at Mozilla way back 11 years ago, I quit my job before
+having had them tell me that they're going to hire me just because I didn't feel joy
+where I was.
+I really didn't like it.
+It was killing me.
+The commute, the insane hours you had to work, the people just literally not having any appreciation
+for the work you did.
+I was sick of it.
+And even being married and having kids at that time, I knew I had a bit of a fallback
+with my parents that they could support and help if things really went bad.
+But I didn't do it just because of that, just because I had the safety net.
+I just felt I couldn't do it longer.
+And through the years, I have met so many amazing people and I've had such life-changing
+experiences through Mozilla and through the people that I've met and worked with that
+I want to create those opportunities for other people using the connections I have.
+So that's why I created the podcast.
+That's why I created the community because I know one of the struggles these people have
+is being visible, being seen, having work to show to employers.
+Oftentimes, they lose out because, wow, how much experience you have?
+What have you made?
+Well, nothing.
+I'm still learning, but I just want my first chance.
+So I want to give them that first chance, even if it is, not even if it is, but using
+open source as a tool for that, creating open source projects and running them like real
+projects and giving people real tasks to do in the open where they can then point to and
+say, I've done this.
+And here you can see not only that I can write code, but that I can work as a team, that
+I can take feedback, that I can give feedback because all of those things are important
+and that I can start discussions and bring up new ideas and all that kind of stuff.
+And then giving them this vehicle where you can literally, where you can hear their voice.
+So that's what's important to me.
+I love to see a world where people are just happier, to be honest.
+On a day-to-day basis, I look around me and I see so many people that are clearly not
+happy and it comes out as anger and it comes out as people push each other away.
+And I think it's simply because people are frustrated, they're scared, and they're unhappy.
+And if I can do a little something to help someone, even if it's one person, then I would
+feel like it was worth it.
+I'm also hearing another layer in the opportunities you're working to have in open source for
+new developers to look and be able to say, I did that.
+They're making a real contribution to a real project that has real world impact.
+It's not a portfolio assignment, it's not something for a class.
+Not that there's anything wrong with those things, but there's something different about
+contributing to something that's bigger than what you can do on your own.
+There's a learning, but for me, what's so powerful about open source and open science
+and open learning is just I feel part of something bigger.
+And I love that feeling on a team where it's like one plus one equals not two, but it's
+like seven.
+We're really more than the sum of our parts.
+When that magic happens, I feel so alive and I just feel like, yes, let's do this.
+We can tackle big challenges together.
+We can do brave things together.
+Yeah, for sure.
+Yeah.
+And that is the idea is to build things that have impact.
+One of the projects is this curation thing where we want to make it easier for new developers
+to find the information and the learning tools that they need.
+Because the more and more I speak with people, the problem is not content.
+We're drowning in content, we're drowning in information.
+It's knowing where to find the things that work for you and also being able to guide
+people down different pathways because some people learn well.
+For example, you said you prefer to listen to books.
+Some people prefer to read books.
+Some people prefer video.
+So try and find these different resources because they all exist.
+But it's finding them and curating them into the space where they then are easily consumable.
+And in doing that, you're contributing to something that has real world impact.
+You could potentially impact somebody else's life because they're like, wow, this resource
+has made it easy for me to learn this thing.
+Now I can contribute back to it and I might be able to get a job through all of this.
+And now you've taken somebody who might not have known how they're going to go about this
+or somebody that was in a job that they weren't happy and they wanted to really do something
+and you created this opportunity for them.
+So it's this self-fulfilling circle of life type of thing that happens.
+This is reminding me about the ideas toolkit that I worked on with the Carpentries, which
+is a global nonprofit that teaches data science and coding skills to researchers worldwide.
+I feel similarly about diversity, equity, inclusion, and information.
+There's tons of toolkits out there.
+A lot of people just want to know, tell me the 10 things I need to do.
+And it was an interesting project because there was this need for like tactical, like
+what do we need to do?
+But a lot of it is also mindset stuff and like perspective shifting.
+So working with Dr. Carrie Jordan, who's an amazing woman with a PhD in engineering, she's
+the executive director of the Carpentries.
+Like we went back and forth, we worked with different community members around the world
+and their community, and there was this tension between like, tell us what to do, but also
+like we need this to be meaningful and flexible and applicable and yeah, all over the world
+in different contexts, like in the university context, in the community context, and it's
+like, oh, like how are we going to do this?
+And what we came up with was like for each one of these topics, inclusion, diversity,
+equity, and accessibility, we looked at like things you can think about.
+So like kind of open-ended coaching questions to provoke discussion or to help people who
+are reading it go a little deeper and think about like what their stake is, what they
+can do, and then balance that with like some tactical things that people can do.
+Yeah, I think combining those two is based on both, I think it's what you need.
+When you say accessibility, what does that mean to you?
+When I say accessibility, I mean barrier-free access for people with disabilities.
+But I'm like, is that the right definition?
+Whether it's digital space, digital information, physical space, or even like an environment,
+what are the conditions necessary or what are the different ways in so that anyone and
+everyone, whether they are disabled or not disabled, can use the information, participate
+in the setting, make their contributions?
+And from a universal design kind of perspective, allowing for some of those affordances and
+different ways of entry and participation, it also means that a lot of other people can
+participate as well.
+Like one of the examples from the physical world is a curb cut.
+So like in a curb, like having an incline so that someone in a wheelchair can get on
+and off the curb.
+But also a delivery person pushing a large trolley with heavy packages on it can also
+get up on the curb.
+And for me, when I'm walking my bike, it's easier to get my bike up on the curb.
+Like that curb cut is necessary for a person using a wheelchair to access that space.
+And it also makes it a lot easier for some other users to use that space.
+Yeah.
+I love it when...
+What do you mean by accessibility?
+Yeah.
+Pretty much the same thing.
+I mean, I often look at it from a web perspective, of course, because being a front engineer,
+that's where I can most have the most impact in that area.
+But I do love these examples where making something accessible actually benefits everyone.
+I think we're seeing more and more of that giving people choice between, do you prefer
+dark mode or do you prefer light or do you prefer to switch between day and night?
+Something as simple as that.
+I think just having the options there is a good thing.
+So for me, I mostly think about that.
+But for me, accessibility is not just using the right HTML elements.
+It's also about if I'm in a third world country on a low grade Android phone, can I even open
+your website?
+Because what load shedding has taught me is that...
+So to me, maybe people wouldn't know what load shedding is.
+Sorry, what was that word you said?
+Load shedding.
+Load shedding?
+Yes.
+Let me step back and maybe explain what that is.
+So I think in other places it's called rolling blackouts.
+So basically what it is is our electricity grid is under so much strain because of years
+of ill maintenance and corruption and all these wonderful things that as soon as there's
+anything that causes high demand, the grid starts to crumble and things starts to break
+down.
+And so what they have to do to avoid a complete blackout is they have to, on different schedules,
+depending on how bad it is, they have to switch the power off for a certain area.
+So you'll be without power for two hours and then you'll get power back and the area next
+to you will lose power.
+And so it will go every day depending.
+Sometimes it'll be for four hours if it's really bad.
+And so besides the fact that I have to continuously shift meetings around or not be able to attend
+meetings, one of the things I've started doing recently is I just started using my phone
+as like a mobile hotspot.
+And sometimes though, especially when there's these long bouts of load shedding going on,
+then I get like a 3G connection.
+And it's fascinating to find that for people with a 3G connection, the internet almost
+doesn't exist.
+You can get to nothing.
+A web page is like you try and do a search, it just doesn't load.
+Or you would wait two minutes just for the first two, three results to come back.
+And you just think that there are people whose that is their life every day.
+Not just in a load shedding environment, that is their life every day.
+And I think when our electricity is on and our power is running fine, I mean, I have
+a 5G connection.
+And so you don't realize how slow things are because everything is just instantaneous.
+It's when that 5G goes away and you get that reality check that this is not what everybody
+experiences the web like.
+Some people experience it like that.
+Then you think about that that is such a huge part of the accessibility of the internet
+is thinking about, wait a minute, before we decide to use this massive framework, how's
+this going to impact our users?
+Are they even going to be able to open our website?
+Because it doesn't matter how great our app is.
+If you can't open it up, it's useless.
+It can be the greatest app in the world that can solve world hunger.
+But if the people who need it can't open the app, it's of no use to them.
+So sometimes it's interesting to be put in these situations that's, I mean, honestly
+infuriating, but at the same time, eye-opening.
+It makes you think again.
+And it makes you second guess when you just would have easily installed this extra dependency.
+It makes you think, wait a minute, what is that going to do down the line to the people
+who want to actually use this thing?
+Do I really need that thing?
+So it makes you ask those questions.
+And I think there's a diversity, equity, and inclusion kind of lens to this as well.
+One of the questions you sent me was like, what's the biggest problem in tech?
+And I'm like, oh, I don't even know how to answer that.
+But now I've got the answer listening to you.
+I think when we've got only people in Silicon Valley from Stanford who have the newest iPhone
+and the fastest connections or whatever and skew male, white, and a certain age, we miss
+out.
+And things that are common sense or what might be common sense to you and common sense to
+me might just be outside of people's experience.
+So if we're trying to design things really for everyone, we need everyone at the table.
+And everyone needs to have a voice.
+And it can't be an afterthought.
+It has to happen from the beginning.
+So it's not like, uh-oh, the world's greatest app, we need to figure out what the 3G access
+is going to be.
+It's like, let's design from the beginning knowing that that is going to be the access
+point for some people.
+And the process of doing that will lead to different outcomes.
+Yeah.
+Yeah.
+I agree.
+This conversation is making me think a lot.
+That's why I'm pausing.
+That's why I'm pausing every now and again.
+What's going on in your head?
+A lot.
+That's the problem.
+So I was thinking about this other thing.
+So I mentioned this in the doc that I shared.
+So one of the core goals of the Mycelium Network is to be welcome and to celebrate diversity
+and empower people.
+I think I've also said that with some of the things I've said earlier.
+But sometimes you do run into situations, I haven't had to deal with it, but sometimes
+you do run into situations where people do come in and try to disrupt a good thing.
+What is the best way to prepare yourself for this?
+But then even with all the reparation in the world, sometimes these things still happen.
+So not only how do you prepare, but what are good techniques for handling a situation where
+somebody comes in and to be disruptive?
+It's interesting because the research shows that more diverse groups have more conflict
+as well, which isn't necessarily a bad thing.
+But I think when we come from different backgrounds, our common sense will be very different.
+So being explicit about those group norms, when we say welcoming, what does that mean?
+What does that look like in Slack?
+What does that look like when we meet in person?
+What does that look like when we meet on Zoom or whatever?
+Talking about the behaviors that we want to see, but also concretely, what does that look
+like?
+I think a lot about unwritten rules.
+So with a lot of my clients, I've asked, what are the unwritten rules here?
+Because every community and every group has unwritten rules.
+People who come over to my house, they just take their shoes off because they know, I
+don't wear my shoes in my house.
+And my close friends who come over for dinner know, I go to bed early and I'm going to be
+really clear and be like, hey, it's 8 o'clock and 15 minutes, I'm kicking you out.
+And no one's offended.
+They're just like, you're really direct.
+I don't have these long, lingering, awkward goodbyes or I'm starting to get resentful
+because I'm tired.
+But we can do that at work as well.
+So being explicit about group norms so that people can, new people can come in and know
+what the rules are, both the official rules and the unofficial rules.
+And when behavior is not in alignment with that, we can have a conversation.
+We can say, we say we value all voices and have a norm around making sure that people
+don't hog all the meeting time.
+I've noticed in the last couple of meetings, it's the same guy who's taking up 90% of the
+meeting time.
+Like, what do we want to do here?
+And what is the opportunity?
+What are we missing out?
+Is he aware that he's using up all the airspace?
+Like all these things, but we have to be on the same page about what we value, what those
+behaviors look like.
+And like those unwritten rules, we also kind of need to make them explicit, especially
+in international environments.
+Yeah.
+So when you say the unwritten rules, does this concept of remote first play into that?
+Because for me, that is kind of important.
+Like I think Mozilla, I keep going back to Mozilla because it's just something I know
+really well.
+I think they started out as a remote first company, but have become a remote friendly
+company.
+And there's a distinct difference between the two.
+And I always try to think remote first.
+And one of the things is always try to think who's not in the room and how you can include
+them.
+So does that play into this idea of the unwritten rules to actually write down the unwritten
+rules?
+I think writing them down can be helpful.
+It's always a little awkward at first because people are like, I don't know.
+But if you tease out or ask, people know what they are.
+And it's kind of cool working with a group where people start to trust and like start
+to say the things that we all know that are true, but we don't say out loud.
+I think that's really powerful.
+For me, like the last couple of years have been really interesting with the pandemic
+and how we've adopted to work.
+I think for me, if it's remote first or remote friendly, I think it's important that we're
+using the label that's in alignment with what's actually happening.
+And I think this is a DEI thing as well, because all companies will say on their careers page,
+you know, DEI is part of our DNA.
+It's like, well, what does that mean for you?
+Like what does that concretely look like?
+Show me the receipts.
+So if a company says they are remote first, like, I'm curious, like, what does that mean
+for them?
+That is a thing.
+How do people gather?
+And like, who gathers in person?
+Who doesn't?
+Like, show me the receipts.
+Yeah, that's a good way of putting it.
+Yeah, because I mean, I'm struggling with that myself.
+Like, I say that I want to do whatever I create, whether it be the company that I'm sort of
+kind of building or the community or, you know, whatever it may be.
+I do believe in the concept, but at the same time, I'm struggling to really define it.
+I sit in front of a page and think I'm going to write about remote first and what it is.
+And I really find it hard to nail it down.
+And then I start searching online to try and find, like, who are the companies that really
+do this well?
+Ah, I've heard about Automatic.
+They seem to be doing it really well, but I can't really find anywhere where even somebody
+like Matt Muldenweg has really defined what that really is.
+Like here is the 10 things.
+And I think maybe that's part of the problem.
+Maybe we always want a list of things.
+And I don't think it's always that cut and dry that you can just list it.
+It's more a feeling.
+You can feel when a company is remote first.
+Certain things just happen naturally without having to necessarily mandate anything.
+And therefore, nobody really sits down.
+So I think that plays to the unwritten rules that you've mentioned.
+It's unwritten rules that you've never really thought to write down because it doesn't feel
+like it needs to be written down.
+It almost feels like it's you just know that that's how things are done.
+So yeah, but I'm thinking of the ideas toolkit here, like maybe that one of the mindset pieces
+and like, what are the tactical things like?
+So what is the mindset of being remote first?
+And tactically, what does that look like with the real world constraints of time zones,
+work life balance, load shedding and rolling blackouts?
+Like all of the myriad of ways that we work and prefer to work and like to work.
+And what does that mean for accessibility?
+I don't know how often you work with developers and web developers, maybe even specifically,
+but as they enter this world, and some people are literally young folks in their early 20s
+that's like just doing this, some are people in their 50s, some are in between deciding
+that the career that they they've been doing, and I think that that's happened a lot in
+the last two years where people have like realized that I don't want to go back to the
+job I had before this pandemic, because I really was unhappy.
+And some of it is out of fear, because people fear that they will lose their jobs to robots.
+Whether that's justified or not is a completely separate topic.
+But you can't, like I say, you can't argue with somebody's experience.
+You can argue with an opinion, but you can't argue with somebody's experience.
+So if you experience fear, and you want to do something, and you've decided that what
+you're going to do is you're going to learn how to code, and you're going to get into
+this industry.
+Like, what are the things that that advice that you would give them from a from a DNI,
+like fulfilling life perspective?
+This is more from a coaching perspective, I think, especially for people like, actually
+for anyone, and whether they're new, or you've been doing this for 20 years, like, there's
+something really honest about writing down your goals, your professional development
+goals, your goals, where you want to take a stand for DEI, writing them down, like,
+there's something for me about putting something down on paper, where I can step back and look
+at it.
+And I can also pull it out in the future and be like, I said this was important to me.
+How am I doing there?
+So thinking about where you want to develop and how you wanted to develop, not just like
+on the technical skills, but like, what are the soft skills or the interpersonal skills
+or the collaboration skills you want to build?
+Like if you say you want to help new people bridge into open source, what are you doing?
+Like what's the plan for the next year, six months, three months?
+What are you doing this month?
+What are you doing this week?
+So taking those bigger goals and breaking them down into smaller chunks, and then building
+in accountability, either with your manager, with your trusted friend, with community members.
+And you know, you can always drop things off there, but having some rigor to your own development
+and investing in how you're growing your skills is super important.
+And I think also bringing that to like, how do you want to take a stand for DEI?
+And what are you doing to make your workplace or software community more inclusive?
+Like write it down.
+Set a measurable goal.
+Are you doing it?
+Yeah.
+Yeah.
+I know.
+Also, I think like if you're learning new things, for me, I'm an extroverted thinker,
+but there's also an accountability and learning with other people.
+It's cool to like, where I'm stronger on a skill and can help someone who's maybe stuck
+and then receive that help on a different skill, like we learn better together, like
+so finding those people where you can help each other get unstuck on a technical problem.
+But I think there's also another piece where like we're humaning together, like we're learning,
+we're getting stuck, we're helping, we're receiving help, we're supporting each other.
+Like for me, that's the real strength and where we can do powerful things.
+So find your people.
+Yeah, that's very true.
+I mean, I'm experiencing that, but I think maybe it's gotten worse over the last couple
+of years because before the pandemic and all of this, there would be times when I would
+get together with other colleagues and we will have an in-person thing and like that
+hasn't happened for three years or so now.
+And I'm definitely starting to feel that.
+I'm starting to feel the fact that I've been remote for a long, long time and really remote
+if you want to call it that, the last three years.
+And I do miss that in-person almost collaboration, but even if it's just being on a video call
+together with somebody else and like working together on a thing, like talking through
+a problem, I think like, even if you're the mentor and you're just talking through a code
+problem with somebody, I think it's great to have that human connection and that like
+feeling that, oh no, yeah, you're getting it.
+You're getting it.
+You're almost there.
+And like, yeah, that's it.
+You got it.
+And sometimes it helps you also think through the problem that you haven't thought through
+for a while and you actually think of better ways of doing things.
+And just that collaboration, that like bouncing ideas of each other and stuff like that, I
+miss that.
+And I think it's going to be something that's going to be tricky for us to solve as the
+world becomes more and more remote and as people seem to almost retreat more into themselves.
+I think some people have concern about the idea of virtual reality becoming like something
+where people really withdraw and completely withdraw into that superficial world and what
+the impact of that would be.
+And I think we kind of had a little bit of a taste of that the last three years and I'm
+not so sure that people have handled it really well if they're being honest with themselves.
+I think it had a massive mental health impact in a lot of people that they are only now
+discovering.
+Like for me.
+Yes, and I became really close to my neighbor by playing Fortnite with her.
+Not virtual reality, but like video game and we would, you know, she's very good at the
+game.
+So I got to I got doing something with someone who's something much better than you, it's
+something I learned a lot faster.
+But we would also just talk about like what what we were proud of that day or like what
+we were cooking for dinner or like witness other like hard things that we were each going
+through.
+So both.
+I think.
+Yeah, I think that's the thing.
+It's being able to connect because oftentimes, like you said, you connect over this one thing,
+but it leads to other conversations that you actually find meaningful.
+Yeah, it's interesting.
+And I mean, I do I'm not anti all these other things.
+I'm not like against VR or anything like that.
+I think it has its place, but I think we do we do need to be mindful of how we use this
+and how we approach it, that it doesn't become an all consuming thing.
+I think a lot of people are talking about the metaverse and about is that the next evolution
+of social media?
+And it's going to be our downfall, so to speak, because I'm rolling my eyes.
+Yeah, I know so much about all these things is kind of like, I should probably read more
+about it.
+So I have a better understanding of what it's all about.
+As it seems to have like, just keeps getting more and more momentum, like web three and
+the whole idea.
+I mean, some of the web three stuff I do find compelling.
+I like the idea of decentralization.
+I like the idea of owning your own content.
+I think it's incredibly important for we've given too much of ourselves away for free
+for the longest time.
+So I do like that.
+But I think there's a lot of craft going on around that.
+That's just toys, sometimes feels like toys for rich people.
+And I don't know what what it's really going to solve, what it's addressing and what it's
+trying to make better.
+And so that is a slight concern that I have with some of these things.
+But I do think that I need to understand it better, because I can't you can't criticize
+something if you don't understand it, right?
+You need to at least give it a chance and say, what is this all about?
+And then maybe you'll find out that there's just a bunch of a minority of loud voices
+that is that is making some things make it seem like it's something it's not.
+And if you actually dig into the real deal of what what people actually mean when they
+talk about web three, then maybe it is a good thing.
+Maybe it is something we need to move towards and embrace.
+Yeah, so I can keep going for for a while, but I think this was really like delightful
+and interesting.
+It's really nice to see you and also talk about like things that we both really care
+about and some some big ideas like this.
+This conversation has really filled me up.
+Thank you.
+Yeah, no, thank you very much.
+This is really good.
+It was everything I hoped it would be.
+So that's great.
+Me too.
+Thanks so much, Dora.
+I hope you have a lovely day and I hope you can chat again.
+That would be really good.
+Yeah.
+And like ping me on the Slack or email me like if there's anything I could ever do to
+support you or help you like we are in community and I truly believe like like we're connected
+and we can do big things together.
+So yeah.
+Yeah.
+Yeah.
+Have a great night.
+Yeah.
+Have a great day.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at Network My Senior and join the community
+on Discord.
+All the links are available in the show notes.

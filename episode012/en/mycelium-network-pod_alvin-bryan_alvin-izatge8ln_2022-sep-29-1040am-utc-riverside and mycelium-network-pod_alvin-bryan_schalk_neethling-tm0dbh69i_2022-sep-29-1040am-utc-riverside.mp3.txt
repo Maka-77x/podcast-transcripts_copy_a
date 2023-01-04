@@ -1,0 +1,820 @@
+Welcome to the Marseillean Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Alvin.
+Thank you so much for joining me today on this Thursday.
+I'm always supposed to be on track for time this week.
+Thanks so much for joining me.
+I'm really looking forward to our conversation.
+I am too.
+Thank you so much for having me on.
+Yeah, pleasure.
+So, as I start with all my guests, I'm not going to tell your story.
+I think you can do it better than I can.
+So instead of that, I'm going to give you the floor and take as much time as you need,
+as I always say.
+Go as far back into your history as you'd like and bring us up to the current day and
+just tell us a bit more about you.
+For sure.
+So, hey, I'm Alvin.
+I've been in the industry for a while.
+Primarily, I worked as a front-end type person.
+So I was always driven by the same idea of like, how can I make like things that look
+and feel nice to the user so that whether it's beautiful, fun, entertaining.
+And that took like a few forms, I guess.
+I worked on games, I worked on data visualizations, I worked on most recently designed systems.
+And now, a new sort of turn in my career is I've been, since the month of May this year,
+so about four months, four or five months, a developer advocate at Contentful.
+Cool.
+Yeah.
+I like the design systems angle.
+I wonder if you want to dig into that a little bit, because I know that is something that
+I'm pretty passionate about.
+I had a couple of clients that I was at.
+They were playing very fast and loose with their brand.
+And it's not, you know, it's not their fault if there isn't any structure.
+But then, if you approach them as this idea of a design system, they're a little hesitant
+because they're like, how much time is this going to take?
+I was like...
+Always.
+What's the...
+What's the value of it?
+You know?
+Yeah.
+It's going to take a little bit of time.
+But just let me paint you a picture of the future and what it might be like once you
+have this thing in place.
+Do you want to dig a little bit more into design systems and what they are and maybe
+even try and answer some of those questions?
+Yeah, for sure.
+So for me, I guess what interested me in design systems is that it's the place where developers
+and designers have to collaborate, right?
+It's like...
+And that's always been the sweet spot for me, where the more design-driven something
+is, usually the more I like it.
+And I found that design systems were this, but at the larger scale.
+As much as I was interested in very large, complex front ends that had lots of moving
+parts with 50 people working on something, a design system, on the other hand, is much
+more interesting because you have your designers and your developers working together in making
+something, right?
+And that was always the cool thing for me.
+In terms of, again, application for the brand, when a design system is well put together,
+it's just really satisfying when you can create a sub page or a landing page really quickly
+because you're just putting blocks together and then you're like, okay, I've got the boring
+bits, done, and now I can focus on the more bespoke, interactive, interesting things.
+Otherwise, if you're always trying to find the same nav and the same sub menu or whatever
+and you're having to code that or just lift and shift that in a non-standard way, you
+can just waste a bunch of time recoding the same things.
+Whereas if you have everything that's ready, you could just say, okay, put the blocks together,
+boom, nav, boom, headings.
+Everything has the right font size, the right spacing.
+You don't have to peer into Figma too much or Sketch or whatever, but everything's already
+done for you.
+So everything is neat and tidy very quickly.
+But the bespoke bit that you need, then you have more time for it.
+Did that make any sense?
+100%.
+No, 100% agree.
+I think that is one of the big things about the design system because it's not just the
+design, it's also the components that comes out of the design.
+And those are actual living, breathing pieces of code that you can then compose together.
+And I think maybe React was the framework that really started making friendly people
+think about components, but I mean, now it's in everything.
+It's actually baked into the web platform.
+We have web components, it's in the name.
+So I think the next evolution is, what do they call them?
+Design tokens.
+I think that's the next evolution of design systems.
+And there's this ability to cross-share design tokens between systems like Figma, Benpot,
+and then like your development environment where you literally export like a JSON definition
+and you have these tools that can take that and generate code.
+I used this one from Adobe where basically you have that and then you can tell it like
+generate me the style sheets for, I put it in quotes because it's more than just style
+sheets, for web, iOS, Android, blah, blah, and it's like just root all from the single
+JSON thing.
+And then once the designers make the changes in Figma, say for example, and they export
+the latest version, it like just does like a automatic re-roll and I'm looking forward
+to that being more of a thing.
+It's still early days there, but at this point you have to do quite a bit of hacking to get
+it to work really efficiently, but I'm looking forward to the future of what that can be.
+So I noticed a post that you wrote called, learning to code in a time of crisis.
+I love the title, it intrigues me, so I automatically want to know more.
+And I think that probably ties into one of the other questions I often ask, which is,
+what advice do you have for early stage web developers or developers in general on how
+to stay motivated?
+Right.
+So I'm going to start with like the post, the blog post, learning to code in time of
+crisis first, and then I'll sort of find advice from that.
+So my idea with this post, which was interesting because I started writing it in 2020, in March,
+when the whole world shut down, we know what happened, I had a couple of people ask me
+whether it was easy to find a job as a coder and if it was something they could break into,
+so I started writing it, started outlining it, and then I wasn't super happy with it
+and I sort of shelved it because as you know, in 2021, the economy kicked back again, then
+we had this boom in tech which seemed was going to last forever, but it didn't.
+In 2022, the economy is in a pickle again.
+And I had also another person ask me the same question and I was like, you know what, I'm
+going to finish it, find another angle to it, and that's what I did.
+So the blog post has a couple of things in it.
+The first main point is the job market sucks right now if you're trying to break into it
+as a beginner, but that doesn't mean it's impossible and you just want to be realistic
+with it.
+It's like even if you heard these stories maybe a year ago, two years ago, three years
+ago of people going from zero to great coding job in three, six months, it may happen to
+you again, but it's just less likely.
+So just got to be realistic with the state of the tech market right now.
+That doesn't mean, as I said, it's impossible, but just want to be realistic.
+So that's like with the negatives.
+With the positives though, the great thing is the tech industry is used to people coming
+from a variety of backgrounds and going from the most random jobs to coding.
+I think I have a bunch of examples there.
+But yeah, so it's not a foreign thing to do, it's not to say that there's zero elitism
+in the tech industry, it exists everywhere, but we're used to people jumping from different
+careers so we will not be looked at weirdly or if you think your case is really unusual
+like, oh, but I don't know, I'm coming from this very specific background, it's probably
+someone else who did something similar.
+That's one part and also with developers in particular and designers too, remote work
+is definitely a thing now.
+So if you think about it in a way that if you're looking for a job, you have access
+to companies, of course, you can go as far as you want on the entire planet, some people
+work across multiple time zones and everything, but even within your own country, even if
+you think, okay, just within my own country, I can apply to pretty much any company there,
+not any but like a ton of companies there who do remote work, that's a huge advantage
+compared to whatever job, if you're a nurse or something that needs you to move your life
+around, what about your partner, what about your children?
+And that's amazing.
+I mean, there's tons of companies that work across countries, across time zones, like
+you in South Africa, you're in the same time zone as Germany, for example, so you could
+work with a German company like me, right?
+But even if you think at the smaller scale of like, okay, just my own country, that's
+already a huge advantage and so they're good and there's bad and it's still a good thing
+to learn, but just be realistic that the market is weird at the moment.
+Yeah, what do you think is weird about it?
+Do you think it's that maybe the opportunities that exist require a certain amount of experience
+and that is the problem for early stage folks is they lack that experience and so while
+there might be a shortage of skills, it's more a shortage of skills of experienced developers,
+not so much new developers, or do you think companies are hesitant towards hiring juniors?
+The problem right now is that there were a ton of layoffs, so you have a huge pool of
+experienced coders that are on the market, so that's the problem.
+If you have one opening, you'll probably get the most experience because you can, right?
+Because there was all these layoffs happening, but again, it depends, it doesn't mean it's
+impossible, it's just harder than it used to be when you had more of an equal distribution
+of people of all levels entering the market.
+Now you have this ton of layoffs, you have a ton of people with experience that are being
+dumped into the markets looking for jobs at the same time, so it's harder.
+I just hope it will balance out in the near future, but at least in the summer, just for
+people listening to this in the future, since the spring of 2022, we had basically non-stop
+big layoffs happening all the time, and we're recording this in September, early October,
+so in the past four months, it's been non-stop, company X laid off 1,000 tech workers, company
+B laid off 500, so it's just really hitting it hard, but I hope it will balance out.
+But as you said, there's still a shortage of developers, people are still struggling
+to find them, so that's not going to disappear, and more, as we know, technology is eating
+our lives, so I don't see that stopping, but yeah, the market conditions are a bit weird
+at the moment.
+Yeah, that's a good point, yeah, I don't think about that, that's a very good insight.
+So with that, with that challenge, I think already for early stage developers and people
+switching careers and stuff like that, it's already stressful, a little scary, and now
+you have this added thing that you just mentioned, where it's like, oh, now I'm competing against
+somebody with five years experience, I'm stuffed, how would you, any advice on how to stay motivated
+and just keep going, keep trying, don't give up?
+For sure, yeah, I think keep at it, as you said, and be consistent, even if you'll, so
+it's a bit of a weirdly worded way of saying it, but keep at it, be consistent, even if
+you'll see inconsistency like everything else, because learning everything, your progress
+will not be linear, so it's like learning a musical instrument or anything, sometimes
+you're going to make a ton of progress in a couple of weeks, and then you really struggle
+for like three or four, and then it's going to go up and down like this, and it's not
+easy, and my own personal failure to be any good at any musical instrument can attest
+to that, so yeah, somehow with coding it worked.
+I guess with coding maybe it's easier to see progress, because you can visually see your
+programs becoming more complicated, whereas maybe with a musical instrument you're just
+getting a little bit faster, maybe I'm just making excuses, doesn't matter, but yeah,
+so going back to the word of advice, yeah, keep at it, it will be inconsistent, and keep
+the end goal in mind, and have an achievable end goal, so if you think, okay, I want to
+build up a portfolio of work that includes Project X, make sure you have that in mind,
+and you keep thinking, okay, I'm moving towards that goal, rather than just like have this
+abstract thing like, I'm going to learn Python, you know, like, yes, you know, but it's very
+easy to fizzle out when you have a goal like this, just learn Python, what does that mean,
+you know?
+Yeah, I'm definitely a very goal-oriented person, I've mentioned it in previous episodes
+of the podcast, I find it very difficult to learn something for the sake of learning it,
+I always need an outlet for it, like I need, you know, either something I can contribute
+to that uses the technology I'm learning, so I can like apply what I learn, or just
+scratching on my own itch, or even make up my own little project, even if it's like just
+for me, just as a means of using the skills I'm learning, if I feel I'm just like making
+the little food app that you're doing as part of the course, it doesn't feel as fulfilling
+to me, and because a lot of the courses like feed off each other, which is good, it's like
+music where, you know, the music you make today is influenced by the music from the
+past, and so sometimes you'll hear a band and you'll say, I hear a little bit of Rolling
+Stones in there with weeks with a little bit of Beatles, and it's good, I mean, it's good,
+I heard, I don't know, the artist Grimes, I listened to an interview with her, I'm not
+a fan of her music or anything, but she's a very fascinating person, and she says, music
+is like having a conversation with those who came before you, and I think that was really
+just beautiful, and so yeah, I think the same thing here, I do think it's good that these
+course materials are feeding off each other and improving through that, but maybe they
+should look at expanding the portfolio of examples you build, so it's not like you're
+building just another food app, another to-do app, because that can get tedious.
+I wanted to jump into a different problem, now I'm thinking if I should first flip to
+a different topic or we should just keep going, I think let's just keep going on this road.
+So I think you've highlighted some of these things, but maybe we can dig into it more.
+From your perspective, what do you think are the biggest problems in the tech industry?
+Yeah, so I generally don't like thinking absolute statements like their biggest, but I think
+a big problem we have that is recognized still is diversity, even though we've improved a
+lot.
+Don't get me wrong, the tech workforce of today looks nothing like the tech workforce
+of five, six, seven years ago, really improved a lot in that regard, but it's still a problem.
+We still know we need to have more diverse voices and it kind of feeds off with what
+we were talking about with having people from different backgrounds, right?
+The more we have people that come in with a fresh eye from a random job before, the
+better our product is going to be, right?
+And so this is something that the tech industry knows there's a problem and we're trying to
+fix it, but it's more aware that there's still a problem.
+And then coming back, I guess, to what we were saying, this is also where it's interesting
+where people would hire you because you were talking as a beginner, because when you were
+talking about earlier about how the hell do I compete with someone who has five years,
+maybe even if you don't have as many actual years, maybe there's something about your
+background and about yourself and about the way you see design and accessibility that
+is unique to you and someone who's been working on a very specific thing for five years cannot
+contribute to the company and the product.
+So that also is, I guess, like a beacon of hope, I guess, for people breaking in, trying
+to break into the industry.
+Yeah, I think that leads me to a different topic also, which is interviews.
+And I think there is where we have another problem with tech, and I think this one might
+be very tech specific.
+I think generally the diversity problem is not just a tech problem, it's very visible
+in tech and it's been made very visible and that's good.
+I mean, it needs to be visible before anybody's going to do anything about it.
+It's like we saw with COVID, like it was very visible that we have a problem, like the world
+rallied around it.
+So that's important.
+But I think the other side with the interviews is if you take a junior through the same interview
+process as somebody with five years experience, generally the person with five years experience
+are going to win every time.
+Because if you don't ask those questions, like what you said, like, why do you bring
+to the project that's unique, if you don't dig into that side of it and you just focus
+on the wide-forged algorithm things, the junior is going to lose that interview every time.
+And I can see how that can be demotivational.
+So I think with tech interviews, the one thing that we need to, but I think this is also
+a little bit, I don't want to be the person who always puts the burden on the other person
+and like give the recruiters an out.
+But I do think as an applicant to a job, you need to speak to those things.
+You need to speak to what you can bring, not just from a technical perspective, but from
+how you think about stuff.
+And I think one of the previous folks I spoke to, Adelson Sandoval, he made a point of that,
+like how important it is to understand the company that you're applying to, understanding
+their technology and maybe even coming to the table with some ideas because you've taken
+the time to research what the company does, what their goals are.
+And it's easier, of course, if the company has an open source aspect to them, because
+you can literally see the code, you can literally see what they do.
+And through that, you might see some stuff.
+But I think also just in general, companies should be open to the idea that a junior can
+bring something to the table that a senior might not, even if it's just in the way that
+they're going to ask questions about stuff that other people have stopped thinking about,
+because it feels like it's just part of your DNA now.
+Yeah, absolutely.
+I'm a huge proponent of hiring juniors.
+I think there's lots of values.
+It's someone with fresh eyes.
+That's what it is, really.
+And that has a ton of value, especially if you're a company of the same kind of people
+who have been building the same product for a while.
+It's hard to see what's going on with fresh eyes.
+And coming back to what you said about maybe not liking to always throw the burden to someone
+else.
+But the someone else is us, though.
+It's developers when we're hiring others.
+It's like when you have an opening in your team.
+It's us knowing, do we really want to give them a four-hour take-home test?
+Do we really need that?
+It's us pushing back.
+Or something I'm also a big advocate of is if we do think, because it's a more senior
+position or whatever, that a three-hour take-home test is the way to go, then pay the person.
+So yeah, I feel like it's on us.
+It's on us developers thinking in terms of recruiting.
+It's not just the recruiters.
+It's how we word our job description as well.
+Do we need to have so much like...
+There's even internal jargon sometimes.
+Sometimes I see this.
+And it's like we're part of the Prometheus group within Facebook or whatever.
+And I'm like, what the hell is a Prometheus group?
+Why do I care?
+It's an applicant.
+And it's like sometimes you see things like this.
+And yeah, it's on us to make sure that we're...
+We're always super keen to share our job posting on LinkedIn and whatever and be like, come
+work with me.
+And I do that too.
+Don't get me wrong.
+But it's also on us to make sure that the job description we share makes sense.
+And that we have our hiring process nailed and we're not like, oh, what are we doing?
+I don't know.
+Let's give them a three-hour home test.
+What?
+I don't know.
+Let's do a to-do list as well.
+Yay.
+But then when you're an applicant, if you have three companies giving you that, it starts
+to add up and it's...
+That's it.
+It starts to add up and it starts to be annoying.
+Whereas if it's more like, okay, we're just going to come on Zoom for an hour, have them
+walk through code or just do a simple code example of like, hey, can you fetch something
+from the GitHub API, walk us through it?
+Something like that.
+That's a way...
+In my opinion, that's a way better interview process because you're not requiring a ton
+of commitment.
+You're still looking at how the person is coding, but you're not placing this huge burden
+on them to find three hours spare time and polish an app and do whatever.
+And again, that multiplied by every company you're applying to, right?
+So yeah, I feel like it's on us as developers with a bit of experience who are going to
+be in the position to hire someone else to make sure that our process is as accessible
+as it can be.
+Yeah.
+Yeah.
+That's very good.
+I wonder with that hour long interview where you do something, would you give somebody
+like a hint as to what the question might be?
+You don't necessarily will tell them you're going to be using the GitHub API, but maybe
+you'll tell them we're going to have this hour long conversation and basically as part
+of that, we will have you do a request to an API to get some data and display it on
+a webpage.
+Would you put that in?
+I think it depends on, again, the seniority level, what kind of things you're solving
+because for example, sometimes you're more interested in the presentation, right?
+So you're like, okay, we'll give you like with that same example, right?
+So you can be really interested in how someone writes the tests for this request to the API.
+That could be like a primary focus or it could be, yeah, just get something from this API,
+but what we really want you to focus on is make sure the, I don't know if you have a
+search or something or whatever you're displaying from the API, make sure that it's accessible.
+So it really depends what you're looking for in the role, but yeah, I think you drop hints
+based on what you're trying to have them focus on versus if it's a pure front end and you
+want someone who really knows about accessibility and it's something that they've said in their
+CV as well, you don't want them to spend 20 minutes figuring out there's a missing header
+to that API or whatever.
+You could just help them with that because that's not the primary thing.
+Gotcha.
+Gotcha.
+Yeah, that sounds like a very healthy approach.
+I really like that.
+I'm glad more people did that, more companies.
+That's good.
+I'm glad you've said that and now it's out there for people to listen to and take note.
+This leads us into this next question, which is I noticed a tweet from you about CascadiaJS
+and they mentioned that they post all the recordings of their events because they believe
+in open sourcing knowledge.
+Love that, by the way.
+And so I wonder, what are your thoughts with regards to open source, the open source ecosystem
+and its role in developer education?
+Because especially I think it touches on that topic previously, which we talked about, about
+Junior's lack of experience, lack of working experience.
+Can open source play a role here?
+For sure.
+As you mentioned before, with open source, what's great, you can see real code.
+You can see if someone has a small project, they open source it.
+You can see, okay, this is how this specific app works.
+It allows you to explore and to see a real code in action, which is great.
+Especially now with things like Netlify and Versailles, it's a lot easier to host things
+than it was before because before it was like, oh, I have to do whatever.
+People tend to just have a GitHub and that just automatically publishes to Netlify or
+something and it makes it easier to say, oh, okay, I got this code and it's powering this
+page.
+And you know, there's no in between.
+This is the build step.
+It's all in there and it's all visible.
+So that's great.
+I feel like in terms of developer education, though, we now have more of a curation problem
+than a number of resources problem.
+I feel like there's a ton of knowledge and it's fantastic.
+We're extremely lucky that we have tons of people writing tutorials in their spare time
+on their blogs and stuff.
+So there's a lot of knowledge going around.
+But we might have more of a, as I said, curation problem in that we need to figure out how
+to triage all the tutorials and everything to make sure, okay, this is what I need to
+build a specific thing.
+But yeah, otherwise, I think it's fantastic.
+Yeah, I agree 100% of that.
+I think Riku from the very first podcast said, you feel like you're this little drop that
+fell into this ocean and you don't know if it's some up or down or left or right.
+Because you're like drowning, drowning in information.
+I think we are there.
+And I think one of the projects that we are undertaking as part of the Mycelium Network
+is the web workbook, which is not meant to be, let's try and do a better MDN.
+No, it's the opposite.
+Let's, let's, let's curate content.
+And let's, let's define pathways, topics, technology paths.
+And let's as a, as a community, share things that have helped us and let's try and make
+it easier for people to know, okay, I've finished this part, where do I go from here?
+What are the content that I can trust?
+Who are the people I should be following that shares really good, that has a teaching style
+that works really well, and also finding different ways of learning because not everybody likes
+to read, not everybody likes to watch a video.
+Some people like me are very, very practical.
+So you want something that has a practical aspect to it.
+So kind of trying to curate stuff around topics, technologies and pathways.
+It's a big, it's a big undertaking, but I think I'm hearing it more and more and more
+that this is what is needed.
+Like speaking to, to early stage developers, it's, it's almost, I don't think I've spoken
+to one that has not said this.
+So the fact that you also brought it up is just like, it's clear that that is something
+that's needed.
+And I'm really excited about that project, but you know, it's still early days and there's
+a lot, there's a lot to do, a lot of planning, there's a lot of planning.
+And I think that's one of the things that is interesting about people who are getting
+into code is they don't realize how big a part of the job that is, is planning.
+Sure, you're going to write a lot of code probably, but you're also going to spend a
+lot of time planning before you write all the code.
+Friend of mine, Peter has the famous thing where he says, writing the code is the easy
+part.
+Understanding the problem and finding a solution, that is, that is the hard part.
+And then it's almost like you take your crypt notes and you just turn it into code.
+It's, it's oversimplified, of course, but I like the statement, I like the way he phrases
+it.
+Yeah, that's really cool.
+So I, another thing that I saw about you, and it makes me think that you are somebody
+and I in that same camp that like ethical tech or like are passionate about ethical
+tech.
+You mentioned on the rise of Signal, I use Signal myself.
+I've used it before the web app, the WhatsApp debacle, but I kind of still used WhatsApp
+at that point because some of the family and things were on there, you know, that's the
+common problem, but like I've gotten off all of that stuff.
+I just decided that for me personally, I need to, I need to put my money where my mouth is.
+That's not entirely correct, but you know what I'm trying to say?
+So I like to hear your views on what you think about ethical tech and its role in improving
+the tech world and the world maybe even in general.
+Yeah.
+So this, so you're talking about the blog post that I wrote as well about like, again,
+the rise of Signal and the, again, my thesis there was that when Signal got the spotlight,
+it already had all the ingredients to succeed.
+Basically it had roughly the same features of WhatsApp.
+It was already a polished product because the problem you have with more ethical tech
+in general, and you could think of this as in the broadest sense possible of like it's
+more ethical because it's open source, because it doesn't have like a giant weird company
+behind it or whatever.
+So the problem we have with usually with this type of tech is that it's just not as good.
+Like it doesn't have like the same level of visual flair or whatever than the mainstream
+thing.
+So people are kind of stuck with like the old thing because the usability is not right.
+And when Signal had its moment, it's what I put in the article as well, it had a big
+boost because Elon Musk tweeted just two words, use Signal, right?
+And it's credited with like, suddenly all the newspapers were talking about it and like
+he already has a huge account, but people also like retweeted it to hell.
+But my thesis is that if he had tweeted, use Linux, no one would care.
+Because Linux is not there yet in terms of like, oh, I can just, it's just like, I can
+just flip a button and suddenly my, I have a perfect, you know, I have the same thing,
+I have the same apps, everything looks great.
+And it's very easy to install.
+Like I know I might get some heat from like Linux users from this, but like, it's not
+as easy as, you know, just like a Mac, things are not as intuitive.
+Again, there's lots of progress being made there.
+I don't want to like, you know, undermine that.
+Like this also got a lot more accessible than it was.
+Like, you know, in the, if you're talking about like Linux, even 10 years ago or even
+the worst in the like 2005 ish, it was impossible.
+You had to like go into the command line thing to install whatever, but like, yeah.
+So it's getting better, but we're still, we're still have ways to go.
+And that was the idea of the blog post about ethical tech in general.
+To me, it's usually when like what you want in tech is to as much as possible is for incentives
+to be aligned, right?
+So to give you a counterexample, that's not the case with social media, right?
+They have no incentive to, I don't want not to like, I'm not going to name a specific
+company, but they have no incentive to make media that's actually increase, you know,
+that is social.
+What they want to do is put you on, is for you to stay on the platform for as long as
+possible because you can see more ads, right?
+And they do this with, you know, by creating outrage, fear, whatever, you know, controversy.
+And that's not by making a media that makes people sociable and, you know, people want
+to interact.
+Because if you just see some funny, you know, good vibe things for 10 minutes and you leave,
+that's not what they want.
+You know, it's not in their interest, right?
+So as a result, the incentives are completely misaligned, whereas I'm going to like use
+the example of another company that I like.
+And I think I can start to recommend because they're starting to be as good as the alternative,
+like with ProtonMail, for example, like they're all about like building an email that's private.
+The day they are caught selling ads, everyone of their customer will leave.
+So they have, you know, their interests are aligned with what they're preaching to be,
+right?
+It's like we want to make a private email.
+So as a result, we know they can sell data or they can be hacked because the day that
+happens, they know they're going to lose like 50% of their customers at least.
+And again, like talking, using the example of ProtonMail, like if we had this conversation
+two years ago, I would not be able to recommend ProtonMail to you because they didn't have
+a calendar, like, you know, it didn't have like things like dark mode.
+It still looked a little bit clunky.
+Like if you received, again, a Google Calendar invite, you couldn't do anything with it.
+Now you could just press the same button that you have in Gmail that says, yes, I would
+like to attend.
+Boom, you press that and that's it.
+So it's a similar enough experience that it's an alternative that's ethical and good, right?
+It's like you're not losing too much by like switching to the ethical product.
+Yeah, and I think there's another case happening right now with Penpot and Figma.
+Yeah, yeah, that's exactly right.
+Yeah, Figma was bought by Adobe.
+A lot of people are not happy about that, to say the least, and I mean, I think it's
+a complicated one because it's not like Figma is not a good fit for Adobe as a company.
+It is the history of Adobe and what they've done to products that they've purchased.
+That's the scary part here.
+And even though the CEO, Figma, said that, no, no, no, we're going to operate as an independent
+company and make our own decisions, but we do get access to all of this power of Adobe
+that they've developed over the years.
+It sounds good, but I don't know how true that really is.
+That's what everyone thinks.
+It's like, yeah, sure.
+Yeah, you got 20 billion for sure.
+Sure.
+Yeah.
+And then yesterday I saw Penpot announced they have an $8 million investment seed round,
+which means their blog post literally said, our time has come.
+And I'm really excited about that.
+And I have personally started using the two tools in tandem because like you said, when
+the WhatsApp thing happened, Signal had all the ingredients to just take its place.
+Penpot is close, but not quite there.
+Like I found some bugs which I'm raising.
+Like this is open source.
+It's awesome.
+I can just go and tell them, this is the thing I'm seeing and maybe I can maybe even help
+fix the problem.
+Because currently if I drag an SVG into it and some of the elements has color, all the
+color disappears and they either render them invisible or white or it renders that it's
+all black.
+And then you have to go in and edit it in Penpot.
+So there's a bug there.
+But then the other thing that I miss badly is auto layout.
+That is not in Penpot yet and that is a big feature.
+And then I think the community plug-in stuff that the ecosystem that Figma has built, that's
+something that's missing as well.
+But with them having this $8 million investment and being open source and having a community
+that's now like, yeah, we need to support this project.
+I think all these gaps can be filled very, very quickly.
+And they are going to be filled very, very quickly.
+So I'm really excited about that and I'm definitely following that and seeing how I can help make
+Penpot be the successor of Figma.
+But with ProtonMail, I've been actually toying with that idea because I did see their announcement
+when they're like, now we have a VPN, we have a drive kind of thing, like Google Drive,
+we have calendaring, we have better, our email is better.
+And I tried it for a bit and it looks beautiful.
+And it has some functionality actually that Gmail doesn't.
+And the company I run called Mechanical Ink, I'm in the stage where I'm trying to define
+what the company, what I want the company to be because I don't want it to be another
+agency.
+I don't want that.
+At the moment, it kind of is because it pays the bills, right?
+But that is not the long-term thing.
+What I want it to be is a company that is heavily involved in open source and in ethical
+civic tech.
+And I need to find a way to be able to do that while creating job opportunities and
+being able to sustain my own, me and my family and my children.
+But as part of that, I mean, cause on the table, I use Google Workspace, right?
+For my company stuff.
+And I am considering switching to Proton because with what my future vision for the company
+is, I need to, again, put my money where my words are and say, I'm not going to use Google's
+product for this.
+I'm going to use an alternative, an ethical alternative because one does exist and only
+use tools that don't fit that bill when there really isn't an alternative.
+And then asking the question, is there a way that Mechanical Ink and the communities I
+build can help create this ethical alternative or plant the seeds so that people can come
+together and create these ethical alternatives?
+Wow, that was fun to talk about.
+So in the same kind of vein, has there been any person, book, event, anything like this
+that was impactful in your life just in general or maybe tech specific?
+Yeah, so just to wrap up what we said about like ethical tech, I think an important point
+too is that it doesn't have to be a full culture key switch right now.
+Like what you're talking about, like with Penpot, for example, like right now, Figma
+hasn't changed, but we know that if one year something really bad happens, like what everybody
+is fearing, which is it's being integrated with the Creative Suite, which is what everyone
+is like, please don't make me install Creative Suite, right?
+But if that happens in a year, Penpot had a year from now to get it stuck together.
+And it's kind of the same thing.
+You could say, okay, I'm looking at Proton right now, and maybe in a year I'll switch.
+And it's kind of the same thing for Penpot for all these things.
+So it's important to know that to have them in your radar, to keep checking as opposed
+to go, oh, let me see, can I do a culture key switch today?
+And you download it, and it doesn't work, and you forget about it forever.
+I've done that too.
+Don't get me wrong.
+But sometimes it's a bit of an easy thing to go...
+Because it's easier for your mind.
+You don't want to have this thing lingering of like, maybe I should switch to something
+one day.
+So it's easier to go one day, look at it, and go, okay, right, is this the most optimal
+thing today?
+You look into it, it's like, nope, moving on.
+But you can say, okay, maybe let's check it in six months or a year.
+And also, as you're doing, just sharing something, they shipped something, you were talking about
+your SVG bug, when they fix it, if you share it, that's it, it's a little boost, even if
+you may not be using them already because of what you said, auto layout.
+To go back to your question about was there a person or an event or something that really
+impacted my career, I think I will say all the managers that gave me a chance, even if
+I didn't specifically fit the profile, I did lots of various things.
+And I feel like it also comes back to what we were saying about hiring people with diverse
+skill sets and not necessarily the perfect background.
+It happened to me a few times, I was lucky that someone was like, even if you don't have
+the perfect previous experience, I feel like you'll be a good fit here in the team.
+And that happened more than once, and every time that really just helped me a lot.
+I love that, I love that when people are open to giving you a chance and saying, let's see
+what you do, and then let's check back in a month.
+And if you show that you are a curious person who's willing to learn, let's keep going.
+I think companies need to be more open to that.
+So for, like I mentioned, this web workbook project, it's going to be very content heavy.
+And so we're going to be building it using Hugo as the static site generators aspect
+of it.
+But then we've got a community license from Contentful.
+And so we intend to use Contentful for our CMS.
+So I've read quite a bit about Contentful, and I've used a bunch of other ones like Netlify
+CMS, Forestry, and stuff like that.
+Can you talk to how Contentful is different, like what sets Contentful apart from all these
+other things?
+Because I know there's a lot of these things that's jumped up.
+Yeah.
+So that's the great thing about being a developer advocate and not a salesman, is that I don't
+have to give you a big sales pitch.
+What I'll say is Contentful, as you said, I'm glad you're going to be using us, but
+even if not, that's fine.
+So we're a headless content platform that helps all kinds of clients.
+So I think what I'll say is the great thing about Contentful is we've been at this for
+a while.
+It's one of the first companies in that space in having this idea of having something headless,
+having blocks of content, rather than moving from the old paradigm of this is a page.
+Everything in WordPress, for example, is a page, so you're with that structure, and you're
+hacking around with short codes or whatever.
+With Contentful, we have these entries and content types, which can be anything you want,
+and that gives you the great flexibility.
+So yeah, I'm glad you're using us.
+Yeah, I'm looking forward to it.
+So I'm thinking about which way to go next.
+I think I want to switch on, I noticed that you mentioned your coach also at Codebar.
+I have not heard about Codebar before, strangely enough, and I had a quick look at it and it
+looks interesting, but you know more about it than me, so I'm going to ask you to inform
+me about Codebar, what you do there, and what their mission is, and stuff like that.
+For sure.
+So I'm still a new coach too.
+So I started in about November, December of 2021 as a coach.
+So Codebar is basically a series of meetups that, historically, before COVID, happened
+in specific cities.
+So you have one in London, in Berlin, in New York, in Edinburgh, I think there's one in
+Paris too, anyway.
+So in each of these cities, it's a meetup to help people learn to code.
+So people who are learning to code come in with their problem, which could be anything,
+and they're like, hey, can I get help?
+And someone, a coach, will help them with that problem for two hours.
+And that could be anything.
+It could be, hey, I'm doing the free code camp, I'm stuck on chapter three, I'm trying
+to load an image and it doesn't work, and you're like, okay, sure, we'll fix that.
+Or it could be something, sometimes it's way more involved and like, hey, I already have
+this React app, but when I do this thing, I'm trying to query this thing and everything
+breaks.
+And it's like, okay, cool, let's have a look at this.
+And they try to pair coaches with skills.
+So when people register in advance, they're like, hey, I need help with Python.
+And we're like, well, and Codebar tries to make sure that there's someone who knows Python
+in the room, which is easier.
+Even though you can usually figure it out, because as an experienced coder, especially
+if it's an easier problem, sometimes it works across languages, but they try, Codebar tries
+to optimize the coach's skills with what the student needs.
+And historically, it was very much oriented towards underrepresented people in the industry.
+So yeah, the way I coach is on Discord and on Zoom, so you could just rock on to, I think
+it's pretty much open to any cities now.
+Like I've coached in Berlin, I've coached in London, even though I'm in neither city.
+A bunch more meetups are happening in person now.
+So I've been coaching less, plus also other engagements made it difficult.
+But yes, so that's the idea.
+That's interesting.
+So it's almost like this group of mentors that is just available to you when you get
+stuck.
+Yeah.
+That's really, really cool.
+And sorry, and they try to pair one to one all the time, at least.
+So sometimes you might get two students.
+It happens when there aren't enough coaches, but usually they're really good at making
+sure that if they got 10 students, they'd make sure we have 10 coaches.
+That's really interesting.
+I'm definitely going to have a look at that a bit more.
+That sounds like a good fit for our community, for sure.
+Yeah.
+Okay.
+I want to dig into something different, maybe similar, maybe different.
+So when you announced that you were joining Contentful, you pinned a tweet.
+And part of that tweet is that you mentioned that this was after the long break.
+So it made me curious about what was the reason behind that long break?
+Because let me preface this by why I find that interesting.
+I personally have had many, many struggles and continue to do with mental health in general,
+anxiety, things like this.
+And sometimes it gets to you.
+It drains you.
+It makes you tired and you do feel like you need a break.
+Not always possible.
+Sometimes you have to grin and bear through it, but sometimes you're either going to take
+that break or your body's going to force you to take that break in unpleasant ways.
+So I was curious, and I've spoken to other people also where burnout's been real.
+Like Ian Douglas is somebody I spoke to that almost quit tech because he was so burned
+out.
+So I was curious if maybe there are echoes of that in the story.
+So if you want to dig into that.
+Yeah.
+Yeah.
+I'm lucky.
+It's never been like a forced thing.
+I was getting tired.
+Like, I mean, let's be real.
+Like the world is upside down and has been for two years.
+So that doesn't help.
+But yeah, I was, yeah, I feel like I just wanted to change.
+So before, as I said in the intro, I was like a regular front end developer and I wanted
+to become a developer advocate.
+So I applied to a bunch of places and then luckily Contentful said yes, which was fantastic.
+And yeah, so in between leaving my old job, which was very hard, like I really liked my
+team and everything, but I felt like I needed to change.
+I was getting a little, yeah, a little tired of the whole thing.
+Like, yeah, just like, yeah, like mental health wise, it became harder.
+I feel like they're probably, as you said, just like accumulation of the, you know, the
+last two or three, the last two odd years.
+Yeah.
+So in between, I made sure to have some time off in between my last job at the Wall Street
+Journal and Contentful.
+So yeah, so I had about five weeks ish between, I don't have the dates right, but like about
+five weeks between.
+So it's not that long.
+It's long, especially if you compare it to like in America where they have like two weeks
+and that's it.
+That's it for the year.
+That's all you take off.
+But yeah, so it's long, but it's not extremely long.
+And during those five weeks, four or five weeks again, I went on the big road trip around
+the UK and it was fantastic.
+So yeah, that's how it, there was a really clean, may not be that long a break, but it
+was a very clean break because I didn't basically didn't, almost didn't code for like three
+weeks and it was just a completely, a complete change in that environment as well.
+Okay, cool.
+Thanks for sharing that.
+So I think in closing, and this one leads kind of nicely into it, why do you enjoy doing
+outside of the tech world?
+I know a lot of times the answer is I still do tech.
+If that's the case, that's fine, but I'm curious, like what do you do when you're not doing
+tech?
+Yeah.
+Yeah.
+So there's, like everyone else, I really like like traveling.
+I'm lucky that I get to do a lot more of that now as a developer advocate, which is fantastic.
+I like things to do with music, as I alluded to earlier with like my failure to be good
+at any musical instruments, so like playing it, listening to it, attending concerts.
+Another thing is, I guess, kind of like your answer a little bit is that I just like learning
+about things on the internet in general.
+So it's not necessarily coding.
+Like I have a side project like everyone else, let's not be, let's not lie there.
+Sometimes I have multiple and you know, it happens.
+But yeah, I just like getting into like random topics, like in like I think for about like
+maybe about a year now, I've got really into like musical theater and I just learned everything
+as much as I could about it and like learning the history of it, how different like composers
+like relate to each other and like just musically also was just extremely rich discovery.
+So like stuff like that, I also really like, which is kind of like doing tech a little
+bit, but not exactly.
+Yeah.
+Yeah.
+What is it about travel that you enjoy?
+I mean, it's a pretty, I guess, standard answer is like you're, well, it takes you out of
+your environment, which is great also for like, you know, it's for your mind and everything
+else.
+Like that's really good to, you know, to see other things and it's just, you know, learning
+about like and seeing just how other cultures work, how, you know, every, you know, every
+country works.
+You can, you also see a lot of blind spots, which is interesting of like stuff you didn't
+think about when you come to another country, you're like, oh my God, they totally fixed
+it.
+Or like, oh my God, this thing is absolutely terrible in this country.
+How did like, we figured this, we figured this out 10 years ago.
+How come this country hasn't, but like, it goes both ways.
+And yeah, it's just, it's just really good for, you know, just your mind and also just
+seeing different things, like, you know, in like seeing completely different nature and
+like different people, customs, it's just so interesting.
+Yeah.
+I agree.
+I wish I didn't have as much of an impact on our carbon footprint as it does.
+And I mean, sometimes, sometimes you can find beauty and uniqueness within your own country
+and you don't have to necessarily get on a plane, not, not unless you're driving an electric
+car.
+It's not like cars don't have an impact on, but I think they have less of an impact, less
+of a carbon footprint than a, than a big ass airplane.
+Oh, thank you so much, Alvin.
+This has been really a good conversation.
+I enjoyed it and I'm kind of sad to be, you have to end it a little early, probably, probably
+get going for a while, but yeah, I am going to die without electricity and internet for
+a while.
+So there's a problem that we haven't solved that a lot of other countries have solved.
+Yep.
+But yeah, thank you so much for, for taking some time out of your day to speak with me.
+I really appreciate it.
+And I'm going to look into a lot of these things that you've mentioned and I'll be following
+all your work on Twitter and Polywork and everywhere where you are.
+Thanks so much.
+No, thank you.
+And I'm happy to be on again, you know, to have another, another chat for sure.
+Thank you so much for having me.
+For sure.
+It's a huge pleasure.
+Thanks, Alvin.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star, and leave a review for us in your podcast
+feature of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at networdmysindium and join the community
+on Discord.
+All the links are available in the show notes.

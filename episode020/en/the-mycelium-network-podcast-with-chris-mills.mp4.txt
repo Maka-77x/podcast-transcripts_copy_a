@@ -1,0 +1,703 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey Chris, welcome to the Mycelium Network Podcast.
+Hey man, thanks for having me. It's good to be on here.
+Yeah, thanks. I know you a long time. We knew of each other, I think, for a very long time,
+and then we finally met, I think, when you started at Mozilla. Was that it?
+I think so. It was 2013, although I seem to remember that we were talking about web
+standards and JavaScript and stuff way back when I worked at Opera, because if you recall,
+when we did the learning area on MDN, that was pretty much the kind of the next step
+from my original educational project, which was the open the web standards curriculum at Opera,
+and I got you to write some content for that back in about 2008 or 2009 or something. So,
+you know, it's been a very long time. I think the number of grey hairs in our beards are testimony
+to, you know, all of the blood, sweat and tears that we've poured into this industry.
+Yeah, that's for sure. That's for sure. But it's still a good, I think it's still a good industry
+to be in with all the problems that it has. For sure. So, to get us started, tell us about
+who is Chris Mills, what you've been up to, what got you to where you are today, and, like,
+maybe a little bit of looking forward as well. Okay. So, like all of the best people in the
+open standards community, I didn't do any kind of formal education in development or programming
+or computer science or anything like that. I was always super interested in technology
+from when I was really young. I do remember doing my first bits of programming on a ZX Spectrum 48
+plus back in probably the late 80s or something, and that was good fun. Although I do remember
+like the sheer amount of lines you had to write just to, like, create, like, an eight by eight
+square, you know, an eight by eight pixel character on the screen, and moving it was really,
+really challenging. And, you know, you didn't have, like, clever things like events and
+moving in terms of mouse cursors and things back in those days. But anyway, this was not intended
+to be one of those geekier than thou conversations. But, you know, it's been a bit of a
+challenge. But yeah, so at school, I always loved science, and I ended up doing a degree in
+biochemistry. And just towards the end of that, I started getting really interested in something
+called bioinformatics, which is the study of atoms and molecules and other such things with the help
+so we used to download these great big data files off this database in Switzerland, which were like
+the exact structural information for different molecules. And then you used to have a local
+program which would actually render that to show you like a typical kind of, you know, ball and
+socket diagram. And you could do things like you can go, okay, well, if I change this amino acid
+in that protein chain, it's got different, you know, attraction, and it's got different positive
+and negative attraction values. So how does that change the way that the whole protein folds up
+and structures itself? So stuff like that was quite fun and geeky and interesting. But yeah,
+didn't really have much luck getting a job in like chemistry or biomedical science type stuff. So I
+decided to go for a job at a book publishers instead, and it was Rocks Press. I don't know
+if you remember those folks, but back in the day doing books about ASP and ASP.net and stuff.
+It was those red book covers with the really ugly author faces all over the covers.
+But yeah, that was the place I ended up and did a bunch of books about
+web standards and about all sorts of stuff. It was there that I met Bruce Lawson, who has been
+one of my long standing partners in crime in the open standards industry. And we started the
+Glasshouse imprint, which was one of the first publishing imprints dedicated to open standards
+books. And then around 2003 or so this is Rocks Press went horribly bankrupt, and I ended up
+working for these nice folks called A Press over in California. And it was there that I ended up
+becoming managing editor of Friends of Ed. I don't know if you remember Friends of Ed at all, but
+they were. I do, I do. Yeah. Originally did books about Flash and Photoshop, but we kind of turned
+it into turn that around and turned it into a an open standards book publisher. So did a whole
+bunch of books on HTML and CSS and DOM scripting stuff. We published Jeremy Keefe's first book on
+DOM scripting and a number of other great titles. But about that time, I felt it was time to move
+past the publishing industry. And my first proper job in web standard stuff was an opera.
+And I do miss those days back with folks like Bruce and Patrick Lauker and
+Henny Swan and Dan Davis doing open evangelism. It was an interesting time that because
+opera never really had much of a market share, but we seem to have a disproportionately large voice in
+terms of doing standard stuff. And then after a good few years there, it was time to go to Mozilla
+and work on MDN, which is where it started to get really interesting, I think. And yeah, at that
+point, I spent eight years working on MDN, doing lots of content on lots of different web APIs and
+CSS stuff. After a while, it felt like time to move on. This is getting really boring, isn't it?
+And fast forward a couple of years, and yeah, I ended up at the point where I wanted to start
+something new again after doing a couple of years at Okta, doing identity and access management
+documentation. And at this point, I've started up my own company called Mills Docs Limited, and
+I'm now an independent documentation writer specializing in open standards, doing as much of
+that good stuff as I can. And funnily enough, one of my first clients is Google, who have got me back
+writing stuff on MDN again. So it's kind of a bit of a kind of a weird boomerang situation, but I'm
+very happy with where I've ended up, because also it means I get to talk to nice people like yourself
+a bit more often. So yeah, it feels like a good place to be right now.
+That's amazing. That's a great story. And a lot of that stuff I have no idea about.
+That's quite the leap from bioinformatics and protein folding to book publishing.
+Did that kind of just like happen? Was it intentional? Was there an interest in that always?
+So when I was at university, I can remember sitting there messing about on things like
+GeoCities and MySpace playing with HTML and CSS stuff. But I never really had it in mind that I'd
+do that stuff for a living. It was more a case of when I left university and went, oh crap,
+I need to get a job now, the government aren't paying me to sit around in my student flats,
+and even flat anymore. I thought, what the hell am I going to do? So I looked around,
+I applied for a few jobs doing biochemistry related stuff, and realized actually,
+it's really hard to get a job around here because I don't have a PhD. So I went,
+ah, what the hell else am I going to do? And then I think by chance, I saw an advert saying,
+trainee technical editors wanted to work on books about programming and HTML and stuff.
+And I thought, oh, I know what HTML stands for. So I might be in with a shot for that job.
+And it was cool, because whereas the kind of science bodies that I tried to get jobs with
+in stuff related to my degree were kind of very formal, you know, had to go in there in a suit
+and be quizzed by lots of panels of scientists, this was a much more chilled out, relaxing kind
+of outlook. I can remember when I got my interview at Rock's Press being told, turn up in casual
+clothes. And I was thinking, whoa, is that like a trap? Am I going to turn up and they're going to
+be like, hey, you're not wearing a suit, screw you, man. And I was like, I'm not wearing a suit,
+you're not wearing a suit, screw you, man. But I turned it up. I turned up wearing, you know,
+ripped jeans and a Sepultura t-shirt and got on very well with them. And they were like, hey,
+this guy seems all right. We'll give him a job. So yeah, it was pretty much partially an accident
+and partially just like, hey, this sounds cool. Let's try this out. And it turned out being
+a really good direction to go in. So that's brilliant. Yeah, it is one of the things I
+also enjoy about tech is that it is for the most part, I don't know, I fit more with the
+people in tech. I think it's what it boils down to. I wouldn't have made it in a corporate like
+wearing a suit kind of thing. Like even in school, I constantly got into trouble because I wasn't
+wearing a tie, but I was wearing a jersey. And it's like, you have to wear the two together.
+And I was like, that doesn't make any sense. And I'm not going to wear a tie.
+So yeah, the fact that I don't have to wear a tie and a suit to do my job,
+I think is a good thing. But you mentioned that you have now gone the independent route and started
+Mills Docks, which by the way, I love the name. And I'm always super excited when I hear people
+doing this. It's very hard. It's scary and all these things. But I think the potential for
+entrepreneurship and for startups and these kinds of things to create opportunity for others down
+the line is what excites me about it. And that is why I'm doing what I'm doing with my company,
+why I decided like, I have this company name that kind of started out as a way to be able to keep
+working for Mozilla. But then I was like, well, wait a minute, maybe I should try and do something
+with this. I've built up so many connections with so many people. I've been privileged to be able
+to do that through the work I did or still do at Mozilla. And I have this burning passion for
+open web, open standards, accessibility, all this stuff, and sharing my knowledge and stuff
+with other people. So I was like, can I somehow take all these things and build a company around
+it? And I've had some failed attempts, but I think it's because I was trying to do, I wasn't doing
+what I wanted to do. So what I wanted to do and what I was doing, they were kind of at odds with
+each other. But I think I found my way finally during the course of this year. But enough about
+me. I'm curious about what made you decide to take this leap of faith and what is your hopes
+for Millstocks? So it's something I've wanted to do for at least a decade, but I've always kind of
+had the excuses and the fears coming up in the back of my mind. You know, it's like the main fear,
+of course, is, am I still going to be able to find work to pay my mortgage, you know,
+going to be able to find work to pay my mortgage and feed my family? Or are we going to end up,
+you know, painting a colourful cardboard box on the side of the road in three months?
+And it's pretty much purely that fear that kept me from doing it for the longest,
+longest time. And looking back on it, you know, I keep, I've said to my wife a couple of times,
+you know, I wish I'd done this years ago, because it seems great. And she's just like, but you keep
+saying that, but you can't say that, you know, because the right time arrives, and it's the right
+time, you can't sort of say, oh, well, the right time would have been 10 years ago, because it
+obviously wasn't because you didn't do it. But I suppose, like, on that note, I think the main
+thing to try and do is to try and make sure that you've got at least a couple of months of money
+built up so that if everything does go wrong, you can still pay the bills and things just for a
+little while while you're figuring it out. The other option, which I also know that some people
+have done in the past is pretty much, you know, work two jobs until you get your own business
+like going enough and buoyant enough to be able to then just jack in your regular day job.
+I remember talking to some folks like Mark Bolton a long time ago about that,
+and being really fascinated by, you know, the idea of how you can have enough tenacity to survive two
+jobs, you know, like working your day job, and then like working your own company through the
+evening and into the small hours to try and I think, I think that's a great kind of vision.
+And it's, I'm really impressed if anyone that can do that. But I think really, I'm just too old and
+knackered to do that now, you know, I'm getting old, I just can't cope with working 16 hours a
+day anymore. Although I have done it from time to time in the past when there's been crunch periods,
+don't get me wrong, we all have, but it's not a sustainable, sensible way to try and live your
+life at any age, really. I think the next thing to think about really is that the best time really
+is when you can kind of, again, we have advantages, you know, we have immense privilege in the
+opportunities we've had for a whole number of reasons. And, but I think anyone can build up a
+number of connections, regardless of what walk of life you come from. You just have to have been
+around for a while, had a little bit of luck, met some good people, but really the best way to do
+that is to go out there, be happy and friendly and helpful and just be positive and kind in as many
+situations as you can, because that kind of thing really does get paid back to you in droves.
+And then, you know, once you've done enough of that stuff for a few years, you'll then
+start to see opportunities, you know, I think that's one thing, regardless of how much crap that
+life throws your way, just never stop being kind and empathic and helping others, because
+I really think that stuff will come back eventually, even if it doesn't seem like it sometimes.
+You know, I sit here saying that, but I'm white and male and incredibly privileged.
+But it's not as if I haven't worked hard to get where I am, you know, I've done a ton of work
+for a very long time. And I think that stuff has resulted in me eventually being in a situation
+where I have enough contacts that a couple of really good contracts were brought up through
+the contacts I had, that allowed me to think, hell, this stuff will be what I need to last me
+at least a year or so, you know, and this is the time that the time is now right to start my own
+company. So that's that's kind of how I eventually arrived at that. It wasn't as if it was a great
+plan for a long time, but just in a in about maybe a six month period, I kind of went from
+going well, I feel like I want to move on from my current job. A couple of jobs that I applied for
+didn't really work out for a couple of reasons. And then from that I kind of went well, there's
+the combination of that and a couple of opportunities that are looking likely and let's
+just take that chance and jump kind of thing. It always feels frightening, but you know,
+I'd like to stress to anybody listening that once you've done it, provided that you're hard
+working, and you've got integrity, and you've got a few contacts, and you've just got that
+discipline to really work hard to begin with, and really sort of get all of that stuff built
+up that you need to make a good go of it, I think you should succeed. And after a few months,
+you'll be sitting there like me thinking, why the heck didn't I do this like years ago?
+So it feels good. I mean, it particularly feels good to hardly attend any meetings anymore,
+and to be your own boss and to really be able to just decide what you want to work on all the time.
+And yeah, I think the other thing for me as well is that, you know, I did a whole bunch of management
+in my employed career. But I kind of felt like I wanted to take a bit of a rest from that and
+just sort of get back to individual contribution again. I think one of the key issues behind
+management is just making sure that you understand the problems that all of your direct reports are
+going through and be able to understand what they're doing. And to do that, really, you have
+to have a bunch of experience in actually doing the job yourself. But I started to feel like I was
+getting a bit too far away from the job itself. And I wanted to get back to that. But yeah,
+at the end of the day, I just love discussing and writing great documentation. That's what
+I'm here for. And it feels great to have got back to a much purer form of that.
+And the other thing that you asked about was future plans. I think what I really want to do
+is, you know, I'm working hard for the first year or so just to build up some great connections and
+to do some great work. And also, you know, just as importantly, to build up a bit of cash in the
+company so that I can start to then chill out a bit after that. But I think my longer term plans are
+I want to get to the point where I don't have to work quite as much every week. So
+I can hopefully start to spend some time teaching some people, mentoring some people and start to
+give back to the community that way. One thing that I've always found a bit sad in the companies
+that I've worked for, you know, you get a lot of great people, you get some companies doing some
+great work, but there rarely seems to be that much time for mentorships and to actually get juniors
+on board and skill them up and help with that kind of thing. Companies always seem to want stuff done
+really quickly. So they always hire really experienced people and pay them loads of money
+to do the work really fast. But it'd be great just to chill out a bit and just take that sort of
+more chilled out longer term view of, you know, let's do this a little bit more slowly, but
+actually skill up some people into the bargain. That's really what I want to head towards eventually.
+Yeah, that's great. I love that. So when I get somebody on the podcast, I spend some time like
+researching on them as much as I can to find topics that I know they might be interested in
+talking about or things that I didn't know and I'd like to learn more about stuff like that.
+You made it really easy because you sent out a tweet a while back in response to Bruce Lawson,
+I think it was. And it's like the question was, what can you talk about with any heads up that
+you're going to have to talk? And you posted a couple of topics that you can talk about without
+being prompted. So I want to dig into some of those topics. The first one I find particularly
+interesting because I think people don't really know what technical writing is. And I think there's
+more people that would actually find it super interesting and we love doing that. But because
+I don't know what it is, they might think that, oh no, these are like people who've gone and done
+doctorates and PhDs on how a computer functions. I will never be able to do that.
+So can you, from your perspective, break down what is technical writing and what does somebody need
+if they are thinking like, okay, this is starting to sound interesting to me. What is the road
+you follow to becoming a technical writer? Oh, that is a really interesting question.
+I mean, that could be a very short or a very long answer. I suspect we haven't got time here to make
+it a really long answer. So I'll try and get it somewhere in the middle. So I guess my short to
+medium length answer would be that I think with technical writing, there's two main parts to it.
+One of which is investigation and research. That's one thing that you've got to have an
+aptitude for. And the other thing is being able to break down complex subjects and explain them
+clearly to people to help them understand them. So that's really the two sides of the story.
+So with everything that you need to write some documentation about, you first need to do a bunch
+of research. You need to go, okay, for a start, what's the target audience here? What's the target
+audience for the technology or the product that I'm about to write something concerning?
+Is it a developer? Is it a DevOps person? Is it a designer? Is it a variety of different people?
+Is it maybe even someone that's not very technical, someone who has no technical knowledge
+and wants to sort of get started in this particular technology or field? There's also other things to
+consider such as what is the prerequisite knowledge? Is this for complete beginners or is it for
+advanced level people who just want to get better at stuff and they already know the basics?
+What are the other technologies that you need to already know before you start using this
+particular thing that you're writing about? So there's all of that stuff. When you've got that
+figured out, it's usually a good idea to sit there and put yourself in the mindset of that person
+that you're writing this document. Think to yourself, okay, what are the questions they're
+going to have about this thing I'm writing about? What is it that they're going to want to know?
+At that point, you can start to think about what to write about the actual technology,
+and you've got to scope the work carefully, as you do with any task that you're doing,
+whether you're a developer or a bricklayer or a plumber or whatever. Think to yourself, okay,
+so I could write all of this stuff about this technology, but what do I actually need to do
+first? As with any complex task, it's a good idea to break it down into different phases to go,
+okay, first of all, I'm going to write down, I'm going to create just the quick start for this
+particular technology, just the one or two articles that help someone get into it in 10 minutes flat.
+Then after that, I'll start to do further phases to create reference material which explains
+everything you could possibly want to do and allow you to look up things or
+other advanced tutorials to write. Once you've got the scope of the work, you then need to go
+and start investigating exactly what do I need to put into each of these documents that I'm going
+to write. Usually, this involves a lot of hard self-reflection where you realize how little you
+actually know about this stuff versus what you thought you knew about it. That's one of the main
+reckonings to come up against, and you just have to go through it and figure out what you need to
+do. I'll give you an example, so today I was attempting to create a load of documentation about
+some new options to do with the Screen Capture API on MDN, and I sat there and I read through loads of
+blog posts to help me just to understand the API in the first place because I'm not hugely familiar
+about screen capture, and I was trying to figure out what I was going to do with the screen capture
+to help me just to understand the API in the first place because I'm not hugely familiar with it.
+Then I went through and looked through the Google Chrome source code to try and figure out
+exactly which bits of it they implement and exactly which bits they don't, and which classes
+are all of these different properties and options that I'm wanting to write about? Which classes
+are they hanging off? What constructor are they involved with? Where do I need to put this
+documentation on the site? And then another thing I tend to do at this point is that I write myself
+a great big research document just to record all of that information so that I can then look back
+on it and go ah that's what I need to write about. Another thing at this point to do which I think
+is a really good idea is start off by writing one or two paragraphs about each thing that you're
+trying to document just to make sure you understand what it is that you're writing about, because if
+you can't explain to yourself in a few words what you're going to be writing about you sure as hell
+won't be able to do that for other people. So I think I'm starting to waffle a bit so I think
+I'll leave that in terms of the research and investigation part, but then onto the actual
+writing of the stuff. When you're writing this involves of course a decent amount of aptitude
+with language, whichever language it is that you're writing documentation in. You need to be able to
+explain things really clearly. A general good rule of thumb is that you need to you need to write
+so that you're trying to explain this to like you know maybe like a high school kid or something
+like that. You know there's going to be quite a lot of complex terminology that you're going to
+need to use, but you should make sure that you only use the term the complex terminology that
+you have to use. Make sure you explain to it, explain the stuff you're talking about in as
+clear language as you possibly can. Don't use jargon unless you absolutely have to.
+So there's the language part of it. I think also there's the style part of it. You know you need
+to make sure that the stuff is grammatically correct in terms of the language you're writing,
+but you also need to add some style and some fun into it to make it so that not only can it be
+understood, but it also makes the technology exciting to learn and interesting. It makes
+people want to actually read the stuff you're writing about. I mean that comes with practice
+and comes with quite you know a few years of building it up. But yeah I think I'm going to
+stop there of the writing as well because I mean I really could talk for hours about this stuff,
+but yeah really investigation and writing. Notice that I haven't mentioned programming ability or
+web development ability or anything like that. I think really that stuff is all incidental to
+the stuff that you're going to be documenting. So obviously it really really helps and you do kind
+of need to be able to understand the technologies that you're writing about. But in a way that's
+kind of like a background detail I think to just the first two which are really the more important
+focus. So you'll be able to pick up the technologies gradually as you go along,
+but your focus should really be the sort of the passion to investigate
+and explain and to teach the stuff that you want to write about.
+I hope that answered the question. Yeah no it totally did. Do you think it can be a good
+way to learn? Like if you, not pretend, but if you play the role of a technical writer in your own
+learning journey and so as you learn stuff you write about it in a way that maybe helps you
+understand it better yourself? Totally. I think that's another great use of
+blogging or tweeting as it's kind of become, although hey maybe not for much longer.
+But yeah you know I think it totally helps. Like I've had, I've talked to loads of people
+about this, like I remember talking to Estelle about this who now works for OpenWebDocs documenting
+stuff on MDN and she was kind of saying that you know before we contracted her originally to work
+on MDN she was saying hell this is great you know I really enjoy playing with technology,
+I really enjoy writing about it on my blog and explaining it to other people so that they can
+use it and it sounds like now you're going to basically pay me for something that I really
+enjoy doing anyway and it's kind of like well that's totally cool to be able to get in roads
+but I mean the salient point there is that I think that's basically what her and a lot of other
+people have done you know it's like well I want to understand this technology so rather than just
+writing a bunch of code examples and messing about with code which is, let's face it that's
+also a great way to learn you know don't just stop there, create a code example but then also
+explain how that works in a blog post and it helps you understand it even better so yeah I would
+absolutely agree with that. Cool yeah I agree I think it's helped me differently and it still does
+if I learn something new I often find it good to after the fact kind of try and write what I learned
+or how I got to the answer of like this is the problem I faced this is how I got there
+and then fill in the gap. Not only now do I have an artifact that I can look back at
+but I have kind of proved to myself that I do understand it actually.
+I think yeah absolutely I think one problem that does tend to come up from time to time is
+the kind of scoping of the writing and the examples so you know you can if you want to
+document a single property then you can do that and the code example might just be like a single
+line of JavaScript but then you've got to think about well actually does that help me use this
+in the real world what context do I need to use that in to actually make real use of it in a real
+application and what scaffolding code has to sit behind it before that's actually effective and
+useful and then you've got to kind of play with the scoping and figure out okay you know that's
+just one line of code but to actually make it useful it's got to sit inside this giant
+application that does all of this other stuff in the background but in terms of teaching someone
+how to use these individual properties you can't show them like an entire application's worth of
+code on every page you've got to kind of structure the examples so that you're making each individual
+piece understandable while still kind of providing that useful real world context in how you're going
+to use it so that's a bit of a balance that you need to achieve as you as you go through technical
+writing and it's something that you just learn to do as you go forward you know there's
+there's one one danger that I see people do a lot in technical writing is too many kitchen sink
+examples so too many examples that show you how to do everything when actually you're just trying
+to show someone how to how to use one single property you know the the best code examples
+for technical writing just show how to do one thing well but they also show how show it how to
+do it in a way that's transferable into the real world yeah yeah I I think writing good examples
+is really a art form because I oftentimes the the examples you see people use aren't really
+connected to any real world use case and so it's almost like you're learning something in the
+abstract and you're so now you kind of understand on a technical level better what this thing is
+but you still find it a little hard to understand how do I use this to solve an actual problem so
+I think being able to connect those two things is really important yep no absolutely I think
+the second biggest mistake I always see in code examples for technical writing is when people write
+a code snippets that's really really clever but really hard to understand you know so it's like
+fair enough you're a fantastic programmer this thing that I wrote in 10 lines you've
+shown me how to do in two lines but actually my thing is a lot easier for people to understand
+what's actually happening you know it's like you know when I when I return the value of that
+property what object does that return and then I need to use a method that's hang that's hanging
+off of that particular object and you know usually and you get some sort of chain like
+that and you go well actually even though you could do that with one line it's often helpful
+to sort of separate that out into the individual steps across three or four lines just so that
+people can actually grok the chain of the chain of events that's a terrible term which will
+be completely misconstrued the the different happenings that's going from start to finish
+at that one line because otherwise it's just too difficult to get it if you've only seen that for
+the first time yeah I completely agree so um I think well I don't think I know because I've
+heard this many times and experience with myself that documentation is often the what makes the
+difference between a successful open source project and a failure and you've been involved
+in quite a number of open source projects that has really good documentation for example web
+docs mdn web docs what has been some of the takeaways some of the stuff that you've learned
+that you think is key to running a successful documentation project be it for an open source
+project or closed source doesn't really matter but more of a focus may be on the open source side
+okay um I think one of the number one important things is having really really clear processing
+guidelines because if you don't have clear guidelines then you just end up with really
+really bad inconsistency everywhere and it's okay if you've only got 10 pages but when you build
+it up to a behemoth of a sort of size of mdn you then realize that you've got so many documents
+so much documentation debt sat there that it's going to be nearly impossible to fix it all
+and then it requires some passionate dedicated people to spend hundreds of hours fixing stuff up
+just to get things not even particularly being that much better but just being consistent
+but then again you know it's not so it's not so obvious what the improvement is when you just
+fix a small number of those kind of paper kit paper cut inconsistency fixes but then when you
+start to look at the whole project from a much higher level you then realize actually this is
+just improving the quality and the polish of this thing so much but really it starts to become the
+difference between the project living and dying um so in terms of guidelines this can be things
+like you know exactly how do we take an image what size does the image need to be does it need to be
+centered on the page or left aligned do i need to make sure that i capture it at a high enough
+resolution so it doesn't start to look really pixely and crappy on high-res screen devices
+all of these kind of things well what what kind of language guidelines do we use do we
+do we have sentence case capitalization on headings you know all of this kind of stuff
+it's just good to keep that stuff in mind and make sure you try and apply it
+as consistently as possible now i also mentioned process so particularly in terms of things like
+open source projects process is things like okay if i've submitted submitted a pull request
+who's responsible for reviewing that how long can i expect to wait for a review
+what am i expected to do to make it as easy as possible for other people to review
+um these kind of things are also very important you know and not only is it good to have process
+and guidelines to make the work better itself and the flow of work better but it's also great for
+covering covering your own back as well if somebody starts to complain and say hey well
+that thing's like that you can just you can just point to the process doc and say hey that's
+because it's outlined in the process doc or it's outlined in these guidelines rather than
+rather than just kind of making stuff up on the fly every time you get asked that question which
+can lead to bad feeling when people see that you're making inconsistent decisions or
+doing things that look like you're favoring one contributor over another contributor
+so i'd say all of that stuff is really really important
+it processes also when you start to get something where you get the number of
+contributions that you do on mdn web docs and you know speaking to you as the community manager
+of mdn web docs you know only too well just how much work it is to do that and try and manage
+the community and manage who's doing what issue who's fixing what problem um you know process is
+also hugely important for just trying to make sense of an enormous great big volume of issues
+and pull requests flying at you all the time um so i think those are the two main things really
+um in terms of other things that are important to think about for open source projects um i think
+also part of the process and really this is coming into governance you need things like code of
+conduct to make sure that people are treated as fairly as possible and anybody that comes
+into the community and is a bad apple and starts being unconstructive or or you know god forbid
+abusive um is dealt with using a firm but fair process to make sure that you can keep positive
+feeling up um i think also this comes back to mentorship as well you know um as well as making
+sure that everything's fair for people you also need to make sure that there's good beginners
+documentation to help people get started but then also people to help mentor people and skill them
+up so but they can start doing things more autonomously i think the biggest fear with
+open source projects is you sit there and you go okay there's three or four of us that are
+really autonomous and are getting loads of stuff done but if we stop and start spending some time
+mentoring people instead that's going to take up all of our time so how on earth is all of the work
+going to get done it's just going to grind to a hole but you need to have a balance don't you
+need to carry on doing the good stuff but you also need to spend maybe a little bit of time skilling
+people up so that you can then start to see the benefits of that later and then of course as
+people start to move on from that project you need to make sure that you've still got people
+to carry on the good work there and it doesn't just grind to a hole
+yeah so yeah i think that's good advice yeah i think that's the main stuff that i've learned from
+open source stuff i think a lot of those are all very good points a lot of big more enterprisey
+companies could really benefit from those kind of open source project philosophies i've seen too many
+kind of companies which are doing their documentation for their project on github
+but mainly just because you know it's convenient to use something like a static site generator
+type setup to publish your documentation but then failing to take advantages of
+all of the kind of good open source magic that you could get by just opening up that documentation
+and encouraging outside contributions you know if you've got your stuff on github but you're
+not allowing external contributions then hell what you're doing you know it's just it doesn't
+make any sense not to really yeah that's that's very true do you have any like examples of
+either companies or open source projects that do this really well
+well aside from the obvious you know mdn which is contributed to by loads of companies
+um i'm just trying to think um i'm trying to think of a good example of like a company which is
+you know pretty much a closed source product but it also takes lots and lots of contributions from
+the open source community in terms of its documentation
+um amazon from what i can tell seem to be quite good at doing that in terms of aws documentation
+i've got a few friends there and they seem to have quite an active kind of
+um contributions from the community um i'm not so sure if it's worth really mentioning
+google and all of the community contributions they get to their docs because i mean that's like an
+open source project anyway you know if you look at chrome it was an open source project
+yeah yeah i'm drawing a bit of a blank i'm afraid but i'll have to think about other good examples
+have you looked at how getup does their getup docs project because that's been open source now
+since mid last year i think oh no i've not really looked at that so much
+cool yeah it'd be interesting to know your thoughts on that one um because we have somebody that we
+mutually know that works on that project now uh peter benkson he works at getup on the getup docs
+project so um you know he's taken a lot of the learnings from mdn there and he's done a lot of
+um you know he's taken a lot of the learnings from mdn there but he's also said that
+there's also some stuff they do that web docs don't and um there's actually a quite a lot of
+uh cross-pollination opening at the moment between uh web docs and getup um to learn from each other
+especially now that their docs project is also open source and they are they're starting to
+they're starting to experience some of the problems that we've already had and sort of kind of solved
+or are more um used to or we're almost at a point where we are kind of solving it uh but they know
+the technology we use much better than what we do like getup itself so you know they can help us
+again from that perspective so it's quite interesting um how that that kind of relationship
+is building up and being mutually beneficial yeah that's that's absolutely great like i'd
+completely forgotten that peter had gone over to github but yeah i do remember that now i will have
+to look into it yeah yeah interesting to know what you think so um you kind of touched on this when
+you mentioned stuff like code of conducts and things like this but um a slightly harder topic
+i guess um challenges facing the tech industry like you've been in tech industry quite for quite
+some time the tech industry has changed but also stayed the same in many many respects you've worked
+at everything from like big open source kind of companies like mozilla but also at octa now recently
+um what have you found in your career so far to be like challenges that we just haven't dealt with
+with properly yet i mean one of the things that i find fascinating is to learn that of all
+contributions made to open source only 13 percent is women and only 17 from africa it seems
+disproportionate and i wonder what your thoughts are on on those things it's really hard isn't it
+you know the whole um equal opportunities and dni stuff is something that i do care about a great
+deal and i would love to be able to help to fix this problem um but i don't think it's something
+that can be very easily fixed um you know we have we have a society that's largely set up so that
+that it advantages men and white people you know let's just you know and that's me speaking as a
+white male i'm i'm painfully aware of that but then again at the same time i'm not because i think if
+you don't suffer from prejudices that come from not being white and male you you don't notice them
+and you can't even really imagine what effect that has um one thing that i would love to do
+um going back to the idea of mentorship is deliberately give mentorship opportunities to
+non-white non-males um just to basically try and give a bit back and to help with this whole issue
+because you know that the number of times i've heard people complain about oh well you know
+it's ridiculous like the amount of effort that's expended expanded on you know trying to give
+trying to give opportunities for like you know non-whites and non-males haven't they had enough
+and it's like yeah but actually as white males we get those advantages every day of our lives
+by default as soon as we wake up without even trying and that's why we can never stop thinking
+about this stuff and that's why you know in my own small way i want to do as much as i as much
+as i can as i can about this and really i don't think this is a subject i can say too much more
+about because i'm painfully aware that as a white male i don't understand it enough yet
+and i don't think i'll ever understand it perhaps enough but i can just understand it as much as i
+can being in the position that i am yeah so yeah you know yeah i don't even know if it's
+i don't even know if it's got particularly that much better in the 20 plus years i've
+been in the tech industry i certainly think it's got a bit better but least companies kind of
+notice it now but then again i mean i was quite impressed with octa when i worked there but it
+seemed octa seemed to be a company that recognize diversity and inclusion challenges but actually
+really try and do something about it rather than just kind of paying lip service to it you know
+having having a lame-ass little black lives matter sticker in the corner of your
+site and then doing absolutely nothing about it apart from that you might as well please
+just don't bother it's just pathetic but yeah octa did do a lot more than your average company
+in terms of having like focus groups for women lgbt people of color inside the company and really
+helping them to get advantages and get opportunities and then they have the whole
+octa for good site as well which is their donations in philanthropy type movement which i was quite
+impressed impressed by as well so yeah they definitely did more than the default but i'd
+like the default just to be more i think that's yeah yeah something that's quite a painful truth
+really yeah no for sure no i agree i i do think there's there's a lot of talk but not a lot of
+action and this is generally a problem that i have with most of these kinds of things and it
+plays into politics we won't go there but um it's always a lot of talk but when it comes down to
+doing doing something constructive about it then you know it just goes quiet it's like oh okay
+cool so we just like talking about it but we don't actually want to do anything about it
+but um yeah no i i mean i've spoken to a couple of folks um who've been directly affected by
+these kinds of things and some of these stories are just terrific it's like you can't believe that
+this actually happens like here's a person sitting in front of you telling you that this has happened
+to me but you still just can't can't wrap your head around the fact that stuff like this happens
+to people like where people are um sexualized and stuff like that just openly in an office setting
+and you're like i don't i don't understand how does this happen uh so yeah it is something that
+i'm also um like uh it i don't know it plays the same kind of role to me as accessibility
+um the accessibility of the products we build but also how accessible we make it to actually
+enter the industry itself and then um how accessible we make it to get employed um i think
+that in itself is a struggle and in africa um trying to build your own business is really
+really hard because i i listened to a talk uh interview with a woman from africa she's from
+legos but she so she built a business in africa and then she built a business in the united
+states and she was talking about the the difference between her experience of these two scenarios and
+what it boils down to is the system in the u.s for all the problems the united states have
+the system is set up for you to succeed whereas in africa the system is set up to see you fail
+and that is a hard truth to acknowledge me being from africa myself i can um corroborate her
+experience you're definitely you're fighting constant bureaucracy and red tape to get the most
+simplest things done like i'm sitting here speaking to you um but i'm actually connected to a big
+battery on the left because our power is currently out and it's going to remain out for the next 30
+minutes going to be out for about two hours and then in four hours from now it's going to happen
+again because our power grid is just unmaintained and the company running it is completely corrupt
+and so you know these are the things you face so you have to luckily i'm in a position where i can
+go out and buy that expensive battery to allow me to be able to do this while it's pitch dark around
+me um but not everybody is um a lot of people in this country are losing their jobs having to
+close their companies simply because the system is set up for them to fail um and so yeah that
+that's a very hard thing so for me from my part that is why stuff like accessibility is so important
+to me because i know how hard it can be to do the most simplest thing and if i can do something to
+make it a little easier for you to do get something done then by all means i think it's my responsibility
+to do that absolutely absolutely i think um accessibility is you know just from a more
+technical perspective is also another thing that's a major issue in the industry you know i think
+this does have quite a lot of similarities to draw across like another thing i've noticed is
+just that it seemed to get better for a while um you know with all of the action that um
+accessibility advocates did through teaching even basic stuff like just writing proper semantic html
+and actually using a freaking button when you mean to use a button and not a stupid div style to
+look like a button how many times do we have to say it you know bang head against brick wall
+um but it kind of seems to have got slightly worse again of late and i think this is because
+the new generation coming into the industry a lot of them tend to do it through
+less organically just kind of like right you know there's i'm not saying this is a terrible
+thing it's great to give people opportunities to work but the number of college courses and
+code boot camps and things that are just like well to get a job you just need to learn react
+because that's the most popular library right now so run you through this quick course to teach you
+how to build a react app boom you're gone go and get a job and you're like well that's great but
+what about all of the sort of html css and javascript knowledge that underpins that
+that you really ought to need to know to build a truly accessible effective application i mean
+one kind of one anecdote that i can that springs to mind is i i was
+asked by a friend of mine to come in and speak at his company about accessibility basics
+um to all of his teams and there was quite a few people in his teams that were like fairly young
+fairly new coders that were building a bunch of react apps and i thought to myself is it really
+useful for me to just walk into here and just give like a 25 minute talk about all of this real basic
+nuts and bolts accessibility stuff surely in 2021 but people were absolutely amazed and astounded
+by it and we're just like what you mean it's actually important to use html elements other
+than div what if something's inaccessible it isn't always the designer's fault it's actually
+down to the code as well i was just i couldn't believe like this the sheer lack of knowledge
+of this whole company about accessibility and yeah it's just weird to me i suppose again you
+you live inside certain bubbles don't you so things aren't always like that everywhere but at
+the same time i was quite shocked just by how little there was in terms of accessibility
+knowledge there so i think that's another thing that we need to kind of ramp up again
+and yeah so i agree i agreed i just last night watched a video where a person was talking about
+using vue js and he was talking about okay we're going to create this list of products
+and then i was like okay cool and then it's like a list of nested divs and i was like you
+you use the word list just now html has lists you know it has different kinds of lists even i think
+we should make this list of products with an ordered list maybe maybe that makes sense and
+it helps people with accessibility to know this is a list of five items that's useful
+useful information for them yeah so no i agree i agree i think it has it has slipped
+out but i do see people talking about it but again i think it's again the thing where we need
+more than just talk we need examples out there we need courses that teach a library like react
+like view like swell like whatever is popular but made by people who care and so who use the proper
+semantic structure when they show so they're not just like i'm going to show it to make a
+view app but i'm going to show it to make a view app using the power of the open web i'm going to
+show you how to use the proper html the proper css and think about stuff like color contrast and
+the order of your document and what the outline of your document looks like and all of these good
+things and by doing that show you that hey guess what more often than not your application is going
+to be more performant because you're not going to reinvent the wheel don't build a select drop down
+in react use the one the browser gives you i know it's not super pretty but you can style it
+to some extent and at least it's accessible to a much much bigger audience and you're going to
+have a lot less of a headache trying to maintain your own little select drop down because you're
+now having to reinvent things that the browser has already implemented years ago
+yep amen to that brother it's um it's a really difficult one though like i've i've done several
+talks at universities where i've just had some person stand up in the back and utter some
+immortal words like why not just use native apps for this because this is a pain in the ass and
+i'm just like right well you can do that if you want to but the web has so many ways to do it
+so the web has so many advantages so much easier in terms of distribution so much easier in terms
+of not having to reinstall the damn thing every five minutes whenever there's an update
+so much less in terms of weight of um files to get down the pipe to the users there's so many
+reasons why the web is a great thing um you know depending on which you what use case it might not
+be the best but you know it's good for so many use cases and it's getting better and better so
+yeah um it does it it winds me up the number of courses you see that just teach you how to do
+great applications but with terrible semantics and no thought at all to that side of things
+but you know it's it's kind of it's turning web development into an a sort of very
+it's almost bringing it back towards being a computer science discipline where whereas really
+it isn't that it's so much more than that and that's why i find the web more interesting than
+something like you know developing c++ apps because it's like well you've got this mixture of coding
+and design and psychology and all sorts of different things that you have to bring into
+this big melting pot of skills to produce something that's great for your users and it just makes
+just makes life more interesting yeah for sure i mean that is that's the one reason why
+moving from being a musician to being a web developer was not as painful because i didn't
+feel i left so that much on the table um i still have a way to express myself um in creative ways
+in creative ways um with the web because it is this amalgamation of many different things it's
+you know it's not it's not just a science it's an art as well absolutely
+so i have two questions remaining and um the one is light-hearted and the other one is really also
+but it's also a little philosophical here we go i got it right um so first one um tough one but
+um what is your top three artists and favorite album and maybe it doesn't have to be all time
+maybe it can be in the last two years or maybe it is all time there that's a really hard question
+it's one of those questions that every time i get asked it i come up with a completely different
+answer because i listen to so much music i'm completely and utterly obsessed with music
+in a really quite some people would say unnatural way my wife certainly seems to think so um although
+i'm getting one of my daughters to be similarly obsessed with music which i'm quite proud of
+um so for those of you listening that don't know me i'm completely obsessed by horrible noisy music
+so heavy metal hardcore punk um but i also like a whole bunch of other stuff i'm pretty much into
+anything that has a bit of soul and a bit of passion and isn't just soulless manufactured
+disposable chart crap um and what have i what have i been listening to recently um i'm just trying
+to think so my my favorite horrible noisy band currently is a us band called full of hell who
+play really horrible kind of punk grindcore death metal type stuff interesting set of imagery and
+artwork um some of their lyrical content seems to be quite philosophical and interesting it's not
+just that kind of metal stereotype of gore and guts and horror movie type stuff you know which
+is not the kind of thing that i'm really that into anyway but yeah i'd certainly recommend full of
+hell um one of my all-time favorite bands is uh converge again us based kind of another band that
+sort of straddles the line between punk and metal um they started off by uh playing what i think
+they themselves described as slayer core which was really punk but with slayer riffs um interesting
+and they progressed into something a lot more interesting from there so yes converge are very
+good i i saw them recently at the damnation festival in the uk along with full of hell as
+well um but yeah converge played the whole of their classic album jane doe which is really
+really really good um so yeah that's great um what else in terms of uh less metal stuff um
+um i quite like a lot of dance music um but again not kind of chatty commercial dance music i quite
+like breakbeat and glitch and that kind of stuff so i really like afex twin so great artist from
+the uk that's been doing weird glitchy stuff for a long long time um also really like square pusher
+which is also in the same kind of vein um and there's a there's a fairly famous uk band called
+orbital who do lots of really really great dance stuff um in a way i sometimes find dance music
+easier to code to than really noisy metal stuff you know something that's just like a
+a solid beat and a bit of an ambience in the background that you can really get into
+um another one of my favorite bands another one of my favorite bands is the osric tentacles who
+are another uk band that play kind of like a mixture of dance music and prog rock and
+kind of weird kind of ethnic instruments and things they're really cool they're quite a
+special band for me because i actually met my wife as an osric tentacles gig um and i'm going
+to go and see them this weekend play in manchester uh along with another one of my favorite bands who
+are gong i don't know if you've heard of gong g-o-n-g but they're a uh no they were originally like an
+english slash french band that started in the late 60s and they sort of invented ambient music
+before it was really a thing um so yeah they play another sort of strange mix of excuse me a mix
+of kind of ambient and prog and quite a lot of silly whale noises and flutes and saxophones as
+well so i'd suggest them and then again this list could go on forever but probably my favorite band
+of all time at least my favorite band of all time this week is another uk band called the cardiax
+who play a mix of kind of a mix of prog and punk so a lot of their stuff sounds a bit aggro-y and
+punk but they're also really really really impressively technical musicians who play really
+complex time structures and things but it sounds really quite punk they're not really around so
+much anymore sadly sadly their frontman and main creative force tim smith died a couple of years
+ago after battling a long-standing illness but yeah their music certainly lives on it's a it's
+another one of those bands that kind of no one's ever heard of them and they certainly didn't have
+any great commercial success but whenever they used to play a gig they could fill out like a
+few thousand person arena you know they were like you know a massive massively popular band but
+really underground at the same time so yeah that's a little bit of a uh a little bit of a snapshot
+into what i've been listening to recently what about yourself man couple of things i'm going
+to check out yeah i've been getting into ginger a lot like not ginger like j i n j e r um the
+musicianship in that band is just unbelievable like the drummer the guitarists the bassist is
+self the stuff he does is mind-blowing and then the lead vocalist she is something else she goes
+from high to growls that you can't imagine um is possible um i've really been digging i've been
+digging them quite a lot and then i learned they're from ukraine as well and so i've been
+following them throughout the war and i'm thankful that they are all okay and safe and all that kind
+of stuff but they've been sharing some stuff on their youtube channel so i've i've really
+gotten into them i have to say and there's like another band that's kind of similar called spirit
+box it's also a female um lead that also goes from melodic to full-on growl and again the
+musicianship is just amazing um and some uh instrumental stuff like um animals as leaders
+some of these people that play these eight string oh yeah electric guitars it's just like mother
+it's so impressive and yeah yeah so a bunch of like stuff like that i've been getting really into but
+then i've been getting back into some old good old things like in tombs blander stein album
+um and some of the old sepultura and stuff like that just the rhythmic stuff and that just gets
+me every time i'm a sucker for a good rhythm oh big time yeah no that's absolutely fantastic
+now i mean i i've got uh sepultura's beneath the remains album on vinyl i put that on the other
+day like sometimes i haven't listened to it for a while but it's a it's a super super brilliant
+you know anybody that likes thrash it's just a brilliant album it's really more kind of thrash
+death but it's it's it's it's absolutely superb um if you're it sounds like you're getting quite
+into a bunch of kind of you know interesting female-fronted metal bands and i i also really
+like ginger i think they're really really impressive really really good stuff but
+there's a there's a uk band called rolo tamasi who are also like a a metal band
+but with a female vocalist and she also does like really good melodic singy stuff as well as
+growling uh they're really great they they also go into a lot of really weird disturbingly strange
+kind of sort of techie screamo prog crazy stuff yeah they're they're they're really really great
+yeah i'll definitely check them out so in closing what are your hopes for the future
+and now from two perspectives one for tech and then on a more philosophical perspective
+for the world crikey that is a big question um i think i could probably sum it up in four
+in in six words um better climate less war less fascism
+you know we could we could get into that a bit more i'm a i'm i'm very much
+quite seriously committed to environmentalism so my my wife and i have done quite a bit of activism
+with various groups um not just stop oil but we did do a bunch of stuff with extinction rebellion
+we've been to quite a lot of protests and done quite a lot of activism activity with them
+for me that's the key to everything really is the whole environmental
+catastrophe that the world is facing because you know if we don't have a planet to live on anymore
+everything else we could possibly discuss is just completely and utterly null and void there's not
+even really it's not really worth talking about um yeah of course one big issue with that i you
+know i can say that but at the same time another problem that you tend to get is that a lot of
+the issues affecting tackling the climate catastrophe so climate change denial all of
+that kind of stuff tends to be um tends to be connected to uh fascism as well unfortunately
+there's a lot of fascist politicians out there that really really don't care about environmental
+issues they think it's all a hoax they think it's all a load of rubbish made up by woke lefties like
+me to try and steal a piece of their pie um but really that just goes into the whole selfish
+outlook that those folks unfortunately often tend to harbor um yeah so yeah uh that's that's one
+great big hairy deal and of course that also tends to create injustice and it tends to create um
+people getting at loggerheads of each other which of course somewhere further down the line leads
+to war so really these things are all interconnected um but yeah i'm just really really hoping that we
+can get a bunch more people thinking about doing things to help the climate catastrophe you know
+it seems clear to me that the governments of this world again like we talked like something
+similar to what we mentioned earlier they like to talk a lot about this but they don't seem to
+really like to do very much about it um yeah yeah so i think what we need is for everybody to start
+uh helping out with the environmental catastrophe just by doing small things and helping out doing
+anything they can yeah i would agree and i think one of the key things is i i heard about this
+thing that they've they've learned and i think it's in taiwan where they've done some research and
+so to drown out negativity for each one negative you have to have 10 positive so i think
+i think we need to as a as a species as the human race we need to drown out this because i do think
+it's a vocal minority and i've been in so many circumstances where you think that oh so many
+people are against this thing or for this other thing but then when you really dig into it you
+find out no it's actually a very vocal minority and if all the rest of the people stop standing
+by and just looking at it and start speaking up just it we can drown them out very quickly
+and i think a lot of people are not really aware of the fact that this is no small thing it's
+nothing else is important if we don't have a place to live
+essentially so this this should be like the way the people that that everybody in the world came
+together to battle covid we need that for climate change climate crisis yep absolutely agree man
+well thanks so much chris this was wonderful um i was looking forward to this conversation i'm
+glad we could make it happen even though i'm it's low cheating over here and uh it's late
+in the evening for both of us but um i'm really grateful that you made some time to speak with me
+and i wish you all the best with millstocks i know it's going to be a huge success and i
+look forward to to seeing the business grow well cheers man thanks for having me it's uh it's been
+great to chat to you skalk and i'll uh i'll talk to you again soon yeah have a good day
+thank you for listening to this episode of the my senior network podcast if you're not already
+please subscribe store and leave a review for us in your podcatcher of choice this helps others
+find us it helps us make a better podcast for you on this course you can also find and follow us on
+twitter at network mysyndium enjoy the community on discord all the links are available in the
+show notes

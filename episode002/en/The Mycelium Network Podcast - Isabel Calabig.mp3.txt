@@ -1,0 +1,500 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Today we have Isabel joining us.
+Welcome, Isabel.
+Thanks for joining.
+Yeah, thanks for having me.
+It's a pleasure.
+I found you on Twitter when I saw a tweet of yours that said, let's open a call and connect.
+This is for anyone who wants encouragement when it comes to finding jobs in tech, exploring
+web dev career.
+Is that something you do regularly?
+Yeah, I'm actually fairly active on Twitter.
+I'm definitely the type that's just all about community and just kind of uplifting people.
+When it comes to coding, it's not easy.
+It's not easy doing it alone.
+And so I think community is just such an essential part of anybody's kind of coding journey.
+So yeah.
+That's for sure.
+So with that, Mycelium Network, as you know, is part of a community that's exactly set
+up for this to help people who are early-stage web developers.
+It's kind of focused on web developers, but it's not exclusive.
+We don't tell people who aren't web developers, sorry, you're not welcome.
+But also I see the concept of an early-stage web developer, the reason why I use that phrasing
+as opposed to beginner is because everybody's beginners at something at some point.
+And I think the word beginner has kind of maybe even gotten a bit of a bad rap, like
+saying you're a beginner.
+So that's why I've adopted the phrase of early-stage developer.
+It sounds a bit different because you might actually have coding experience, but you don't
+know JavaScript.
+You can do C every day of the week, but JavaScript, you're new to that.
+You're new to HTML.
+You need to CSS.
+So that's kind of why I adopted that.
+And also a lot of people like switch careers, like they used to be in enterprise software
+development.
+And it's not even a career switch from not being a coder to being a coder, but from enterprise
+to maybe startup or enterprise to ed tech.
+And that's also a change because the thinking, the problem solving, that's different.
+So again, you're new at something or a beginner at something.
+So with all of that in mind, what is your story?
+What is your history?
+I know that you didn't start being a coder, if I understand correctly, that's something
+that you're transitioning kind of into.
+Yeah.
+So for my case, I actually have a background in marketing specifically within the mental
+health field.
+And I was working in marketing within mental health for about two years.
+And I guess basically during COVID, I started to really think about what really interested
+me, what really wanted me to kind of develop more into the career that I was getting into.
+And at the time, well, still is, but tech has been like trending, right?
+Especially during like COVID and such.
+And so that definitely gave me like a little interest in it.
+And I kind of wanted to see more of how I can get involved and such.
+And so now kind of just moving forward, I work for an ed tech company called Dreambox
+Learning as a marketing operations associate.
+And basically networking and just knowing how to create landing pages with basic HTML
+and CSS, that landed me the job in tech.
+And so now I'm still kind of in the process of like onboarding and training because I
+literally just got the job of a few weeks ago, but yeah, I'm just kind of helping out
+like our web developers and such develop the company like landing pages and whatnot.
+So yeah, that's kind of where I'm at now.
+Awesome.
+That's great.
+Can you tell us a little bit more about Dreambox?
+It sounds really interesting.
+Yeah.
+Yeah.
+So Dreambox Learning, it's a tech company that focuses on adaptive kind of technology
+and they really try to make a software or a program curriculum to adapt to a student's
+like learning.
+And so it's a very personalized approach to a student's like learning.
+So it not just helps like the student in their like learning journey, but as well as like
+the educator, like they're also able to kind of track and see what the student is missing
+and such.
+So yeah, it's pretty impressive technology that our company's getting involved in.
+So yeah.
+Yeah.
+It sounds really interesting.
+I know from people that I've spoken to, one of the things they find tricky besides just
+finding good content is finding something that fits with their learning style.
+So having something that can adapt to your learning style, yeah, that sounds really interesting.
+So as you're new to tech in some way, shape and form, I know from speaking to previous
+guests and just in general speaking to early stage folk, there are a lot of challenges
+when you like walk into this new world.
+So for you, what have been the challenges that you faced?
+Yeah.
+So I mean, I can probably go off on the numerous challenges that I'm facing, but I think the
+common denominator, like the root of it all is just imposter syndrome.
+Like I would have these constant thoughts of thinking like, I'm not smart enough, or
+I don't know enough math, or I'm a slow learner, or even something like I don't deserve to
+be in tech.
+Like that kind of thinking just really hits hard sometimes.
+And I don't know, maybe it's also just nowadays, I feel like people put tech at such a high
+kind of standard or on some sort of pedestal that you have to be a certain somebody to
+get into tech.
+But honestly, like really anyone can do it.
+Anyone can learn how to code.
+Like I never imagined myself like being able to learn HTML, CSS, and now JavaScript.
+Like growing up, my dad, he was a software engineer, and he never actually pushed me
+to like look into web development, but I knew that he knew that I had an interest in it.
+And I just remember growing up, he actually bought me this web page builder, and I was
+just obsessed with it.
+Like it was just so much fun just like putting together like really simple websites, like,
+I mean, now it probably looks like crap, but like, it was just so much fun, the creative
+process and stuff.
+But yeah, and I think like, now I'm actually really thankful that he never really pushed
+me to like learn how to code like in college or in school or anything like that.
+Because for me, this is the first time that I'm actually like wanting to do this myself
+and not really having anybody else kind of push me.
+Like this is something that I personally want to do.
+And it's just cool being able to see other people like me who are just like normal or
+non-tech, non-technical kind of people learn to code.
+So yeah, I'd say imposter syndrome was definitely like the main challenge for me.
+Yeah.
+Gotcha.
+Yeah.
+And I think it's something that doesn't ever really go away.
+Because again, I'm going back to this idea of being a beginner at something.
+Like I've written JavaScript for a very long time.
+But in the recent year and a half or so, I started picking up TypeScript.
+And I mean, I feel like a complete newbie again.
+Oh, yeah.
+It's like typing.
+I used to deal with types and stuff like 10 years ago when I did Java and I left that
+behind and now suddenly like TypeScripts come on the scene and it's quite the thing.
+And like especially when you're creating APIs, TypeScript is great because it gives you that
+layer of protection where it says to the user of your API, hey, you're trying to pass me
+a string, but I'm expecting an integer.
+So it protects you from making a mistake even before you've written the code, like when
+you try to call it.
+So it's great.
+But it's a whole new way of thinking about writing JavaScript.
+And even though people say TypeScript is just a superset of JavaScript, it's significantly
+different when you really get into it.
+If you want to really make use of it properly, there's a lot of differences.
+But the fact that you now have a job doing some web development and stuff like that obviously
+means that you have found some resources that has been useful to you and has been helped
+you to learn.
+And I assume, and correct me if I'm wrong, but the fact that you've gone from one industry
+to another, you most likely had to do a lot of this by yourself.
+It wasn't like going to university and doing a computer science degree.
+It's more like buy the bootstraps, do it yourself.
+So what resources have you found that you find particularly useful and depend on?
+Yeah.
+Well, it all started out with the Codecademy.
+And I just tried a free trial at first.
+And it was really nice because on their interface, you're able to see the project and the instructions
+and then you also have your space to code and then you're also able to preview, have
+a live preview of what you're coding.
+So all that kind of side by side, it kind of just made everything click.
+Like, oh, if I type this out, then this will pop up on the browser or whatever.
+And so definitely learning by actually coding really, really helped.
+And then kind of from there, I went off to different resources like Scrimba.
+Scrimba is kind of similar in that sense.
+And YouTube, a lot of YouTube tutorials, but I'm very, very cautious around YouTube tutorials
+just because you can get so caught up in the, what is that called, quote unquote, tutorial
+hell or whatever.
+Oh, I forgot about that.
+Yeah.
+Yeah.
+But, I don't know, I feel like as long as you're understanding the concept and the idea
+of what you're coding and why you're coding it in a certain way, then things will kind
+of start to click and then you're actually able to make your own projects and such.
+And so a lot of ways that I kind of learned was through tutorials and then I would watch
+it, re-watch it, watch it again until I understand what's going on.
+And then I exit out of the video and I just try to make my own thing, but that's still
+revolving around the idea of the concept behind that video that I just watched.
+And so in a way, I guess tutorial hell is not really hell, but it can be kind of useful
+in some ways.
+And there's a lot of ways to kind of apply what you learn with those kinds of resources.
+But as I was...
+So that was probably last year when I really relied on YouTube, Codecademy, and Scrimba.
+And then I just kind of got lost.
+I didn't really know where to go after HTML and CSS.
+And I was looking on LinkedIn and I saw a lot of people were active in the tech community
+on Twitter.
+And then that was when I hopped on Twitter just to see what was going on, like, what
+do you mean LinkedIn or Twitter's the new LinkedIn or whatever.
+And so after just kind of exploring different, what is that called, like Twitter communities
+and such, I connected with my friend Alondra and she is doing the coding bootcamp, the
+100 devs bootcamp by Leon.
+And I decided to hop on that too.
+And it has been great just having more of a structure with my learning.
+Like I'm able to kind of see, oh, after CSS, you can go to like JavaScript.
+Like it's a lot better than just kind of creating my own kind of roadmap.
+And with a bunch of different resources out there, I got really overwhelmed.
+And there were so many people saying, oh, use this, oh no, you should listen to so-and-so.
+And after just sticking to like one bootcamp, I'm actually able to like see the connections
+with everything that I'm learning, you know, because everything is kind of like a building
+block from then on.
+So yeah, those are definitely the resources that I've used.
+But I think the one thing is really community and within the bootcamp and on Twitter, that
+has been such a huge help.
+And I just love how experienced web developers are willing to mentor and have coffee chats
+for anybody.
+And it's just so great knowing that you have people who have you back, you know?
+They have like your best interest in mind and want to like push you to be like a good
+developer.
+And so it's so nice to have this kind of community that's just so, so supportive.
+So that's definitely, I think community is like the biggest one.
+Yeah.
+Yeah.
+It's super to hear you say that.
+I've always been a little weary of the industry not being as friendly and welcoming, especially
+when we talk about like the wider, you know, non-standard like white male like me.
+I've always wondered like, what is the experience from that perspective?
+Because you hear a lot of horror stories, right?
+Especially women in tech.
+I've heard a lot of stories about where, you know, it's just like even on Twitter, it's
+toxic.
+And I've always been like, how do we approach this?
+How do we fix this or at least improve it?
+So it's great for me to hear that you've had this like really positive experience.
+That's really good to hear.
+And I think that that leads us nicely into the next question that I had is, like you
+said, there's so many resources, so many things, so many possible routes you can take.
+So with all of that in mind and all the things that you have learned, like what has been
+stuff that you found particularly tricky and stuff that you feel like, this kind of doesn't
+work so well.
+It would be nice if we can do X that would have helped me a lot.
+Honestly, I don't really think there's anything exactly missing, just because everybody just
+learns differently, hence the various amounts of resources out there, you know, but I honestly
+think it's important for beginners to just know that if you purchase this course or if
+you take this class or whatever, it does not guarantee getting a job in tech.
+Like there should be a fine print for every kind of class or course out there that says
+it depends because it really depends on the person and how they learn and how they use
+their knowledge to apply that to their projects.
+It depends on their mental health, like mental health was such a huge thing for me to really
+navigate when it comes to coding and just the job hunt, like it can be very draining.
+And I guess it also depends on their network and how they network and who is in their network
+too.
+So yeah, I just think that there should be a fine print out there that just says it really
+depends because I think it's really misleading when there are ads out there that say, oh,
+you'll get a job in tech like right after you complete X, Y, and Z. And you know, it's
+just false advertising, like it's just not realistic.
+It really depends on the person's process.
+So yeah.
+Yeah.
+Yeah.
+No, I did.
+There's quite a couple of those going around.
+There's actually one or two of them that I personally just classify as a scam, where
+they advertise this thing where, oh, you can join as an intern in this company sending
+your resume.
+Then you do that.
+Then they get back to you and say, oh, unfortunately you didn't quite make the cut.
+But if you take our 200 euro course and you do really well, it might just be a job for
+you.
+I've seen this on some Slack channels and I've said to people, be careful because this
+is what happened to a friend of mine and this is how it played out.
+So I don't want to demotivate you or anything, but be careful, be weary, because not all
+of this is, you know, it's an old adage.
+If it sounds too good to be true, it probably is not true, which is unfortunate, but I think
+people need to be careful.
+And I think one of the traps people also fall in with tech is you think that it's riches
+immediately.
+And I think while there is the opportunity to make good money, I think the work is hard.
+And if you don't enjoy it, then the money's going to dry up the feeling it gives you in
+the beginning where it's like you've got some, you know, expendable income and you can buy
+some nice stuff, but yeah, the work is hard.
+If you don't enjoy it, it's going to become like any other job.
+You're going to end up hating it because I think people need to get into coding because
+you like solving problems and it just happens that you use code to solve those problems.
+One of the things you mentioned while you were speaking is being tired from all the
+interviews and the whole process around that.
+And I know that that's a part of the industry that definitely needs addressing.
+I think it's not great, to put it mildly.
+It's a combination of HR challenges and then just the interview process itself being stuck
+in the 90s or early 2000s or something and it just hasn't evolved.
+The industry has changed so much and somehow that has stuck with it.
+What do you see as problems?
+What makes you nervous or scared about the whole interview process and what would you
+like to see changed?
+I think when it just comes to the interview process in general, no matter the industry,
+I guess the process should be like you should really pay attention to the kind of company
+that you're interested in.
+I feel like a lot of people nowadays, they kind of mass applied a bunch of different
+companies and fill out all these forms and expect something.
+I don't know, I just feel like that's not the best approach.
+In my case, I've heard of people that get lucky in that kind of process, but I think
+it's really important to be very careful with, think about what industry do you want to get
+into and really pay attention to the people in that industry too and the products in that
+industry.
+I feel like that also being easier on the applicant themselves, they're actually able
+to focus on one kind of industry, one kind of generic idea of what should be on the resume
+and stuff.
+I think with just job interviews, when it comes to the technical things, I think there
+should be more resources out there for learning how to approach more technical side of code.
+I don't know.
+I know for myself, I needed to work really hard on remembering the technical words.
+I don't know, I found that blogging actually really helps, actually writing out my thinking
+process and I really enjoy thinking of ways to simplify complex concepts and I always
+have friends read it over to see if it makes sense or something and it's cool just being
+able to practice that because I think that's also a need, more resources trying to understand
+how to approach the technical interview.
+I feel like another thing that should change, this is kind of hard because I know recruiters
+are just so busy but I think it's just so important to not leave applicants on read
+or they just give them a generic email that doesn't give any kind of feedback.
+Obviously it's such a hard process to solve but I don't know, I just feel like maybe there
+should be a templated email of some sort that addresses the kind of projects that they're
+expecting or something like that.
+I've had a few friends that were applying for a few internships and dev jobs and stuff
+and they got the same kind of email, literally copy and pasted and I don't know, that made
+me sad because I'm just thinking like well that doesn't help and so it's hard, it's a
+very complicated process, I don't really know what could be a good solution for something
+like that but I just think it's just so sad when applicants just get left on read or they're
+just given that templated kind of response that has no feedback whatsoever.
+Yeah for sure, no I know, yeah definitely the fact, I feel like at least get back to
+people and keep them in the loop that even if it's just this thing to say that we're
+still talking to applicants, we haven't made a decision yet, we'll get back to you as soon
+as the job's been filled and I think the important thing is also getting back to people when
+the job is filled even if they didn't get the job to just let them know.
+The job has been filled, unfortunately you were not the candidate we chose but thanks
+so much, you know just something being a decent human being I think is what it boils down
+to.
+Yeah no exactly.
+You know a lot of times things become so processed, not just like food but in real life that the
+humanity is processed right out of it and the thing is it's not always a reflection
+of the company unfortunately, like I've worked at companies where the interview process was
+pretty terrible but the engineering group and the people in engineering are wonderful
+people it's just that there is a very very big gap between HR and the people actually
+doing the work and I don't know how you could solve that that piece because oftentimes you
+might get a misperception of the company because of the interactions you have with the recruiting
+side of it because oftentimes the recruiting side isn't even part of the company, it's
+outsourced and like for them it's about how many people can be placed because we get a
+cut of your pay you know for every person that they place so you know there's that all
+thing to it too, yeah it's a hard problem to solve, related to that I mean some people
+might say that you know what I'm just gonna forget the whole interview process and start
+my own business and I think that is a question I have for people sometimes is would you rather
+be worked for someone or start your own business but I think the bigger question I'm actually
+trying to get at when I when I ask that is what does success look like to you like you've
+made this transition right to a new a new you change your career you're in a new industry
+when you look at your future what what does success look like?
+Well just to address the the first part when it comes to either wanting to start a business
+or join existing I've definitely thought about starting a business but I don't know it it
+just sounds so stressful like I think you would definitely need to have like the right
+people like on your side and and just I don't know just thinking about like funds and stuff
+like that I'm just like yeah I don't want to stress about that kind of stuff right now
+so I don't know I'm really just drawn to businesses or just companies that have a product that
+I trust and believe in and moving beyond that even just the the company culture is like
+really important to me like I know like Dreambox like like we're super passionate about diversity
+and just making sure that people feel heard and like represented I just love everything
+that our company's doing to really make sure that that's that's seen you know and so that's
+something that I love about like any kind of company like they're they're not afraid
+to to show off their their diverse and inclusive culture you know and it's it's just so so
+great and they're not afraid to even answer the the hard stuff that's like going on in
+the world like I know our company like once a month like we take like an hour or so a
+month to just talk about hard stuff that happens in the world like we talked about like Black
+Lives Matter like things are happening like in Ukraine like it's just you know there's
+just so much that's like happening and it's so important for companies to be involved
+in that and so that's yeah so definitely more than just the company's product like definitely
+their their culture and their values and I just yeah and I just love the structure of
+like an organization like I just find a lot of comfort in that just for myself and yeah
+I don't know when it comes to success I'd say that success is celebrating even just
+the littlest victories that may seem lame or small you know and it's really all about
+perspective like I I remember when I was just first starting out to learn how to code like
+imposter syndrome would just like hit me all the time and I needed to figure out a way
+to get out of that like mental state to like keep going you know and I actually kept a
+well I still keep a journal that just documents like it's not an in-depth kind of a diary
+entry or anything but it's just I basically write out little things that I've accomplished
+throughout my life or like my career or my day even and that that helps like every little
+step that you take like that's that's such a big deal and even if it feels like you're
+going back sometimes but like look at all the stuff that you've like done already you
+know it's really all about perspectives so yeah I think just really keeping in mind the
+little things that that really helps kind of keep keep me going yeah no for sure for
+sure I I kind of started doing that as well some time ago because I I felt that oftentimes
+a week or so we'd go by and I would ask myself what did I do in the last week and I was busy
+I know I hardly had time for anything but what did I do and so I started jotting them
+down and you know using like a Kanban type thing where it's like in progress and then
+to done and like at the end of the week you go look at your done column and you're like
+oh that's all the things I did and then then it feels like ah cool yeah I did that thing
+and I did that thing oh that's really neat I think it's cool to go back and celebrate
+your own accomplishment even if they're small even if it's like I sent an email to this
+person that I never thought I would send an email to you know like me was starting this
+podcast like I'm constantly reaching out to people that I'm like I hope it's okay and
+you have to like imposter syndrome exactly you know you like you have to get past that
+and just send the thing or contact them over Twitter or something and hope they're not
+like oh how dare you slide into my DMs so yeah so it's pretty cool so I think one needs
+to do that and I think it's useful like I know another person on the Mycelium Network
+Discord he actually keeps like a it's amazing the thing he keeps I wish I'll ask him to
+share it again but it's like a diary of like his whole learning journey it's like this
+whole website and you can read like everything he's learning and the struggles he's finding
+and all this kind of stuff it's so interesting and I think it's nice for others to read that
+and to see like wow look at this two weeks was really rough like personal events happen
+that that made you like not feel like learning and or you just hit a wall because sometimes
+that happens like you just hit a wall and it's like I don't think I'll ever be able
+to figure this out and then one morning you wake up and whoops you just it just clicks
+like closure and JavaScript it's one of those topics it's like yeah what closure what variable
+parent child what and then one day it's like oh that's what closures are that's cool that's
+super useful but there's a while where it's just like you're saying words but I don't
+know if they mean anything I think it's really interesting I think it's good to to keep up
+keep perspective about all these things and and talking about that I saw another tweet
+of yours where you said you're working on a mini math word problem game how's that curry
+yeah um it's it's going it's it's a lot of a lot of work I feel like my mind is just
+so like I'm just I have such a creative mind when it comes to like design like I'm so focused
+on CSS and like the styling and then like an hour passes by I'm like oh wait crap I
+need to work on the JavaScript part of it too um and so it's yeah it's going really
+well like I'm really enjoying um all the different kinds of stuff that I'm learning in in JavaScript
+but um I really hope to kind of develop this math game for for kids to just kind of practice
+their like math and reading comprehension because I think that's well at least for me
+I know like growing up when it came to like math word problems like oh my goodness well
+first off math was just not my strongest subject but combining both math and reading like that
+was that was hard because like you really had to understand the text and understand like
+what is the question asking for right and so I hope that that could be a it's definitely
+a long term kind of a project but I hope to develop it and eventually make it live and
+launch it and have it available for anybody who just uh has like kids or is a kid and
+they want to uh just practice that so yeah I mean I guess it kind of goes in line with
+like my passion for ed tech so it kind of works out that way too yeah that's perfect
+yeah yeah that's super interesting yeah no yeah please keep going and keep people up
+to date on your twitter as it evolves um thank you so yeah um I have a lot of side projects
+and like some of them are just like a lot of people think you're going to start a side
+project and especially if it's an open source thing and you're going to do it on get up
+and the next day you're going to wake up and there's 100 stars and people uploading you
+on twitter and it's just not true like sometimes you're going to build a thing and like it's
+crickets but it's fine because you're learning and some and as long as you're building something
+that's useful for you it doesn't really matter like if if after 10 years somebody stumbles
+upon it and it's like oh my goodness look at this thing and like one other person finds
+it useful that's already worth it really um it doesn't always have to be a thing that
+like you know turns into the next twitter or the next whatever you know insert successful
+company here it can sometimes just be something that's fun to do and scratches an itch and
+helps you learn something new yeah um so if you could recommend one resource be it a book
+uh online course youtube channel anything like that to early stage learners what would
+that resource um definitely 100 devs the the boot camp and you don't have to join like
+if you if you feel like you're you're good just kind of going on your own like you don't
+have to join the boot camp but even just listening and watching to uh or watching um the 100
+devs like youtube channel like leon is just such a great instructor and he knows how to
+break things down into little pieces and just simplify things and um like i remember when
+i came across like his his very first like 100 devs video um the the main thing that
+i got out of it was you have to understand how you learn like what is the best way for
+you to understand like these kinds of concepts is it by coding is it by reviewing on like
+flashcards or like anki cards like you really have to understand how do you learn best and
+then you can move forward from that you know and so he really helped um i'm not exactly
+like following the boot camp like um in in order just because there's like other things
+that i also like want to learn but um he i think really like that was just such a good
+foundation was oh yeah i need to like step back and figure out yeah how how do i learn
+like how do i like take information best and i know like for me like this doesn't work
+for a lot of people but i love taking notes but the kind of notes that i make are like
+flow charts like that is the best way for me to understand like how things like work
+like i always just need a visual and then i'll be able to like pick it up and sometimes flashcards
+works for me i don't know it kind of depends on like what it is but definitely making projects
+and like um making flow charts really helps solidify uh complex uh concepts so yeah yeah
+i think if you're a visual what they term a visual learner i think stuff like flow charts
+really works well um for me as well i i i can't learn something for the sake of learning it
+i have to have a purpose for it like i'm gonna create this like project or i have this client
+that i know it's coming up and i'm gonna need to know x to do the work then i jump in and
+i learn because it's like okay cool i can learn and i can apply learn and apply and
+i think the other side of that is then this learning part and that oh i don't i can't
+and then you figure this thing out taking that and writing about it i think the combination
+of those three things for me personally it's just that's how how it gets stuck up here
+um i i need to do it very practically like i can't just learn algorithms because maybe
+in an interview i'd need to answer that it's like uh that that's draining for me to try
+and do that kind of stuff like i don't know i'm not working on a search engine or anything
+i i really have not i'm not doing machine learning stuff i don't really have a super
+need for algorithms and i'm just gonna learn it because maybe i'll need it in an interview
+yeah so for me that that doesn't quite work yeah that's great yeah i've i leon is amazing
+i'm i'm gonna i'm trying to get him on the show um to talk with him about the other side
+of this journey like being the the mentor the teacher who has to like help people get into
+the industry make it a welcoming place and how do you teach and how do we fix some of
+the the things that you've raised like so hopefully i can get him okay so we're close
+to starting to wrap this up so um a new question i have because i think it might be cool is
+if you could nominate someone that i should speak to and get on the show who would that
+be um i feel like definitely my uh dev mentor his name is alan villa uh you can find me
+on on twitter it's at r alan villa a l l a n v i l l a and um he he's honestly just such
+a great resource like he's been guiding me in my professional career and um he he like
+we actually have a very similar background like he also has a background in in marketing
+and um i remember like the first uh coffee chat that i had with him like he really encouraged
+me to uh use my marketing skills to like get into tech and so he was like you already know
+html css you can totally use that within emails you can be like an email developer like obviously
+it's not like an actual like dev kind of job but it's definitely a start just knowing a
+little bit of html and css like it can definitely give you a step into tech and i feel like
+not a lot of people uh realize that so definitely i would say him for sure like he has such
+a great life story and um he's he's also just like like a really friendly guy super outgoing
+guy who just uh loves life and loves coding like he's just so good yeah he's great that's
+awesome i'll definitely reach out and then before we wrap up um please tell us about
+any projects you're working on anything you'd like people to know about uh your own website
+anything like that of course we'll put all the links in in the transcript that goes with
+the show but just for you to mention anything you're excited about that you're working on
+they want people to know about yeah um i mean i guess i'm currently working on uh two big
+projects um there's a there's one that's called a study break reflection app and uh basically
+it's the goal of the app is to kind of uh keep a student's uh stress levels in check
+and to encourage the student to ask for help like when they get really really stressed
+because um i know at least like for me and like my experience like sometimes like stress
+actually prevents me from like wanting help or from asking for help so i hope like the
+way i don't know i have a lot of ideas for how this app is gonna uh play out but yeah
+that's basically the the gist of it and then um my other one like you said like a like
+a math game kind of a thing um yeah that's definitely something that i'm really excited
+on on working on um i don't know i'm not really good with titles for my apps definitely still
+in the works but i'm excited about those projects um but yeah that's basically what i'm kind
+of working on right now and um you can i'm izzy and you can find me like anywhere on
+social media i pretty much have uh my brand my personal brand name izzy visuals um everywhere
+so yeah you'll be able to find me great stuff thanks so much again for joining it was awesome
+to talk to you it was really enjoyed i really enjoyed a lot learned a lot and um yeah wishing
+you all the best with the future of your career and um like to get you back on the show in
+a year or so and see where you're at that would be super interesting yeah that'd be
+so cool well thank you so much really appreciate it yeah it's my pleasure thank you for listening
+to this episode of the my senior network podcast if you're not already please subscribe store
+and leave a review for us in your podcatcher of choice this helps others find us and helps
+us make a better podcast for you on this course you can also find and follow us on twitter
+at meet word mysyndium and join the community on discord all the links are available in
+the show notes

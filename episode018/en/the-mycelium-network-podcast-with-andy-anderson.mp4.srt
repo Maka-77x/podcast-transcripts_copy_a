@@ -1,0 +1,3624 @@
+1
+00:00:00,000 --> 00:00:06,680
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+
+2
+00:00:06,680 --> 00:00:10,160
+and the mentors and teachers that help them along the way.
+
+3
+00:00:10,160 --> 00:00:16,000
+Hey Andy, thanks so much for joining me for the Mycelium Network Podcast.
+
+4
+00:00:16,000 --> 00:00:18,440
+Well, thanks for having me.
+
+5
+00:00:18,440 --> 00:00:20,640
+I'm really happy to be able to do this.
+
+6
+00:00:20,640 --> 00:00:26,640
+Yeah, I'm really glad you agreed to do it because I know I had to convince you a little
+
+7
+00:00:26,640 --> 00:00:27,640
+bit.
+
+8
+00:00:27,640 --> 00:00:34,560
+I definitely am an introvert and I don't really like the limelight.
+
+9
+00:00:34,560 --> 00:00:36,040
+Yeah, no, me too.
+
+10
+00:00:36,040 --> 00:00:40,760
+And I've said it before, I don't know why I keep putting myself in situations that generally
+
+11
+00:00:40,760 --> 00:00:42,240
+I shouldn't enjoy.
+
+12
+00:00:42,240 --> 00:00:45,760
+Maybe I'm trying to force myself out of the situation.
+
+13
+00:00:45,760 --> 00:00:51,920
+But I do enjoy a good conversation, so I think that's more what it's about.
+
+14
+00:00:51,920 --> 00:00:57,320
+And so I think what I'm interested in a couple of things, and I sent you some notes, but
+
+15
+00:00:57,320 --> 00:01:03,120
+I think one of the things with you that is unique from anybody else that I've had a conversation
+
+16
+00:01:03,120 --> 00:01:08,560
+with so far is you have a really long history in tech.
+
+17
+00:01:08,560 --> 00:01:13,000
+And I think there's a lot of really interesting things that you can share.
+
+18
+00:01:13,000 --> 00:01:23,160
+And I'm also curious for us to kind of juxtapose when you started and now where you've kind
+
+19
+00:01:23,160 --> 00:01:28,040
+of like trying to get back into the world of tech, but in MLDB a different industry
+
+20
+00:01:28,040 --> 00:01:33,160
+than you were and how things have changed, what's gotten better, what's gotten worse,
+
+21
+00:01:33,160 --> 00:01:34,920
+what's stayed the same.
+
+22
+00:01:34,920 --> 00:01:42,560
+So I think before we dive into any specific topic, if you can kind of give us a bit of
+
+23
+00:01:42,560 --> 00:01:49,680
+a background of who you are, where you are today, and some of the history.
+
+24
+00:01:49,680 --> 00:02:00,680
+Yeah, well, my childhood was really pretty standard and unremarkable, but I was always
+
+25
+00:02:00,680 --> 00:02:09,920
+interested in science and mathematics and tinkering with gadgets and electronics and
+
+26
+00:02:09,920 --> 00:02:15,080
+I mean those things always fascinated me.
+
+27
+00:02:15,080 --> 00:02:26,720
+So when I got to college, computers hadn't really become an area of study yet.
+
+28
+00:02:26,720 --> 00:02:29,680
+And I kind of had two college careers.
+
+29
+00:02:29,680 --> 00:02:34,600
+I went for a couple of years right out of high school and couldn't really decide what
+
+30
+00:02:34,600 --> 00:02:35,600
+to do.
+
+31
+00:02:35,600 --> 00:02:36,600
+Nothing really seemed interesting.
+
+32
+00:02:36,600 --> 00:02:39,880
+I couldn't get excited about any of the subjects.
+
+33
+00:02:39,880 --> 00:02:47,720
+So I quit and actually worked in a factory for a couple of years driving a forklift.
+
+34
+00:02:47,720 --> 00:02:51,480
+After about a year of that, I thought, well, I don't really want to be doing this when
+
+35
+00:02:51,480 --> 00:02:53,480
+I'm 50.
+
+36
+00:02:53,480 --> 00:02:58,600
+So I thought it's probably a good idea to maybe go back to college and find something
+
+37
+00:02:58,600 --> 00:03:07,860
+that I could be interested in that would be a little bit more fun career.
+
+38
+00:03:07,860 --> 00:03:15,560
+So I transferred, got back into college as a junior.
+
+39
+00:03:15,560 --> 00:03:21,040
+And the way I got into computing is a little bit different.
+
+40
+00:03:21,040 --> 00:03:27,520
+It wasn't really something that was on my radar, but I was actually majoring in chemistry.
+
+41
+00:03:27,520 --> 00:03:31,440
+I'd always liked chemistry and school and everything.
+
+42
+00:03:31,440 --> 00:03:38,280
+So I was majoring in chemistry and there was one quarter that I needed a chemistry class
+
+43
+00:03:38,280 --> 00:03:41,020
+that wasn't being offered.
+
+44
+00:03:41,020 --> 00:03:44,720
+And so I needed something to fill out my schedule and went to talk to my advisor.
+
+45
+00:03:44,720 --> 00:03:51,800
+And I said, I need to have a full load, full schedule, because I don't want to waste any
+
+46
+00:03:51,800 --> 00:03:52,800
+time.
+
+47
+00:03:52,800 --> 00:03:57,240
+And he said, well, you might want to take this FORTRAN course.
+
+48
+00:03:57,240 --> 00:04:05,880
+He said, it'll fit into a Bachelor of Science degree really well.
+
+49
+00:04:05,880 --> 00:04:08,280
+And I still remember exactly what he said.
+
+50
+00:04:08,280 --> 00:04:13,560
+He said to me, computers probably aren't going to go away.
+
+51
+00:04:13,560 --> 00:04:18,800
+And so I thought, well, I still wasn't totally convinced.
+
+52
+00:04:18,800 --> 00:04:23,480
+So I did go and sign up for the course.
+
+53
+00:04:23,480 --> 00:04:25,560
+I went to the first day of class.
+
+54
+00:04:25,560 --> 00:04:28,120
+The professor seemed like a pretty nice guy.
+
+55
+00:04:28,120 --> 00:04:32,960
+It was a large class, introductory to FORTRAN.
+
+56
+00:04:32,960 --> 00:04:38,080
+I did not buy the book right away because I wasn't sure I was going to keep the class.
+
+57
+00:04:38,080 --> 00:04:41,880
+So the first day of class went pretty well.
+
+58
+00:04:41,880 --> 00:04:45,760
+So after the second day of class, I actually went and bought the book.
+
+59
+00:04:45,760 --> 00:04:47,400
+I still have the book somewhere.
+
+60
+00:04:47,400 --> 00:04:51,960
+It's one of the boxes that have followed me around.
+
+61
+00:04:51,960 --> 00:04:58,120
+And after the third day of class, I went to the administration building, changed my major
+
+62
+00:04:58,120 --> 00:05:02,840
+to computer science, and the rest is history, as they say.
+
+63
+00:05:02,840 --> 00:05:13,000
+But when I started doing computer science in college, we were using punch cards instead
+
+64
+00:05:13,000 --> 00:05:14,000
+of terminals.
+
+65
+00:05:14,000 --> 00:05:17,840
+So I had to go to the bookstore and buy.
+
+66
+00:05:17,840 --> 00:05:21,920
+They had vending machines, actually, in the computing center, where you could buy a package
+
+67
+00:05:21,920 --> 00:05:27,680
+of 100 punch cards for like a dollar or something.
+
+68
+00:05:27,680 --> 00:05:36,440
+And for my first course, I think I probably got most of them out of the vending machine.
+
+69
+00:05:36,440 --> 00:05:41,760
+But pretty soon after the second or third course, I thought, well, it'll be just easier
+
+70
+00:05:41,760 --> 00:05:46,240
+and cheaper to go to the bookstore and start buying them in the big boxes of 1,000 cards
+
+71
+00:05:46,240 --> 00:05:49,080
+in it, so that's what I did.
+
+72
+00:05:49,080 --> 00:05:56,040
+And not too long after that, then they did install some terminals and they set up a machine
+
+73
+00:05:56,040 --> 00:06:03,640
+to do time sharing of the IBM 370, which everything ran on.
+
+74
+00:06:03,640 --> 00:06:12,400
+So from punch cards to today is just a stark difference.
+
+75
+00:06:12,400 --> 00:06:18,880
+You can't even imagine what that difference is like unless you were there and lived it.
+
+76
+00:06:18,880 --> 00:06:23,440
+And I'll give you an example of what was really one of the things that's really different
+
+77
+00:06:23,440 --> 00:06:27,240
+today from punch cards.
+
+78
+00:06:27,240 --> 00:06:35,520
+We had what were called IBM 029 card punch machines, and you would put a deck of cards
+
+79
+00:06:35,520 --> 00:06:41,480
+in the machine and had a hopper that would feed one card at a time.
+
+80
+00:06:41,480 --> 00:06:46,520
+You tap the return key to get to bring the first card into the machine where you start
+
+81
+00:06:46,520 --> 00:06:47,800
+punching it.
+
+82
+00:06:47,800 --> 00:06:53,020
+And as you touch the keys, it actually punched the holes in the card.
+
+83
+00:06:53,020 --> 00:06:55,200
+So there was no such thing as a delete.
+
+84
+00:06:55,200 --> 00:06:57,960
+I mean, there was no backspace.
+
+85
+00:06:57,960 --> 00:07:06,840
+Once you hit the key, the hole was in the card, and if you had made a mistake, you just
+
+86
+00:07:06,840 --> 00:07:10,280
+push return through that card away and start it again.
+
+87
+00:07:10,280 --> 00:07:18,800
+So if you stood in the card punch room and listened a little bit, you could tell how
+
+88
+00:07:18,800 --> 00:07:23,560
+far into the card each person was because at the beginning of a card, you'd be typing
+
+89
+00:07:23,560 --> 00:07:25,240
+pretty quickly.
+
+90
+00:07:25,240 --> 00:07:30,880
+But as you got to about 40 or 50 characters in, people would slow way down because they
+
+91
+00:07:30,880 --> 00:07:39,120
+didn't want to make a mistake after having done 40 or 50 or 55 characters.
+
+92
+00:07:39,120 --> 00:07:43,160
+And today, of course, I absolutely rely on the backspace key.
+
+93
+00:07:43,160 --> 00:07:48,760
+If we didn't have backspace key, I'd have to do something else.
+
+94
+00:07:48,760 --> 00:07:55,920
+I type okay, but I'm not as accurate as I would like to be.
+
+95
+00:07:55,920 --> 00:08:03,360
+So if it wasn't for backspace, I would be much less productive in programming.
+
+96
+00:08:03,360 --> 00:08:10,280
+But another of the really big differences, I of course started with Fortran, and in school
+
+97
+00:08:10,280 --> 00:08:22,880
+I did Fortran, COBOL, IBM 360 and 370 assembly language, a little bit of Pascal, but not
+
+98
+00:08:22,880 --> 00:08:30,720
+very much, and Ada wasn't really on the horizon yet, and Java hadn't even been conceived of,
+
+99
+00:08:30,720 --> 00:08:38,000
+so never dealt with that in school.
+
+100
+00:08:38,000 --> 00:08:45,640
+And I'm not sure how familiar you are with Fortran, but in Fortran especially, we were
+
+101
+00:08:45,640 --> 00:08:57,880
+mostly using Fortran 66, which was the 1966 standard, and the first five spaces on a line
+
+102
+00:08:57,880 --> 00:09:00,920
+were the line number, and you didn't have to have a line number, but that's where they
+
+103
+00:09:00,920 --> 00:09:02,720
+went if you had one.
+
+104
+00:09:02,720 --> 00:09:06,040
+The sixth column was the continuation column.
+
+105
+00:09:06,040 --> 00:09:11,360
+Any character in that meant that this line was a continuation from the previous line,
+
+106
+00:09:11,360 --> 00:09:18,320
+and everything started in column seven, and you just had to remember that.
+
+107
+00:09:18,320 --> 00:09:26,360
+There also was no integrated development environment or language-sensitive editors or any of that.
+
+108
+00:09:26,360 --> 00:09:28,360
+I mean, you just had to know that.
+
+109
+00:09:28,360 --> 00:09:40,680
+And so the tools today are so much better and so friendly to, I think, especially new
+
+110
+00:09:40,680 --> 00:09:47,520
+developers learning a new language or new developers using something like VS Code, and
+
+111
+00:09:47,520 --> 00:09:55,680
+you install the plug-in that, you know, when you start typing the name of a function or
+
+112
+00:09:55,680 --> 00:10:01,640
+something like that, it basically will show you a list of what could go next, and so you
+
+113
+00:10:01,640 --> 00:10:09,480
+don't really even have to remember all of the names of everything, which is helpful,
+
+114
+00:10:09,480 --> 00:10:10,480
+I think, to everybody.
+
+115
+00:10:10,480 --> 00:10:16,160
+It is certainly for me because, you know, there's just so many more things available
+
+116
+00:10:16,160 --> 00:10:19,400
+today than there were back then.
+
+117
+00:10:19,400 --> 00:10:28,840
+In my professional life, I used DEC VAX computers, for the most part, and, you know, using the
+
+118
+00:10:28,840 --> 00:10:38,000
+VT100 or equivalent terminals, and, you know, of course, we never used punch cards for when
+
+119
+00:10:38,000 --> 00:10:45,240
+I was working for PAY, but I got pretty good with the editors on the VT100.
+
+120
+00:10:45,240 --> 00:10:51,360
+They had the keypad editing, which was great, but, you know, even that could not hold a
+
+121
+00:10:51,360 --> 00:10:54,400
+candle to the modern IDEs.
+
+122
+00:10:54,400 --> 00:11:02,360
+I mean, you know, VS Code or the JetBrains tools or things like Eclipse or I think there's
+
+123
+00:11:02,360 --> 00:11:08,360
+what's called NetBeans I used many years ago.
+
+124
+00:11:08,360 --> 00:11:10,040
+They all are just great.
+
+125
+00:11:10,040 --> 00:11:16,360
+The languages also being more available, when I first got out of school, of course, I was
+
+126
+00:11:16,360 --> 00:11:22,360
+working eight hours a day, and then I had a computer at home and I'd come home and spend
+
+127
+00:11:22,360 --> 00:11:27,120
+all day working, get a computer, come home, grab something to eat, and then spend three
+
+128
+00:11:27,120 --> 00:11:33,900
+or four or five hours at night also working on a computer, but, you know, if you wanted
+
+129
+00:11:33,900 --> 00:11:41,080
+to buy a compiler or assembler, I mean, they were, you know, a few hundred dollars each
+
+130
+00:11:41,080 --> 00:11:48,180
+and the tools were either non-existent or very expensive, so today with, you know, things
+
+131
+00:11:48,180 --> 00:11:55,420
+like VS Code being basically free, you can download Visual Studio if you're using it
+
+132
+00:11:55,420 --> 00:11:58,400
+for an open source project or a personal project.
+
+133
+00:11:58,400 --> 00:11:59,400
+You don't have to pay for that.
+
+134
+00:11:59,400 --> 00:12:03,360
+If you're trying to learn, that's great because you can learn it without spending too much
+
+135
+00:12:03,360 --> 00:12:04,360
+money.
+
+136
+00:12:04,360 --> 00:12:10,360
+No, JS, you just download, Python, you just download.
+
+137
+00:12:10,360 --> 00:12:17,280
+So the availability and quality of the tools is really one of the stark contrasts between
+
+138
+00:12:17,280 --> 00:12:20,200
+now and, say, the mid- to late-1980s.
+
+139
+00:12:20,200 --> 00:12:34,760
+I'm trying to think what else comes to mind that's, you know, that's a big contrast.
+
+140
+00:12:34,760 --> 00:12:43,200
+I mean, I think computers, of course, have gotten much faster.
+
+141
+00:12:43,200 --> 00:12:44,200
+Go ahead.
+
+142
+00:12:44,200 --> 00:12:53,520
+Yeah, no, no, no, I was just thinking, like, where you mentioned the fact that in modern
+
+143
+00:12:53,520 --> 00:13:02,040
+code editors, if you start typing, it'll show you a list of potential functions that's applicable
+
+144
+00:13:02,040 --> 00:13:03,040
+even to the specific.
+
+145
+00:13:03,040 --> 00:13:09,040
+It can detect what kind of object you have on the left-hand side, so it'll only suggest
+
+146
+00:13:09,040 --> 00:13:10,600
+functions that's actually available on that.
+
+147
+00:13:10,600 --> 00:13:14,960
+Like if it's an array, it won't suggest something that's only available on a string and that
+
+148
+00:13:14,960 --> 00:13:15,960
+kind of thing.
+
+149
+00:13:15,960 --> 00:13:18,720
+So even that, like they're calling IntelliSense.
+
+150
+00:13:18,720 --> 00:13:24,760
+But then over and above that, like more often than not, when you hover over one of these
+
+151
+00:13:24,760 --> 00:13:29,280
+specific function calls or whatever, it'll show you, like, integrated documentation that's
+
+152
+00:13:29,280 --> 00:13:32,640
+like usually pulled from MDN or something.
+
+153
+00:13:32,640 --> 00:13:35,840
+So even that's being brought into the editor.
+
+154
+00:13:35,840 --> 00:13:40,800
+And then I'm wondering, like, this next evolution where you get stuff like GitHub's copilot
+
+155
+00:13:40,800 --> 00:13:46,400
+where it sometimes suggests, like, here's potentially the entire function that you probably
+
+156
+00:13:46,400 --> 00:13:49,640
+want to write based on code analysis.
+
+157
+00:13:49,640 --> 00:13:56,120
+What do you think about that coming into, like, it's almost like a pair programmer that's
+
+158
+00:13:56,120 --> 00:13:58,960
+based on machine learning?
+
+159
+00:13:58,960 --> 00:14:02,320
+I have not experienced that yet.
+
+160
+00:14:02,320 --> 00:14:07,160
+I've read a little bit about it.
+
+161
+00:14:07,160 --> 00:14:12,400
+That to me also, you know, a few years ago they were talking about AIs beginning to write
+
+162
+00:14:12,400 --> 00:14:17,200
+code and, you know, they were going to be so much more efficient and effective than
+
+163
+00:14:17,200 --> 00:14:18,200
+human programmers.
+
+164
+00:14:18,200 --> 00:14:22,040
+But, you know, that hasn't really come to fruition.
+
+165
+00:14:22,040 --> 00:14:33,800
+So I guess I'm a little skeptical that that's really going to come about and be a major
+
+166
+00:14:33,800 --> 00:14:37,240
+factor.
+
+167
+00:14:37,240 --> 00:14:42,760
+One of the things that they've also has been kind of in and out of the news over the past
+
+168
+00:14:42,760 --> 00:14:51,280
+30, 35 years is this, you know, idea that we're going to have these libraries of reusable
+
+169
+00:14:51,280 --> 00:14:59,840
+components and to build a system, you just grab some components, you know, write a little
+
+170
+00:14:59,840 --> 00:15:04,560
+bit of interface code, you know, stick them together or ship them out the door.
+
+171
+00:15:04,560 --> 00:15:08,000
+And we haven't gotten there yet either.
+
+172
+00:15:08,000 --> 00:15:18,080
+And to me, I think the reason that that hasn't worked is because when humans solve problems,
+
+173
+00:15:18,080 --> 00:15:26,460
+we don't always necessarily do it in a strictly procedural way by following a certain sequence
+
+174
+00:15:26,460 --> 00:15:27,800
+of steps.
+
+175
+00:15:27,800 --> 00:15:37,560
+We'll use intuition, which I don't know how you would teach a machine to have intuition.
+
+176
+00:15:37,560 --> 00:15:38,560
+We use experience.
+
+177
+00:15:38,560 --> 00:15:45,240
+You know, what has worked or not worked before?
+
+178
+00:15:45,240 --> 00:15:51,440
+You know, we use the knowledge that we've gained and one of the things that I've always
+
+179
+00:15:51,440 --> 00:16:01,560
+found interesting when I've had the need or the situation where I needed to use recursion,
+
+180
+00:16:01,560 --> 00:16:06,640
+and I've written several functions in C that were recursive.
+
+181
+00:16:06,640 --> 00:16:13,440
+And when you need a recursive function, almost nothing else will do because you think of
+
+182
+00:16:13,440 --> 00:16:19,960
+writing this 15 or 20 line function that since it can call itself, you know, you don't need
+
+183
+00:16:19,960 --> 00:16:20,960
+to write too much more.
+
+184
+00:16:20,960 --> 00:16:26,520
+But if you had to write it out procedurally and do it, you know, calling a function and
+
+185
+00:16:26,520 --> 00:16:34,760
+calling another, you know, you'd get, it would be very untenable pretty quickly.
+
+186
+00:16:34,760 --> 00:16:39,680
+So how, you know, and how do you know when you should use recursion?
+
+187
+00:16:39,680 --> 00:16:43,800
+Well, it's one of those things where you're trying to solve a problem, you're trying to
+
+188
+00:16:43,800 --> 00:16:50,120
+solve a problem, and then you think, you know, this probably lends itself to a recursive
+
+189
+00:16:50,120 --> 00:16:52,040
+function.
+
+190
+00:16:52,040 --> 00:16:56,720
+And then you start looking at a little bit more and you start writing the recursive function
+
+191
+00:16:56,720 --> 00:17:05,120
+and yeah, and maybe 10 or 15 or 20 lines of code, you've got this function that does this
+
+192
+00:17:05,120 --> 00:17:10,600
+thing that you can't really keep in your mind because you can't iterate as deeply in your
+
+193
+00:17:10,600 --> 00:17:17,120
+brain and keep everything straight as the computer can pushing stuff on the stack and,
+
+194
+00:17:17,120 --> 00:17:21,000
+you know, just iterating and getting deeper and deeper.
+
+195
+00:17:21,000 --> 00:17:26,320
+And one of the things that I've always been surprised at when I've written recursive functions
+
+196
+00:17:26,320 --> 00:17:34,000
+is I never knew that I was almost done until I was done.
+
+197
+00:17:34,000 --> 00:17:38,600
+Because I'd be writing along and it'd be kind of working and calling itself and I'd be using
+
+198
+00:17:38,600 --> 00:17:40,360
+the debugger to watch it.
+
+199
+00:17:40,360 --> 00:17:45,000
+And then all of a sudden I'd realize, oh, that's it, and it's finished, you know, and
+
+200
+00:17:45,000 --> 00:17:46,600
+now it works.
+
+201
+00:17:46,600 --> 00:17:53,360
+And you know, I just, I never really knew when I was approaching that point, whereas
+
+202
+00:17:53,360 --> 00:17:58,600
+with other, with procedural type functions, you know, you pretty much knew, you know,
+
+203
+00:17:58,600 --> 00:18:02,920
+when you were almost done with the function, you just had a few more things to do and you
+
+204
+00:18:02,920 --> 00:18:05,000
+could move on and work on something else.
+
+205
+00:18:05,000 --> 00:18:14,800
+So it's fun, but I don't, I just, I don't know how you get a machine to do that or how
+
+206
+00:18:14,800 --> 00:18:24,280
+you create a set of components that you can pick from and without really studying it and
+
+207
+00:18:24,280 --> 00:18:29,440
+getting into it, you know that you need a recursive component rather than just some
+
+208
+00:18:29,440 --> 00:18:30,800
+procedural component.
+
+209
+00:18:30,800 --> 00:18:38,000
+And that's another thing that's changed since I first started getting into computing is,
+
+210
+00:18:38,000 --> 00:18:43,760
+you know, nobody had ever heard about object-oriented programming when I first started.
+
+211
+00:18:43,760 --> 00:18:49,840
+So everything was very procedural, very functional, you know, you wrote functions or subroutines
+
+212
+00:18:49,840 --> 00:18:59,800
+and Fortran and called them and, you know, you pushed arguments on the stack.
+
+213
+00:18:59,800 --> 00:19:04,640
+So there wasn't really this concept of an object that you were working with.
+
+214
+00:19:04,640 --> 00:19:07,880
+It was all basically arrays.
+
+215
+00:19:07,880 --> 00:19:16,160
+And then in C, of course, C introduced the concept of the structures and the, what do
+
+216
+00:19:16,160 --> 00:19:23,920
+they call them, where it could, it's been so long since I've written any C. There was
+
+217
+00:19:23,920 --> 00:19:34,080
+a way to have an area in memory that if you addressed it one way, it was like one set
+
+218
+00:19:34,080 --> 00:19:38,040
+of variables or one record format.
+
+219
+00:19:38,040 --> 00:19:44,360
+Or if you called it by another name, it was a, I think it was a joint or join or let's
+
+220
+00:19:44,360 --> 00:19:47,680
+join as a database thing.
+
+221
+00:19:47,680 --> 00:19:54,240
+But you could, but depending on which name you called it by, you could use a separate
+
+222
+00:19:54,240 --> 00:20:01,840
+set of variables within the same memory or region of memory.
+
+223
+00:20:01,840 --> 00:20:06,360
+And that was great if you were reading records from a text file and you didn't know what
+
+224
+00:20:06,360 --> 00:20:08,960
+the next record was going to be, you know what the different formats were.
+
+225
+00:20:08,960 --> 00:20:14,240
+So you had five or six different possible record types and you'd read the record in,
+
+226
+00:20:14,240 --> 00:20:18,200
+but you didn't know what type it was until you looked at the first four bytes and you
+
+227
+00:20:18,200 --> 00:20:22,120
+say, oh, this is a, you know, this is a certain type of record.
+
+228
+00:20:22,120 --> 00:20:28,720
+And so you would say, well, that's going to be, I'm going to call that, you know, A or
+
+229
+00:20:28,720 --> 00:20:29,920
+whatever.
+
+230
+00:20:29,920 --> 00:20:34,200
+And it would, then you'd use that until you get to the next record and it might be a different
+
+231
+00:20:34,200 --> 00:20:35,200
+type.
+
+232
+00:20:35,200 --> 00:20:37,920
+And I wish I could remember what the name of that was.
+
+233
+00:20:37,920 --> 00:20:43,400
+I'll look it up later and send you a message so that you can, maybe you can go back and
+
+234
+00:20:43,400 --> 00:20:47,360
+edit it in or something.
+
+235
+00:20:47,360 --> 00:20:53,640
+But object-oriented programming, and it took me a long time to get comfortable with objects
+
+236
+00:20:53,640 --> 00:21:06,280
+because having grown up and learned in a very functional procedural manner, wrapping my
+
+237
+00:21:06,280 --> 00:21:11,520
+brain around objects took a while.
+
+238
+00:21:11,520 --> 00:21:20,800
+And by a while, I mean, probably a few years at least, because it just, I guess, you know,
+
+239
+00:21:20,800 --> 00:21:24,120
+like everything else in life, you know, we have a resistance to change.
+
+240
+00:21:24,120 --> 00:21:27,000
+So I wanted to do things the way I knew how to do with them.
+
+241
+00:21:27,000 --> 00:21:30,160
+I didn't want to change to this new thing.
+
+242
+00:21:30,160 --> 00:21:33,960
+But then I finally did see the light and I woke up one day and thought, yeah, this isn't
+
+243
+00:21:33,960 --> 00:21:34,960
+so bad.
+
+244
+00:21:34,960 --> 00:21:37,760
+Maybe I'll, maybe I'll try this after all.
+
+245
+00:21:37,760 --> 00:21:44,560
+But those are, I think that the availability and quality of the tools, especially like
+
+246
+00:21:44,560 --> 00:21:50,320
+you mentioned, you know, the context-sensitive editors where it can tell you what the function
+
+247
+00:21:50,320 --> 00:21:53,400
+name could be or whatever.
+
+248
+00:21:53,400 --> 00:21:59,040
+And object-oriented programming is different.
+
+249
+00:21:59,040 --> 00:22:05,160
+And a year or two ago, I heard some people talking about this new thing called functional
+
+250
+00:22:05,160 --> 00:22:10,440
+programming where they, you know, they were using subroutines and functions and I thought,
+
+251
+00:22:10,440 --> 00:22:13,800
+yes, that's not new.
+
+252
+00:22:13,800 --> 00:22:14,800
+That's the old way.
+
+253
+00:22:14,800 --> 00:22:17,800
+So that was kind of interesting.
+
+254
+00:22:17,800 --> 00:22:20,800
+Yeah, that's pretty popular in the JavaScript world.
+
+255
+00:22:20,800 --> 00:22:30,220
+I know a lot of people are suggesting that that might be better than, because, I mean,
+
+256
+00:22:30,220 --> 00:22:36,340
+you can fake object-oriented programming in JavaScript.
+
+257
+00:22:36,340 --> 00:22:42,080
+And to some extent, I mean, JavaScript technically has class syntax, but it's not true class
+
+258
+00:22:42,080 --> 00:22:47,840
+syntax, you know, in the Java sense, for example.
+
+259
+00:22:47,840 --> 00:22:54,880
+But through that, you can sort of create this idea of classes and inheritance and all these
+
+260
+00:22:54,880 --> 00:22:56,120
+kinds of things.
+
+261
+00:22:56,120 --> 00:23:04,200
+And more so if you go for something like TypeScript, then you can probably get closer to true object-oriented.
+
+262
+00:23:04,200 --> 00:23:10,280
+But I do find that a lot of folks are leaning more towards functional programming and there's
+
+263
+00:23:10,280 --> 00:23:18,400
+some stuff built into JavaScript that lends itself to that, like your MapReduce filters,
+
+264
+00:23:18,400 --> 00:23:23,560
+functions that you have on arrays, so you're not actually changing the underlying array.
+
+265
+00:23:23,560 --> 00:23:29,520
+You're doing some function, you're running some functions on the contents of it and creating
+
+266
+00:23:29,520 --> 00:23:36,080
+a new array, but the old one is still left intact.
+
+267
+00:23:36,080 --> 00:23:40,080
+And I think that is what they call having functions that have no side effects.
+
+268
+00:23:40,080 --> 00:23:45,880
+So if you give it the same thing, it'll always return, give you the same result, there's
+
+269
+00:23:45,880 --> 00:23:46,880
+no surprises.
+
+270
+00:23:46,880 --> 00:23:49,560
+So it's interesting.
+
+271
+00:23:49,560 --> 00:23:55,480
+I think in a lot of ways, we go forward and then we step back a little bit and then we
+
+272
+00:23:55,480 --> 00:23:58,080
+go forward and then we step back a little bit.
+
+273
+00:23:58,080 --> 00:24:06,360
+I think the same thing happened with Jamstack where, I mean, some aspects of Jamstack is
+
+274
+00:24:06,360 --> 00:24:12,400
+new, but the underlying idea behind it is pretty much like we used to build websites
+
+275
+00:24:12,400 --> 00:24:17,640
+back in the early 2000s, where it's nothing more than just HTML, CSS and JavaScript that
+
+276
+00:24:17,640 --> 00:24:22,360
+sits on a server and it's just pushed to your browser.
+
+277
+00:24:22,360 --> 00:24:27,000
+Of course, with the modern capabilities of browsers and stuff, you have all kinds of
+
+278
+00:24:27,000 --> 00:24:31,440
+stuff you can do then on top of that to enhance the experience, like making stuff available
+
+279
+00:24:31,440 --> 00:24:38,480
+offline, being able to respond to different screen sizes and environments and all that
+
+280
+00:24:38,480 --> 00:24:39,760
+kind of stuff.
+
+281
+00:24:39,760 --> 00:24:45,160
+But the basic idea of serving static pages, that's something that happened way back in
+
+282
+00:24:45,160 --> 00:24:46,160
+the day.
+
+283
+00:24:46,160 --> 00:24:49,320
+And now it's again evolving.
+
+284
+00:24:49,320 --> 00:24:54,760
+Now it seems like people are kind of still interested in Jamstack, but now they're embracing
+
+285
+00:24:54,760 --> 00:25:01,360
+this new thing of edge functions and serverless, which I'm still trying to wrap my head around
+
+286
+00:25:01,360 --> 00:25:04,080
+exactly what that all means.
+
+287
+00:25:04,080 --> 00:25:06,240
+Yeah, me too.
+
+288
+00:25:06,240 --> 00:25:13,280
+These serverless functions, I haven't really looked into that deeply.
+
+289
+00:25:13,280 --> 00:25:22,120
+I've read a little bit about them in the context of the Microsoft Azure offerings, but I haven't
+
+290
+00:25:22,120 --> 00:25:23,760
+really tried anything with them.
+
+291
+00:25:23,760 --> 00:25:28,320
+But what you're talking about just a minute ago with JavaScript, we used to call that
+
+292
+00:25:28,320 --> 00:25:34,720
+back in the day either calling something by value or by reference.
+
+293
+00:25:34,720 --> 00:25:41,520
+If you call it by value, you change its value perhaps, or not, you don't change.
+
+294
+00:25:41,520 --> 00:25:47,440
+If you pass by value, then you can't change the value because you don't know where it's
+
+295
+00:25:47,440 --> 00:25:48,440
+stored in memory.
+
+296
+00:25:48,440 --> 00:25:50,160
+So you just have to return something else.
+
+297
+00:25:50,160 --> 00:25:55,080
+But if you pass something by reference, then you have the pointer to where it's located.
+
+298
+00:25:55,080 --> 00:25:58,920
+So you can actually change the thing that's being passed.
+
+299
+00:25:58,920 --> 00:26:01,160
+And I always thought that was pretty cool.
+
+300
+00:26:01,160 --> 00:26:07,560
+But I wanted to say something about JavaScript, and I like JavaScript.
+
+301
+00:26:07,560 --> 00:26:10,200
+I've written a fair bit of it.
+
+302
+00:26:10,200 --> 00:26:14,960
+In fact, last year I did the, I don't know if you're familiar with the advent of code.
+
+303
+00:26:14,960 --> 00:26:23,920
+It's a set of problems that this guy does every year for the first 25 days of December.
+
+304
+00:26:23,920 --> 00:26:30,440
+And the problems get more and more challenging as you go through the 25 days.
+
+305
+00:26:30,440 --> 00:26:32,480
+And there are two parts each day.
+
+306
+00:26:32,480 --> 00:26:39,440
+And I used JavaScript last year to do that, reasonably far into it before I kind of threw
+
+307
+00:26:39,440 --> 00:26:45,560
+my hands up and said, well, I both, A, don't have time to work on this all day long.
+
+308
+00:26:45,560 --> 00:26:48,200
+And the problems were getting like really complicated.
+
+309
+00:26:48,200 --> 00:26:51,240
+And I just thought, well, I'll do this again next year.
+
+310
+00:26:51,240 --> 00:26:56,360
+But I also wanted to learn JavaScript.
+
+311
+00:26:56,360 --> 00:27:03,160
+The more I've learned JavaScript, and you know, when you're talking about the different
+
+312
+00:27:03,160 --> 00:27:12,320
+ways to do things in JavaScript, I'm almost always reminded of a quote that I read.
+
+313
+00:27:12,320 --> 00:27:23,640
+I used to actually had a copy of it pinned up to my wall when I was working.
+
+314
+00:27:23,640 --> 00:27:28,240
+I wish I still had it, but I'm paraphrasing a little bit.
+
+315
+00:27:28,240 --> 00:27:34,920
+But the effect of the quote was when you're writing code, you're not trying to tell the
+
+316
+00:27:34,920 --> 00:27:37,080
+computer what to do.
+
+317
+00:27:37,080 --> 00:27:44,200
+What you're trying to do is tell other programmers what you're doing, or maybe even remind yourself
+
+318
+00:27:44,200 --> 00:27:50,840
+six months from now why you did what you did and why you did it this way.
+
+319
+00:27:50,840 --> 00:28:02,960
+That is so, so true because the code that I've written in C, I would do a project, get
+
+320
+00:28:02,960 --> 00:28:10,520
+finished with it, put it away, maybe six, eight months or a year later, the guy that
+
+321
+00:28:10,520 --> 00:28:15,080
+I wrote it for would come back and say, hey, we've got another set of data, but now we've
+
+322
+00:28:15,080 --> 00:28:18,000
+got this different kind of quirk.
+
+323
+00:28:18,000 --> 00:28:23,400
+And hey, can you get that code out and add it enough to do this and then process it?
+
+324
+00:28:23,400 --> 00:28:28,920
+I did lots of what's called data reduction and analysis and processing.
+
+325
+00:28:28,920 --> 00:28:30,800
+And so I'd say, yeah, sure, I can do that.
+
+326
+00:28:30,800 --> 00:28:35,320
+And I would take out, I'd go find the file and edit it.
+
+327
+00:28:35,320 --> 00:28:45,480
+And sometimes, especially early on, I would look at the code and I'd be like, who wrote
+
+328
+00:28:45,480 --> 00:28:46,480
+this?
+
+329
+00:28:46,480 --> 00:28:50,920
+And why do they hate me?
+
+330
+00:28:50,920 --> 00:28:55,800
+Because it was foreign.
+
+331
+00:28:55,800 --> 00:29:04,320
+So that encouraged me to both start writing better comments in the code and also to start
+
+332
+00:29:04,320 --> 00:29:12,440
+doing things in really the simplest way possible.
+
+333
+00:29:12,440 --> 00:29:17,520
+Even if there was a clever way of doing something, I would think, if I ever have to come back
+
+334
+00:29:17,520 --> 00:29:24,040
+and look at this, am I going to be able to figure out in the future how clever I was
+
+335
+00:29:24,040 --> 00:29:25,360
+today?
+
+336
+00:29:25,360 --> 00:29:31,280
+Not that I'm all that clever of a person, but sometimes I would think about kind of
+
+337
+00:29:31,280 --> 00:29:33,560
+a cool way of doing something.
+
+338
+00:29:33,560 --> 00:29:41,720
+And in my opinion, the simplest way to get the job done, as long as it's not horribly
+
+339
+00:29:41,720 --> 00:29:45,640
+inefficient, is probably the way you want to do it.
+
+340
+00:29:45,640 --> 00:29:51,040
+Because when you go look at it later or if some person that's maintaining the code looks
+
+341
+00:29:51,040 --> 00:29:58,760
+at it a year from now, they'll be able to figure out what it is you were doing relatively
+
+342
+00:29:58,760 --> 00:30:01,280
+quickly maybe.
+
+343
+00:30:01,280 --> 00:30:06,840
+And they'll be able to maintain it or update it or use it in a way that will be effective
+
+344
+00:30:06,840 --> 00:30:08,560
+for them.
+
+345
+00:30:08,560 --> 00:30:18,160
+In JavaScript, every time I look at a book on JavaScript, there really are too many different
+
+346
+00:30:18,160 --> 00:30:27,320
+ways to do any one thing.
+
+347
+00:30:27,320 --> 00:30:37,680
+As JavaScript has evolved, things have improved, but it used to be like the asynchronous communications
+
+348
+00:30:37,680 --> 00:30:38,680
+with JavaScript.
+
+349
+00:30:38,680 --> 00:30:48,560
+It was the try and catch, and then at some point they introduced the promises and I don't
+
+350
+00:30:48,560 --> 00:30:55,480
+know what they're up to now, but you want to use the way that works the best.
+
+351
+00:30:55,480 --> 00:31:01,360
+You don't want a lot of network congestion, but you also want to use code that's going
+
+352
+00:31:01,360 --> 00:31:03,720
+to be understandable.
+
+353
+00:31:03,720 --> 00:31:13,000
+And JavaScript gives you plenty of ways to just really get out there where you will never
+
+354
+00:31:13,000 --> 00:31:16,000
+come back.
+
+355
+00:31:16,000 --> 00:31:25,640
+It's got too many ways of doing things, whereas Fortran had too few ways of doing stuff.
+
+356
+00:31:25,640 --> 00:31:31,800
+C had about the right amount if you ask me, but then I have a special place in my heart
+
+357
+00:31:31,800 --> 00:31:33,800
+for C language.
+
+358
+00:31:33,800 --> 00:31:40,360
+I really enjoyed both the years, the time in my life, and C programming were all very
+
+359
+00:31:40,360 --> 00:31:44,680
+good to me, so I remember that very fondly.
+
+360
+00:31:44,680 --> 00:31:50,600
+Yeah, I agree.
+
+361
+00:31:50,600 --> 00:31:56,560
+JavaScript has evolved quite a bit in the last couple of years, not all of it necessarily
+
+362
+00:31:56,560 --> 00:31:57,560
+for the better.
+
+363
+00:31:57,560 --> 00:32:04,600
+I think there's been a lot of syntactic sugar added to the language, and I'm not always
+
+364
+00:32:04,600 --> 00:32:09,600
+sure if it's good for new people.
+
+365
+00:32:09,600 --> 00:32:12,360
+I think a lot of it can be super confusing.
+
+366
+00:32:12,360 --> 00:32:18,640
+For example, you can create a function using the function keyword, but you can also create
+
+367
+00:32:18,640 --> 00:32:26,560
+a variable and store a function in it where you use the fat arrow syntax.
+
+368
+00:32:26,560 --> 00:32:31,240
+The thing is, it's not actually exactly the same thing.
+
+369
+00:32:31,240 --> 00:32:38,960
+They're both functions that has a call signature that you can call, but the value of the this
+
+370
+00:32:38,960 --> 00:32:45,760
+keyword in a function defined with the function keyword and with arrow functions is not the
+
+371
+00:32:45,760 --> 00:32:47,400
+same.
+
+372
+00:32:47,400 --> 00:32:54,400
+This keyword in JavaScript has been problematic in the past, and they essentially fixed it
+
+373
+00:32:54,400 --> 00:33:00,760
+in arrow functions, but now it's important that people know the difference.
+
+374
+00:33:00,760 --> 00:33:06,000
+In a way, they fixed it, but in a way, now you have to adopt one of the two, because
+
+375
+00:33:06,000 --> 00:33:10,440
+otherwise you're going to potentially confuse yourself, because you're going to say, okay,
+
+376
+00:33:10,440 --> 00:33:16,440
+cool, I could just use this dot blah, and then suddenly you're in a functions context
+
+377
+00:33:16,440 --> 00:33:21,200
+and it doesn't work, but why the heck is it not working?
+
+378
+00:33:21,200 --> 00:33:27,000
+It's literally just because the value of this is different, and there's some other syntactic
+
+379
+00:33:27,000 --> 00:33:28,000
+sugar things as well.
+
+380
+00:33:28,000 --> 00:33:34,920
+I think one of the recent additions is this ability, I forget the name, but so essentially
+
+381
+00:33:34,920 --> 00:33:43,560
+instead of having to do if this thing and then do a chain, like say if variable and
+
+382
+00:33:43,560 --> 00:33:48,500
+variable dot something else property, then do this thing.
+
+383
+00:33:48,500 --> 00:33:52,600
+Now you can do variable, and then you put a little question mark, and then a dot, and
+
+384
+00:33:52,600 --> 00:33:58,600
+then the other property, and that's like a shortcut for it, and it's not always obvious
+
+385
+00:33:58,600 --> 00:34:01,880
+what the heck that question mark does.
+
+386
+00:34:01,880 --> 00:34:07,520
+I'm pretty sure if people new to code looks at that, it's not going to be immediately
+
+387
+00:34:07,520 --> 00:34:13,240
+intuitive that that's actually checking, it'll only try and read the property on the right
+
+388
+00:34:13,240 --> 00:34:16,360
+if the thing on the left exists.
+
+389
+00:34:16,360 --> 00:34:20,960
+So if the thing on the left is undefined, it's not going to try and read the thing,
+
+390
+00:34:20,960 --> 00:34:25,120
+so it won't throw an error saying cannot read length of undefined.
+
+391
+00:34:25,120 --> 00:34:30,560
+You avoid that, but at the same time I'm not sure if that syntax is very intuitive, that
+
+392
+00:34:30,560 --> 00:34:32,560
+that is what it's doing.
+
+393
+00:34:32,560 --> 00:34:36,160
+Yeah, it's not intuitive.
+
+394
+00:34:36,160 --> 00:34:43,040
+I know what you're talking about, and the first time I saw that I thought it's really
+
+395
+00:34:43,040 --> 00:34:55,120
+nice that you can avoid the problems with undefined variables, but is it really better
+
+396
+00:34:55,120 --> 00:35:02,720
+than checking to see if something is defined first and then doing it in an if statement?
+
+397
+00:35:02,720 --> 00:35:11,520
+Is it really worth saving two lines of code to do this very kind of complex, different
+
+398
+00:35:11,520 --> 00:35:22,360
+looking construct, and I'm not sure where I fall on that because I haven't had an occasion
+
+399
+00:35:22,360 --> 00:35:29,760
+where I've written that type of construct yet, so I mean maybe it is, and also going
+
+400
+00:35:29,760 --> 00:35:38,720
+back to functions, the anonymous functions in JavaScript gave me fits at first.
+
+401
+00:35:38,720 --> 00:35:45,040
+I found them kind of difficult to construct at first and probably would have a problem
+
+402
+00:35:45,040 --> 00:35:50,560
+with them now because I haven't written JavaScript very much recently, but my understanding is
+
+403
+00:35:50,560 --> 00:35:56,760
+that the anonymous functions have the advantage that once they're used and they're out of
+
+404
+00:35:56,760 --> 00:36:04,080
+scope they're no longer taking memory, which is probably a good enough rationale to use
+
+405
+00:36:04,080 --> 00:36:11,800
+them when you can, but they certainly can be confusing.
+
+406
+00:36:11,800 --> 00:36:16,920
+They're also hard to debug because if something happens in your code it doesn't have a name
+
+407
+00:36:16,920 --> 00:36:22,680
+to reference because it's anonymous, right, so it can't tell you function with this name
+
+408
+00:36:22,680 --> 00:36:27,200
+is where the error occurred, it's more going to have to try and tell you on which line
+
+409
+00:36:27,200 --> 00:36:32,240
+it happened and then you're on your own there.
+
+410
+00:36:32,240 --> 00:36:37,200
+Then you go back to the tried and true age old method of debugging of putting in print
+
+411
+00:36:37,200 --> 00:36:42,760
+statements to say, okay, hey, I passed this line and now I'm at this line and now I'm
+
+412
+00:36:42,760 --> 00:36:50,600
+at this line and this variable is now this and this and this and, you know, symbolic
+
+413
+00:36:50,600 --> 00:37:05,280
+debuggers were also just an incredible advancement in debugging. It really beats the endless number
+
+414
+00:37:05,280 --> 00:37:11,240
+of print statements that you have to put in to figure things out.
+
+415
+00:37:11,240 --> 00:37:15,840
+That's true, but at the same time I wonder how approachable they are because I still
+
+416
+00:37:15,840 --> 00:37:22,040
+find more often than not people using console.log or console.error or whatever to figure out
+
+417
+00:37:22,040 --> 00:37:28,720
+what the heck's going on other than flipping open the developer tools and using the script
+
+418
+00:37:28,720 --> 00:37:38,020
+debugger in there. I very rarely work with somebody that uses that as opposed to using
+
+419
+00:37:38,020 --> 00:37:49,040
+just console.log statements. Like me myself, I mostly use console.log. I've always mean
+
+420
+00:37:49,040 --> 00:37:54,560
+to study like these things because I know that if you know how to use it well, it's
+
+421
+00:37:54,560 --> 00:38:01,240
+probably going to serve you better and save you time, but you need to make time to learn
+
+422
+00:38:01,240 --> 00:38:05,520
+it because those things are pretty complex.
+
+423
+00:38:05,520 --> 00:38:11,880
+It is. You're quite correct and I think that there's a tipping point in there that, you
+
+424
+00:38:11,880 --> 00:38:18,440
+know, if you've got a small section of code that you're working with and you need to figure
+
+425
+00:38:18,440 --> 00:38:25,200
+something out that's not terribly complex and you're not, you know, deep into a three
+
+426
+00:38:25,200 --> 00:38:30,420
+or four dimensional array, yeah, putting a console.log or print statement or something
+
+427
+00:38:30,420 --> 00:38:39,080
+like that, you know, that's kind of the first line of defense. But very quickly, if that
+
+428
+00:38:39,080 --> 00:38:46,360
+doesn't show me where the problem is, I am much quicker these days to, you know, open
+
+429
+00:38:46,360 --> 00:38:54,920
+the developer tools, go in there and see, you know, with Visual Studio to open the debugger
+
+430
+00:38:54,920 --> 00:39:01,360
+and just start working through it because being able to set breakpoints and watch variables
+
+431
+00:39:01,360 --> 00:39:10,600
+and see exactly what is in memory without having to put in statements that you then
+
+432
+00:39:10,600 --> 00:39:19,320
+have to go back and take out or comment out is really, it's almost magical what debuggers
+
+433
+00:39:19,320 --> 00:39:27,360
+can do today and I would say I would encourage anybody, yeah, I mean, a couple of console
+
+434
+00:39:27,360 --> 00:39:32,800
+log statements or print statements in Python or something, you know, if that gets the job
+
+435
+00:39:32,800 --> 00:39:39,640
+done that's fine but it's, you'll do yourself a favor if you start learning the debugging
+
+436
+00:39:39,640 --> 00:39:45,200
+tools because they can really, not only do they, not only can they show you what the
+
+437
+00:39:45,200 --> 00:39:55,560
+problem is but sometimes they can also illuminate other issues with the same code that you might
+
+438
+00:39:55,560 --> 00:40:03,880
+not see until you get to a boundary condition and that, you know, that I think also is valuable.
+
+439
+00:40:03,880 --> 00:40:11,840
+Yeah, yeah. I wonder if one of the reasons people haven't adopted these as much is maybe
+
+440
+00:40:11,840 --> 00:40:19,600
+a lack of educational material in this area because, I mean, not that I've really dug
+
+441
+00:40:19,600 --> 00:40:27,100
+deep for this but I haven't really that just, I mean, I see a lot of news about what's happening
+
+442
+00:40:27,100 --> 00:40:31,920
+with the developer world and nothing like this has really come across my radar where
+
+443
+00:40:31,920 --> 00:40:40,120
+there's this like, oh, there's this course by X on using the debugger tools in Chrome,
+
+444
+00:40:40,120 --> 00:40:44,040
+for example, that's really amazing and you should take it and you'll never use console
+
+445
+00:40:44,040 --> 00:40:51,360
+log again. I've never really seen that. So I wonder if that's maybe, if that's an area
+
+446
+00:40:51,360 --> 00:40:58,720
+of opportunity in the educational space. I think you're exactly right and, you know,
+
+447
+00:40:58,720 --> 00:41:05,600
+that's probably one of the things that the Mycelium network could help people with and,
+
+448
+00:41:05,600 --> 00:41:13,920
+I mean, the group that you've created, I think is fantastic. It's a good idea. It's helpful
+
+449
+00:41:13,920 --> 00:41:24,760
+to people at multiple different levels of experience and learning and, you know, that
+
+450
+00:41:24,760 --> 00:41:31,760
+I think would be a good venue for helping people at least to start using the tools that
+
+451
+00:41:31,760 --> 00:41:38,840
+are available and you're exactly right. Everything that I know about, especially the developer
+
+452
+00:41:38,840 --> 00:41:47,680
+tools and Chrome or Edge or Firefox, I've learned just by poking around or I've looked
+
+453
+00:41:47,680 --> 00:42:00,000
+on one of the, done a search on and the name is Escaping Me. It's just one of the sites
+
+454
+00:42:00,000 --> 00:42:03,720
+where everybody goes to ask programming questions and I can't think of it.
+
+455
+00:42:03,720 --> 00:42:04,720
+Stack Overflow?
+
+456
+00:42:04,720 --> 00:42:11,200
+Stack Overflow, yes, indeed. You know, I'll go there and have to say, hey, how do I do
+
+457
+00:42:11,200 --> 00:42:16,600
+a search? How do I do this? I've seldom asked questions because almost always I'm able to
+
+458
+00:42:16,600 --> 00:42:23,360
+find somebody else's question that's very similar and I can figure it out from there.
+
+459
+00:42:23,360 --> 00:42:28,640
+But people will say, well, if you open the developer tools and go to this pane and do
+
+460
+00:42:28,640 --> 00:42:35,440
+this, you know, you'll see, it'll show you that. And I think, oh, that's cool. I didn't
+
+461
+00:42:35,440 --> 00:42:42,720
+know that. So I go try it and hey, that really works well. And I kind of file that away.
+
+462
+00:42:42,720 --> 00:42:47,320
+And the next time I need to use something like that, I hopefully remember that I can
+
+463
+00:42:47,320 --> 00:42:57,440
+go to the developer tools and look at that. And I do that with CSS all the time. I mean,
+
+464
+00:42:57,440 --> 00:43:04,280
+when I'm working on a website or working on CSS, I invariably have the developer tools
+
+465
+00:43:04,280 --> 00:43:14,160
+open to the CSS that's being actually the CSS that's being applied. And, you know, being
+
+466
+00:43:14,160 --> 00:43:24,240
+able to tweak the CSS and see the change immediately is just so much better than, you know, change
+
+467
+00:43:24,240 --> 00:43:34,320
+it, try it, change it, try it. It's such a time saver. And I use Edge. I'm not a Microsoft
+
+468
+00:43:34,320 --> 00:43:43,760
+fan boy. But I like Microsoft better than I did in the 80s. I tell you that. It's a
+
+469
+00:43:43,760 --> 00:43:52,800
+different company, in my opinion, but we won't go down that road. With the Edge tools in
+
+470
+00:43:52,800 --> 00:44:06,880
+the way that it's not really a server. It's kind of the server that you can plug in that
+
+471
+00:44:06,880 --> 00:44:14,320
+you can get for VS code that opens Edge and runs your code in it. And I didn't know this
+
+472
+00:44:14,320 --> 00:44:21,280
+before I did it, but I realized one day that when I was changing the CSS in the panel on
+
+473
+00:44:21,280 --> 00:44:27,640
+the developer tools, it was actually changing it back in my source file. And so I thought,
+
+474
+00:44:27,640 --> 00:44:31,440
+hey, that's pretty cool. If I find out what I like, I don't even have to go back. I just
+
+475
+00:44:31,440 --> 00:44:36,360
+kind of double check, you know, look, make sure that it's there and I'm good to go. So
+
+476
+00:44:36,360 --> 00:44:43,880
+that's, you know, we're getting there. I don't think we're at the utopia yet, but it's, things
+
+477
+00:44:43,880 --> 00:44:54,000
+are a lot better than they were even 10 years ago or more. And my first experience with
+
+478
+00:44:54,000 --> 00:45:01,080
+web development was in the very late 90s. You may recall that people were worried about
+
+479
+00:45:01,080 --> 00:45:07,680
+the Y2K problem and the conversion of the dates and everything. And one of the things
+
+480
+00:45:07,680 --> 00:45:14,200
+that I was working on was a project to make sure that, you know, we were, we were ready
+
+481
+00:45:14,200 --> 00:45:23,480
+for Y2K. And so I developed a website to track some of the issues. And that was before JavaScript
+
+482
+00:45:23,480 --> 00:45:29,720
+even. And, you know, there were no real databases. So those were the days of the CGI scripts.
+
+483
+00:45:29,720 --> 00:45:36,840
+And I was writing C code and putting it in the CGI directory and then doing the calls.
+
+484
+00:45:36,840 --> 00:45:43,400
+And I couldn't even do that today. I'd have to learn how to do it again. But it was, you
+
+485
+00:45:43,400 --> 00:45:49,120
+know, people think, well, those were the days. Well, those were the days. But I don't want
+
+486
+00:45:49,120 --> 00:45:56,600
+to go back there because what we have now is so much better that, you know, it's, you
+
+487
+00:45:56,600 --> 00:46:02,880
+can, you can remember fondly that you did that. But, you know, it's like, I grew up
+
+488
+00:46:02,880 --> 00:46:07,960
+in the, in the, in the southern part of the United States, the southeastern part. And
+
+489
+00:46:07,960 --> 00:46:15,440
+it was fairly warm in the summertime. And for the first several years of my life, we
+
+490
+00:46:15,440 --> 00:46:22,360
+didn't have air conditioning. And so, you know, once we got air conditioning, you know,
+
+491
+00:46:22,360 --> 00:46:26,760
+I don't want to go back to a time without air conditioning, even though I don't, I
+
+492
+00:46:26,760 --> 00:46:31,960
+don't live that far south now, it still gets pretty warm and somewhat humid here. So, you
+
+493
+00:46:31,960 --> 00:46:36,840
+know, like my air conditioning, you know, I fondly remember, hey, we got, we got by
+
+494
+00:46:36,840 --> 00:46:41,360
+without it. But I don't want to go back there.
+
+495
+00:46:41,360 --> 00:46:49,880
+Yeah, yeah. And I do think the CSS tools are much more approachable than the JavaScript
+
+496
+00:46:49,880 --> 00:46:56,720
+debuggers. But again, I think it's maybe just a lack of knowledge and a lack of educational
+
+497
+00:46:56,720 --> 00:47:02,160
+material. Maybe they aren't just as approachable. It's, it's obviously a completely different
+
+498
+00:47:02,160 --> 00:47:08,960
+paradigm. But, you know, a lot of it translates like the same way which you can see, oh, this
+
+499
+00:47:08,960 --> 00:47:14,160
+CSS is being applied to this element. You can see, oh, at this point, this variable
+
+500
+00:47:14,160 --> 00:47:19,640
+has this value. And I'm pretty confident you'll be able to change the value and see the impact
+
+501
+00:47:19,640 --> 00:47:27,360
+of it in that. I think one of the tricky things with these debuggers, and again, it's probably
+
+502
+00:47:27,360 --> 00:47:33,840
+an educational thing, but with the use of frameworks, I think oftentimes it's, it's
+
+503
+00:47:33,840 --> 00:47:40,600
+a little tricky to avoid stepping into the code that is actually part of the framework
+
+504
+00:47:40,600 --> 00:47:46,800
+and being completely lost. And then having to dig your way out of the framework code
+
+505
+00:47:46,800 --> 00:47:52,160
+back to where it's, again, the code that you wrote to get to the problem. But again, you
+
+506
+00:47:52,160 --> 00:47:57,760
+know, because you have step into, step over, and all those kinds of things. So it's understanding
+
+507
+00:47:57,760 --> 00:48:04,040
+when do you want to step into, when do you want to step over, so that you avoid drilling
+
+508
+00:48:04,040 --> 00:48:12,080
+into the stuff. But with that said, I do know that the Chromium dev tools have this ability
+
+509
+00:48:12,080 --> 00:48:20,040
+to exclude certain libraries. So you can say, by the way, anything that's like jQuery, don't
+
+510
+00:48:20,040 --> 00:48:26,400
+go there. So if something is, would have stepped into the jQuery code, it'll just step over
+
+511
+00:48:26,400 --> 00:48:27,400
+it instead.
+
+512
+00:48:27,400 --> 00:48:35,640
+Oh, that's cool. Yeah. But again, I was going to say, I remember back in the late 80s, I
+
+513
+00:48:35,640 --> 00:48:41,080
+was doing something with the Visual Studio and I was doing some debugging and I accidentally
+
+514
+00:48:41,080 --> 00:48:49,080
+stepped into one of the dynamic league libraries and windows. And I was immediately, you know,
+
+515
+00:48:49,080 --> 00:48:55,480
+I had no idea what I was looking at. And then of course, I didn't have the symbols for that.
+
+516
+00:48:55,480 --> 00:49:01,760
+So it was all just basically Greek. So basically, I started again and made sure I stepped over
+
+517
+00:49:01,760 --> 00:49:06,840
+the next time. But yeah, you're exactly right on that.
+
+518
+00:49:06,840 --> 00:49:18,320
+Yeah. So to switch it up a little bit, I read that you are really into cars, automobiles.
+
+519
+00:49:18,320 --> 00:49:27,080
+And I know recently you've gotten into motorcycles. But the one thing that I, when reading the
+
+520
+00:49:27,080 --> 00:49:33,200
+history that you have on one of your blogs, the one thing that's been common throughout
+
+521
+00:49:33,200 --> 00:49:42,520
+that entire line is you would always join these automobile clubs. And I mean, automobile
+
+522
+00:49:42,520 --> 00:49:50,300
+clubs are essentially communities. So I wonder with that in mind, like, what does community
+
+523
+00:49:50,300 --> 00:49:56,920
+mean to you? And what led you to this, this, this, what can you call it, this pattern of
+
+524
+00:49:56,920 --> 00:50:02,540
+always reaching out, always searching out for a community around the specific interest
+
+525
+00:50:02,540 --> 00:50:08,760
+that you have? Well, let me tell you what I think community
+
+526
+00:50:08,760 --> 00:50:18,440
+means to me is a group of people that have some common interest or common bond and are
+
+527
+00:50:18,440 --> 00:50:27,000
+willing to both share their knowledge and excitement with others and also help others
+
+528
+00:50:27,000 --> 00:50:35,280
+who maybe don't have as much experience or haven't lived through some of the early part
+
+529
+00:50:35,280 --> 00:50:42,160
+of like, say, cars in the 60s and 70s being different from today, for example, to help
+
+530
+00:50:42,160 --> 00:50:50,320
+them along to understand maybe some of the changes or whatever. So it's really a community
+
+531
+00:50:50,320 --> 00:50:59,360
+to me as a group of people who are all interested in some topic, helping each other to understand
+
+532
+00:50:59,360 --> 00:51:12,600
+it better and move forward either individually or as a group to improve the topic, if you
+
+533
+00:51:12,600 --> 00:51:21,200
+will, if that's doable, or just to enhance each other's enjoyment of a particular brand
+
+534
+00:51:21,200 --> 00:51:30,900
+of car, type of car. And in the tech industry, being able to ask questions and learn from
+
+535
+00:51:30,900 --> 00:51:37,880
+people who have done things, then you need to do this and you're interested in learning
+
+536
+00:51:37,880 --> 00:51:47,160
+how to do it. But, you know, a lot of the documentation, and I'll use Git and GitHub
+
+537
+00:51:47,160 --> 00:51:56,560
+as an example, the documentation can be both very accurate and very unapproachable at the
+
+538
+00:51:56,560 --> 00:52:04,920
+same time. I mean, when I go back and read some of the documentation that I read a long
+
+539
+00:52:04,920 --> 00:52:10,680
+time ago, now it makes sense, but now I know how to do what it's talking about. And so
+
+540
+00:52:10,680 --> 00:52:18,880
+recently I asked you, how do I do this? And you were very gracious and walked me through
+
+541
+00:52:18,880 --> 00:52:25,120
+how to do this thing that I was trying to do. And I had looked at the documentation
+
+542
+00:52:25,120 --> 00:52:31,400
+and it just didn't, it just, I couldn't figure out, it didn't make sense. I didn't know
+
+543
+00:52:31,400 --> 00:52:39,200
+why, how to put the steps together or what the motivation for doing that was. But having
+
+544
+00:52:39,200 --> 00:52:46,080
+somebody who has experienced that and is willing to say, well, you do it this way because of
+
+545
+00:52:46,080 --> 00:52:56,000
+this and here is the, I think, workflow or the flow of anything is not immediately apparent
+
+546
+00:52:56,000 --> 00:53:01,360
+when you're working on something that's new to you. You don't see the overall
+
+547
+00:53:01,360 --> 00:53:08,440
+picture. You see the piece of it that you're working on right now. And so having somebody
+
+548
+00:53:08,440 --> 00:53:15,600
+that understands the whole subject or all of the workflow is just invaluable. And I
+
+549
+00:53:15,600 --> 00:53:23,360
+think that's part of being part of a community. And the reason that I always, the reason that
+
+550
+00:53:23,360 --> 00:53:31,280
+I personally, just for me, seek out those types of communities is because as an extreme
+
+551
+00:53:31,280 --> 00:53:43,440
+introvert, I just, I have no ability to engage in small talk. I mean, it just exhausts me
+
+552
+00:53:43,440 --> 00:53:51,080
+trying to chat with people about nothing. I mean, I've gone to parties that didn't
+
+553
+00:53:51,080 --> 00:53:56,480
+really have a theme or anything that everybody was interested in. It was just, hey, let's
+
+554
+00:53:56,480 --> 00:54:02,280
+get together and have a party. And after about 10 minutes, I'm thinking, well, I could be
+
+555
+00:54:02,280 --> 00:54:10,560
+doing something else. And it's just, no, we're not talking about anything that I'm interested
+
+556
+00:54:10,560 --> 00:54:22,200
+in. So I'm just going to leave now. So in order to have a community, I seek out people
+
+557
+00:54:22,200 --> 00:54:30,520
+that I share a common interest with. And of course, the more interest that I share with
+
+558
+00:54:30,520 --> 00:54:36,840
+a person or a group of people, the better that is, because that gives me more points
+
+559
+00:54:36,840 --> 00:54:45,280
+of connection if you want to look at it that way. And so that has been, the internet age
+
+560
+00:54:45,280 --> 00:54:52,600
+has really been a good thing for me because I've been able to connect with folks who I
+
+561
+00:54:52,600 --> 00:55:00,640
+would never have known if it weren't for some group. And the way that I first got exposed
+
+562
+00:55:00,640 --> 00:55:07,960
+to Discord, one of the things that I do, I play some video games on both consoles and
+
+563
+00:55:07,960 --> 00:55:16,640
+PC. But I play Final Fantasy XIV off and on. I'm not on every day. But when I got to a
+
+564
+00:55:16,640 --> 00:55:21,800
+certain point in that, I wasn't making much progress because I wasn't sure what to do
+
+565
+00:55:21,800 --> 00:55:26,120
+next. So I kind of sought out a community. And somebody said, well, why don't you join
+
+566
+00:55:26,120 --> 00:55:30,040
+this Discord server? And there's a bunch of people there. And I thought, well, I don't
+
+567
+00:55:30,040 --> 00:55:37,160
+even know what Discord is. So I looked it up and signed up and joined the server. And
+
+568
+00:55:37,160 --> 00:55:45,120
+the folks there were great. I put a question. And within minutes, usually, somebody had
+
+569
+00:55:45,120 --> 00:55:50,880
+said, well, you should maybe look at this or try this or whatever. And I went from not
+
+570
+00:55:50,880 --> 00:56:00,720
+having any idea what to do to having almost too much information on it. And so that's
+
+571
+00:56:00,720 --> 00:56:08,520
+kind of the other side of the coin. But the communities that I've been able to find on
+
+572
+00:56:08,520 --> 00:56:21,880
+the internet in general, but Discord specifically, have been quite helpful. Also, as an introvert,
+
+573
+00:56:21,880 --> 00:56:33,560
+it allows me to control the amount of interaction. So if I get to a point where I'm just, I can't
+
+574
+00:56:33,560 --> 00:56:39,240
+do it anymore, I can sort of walk away from the computer or just stop reading it for a
+
+575
+00:56:39,240 --> 00:56:47,880
+little while. And it allows me to read something, read an answer that somebody's provided, and
+
+576
+00:56:47,880 --> 00:56:53,000
+then think about that. And it's asynchronous. I don't have to respond right away. I can
+
+577
+00:56:53,000 --> 00:56:59,520
+take my time to internalize it, think about it, decide what my approach is or what my
+
+578
+00:56:59,520 --> 00:57:09,040
+thought is, and then I can reply if it's necessary. So that has been very good. Whereas in a face
+
+579
+00:57:09,040 --> 00:57:19,880
+to face meeting or communication, and I'm not against that. I can do that. It's just,
+
+580
+00:57:19,880 --> 00:57:27,720
+I'm sure you've been in meetings where all but one person in the meeting, it's clear
+
+581
+00:57:27,720 --> 00:57:32,480
+that we're done, it's time to go, we're finished with this. There's this one person
+
+582
+00:57:32,480 --> 00:57:44,120
+who just keeps, they just can't stop. And so that I find really frustrating. So I can
+
+583
+00:57:44,120 --> 00:57:55,280
+do the in-person meetings, but in in-person meetings, people tend to expect a response
+
+584
+00:57:55,280 --> 00:58:05,440
+pretty quickly. And I don't always have a response quickly, especially if it's a question
+
+585
+00:58:05,440 --> 00:58:12,000
+or something that I need to think about for a while. And so online communities are just
+
+586
+00:58:12,000 --> 00:58:16,760
+great for that because I can look at something, read it, and somebody's got a question, I
+
+587
+00:58:16,760 --> 00:58:23,720
+think, well, I kind of understand what they want, but I'm not sure how to phrase it. So
+
+588
+00:58:23,720 --> 00:58:29,160
+I'll go away for a while and it sits in the back of my mind. And then later on, I'll come
+
+589
+00:58:29,160 --> 00:58:35,800
+back and say, oh, yeah, this is the way I want to put this. And I type the message to
+
+590
+00:58:35,800 --> 00:58:43,600
+them and it makes sense and it helps them. And that's wonderful. I enjoy helping people
+
+591
+00:58:43,600 --> 00:58:50,400
+and I want to help be as good to people and help them as much as I can. But sometimes
+
+592
+00:58:50,400 --> 00:58:55,680
+I have to have to think about how to do that. Yeah. Yeah. Not for sure. No, I completely
+
+593
+00:58:55,680 --> 00:59:02,640
+understand it. I also like the asynchronous means of communication. I had it in a meeting
+
+594
+00:59:02,640 --> 00:59:11,200
+if somebody puts you on the spot to estimate a timeline or to give an answer to something.
+
+595
+00:59:11,200 --> 00:59:16,520
+It's like, don't put me on the spot like that. I need to think about this. Otherwise, I'm
+
+596
+00:59:16,520 --> 00:59:26,640
+going to say something and then I'm going to probably regret it. And at some of these,
+
+597
+00:59:26,640 --> 00:59:30,520
+for one of the clients that I've worked for a long time, they have these all hands meetings
+
+598
+00:59:30,520 --> 00:59:38,400
+where everybody comes together. And I oftentimes have to excuse myself and go to my hotel room
+
+599
+00:59:38,400 --> 00:59:45,080
+just for a while, just to decompress because I can only social so much and then I need
+
+600
+00:59:45,080 --> 00:59:51,360
+to decompress. Well, and the more people you have in a room at the same time, especially
+
+601
+00:59:51,360 --> 00:59:58,880
+a meeting about something, the more avenues of communication you have. So you're trying
+
+602
+00:59:58,880 --> 01:00:06,120
+to deal with all of that. You're trying to maintain the lines of communication to each
+
+603
+01:00:06,120 --> 01:00:10,680
+of the other people in the room. And when you have too many people, you just really
+
+604
+01:00:10,680 --> 01:00:21,360
+can't do that. So they used to, one of the projects that I was on, they used to have
+
+605
+01:00:21,360 --> 01:00:27,760
+these like week long meetings. I mean, they would get people from all over the place and
+
+606
+01:00:27,760 --> 01:00:34,920
+we'd sit in a big conference room and there'd probably be 40 or 45 people in there. And
+
+607
+01:00:34,920 --> 01:00:44,840
+it was just all day long for all week. And so little would get done because everybody
+
+608
+01:00:44,840 --> 01:00:55,400
+wanted to have their voice heard and put their two cents in. And I thought if you would just
+
+609
+01:00:55,400 --> 01:01:03,720
+break this down into its component issues and then have the people meet that have a
+
+610
+01:01:03,720 --> 01:01:10,720
+vested interest in that issue, get those people together, the three or four or five of them,
+
+611
+01:01:10,720 --> 01:01:16,600
+let them hash it out for an hour or so, they'll come up with a solution. But in a room of
+
+612
+01:01:16,600 --> 01:01:30,600
+40 people, it's really difficult to do that. And then somebody had in another project,
+
+613
+01:01:30,600 --> 01:01:36,640
+they had an epiphany. I said, hey, when we have meetings, we're not going to sit down.
+
+614
+01:01:36,640 --> 01:01:43,440
+We're going to stand up during the whole meeting. And that kind of focused people's thoughts
+
+615
+01:01:43,440 --> 01:01:48,960
+because instead of sitting there eating donuts and drinking coffee, they're standing there
+
+616
+01:01:48,960 --> 01:01:56,120
+and people get tired of kind of standing up doing nothing. So that was helpful. So being
+
+617
+01:01:56,120 --> 01:02:07,680
+able to focus is an art form in some sense. And it's necessary to get real work done.
+
+618
+01:02:07,680 --> 01:02:13,000
+I mean, if you just want to stand around and chat for a while, that's fine. But if you
+
+619
+01:02:13,000 --> 01:02:20,640
+want to solve a problem, you need to focus on the problem, get inputs from people who
+
+620
+01:02:20,640 --> 01:02:25,220
+are stakeholders who have a vested interest in that problem, and then find something that
+
+621
+01:02:25,220 --> 01:02:34,000
+will work for the majority or all of those people. And large meetings make that difficult.
+
+622
+01:02:34,000 --> 01:02:46,720
+That's for sure. So when you talked about how things have improved in terms of the languages
+
+623
+01:02:46,720 --> 01:02:51,640
+that's available to us, the tooling that's available to us, and how the industry has
+
+624
+01:02:51,640 --> 01:02:56,680
+moved on and how you used to be able to work. I also think about stuff like in the past,
+
+625
+01:02:56,680 --> 01:03:02,160
+if you wanted to learn something, you had to go to the bookstore and buy a book and
+
+626
+01:03:02,160 --> 01:03:08,380
+they were very expensive. Unless you had a library that had a really good collection
+
+627
+01:03:08,380 --> 01:03:15,120
+of books, you pretty much you had to save up and go buy that book. These days, of course,
+
+628
+01:03:15,120 --> 01:03:20,160
+that's almost unheard of. You just do a quick search and you find a thing or you find an
+
+629
+01:03:20,160 --> 01:03:28,800
+online course or you use institutions like Stanford with their open curriculum and the
+
+630
+01:03:28,800 --> 01:03:37,640
+access to information is just incredible. But with all of that, I saw you mention in
+
+631
+01:03:37,640 --> 01:03:46,840
+one of your posts about the movie Hidden Figures. And what's been highlighted in there is this
+
+632
+01:03:46,840 --> 01:03:51,840
+role that women and underrepresented people actually played in something as monumental
+
+633
+01:03:51,840 --> 01:03:59,480
+as the moon landing and all of these kinds of things. So I'm wondering, with all of this
+
+634
+01:03:59,480 --> 01:04:07,160
+improvement that's happened, do you think the quality of software has actually improved
+
+635
+01:04:07,160 --> 01:04:13,840
+in step with all these other improvements that we've had? And secondly, in general,
+
+636
+01:04:13,840 --> 01:04:20,080
+do you think that the tech industry has really improved as much as you would have thought
+
+637
+01:04:20,080 --> 01:04:27,480
+it would seeing that we have had all of these underlying enhancements and improvements to
+
+638
+01:04:27,480 --> 01:04:33,520
+the way we work and the languages and the tools we have access to?
+
+639
+01:04:33,520 --> 01:04:44,240
+I think software, the quality of software in general has improved. It still got a ways
+
+640
+01:04:44,240 --> 01:04:52,880
+to go, but some of the testing approaches that are being used now, I think, are making
+
+641
+01:04:52,880 --> 01:05:00,840
+software more reliable than it was. And I mean, the thing that I would point to on that
+
+642
+01:05:00,840 --> 01:05:15,000
+is the difference between, let's say, Windows 3 and Windows 11. And I remember Windows version
+
+643
+01:05:15,000 --> 01:05:22,640
+3 and 3.311 specifically, because that was the one where they added the networking capability.
+
+644
+01:05:22,640 --> 01:05:30,800
+But it was probably multiple times a day. I was doing a hard reset on the machine. I
+
+645
+01:05:30,800 --> 01:05:34,280
+was doing a hard reset on the machine because it got into some state where it was no longer
+
+646
+01:05:34,280 --> 01:05:41,360
+paying any attention to the mouse or anything. So if you can reach the big red switch, you
+
+647
+01:05:41,360 --> 01:05:49,400
+turn it off, wait a second, turn it back on, and start over. And that does occasionally
+
+648
+01:05:49,400 --> 01:06:04,000
+still happen, but not nearly at the rate that it did in the mid-90s. I would say these days,
+
+649
+01:06:04,000 --> 01:06:12,360
+I mean, my primary machine stays on 24 hours a day, 7 days a week. I mean, I log out, close
+
+650
+01:06:12,360 --> 01:06:19,400
+the lid of a laptop, turn the monitor off at night. But it'll run for sometimes weeks
+
+651
+01:06:19,400 --> 01:06:25,480
+at a time. And the only reason I rebooted is because there's an update that requires
+
+652
+01:06:25,480 --> 01:06:34,040
+a reboot. So I think things, the quality of some software has improved. It's not really
+
+653
+01:06:34,040 --> 01:06:40,040
+consistent across the board. Some shops have done a much better job at improving their
+
+654
+01:06:40,040 --> 01:06:48,960
+quality than others. But yeah, that's just the human condition. I mean, some brands of
+
+655
+01:06:48,960 --> 01:07:00,520
+automobiles are much more reliable than others. So that's just kind of the way things work.
+
+656
+01:07:00,520 --> 01:07:14,640
+As far as making progress in treating people more equitably and having a wider representation
+
+657
+01:07:14,640 --> 01:07:35,520
+of people in the field, I wish we had made more progress in that. I have worked with
+
+658
+01:07:35,520 --> 01:07:42,960
+all different types of people from all ethnic backgrounds, lots of people who did not speak
+
+659
+01:07:42,960 --> 01:07:56,760
+English as a native language. One of the projects I was on, I traveled to Germany multiple times
+
+660
+01:07:56,760 --> 01:08:03,160
+a year for two or three weeks at a time and saw the difference between the culture here
+
+661
+01:08:03,160 --> 01:08:19,520
+and the culture there. And you realize pretty quickly that you have to give people grace.
+
+662
+01:08:19,520 --> 01:08:26,720
+When you go somewhere else, you're necessarily going to be in a different environment. And
+
+663
+01:08:26,720 --> 01:08:38,280
+so you have to be open to differences from what you're used to. And the think tank that
+
+664
+01:08:38,280 --> 01:08:49,400
+I worked for was an interesting place to work because like 95% of the folks there, the staff
+
+665
+01:08:49,400 --> 01:09:00,080
+members had at least one PhD, sometimes more than that. And almost all of them were in
+
+666
+01:09:00,080 --> 01:09:06,040
+what I call, and I think most people would refer to as the hard sciences. We had lots
+
+667
+01:09:06,040 --> 01:09:17,440
+of physicists, lots of astrophysicists, mathematicians, statisticians, chemical engineers, that type
+
+668
+01:09:17,440 --> 01:09:40,560
+of thing. And it was mostly white males. But we also had people of color and not only black
+
+669
+01:09:40,560 --> 01:09:49,360
+and brown people, but also Asians. And I mean, pretty much a little bit of everything. We
+
+670
+01:09:49,360 --> 01:10:04,280
+had women who worked there. And I just always try to treat people like I would want to be
+
+671
+01:10:04,280 --> 01:10:20,000
+treated. And I try to just look, they're a person, they're an individual. And be as accommodating
+
+672
+01:10:20,000 --> 01:10:32,480
+as I can and help them out and not be mean or evil or whatever. And I think that has
+
+673
+01:10:32,480 --> 01:10:44,280
+to do with the way that I was raised, more than a conscious decision to be that way.
+
+674
+01:10:44,280 --> 01:10:53,960
+As I mentioned, I grew up in the deep southeast in the United States in the late 50s and 60s.
+
+675
+01:10:53,960 --> 01:11:03,240
+I'll live through a lot of the stuff that went on during that time. But my father was
+
+676
+01:11:03,240 --> 01:11:09,720
+a civilian employee at a military base. He was civil service and worked as a civilian
+
+677
+01:11:09,720 --> 01:11:18,480
+on a military base. And he was dealing with mostly non-commissioned officers like sergeants
+
+678
+01:11:18,480 --> 01:11:27,000
+and things like that. And they came from all over the place. And so, you know, often at
+
+679
+01:11:27,000 --> 01:11:33,000
+Thanksgiving, he would say he would invite one or two of them to come have Thanksgiving
+
+680
+01:11:33,000 --> 01:11:36,840
+with us, because they were in a situation where they couldn't go back to where they
+
+681
+01:11:36,840 --> 01:11:46,440
+were from. So we would have people from different ethnicities and different backgrounds. And
+
+682
+01:11:46,440 --> 01:11:57,640
+sometimes radically different belief systems than us. And my parents just always treated
+
+683
+01:11:57,640 --> 01:12:07,120
+them the same as they would treat family. And so I just kind of grew up thinking that
+
+684
+01:12:07,120 --> 01:12:16,400
+this is the way you treat people. You treat them with compassion and if they need something
+
+685
+01:12:16,400 --> 01:12:25,880
+you try to help them. And, you know, when I got kind of into the real world and realized
+
+686
+01:12:25,880 --> 01:12:37,320
+that not everybody does that, I was saddened by that because, you know, there's no reason
+
+687
+01:12:37,320 --> 01:12:50,440
+for it. I think we need to give people the chance to excel to whatever level they are
+
+688
+01:12:50,440 --> 01:12:59,720
+able to, given their intellectual capacity and their determination, their interest, their
+
+689
+01:12:59,720 --> 01:13:07,560
+motivation. I mean, you know, people are all different. And, you know, a lot of people
+
+690
+01:13:07,560 --> 01:13:18,800
+are a lot smarter than me and a lot more successful. And hey, that's great. But, you know, I don't
+
+691
+01:13:18,800 --> 01:13:25,760
+fault them for that, because they haven't tried to prevent me from being what I wanted
+
+692
+01:13:25,760 --> 01:13:36,280
+to be. And so in turn, I try to never prevent anyone from attaining what they want to attain.
+
+693
+01:13:36,280 --> 01:13:40,040
+And if I can help them get there, I'm going to do that. I mean, one of the things that
+
+694
+01:13:40,040 --> 01:13:45,080
+I learned from my father, who was a good man, was that if you can help somebody, you do
+
+695
+01:13:45,080 --> 01:13:51,160
+it. You don't pay attention to what color their skin is or what they believe in or where
+
+696
+01:13:51,160 --> 01:13:58,400
+they came from or, you know, what sex they are or whatever. If you can help somebody,
+
+697
+01:13:58,400 --> 01:14:08,600
+you help them, you know. And he did that his entire life. And so I hope that I am like
+
+698
+01:14:08,600 --> 01:14:15,800
+that. I want to think that I am. I try to be. And so I think if we would all be that
+
+699
+01:14:15,800 --> 01:14:23,960
+way, maybe the world would be a little better. Yeah, yeah, that's beautiful. I totally agree.
+
+700
+01:14:23,960 --> 01:14:29,560
+And I can say from what I've from the interactions I've had with you and seen you have with others
+
+701
+01:14:29,560 --> 01:14:34,600
+on the Mycelium Network, you're definitely following in the footsteps of your father.
+
+702
+01:14:34,600 --> 01:14:46,280
+So you can rest assured of that. Yeah. So I also read your blog where you're detailing
+
+703
+01:14:46,280 --> 01:14:53,480
+your journey of getting back into the tech world and specifically web development. And
+
+704
+01:14:53,480 --> 01:14:57,480
+you had this kind of mantra of sorts that you wrote that I really liked. And what you
+
+705
+01:14:57,480 --> 01:15:03,480
+wrote was, start with the basics, be consistent, write some code every day, and stay focused.
+
+706
+01:15:03,480 --> 01:15:10,840
+I think that's tremendous advice that I would echo to anybody that's getting into any industry,
+
+707
+01:15:10,840 --> 01:15:16,800
+really. But especially like in coding, that is definitely something great. So how's your
+
+708
+01:15:16,800 --> 01:15:22,120
+journey been so far, getting back into the industry and specifically this web development
+
+709
+01:15:22,120 --> 01:15:31,040
+industry? Well, if I could follow my own advice, I'd probably be doing better. But it's one
+
+710
+01:15:31,040 --> 01:15:42,680
+of those things where you know what you should do, but the distance between knowing what
+
+711
+01:15:42,680 --> 01:15:53,440
+you should do and doing it is that there's not always an easy path. And so I would say,
+
+712
+01:15:53,440 --> 01:16:02,000
+I love programming. I mean, I could, you know, when I get immersed in a programming problem
+
+713
+01:16:02,000 --> 01:16:09,960
+and project, you know, I can start and I think it's been five minutes and it's really been
+
+714
+01:16:09,960 --> 01:16:15,920
+five hours. And it's just, you know, it's like no time has passed. And I'm sure you
+
+715
+01:16:15,920 --> 01:16:30,040
+have experienced that. But during my career, I got pulled into different aspects of computing
+
+716
+01:16:30,040 --> 01:16:40,000
+and I'll use computing in a very broad sense. So that, you know, after probably five or
+
+717
+01:16:40,000 --> 01:16:49,440
+six or seven years of really writing Fortran or C pretty much all day, every day, I got
+
+718
+01:16:49,440 --> 01:17:00,640
+into, well, we need somebody to, you know, create a database. And so at the time, I think
+
+719
+01:17:00,640 --> 01:17:07,200
+Ingress was one of the databases that was available on the VAX. And, you know, so I
+
+720
+01:17:07,200 --> 01:17:13,360
+would learn the language for that and started, you know, designing things and creating tables
+
+721
+01:17:13,360 --> 01:17:21,360
+and relations and all that. So that that was sort of like programming, but not really.
+
+722
+01:17:21,360 --> 01:17:26,920
+And then I started getting pulled into some like system administration type stuff. And
+
+723
+01:17:26,920 --> 01:17:35,520
+I started running some, well, they used to refer to them as workstations like silicon
+
+724
+01:17:35,520 --> 01:17:39,880
+graphics. We had a couple of silicon graphics workstations, you know, the high end graphics
+
+725
+01:17:39,880 --> 01:17:46,200
+workstations. We had a couple of HP, you know, workstations running HP's version of Unix.
+
+726
+01:17:46,200 --> 01:17:52,080
+And so I got into that and that was that was less like programming. But, you know, these
+
+727
+01:17:52,080 --> 01:17:57,440
+people were paying me to show up and do what they needed me to do. So they said, we need
+
+728
+01:17:57,440 --> 01:18:03,880
+you to do this. So I did, I did what they needed me to do. And then it kind of went
+
+729
+01:18:03,880 --> 01:18:15,880
+from there. And I got into doing some what would now be called cyber security. They actually
+
+730
+01:18:15,880 --> 01:18:20,760
+sent me to, I don't know if you're familiar with the SANS Institute. You can look them
+
+731
+01:18:20,760 --> 01:18:28,800
+up on sans.org. But I've taken, you know, they paid for and sent me to take like five
+
+732
+01:18:28,800 --> 01:18:38,160
+or six of their different courses. And, you know, security is necessary. And it's, it's
+
+733
+01:18:38,160 --> 01:18:45,880
+a little bit interesting, but it's not coding. So over the years, I got away from programming.
+
+734
+01:18:45,880 --> 01:18:50,080
+And that's, I mean, that's, that's, that's why I got into this to start with. I mean,
+
+735
+01:18:50,080 --> 01:18:55,240
+I went, I told you, I went to that Fortran course and I thought, yeah, this is great
+
+736
+01:18:55,240 --> 01:19:01,120
+stuff. And I started, you know, banging out code. And, and, you know, you'd run, you'd
+
+737
+01:19:01,120 --> 01:19:07,480
+go to the card reader and read your deck in and you'd wait, I don't know, an hour, hour
+
+738
+01:19:07,480 --> 01:19:11,720
+and a half or 45 minutes or whatever it was, depending on how busy the computer was. And
+
+739
+01:19:11,720 --> 01:19:15,960
+then you'd, your printout would come out and you'd see the listing and then the error message.
+
+740
+01:19:15,960 --> 01:19:20,600
+Oh, I got, you know, so I got to go back and change this and change. And then when it finally
+
+741
+01:19:20,600 --> 01:19:27,160
+runs, it's like annihilation, you know, it's, it's a, it's a, it's one of those small successes.
+
+742
+01:19:27,160 --> 01:19:35,040
+And I, you know, I, that, that, um, I, I really enjoy that. I, I, I like to have, have code
+
+743
+01:19:35,040 --> 01:19:39,640
+that I've written and run it and see that it works. And man, that's just great. So when
+
+744
+01:19:39,640 --> 01:19:49,160
+I, uh, when I basically retired, um, from full-time work and I kind of, I also had a
+
+745
+01:19:49,160 --> 01:19:54,120
+business on the side doing IT management for small businesses in the, in the area where
+
+746
+01:19:54,120 --> 01:20:03,320
+I live. Um, you know, doing network administration and server administration and updates and
+
+747
+01:20:03,320 --> 01:20:10,680
+you know, all that good stuff. Um, and so I finally got most of those clients transition
+
+748
+01:20:10,680 --> 01:20:16,920
+to other providers and I was able to stop doing that. And I thought, well, now I can
+
+749
+01:20:16,920 --> 01:20:23,240
+get back to, to coding. I want to, I want to write some code. And at the time I looked
+
+750
+01:20:23,240 --> 01:20:27,840
+around and thought, well, you know, writing code today pretty much means websites. You
+
+751
+01:20:27,840 --> 01:20:35,160
+know, it's, it's either, you know, WordPress plugins or themes or something of that nature.
+
+752
+01:20:35,160 --> 01:20:43,920
+Um, but, but it was, it had changed so much from the last time I had done that, that type
+
+753
+01:20:43,920 --> 01:20:53,200
+of thing that I was faced with this just overwhelming number of options. Um, and you mentioned your
+
+754
+01:20:53,200 --> 01:21:01,680
+frameworks and not only frameworks, but languages and, um, you know, WordPress versus Joomla
+
+755
+01:21:01,680 --> 01:21:10,280
+versus, you know, roll your own website. And, um, uh, you know, what is it? My SQL versus
+
+756
+01:21:10,280 --> 01:21:20,680
+Maria DB versus no SQL databases or, you know, and so it's, uh, it's kind of a bewildering,
+
+757
+01:21:20,680 --> 01:21:29,320
+um, uh, landscape of possibilities. And so I thought, you know, that that's where I thought,
+
+758
+01:21:29,320 --> 01:21:34,480
+you know, I got to, I've got to concentrate on the basics. I need to, I need to figure
+
+759
+01:21:34,480 --> 01:21:43,800
+out what is the kind of basic set of, of, uh, of, um, software and skills that I need
+
+760
+01:21:43,800 --> 01:21:49,960
+to work on to be able to do this. And that, you know, to me that turns out to be HTML
+
+761
+01:21:49,960 --> 01:21:58,720
+five, CSS three, uh, and JavaScript. And then, um, my SQL typically is, is very available
+
+762
+01:21:58,720 --> 01:22:06,800
+on most, uh, um, uh, web service, you know, web server providers. So those, that's what
+
+763
+01:22:06,800 --> 01:22:14,500
+I sort of started concentrating on. And then of course, PHP is, is easy, uh, to get access
+
+764
+01:22:14,500 --> 01:22:20,360
+to also, uh, because so many sites are running WordPress. Um, so, you know, PHP is almost
+
+765
+01:22:20,360 --> 01:22:30,000
+always available. And, uh, so I, it, it, I, I had to really, um, kind of figure out what
+
+766
+01:22:30,000 --> 01:22:38,240
+pieces I wanted to start with because I was fairly familiar with HTML back in the early
+
+767
+01:22:38,240 --> 01:22:45,280
+days. Um, but that, that has changed with HTML five. They've added new, uh, new tags
+
+768
+01:22:45,280 --> 01:22:53,320
+and you know, it's better, but it's a little more to know. Um, and then CSS, I mean, I
+
+769
+01:22:53,320 --> 01:23:03,000
+was using inline, uh, styling, uh, back in the late nineties, early two thousands. Um,
+
+770
+01:23:03,000 --> 01:23:10,960
+but you know, CSS and now with, uh, CSS being able to import, you know, other, uh, CSS files
+
+771
+01:23:10,960 --> 01:23:18,280
+that that's, that's a good thing. And so it's been, it's been a journey. Um, but yeah, I
+
+772
+01:23:18,280 --> 01:23:26,360
+mean, trying to, trying to stay focused on the basics is also kind of difficult though,
+
+773
+01:23:26,360 --> 01:23:31,800
+because you know, you, you're here about some, you know, cool new technology and you want
+
+774
+01:23:31,800 --> 01:23:35,520
+to go look at it and kind of say, well, how could I incorporate this and what can I do
+
+775
+01:23:35,520 --> 01:23:42,400
+with it? Cause it, it's so new and it's shiny and you know, um, and so you want to do that.
+
+776
+01:23:42,400 --> 01:23:50,040
+So I, it's, it's a, it's a challenge to really stay focused. Um, it, it's also a, a terrible
+
+777
+01:23:50,040 --> 01:23:56,680
+challenge to, to write some code every day. I mean, I'll, I'll, I'll, I'll say, okay,
+
+778
+01:23:56,680 --> 01:23:59,920
+I gotta, I gotta start coding. I will write some every day and I'll, I'll do that for
+
+779
+01:23:59,920 --> 01:24:07,320
+a while. And then there'll be something that happens. I mean, life happens, you know, there'll
+
+780
+01:24:07,320 --> 01:24:12,880
+be something that I have to go do one day and I can't get to my coding that day. And
+
+781
+01:24:12,880 --> 01:24:17,680
+when you miss one day, then it's easy to miss another day. And pretty soon you haven't coded
+
+782
+01:24:17,680 --> 01:24:24,840
+anything in two weeks. And, um, so it's, it's, it's been challenging, but it's, it's also
+
+783
+01:24:24,840 --> 01:24:33,600
+been a, it's been fun because, um, I am fortunate enough not to have to do it as a, as a money
+
+784
+01:24:33,600 --> 01:24:40,680
+making proposition. I mean, with, with my, my wife's retirement, my retirement or social
+
+785
+01:24:40,680 --> 01:24:46,920
+security and stuff like that, you know, we're, we're not rich by any stretch of the imagination,
+
+786
+01:24:46,920 --> 01:24:52,800
+but we're, you know, we're, we're okay. And so, you know, I'm at the, I'm at the point
+
+787
+01:24:52,800 --> 01:24:56,520
+where if I say, yeah, I just don't want to do anything to almost sit around and read
+
+788
+01:24:56,520 --> 01:25:02,000
+or, you know, just go to the park, take a walk or go to the beach or whatever. I can
+
+789
+01:25:02,000 --> 01:25:08,920
+do that. Um, and you know, a lot of, and I, I realized a lot of people, most people aren't
+
+790
+01:25:08,920 --> 01:25:16,960
+in that situation. Um, so I, and believe me, I, I realize I've, you know, I've, I've got
+
+791
+01:25:16,960 --> 01:25:26,760
+it pretty good. Um, but I still, I still try to maintain, um, some, uh, some momentum and
+
+792
+01:25:26,760 --> 01:25:32,080
+some motivation because, you know, if it, there's nothing else to keep me motivated
+
+793
+01:25:32,080 --> 01:25:40,960
+right now other than either my self motivation or if somebody says, Hey, I, I, I, I'm having
+
+794
+01:25:40,960 --> 01:25:44,880
+a problem with this. I don't, don't know how to do it. Or I, I don't know how to write
+
+795
+01:25:44,880 --> 01:25:49,720
+this function to do this thing. Um, can you give me a hand? And that, that gives me a
+
+796
+01:25:49,720 --> 01:25:57,440
+specific thing to work on. And I, I find that to be much easier than, than to find internal
+
+797
+01:25:57,440 --> 01:26:04,280
+motivation to do it. That's why I told you last year, I did the, the advent of code and
+
+798
+01:26:04,280 --> 01:26:09,280
+this it's an every year thing. The guy doesn't does it every year. And I'll probably do that
+
+799
+01:26:09,280 --> 01:26:15,680
+again this December to, um, you know, to, to focus my efforts on, I'll probably use
+
+800
+01:26:15,680 --> 01:26:22,820
+JavaScript again, using node JS, uh, to do that, um, to, to hone some of those skills
+
+801
+01:26:22,820 --> 01:26:28,760
+and to, to try to improve, uh, in that, that area, because that, that gives me a very good
+
+802
+01:26:28,760 --> 01:26:34,080
+focal point. Maybe I use Python this year. Anyway, I haven't decided, but you get the
+
+803
+01:26:34,080 --> 01:26:43,120
+idea. Um, it's, it's, it's a, it's a way to maintain, um, focus and motivation without
+
+804
+01:26:43,120 --> 01:26:49,280
+having to continually come up with something new. And that, that, that's the challenges
+
+805
+01:26:49,280 --> 01:26:55,360
+is finding something interesting to do. Yeah. I know for sure that it's something I need
+
+806
+01:26:55,360 --> 01:26:59,840
+as well. I, I can't just, I think I've mentioned it a couple of times from some of the other
+
+807
+01:26:59,840 --> 01:27:04,760
+podcast episodes. Like I can't just learn something for the sake of learning it. I need
+
+808
+01:27:04,760 --> 01:27:11,080
+an outlet. I need an outlet for it. Um, otherwise I either lose interest or I go down rabbit
+
+809
+01:27:11,080 --> 01:27:18,600
+holes that doesn't serve me in any way. Um, so I totally get that. So, um, in closing,
+
+810
+01:27:18,600 --> 01:27:26,520
+I know you've mentioned that you, uh, collect coffee cups and now I partially know why you
+
+811
+01:27:26,520 --> 01:27:32,720
+do that because you also love coffee. So what is it that you like about coffee and what
+
+812
+01:27:32,720 --> 01:27:42,280
+is some of your favorite coffees? Um, I like everything about coffee. Uh, I like the aroma
+
+813
+01:27:42,280 --> 01:27:49,400
+of the uncooked or the, you know, the, the aroma of the ground beans. Uh, I love the
+
+814
+01:27:49,400 --> 01:27:56,600
+aroma of the coffee while it's brewing. Um, I actually liked the taste of coffee. I know
+
+815
+01:27:56,600 --> 01:28:07,200
+a lot of people don't. Um, I just, I, I, I enjoy the warmth of the drink itself. Um,
+
+816
+01:28:07,200 --> 01:28:16,120
+I enjoy the, um, the activity that surrounds coffee. I mean, we, we, my wife and I live
+
+817
+01:28:16,120 --> 01:28:21,560
+on a small lake and we have a patio that, uh, with the back of our house faces the lake
+
+818
+01:28:21,560 --> 01:28:27,000
+and we have this nice patio that's covered and on nice days, uh, we have a table and
+
+819
+01:28:27,000 --> 01:28:34,200
+chairs there. We can take a cup of coffee out and, um, talk about life, the universe
+
+820
+01:28:34,200 --> 01:28:41,720
+and everything or, you know, uh, you know, read a book or whatever and have a cup of
+
+821
+01:28:41,720 --> 01:28:49,800
+coffee and it's just, it's just really nice. Um, I, I, I tell you what the coffee that
+
+822
+01:28:49,800 --> 01:28:55,600
+we're buying right now is from a small roaster. I think they're in California. It's called
+
+823
+01:28:55,600 --> 01:29:05,040
+Angelino's coffee and it's a, it's a family owned and run. Uh, I think they do everything
+
+824
+01:29:05,040 --> 01:29:10,640
+from, from, from, I mean, I think they grow their own beans and everything from there
+
+825
+01:29:10,640 --> 01:29:18,640
+to the finished ground product. Um, and the reason that we're using them now, rather than
+
+826
+01:29:18,640 --> 01:29:25,440
+I was buying a lot of caribou coffee, which is a larger, um, um, manufacturer, I think
+
+827
+01:29:25,440 --> 01:29:33,080
+the space in Canada. Um, I was using caribou and I like, and I like their coffees a lot,
+
+828
+01:29:33,080 --> 01:29:40,120
+but we had, we switched to the Keurig machine a couple of years ago, two or three, probably
+
+829
+01:29:40,120 --> 01:29:45,320
+more than that. Now I have, uh, I've gotten to the point where caffeine upsets, uh, my
+
+830
+01:29:45,320 --> 01:29:51,600
+heart rhythm. So I've, I've had to switch to decaf coffee and my, my wife still drinks
+
+831
+01:29:51,600 --> 01:29:57,360
+calf fully caffeinated coffee. And so, um, rather than making a pot, we, we have our
+
+832
+01:29:57,360 --> 01:30:03,920
+own coffee pods and a caribou Creek for a while was, was great, but then they were,
+
+833
+01:30:03,920 --> 01:30:11,000
+their availability of their K cup, uh, blends was, was kind of spotty. Um, green mountain
+
+834
+01:30:11,000 --> 01:30:18,000
+makes makes, uh, is, is a, makes pretty good coffee, but we always try to get the, the
+
+835
+01:30:18,000 --> 01:30:25,680
+dark roast. We, we prefer the darker, uh, roast coffees. Um, and, uh, basically anything
+
+836
+01:30:25,680 --> 01:30:31,600
+from Kona in Hawaii, uh, you know, anything that comes from there is going to be good
+
+837
+01:30:31,600 --> 01:30:39,240
+coffee, uh, Colombian, the Colombian coffees. But, but I, with, with our, with the coffee,
+
+838
+01:30:39,240 --> 01:30:46,800
+um, that we buy, I, I take the same approach with that as I try to do with anything else
+
+839
+01:30:46,800 --> 01:30:54,200
+that I can, I try to support small, uh, businesses, either local or, or a family owned business
+
+840
+01:30:54,200 --> 01:31:00,360
+that somewhere else is selling over the internet. Um, you know, the, the, the individual entrepreneur
+
+841
+01:31:00,360 --> 01:31:06,800
+and their, their family, I think that's, I like to try to support those people to, you
+
+842
+01:31:06,800 --> 01:31:13,520
+know, to encourage them to continue. And as an encouragement to other, you know, would
+
+843
+01:31:13,520 --> 01:31:19,520
+be entrepreneurs to, you know, to, to try whatever it is that they're interested in
+
+844
+01:31:19,520 --> 01:31:26,360
+and, and provide that. I mean, I think too, too many people just, you know, go to Walmart
+
+845
+01:31:26,360 --> 01:31:31,600
+or, or whatever the local, you know, big store is and, and buy everything. And they don't
+
+846
+01:31:31,600 --> 01:31:38,680
+think about, um, how that affects the small businesses and the small business owner and
+
+847
+01:31:38,680 --> 01:31:46,000
+the families that have been, and that have been doing something for generations. And
+
+848
+01:31:46,000 --> 01:31:51,200
+now they're, they're basically priced out of the market because somebody comes along
+
+849
+01:31:51,200 --> 01:32:00,800
+that can do it, you know, 3% cheaper. And a lot of people only think about the cost
+
+850
+01:32:00,800 --> 01:32:06,440
+to them to buy this, to buy whatever it is they need. And they don't, they don't think
+
+851
+01:32:06,440 --> 01:32:14,920
+about, you know, the effect on the larger world and, and putting some of these people
+
+852
+01:32:14,920 --> 01:32:21,480
+out of business or, or, or, you know, their families not being able to, to make a living
+
+853
+01:32:21,480 --> 01:32:27,480
+from this family business has been in the family for generations and now they have to
+
+854
+01:32:27,480 --> 01:32:34,120
+do something else. So I really, it's not always possible, but whenever, whenever I can, I
+
+855
+01:32:34,120 --> 01:32:41,120
+try to support a small business. And I think Angelina's, I don't have, I don't own stock
+
+856
+01:32:41,120 --> 01:32:46,640
+in them. I don't have any, I don't have any, you know, advertiser relationship with them
+
+857
+01:32:46,640 --> 01:32:54,600
+or anything like that, but I like their coffee. Um, their website works really well. Um, it's,
+
+858
+01:32:54,600 --> 01:33:01,440
+it's easy to order and it tastes good. And, uh, so we're, for the time being, we're sticking
+
+859
+01:33:01,440 --> 01:33:08,800
+with them. Yeah, that's good. Yeah. I'm also, um, I've also had to switch to Decaf, um,
+
+860
+01:33:08,800 --> 01:33:16,680
+for similar reasons. Um, for me, it's an anxiety thing. Like it, if, uh, the coffee is a little
+
+861
+01:33:16,680 --> 01:33:22,840
+too strong, uh, it does make your heart beat faster and that, that can make you anxious
+
+862
+01:33:22,840 --> 01:33:28,000
+if you're prone to, to being anxious. Um, but yeah, I think that there is definitely
+
+863
+01:33:28,000 --> 01:33:34,840
+something special about coffee. Um, and like you said, the whole ritual of, like not instant
+
+864
+01:33:34,840 --> 01:33:41,400
+coffee. Like that's okay, but I know I, I like the ritual of, like, I'd like to buy
+
+865
+01:33:41,400 --> 01:33:47,520
+the beans and I have like a proper burr grinder. And so I like the sound of it when it grounds
+
+866
+01:33:47,520 --> 01:33:52,200
+the beans and you have to just find the right setting, um, play around with the settings
+
+867
+01:33:52,200 --> 01:33:56,320
+until you find the right thing. And there's so many different ways to brew a cup also.
+
+868
+01:33:56,320 --> 01:34:00,200
+Like, you can have like a Keurig machine, you can have drip coffee, you can have like
+
+869
+01:34:00,200 --> 01:34:07,080
+French press. It's really interesting. Um, yeah, I'm also a coffee lover myself. Um,
+
+870
+01:34:07,080 --> 01:34:13,080
+and I'm glad I, I, I'm very glad that decaf exists because I wouldn't want to have to
+
+871
+01:34:13,080 --> 01:34:19,720
+give up coffee at all. And, um, yeah, we have some companies in South Africa that, um, do
+
+872
+01:34:19,720 --> 01:34:25,760
+the fair trade thing. Um, so therefore, you know, that, uh, everybody in the chain of
+
+873
+01:34:25,760 --> 01:34:31,760
+getting the coffee to you is being paid fairly. And I definitely do opt to, to, to support
+
+874
+01:34:31,760 --> 01:34:38,160
+them over, uh, just buying some big brand at the grocery store. Absolutely. Yeah, absolutely.
+
+875
+01:34:38,160 --> 01:34:43,640
+Yeah. We, we used to grind our own, um, back when we could both drink coffee with caffeine
+
+876
+01:34:43,640 --> 01:34:50,720
+in it. Um, and I've, I've, I've used French presses. Uh, I enjoy that. Um, I've got a
+
+877
+01:34:50,720 --> 01:34:56,520
+little, uh, well, I call it the one cup drip coffee maker. Uh, it's, it's actually a little
+
+878
+01:34:56,520 --> 01:35:00,760
+cone shaped thing that fits on top of a cup of coffee and you put the coffee in and pour
+
+879
+01:35:00,760 --> 01:35:07,000
+boiling water through. So I've, I've tried all of them. I still like real perked coffee
+
+880
+01:35:07,000 --> 01:35:12,800
+the best. I mean, in an old fashioned percolator and I don't have one anymore. The last one
+
+881
+01:35:12,800 --> 01:35:19,200
+that I had just stopped working. It was electric and I haven't tried to find another one, but
+
+882
+01:35:19,200 --> 01:35:30,120
+that, but it, uh, I will, I will, uh, say this and, um, as, as kind of a winding down
+
+883
+01:35:30,120 --> 01:35:38,000
+the, uh, URL of my main website is slow lane cafe. And that's the, that's, I have my email
+
+884
+01:35:38,000 --> 01:35:44,280
+address there. I've owned that domain since sometime in the early to mid nineties. I mean,
+
+885
+01:35:44,280 --> 01:35:49,840
+I registered it when that first, when you could first start registering domains. And
+
+886
+01:35:49,840 --> 01:35:56,600
+I chose that because I, I, I, I want to live life, not in the fast lane. I'd like to live
+
+887
+01:35:56,600 --> 01:36:02,600
+in the slow lane. And when we travel, we often will take side roads and, you know, just try
+
+888
+01:36:02,600 --> 01:36:09,240
+to find, and I think of living life in the slow lane and stopping at little roadside
+
+889
+01:36:09,240 --> 01:36:15,320
+cafes to have a cup of coffee. I mean, that's just kind of the whole, um, the whole reason
+
+890
+01:36:15,320 --> 01:36:21,880
+that I came up with that as a domain name. And, uh, and I, I probably will have that
+
+891
+01:36:21,880 --> 01:36:27,760
+until, uh, I am no longer here. And then it will live on. But that, that, that's how that
+
+892
+01:36:27,760 --> 01:36:34,520
+came. Yeah. I said, then, then it will live on even when you're not around anymore for
+
+893
+01:36:34,520 --> 01:36:41,360
+other people to be inspired. I hope so. Yeah, no, I'm sure. Well, thanks so much, Andy.
+
+894
+01:36:41,360 --> 01:36:45,440
+This was, this is a lovely conversation. I really enjoyed it. I knew it was going to
+
+895
+01:36:45,440 --> 01:36:51,320
+be a good one. That's why I pushed you to do it. And, um, so I'm truly grateful. Thank
+
+896
+01:36:51,320 --> 01:36:56,160
+you so much for everything you do on the Mycelium network. Um, it's great to have you as part
+
+897
+01:36:56,160 --> 01:37:01,000
+of our community. Um, we really appreciate you and thank you for taking the time to speak
+
+898
+01:37:01,000 --> 01:37:08,760
+with me. Um, I really appreciate it. Oh, you, you're most welcome. And, uh, I, I am happy
+
+899
+01:37:08,760 --> 01:37:14,360
+to be part of the community. It's been very rewarding for me. So I'm, I'm, I've been enjoying
+
+900
+01:37:14,360 --> 01:37:21,080
+it. Look forward to being able to participate, um, even more in the future. Great. Thanks
+
+901
+01:37:21,080 --> 01:37:28,120
+so much. Have a lovely rest of your day. You too now. Thank you for listening to this episode
+
+902
+01:37:28,120 --> 01:37:33,240
+of the Mycelium Network Podcast. If you're not already, please subscribe, star, and leave
+
+903
+01:37:33,240 --> 01:37:39,000
+a review for us in your podcatcher of choice. This helps others find us and helps us make
+
+904
+01:37:39,000 --> 01:37:44,680
+a better podcast for you on this course. You can also find and follow us on Twitter at
+
+905
+01:37:44,680 --> 01:37:50,400
+networkmycelium and join the community on Discord. All the links are available in the
+
+906
+01:37:50,400 --> 01:38:01,840
+show notes.
+

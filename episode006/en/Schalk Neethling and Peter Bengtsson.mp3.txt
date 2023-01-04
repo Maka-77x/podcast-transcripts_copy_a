@@ -1,0 +1,547 @@
+Welcome to the Mycelian Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that helped them along the way.
+Hey, welcome Peter.
+Welcome to the Mycelian Network Podcast.
+Thank you so much.
+It's a pleasure.
+So, I've taught many approaches to doing this in the beginning.
+It's now my sixth recording.
+So I think what I'm going to try with this one is instead of me asking a bunch of questions
+in the beginning, I'm going to kind of give you the floor and say that what I do know
+is that you've been in the industry for a long time.
+You've done a whole bunch of things.
+We worked together for a long time as well.
+But what I think would be interesting is if you could just tell us your journey from when
+you started getting into this or actually go as far back as you like, but kind of leading
+us up to today.
+Yeah, so I don't know what you said about me in the introduction, but I've been doing
+web development for 25 years and I don't know if that's a good thing or a bad thing.
+Some people have been doing it for 25 years.
+They move on to become directors of dev rel something.
+I don't know.
+I just love it.
+I started when basically I found out you can make an HTML page and you put them online.
+Me and my friends, when we were teenager, we made a webpage about poop and we uploaded
+it to a website, like the telecom ISP's website.
+And this was back in the day when people would read magazines about the interlift and the
+magazines would often have links to web pages that now suddenly exists and you can actually
+go to and serve them.
+And I had the smart idea of writing a angry letter to this magazine, complaining, pretending
+to be someone else, pretending to be angry that this ISP have a webpage at this certain
+URL that talks about poop, hoping that that would be some sort of controversial thing
+that people say, what is this horrible thing?
+I need to check it out.
+So maybe it did drive more traffic.
+Maybe we had like three more people visit the site or something.
+I don't remember.
+Yeah, so I started making HTML and CSS, that kind of stuff back in before the millennia,
+but in fact, when I lived in Sweden where I grew up and I actually managed to do a little
+bit of work there, like consulting work and we're two companies that needed webpages and
+I would do the webpage part of it and then hand it over to the Unix programmers who would
+then add CGI to these pretty pages to make them into apps or websites.
+And I kept doing that for a few years when I lived in England too, and those were the
+days when you'd have designers who make something pretty in Photoshop and then hand them over
+to web developers who would then slowly cut them up into webpages by extracting little
+gifs, spacer gifs and things like that.
+And then I took a little break from web development and went to school.
+I did mathematics and throughout my summer breaks and winter breaks, I ended up working
+for a little couple of guys at the university who made webpages and as soon as I graduated,
+I joined them to become the first employee and together we started a consulting business
+doing webpages and web apps and databases and yeah.
+And then I did that for 10 years and then I moved to America to work with Mozilla doing
+internal web properties where together with you Skulk as you know, that was all sorts
+of internal and some external apps by heavy on webpage and then together with you again
+Skulk the last couple of years and Mozilla I've worked on the MDN WebDogs page is usually
+popular and I'm proud to say that I took a huge fart in rewriting that site from scratch
+become a modern kind of a gen stack website and what could say and now I'm at GitHub where
+I work on their documentation website maintaining that, that it functioned out and provided.
+So that's quick whirlwind on my background.
+I'm now based in the East Coast in South Carolina and so that's a little bit about my background.
+I'm also and always have been a very early Python coder.
+So I started back in 1999 and actually making some commercial Python book which was great
+fun and it's kind of cool because I feel in a sense statistically I've been there from
+the beginning and it's always fun to look back at that over the years and I swear I
+have not seen anything as pretty as Python since I have been missing out the last couple
+of years maybe there's been some recent development and Julia and Rust and so on and it always
+been a big Python fanboy and I think what drew me into Python was another early interest
+which I had when I started the web developer like people find a niche something that they
+can attach themselves to.
+Some people like aesthetics so they really like the idea of my pretty colors and having
+something pleasant for them.
+Some people come from types they like pretty fonts the right alignment like a newspaper
+kind of that thing and they have many different interests and mine was that of usability like
+a little nerd I would read everything I could get my hands on every blog post in the early
+2000s but I would always I would always mop that concept of usability it felt like hey
+that's something I can maybe become good at I seem to have an interest in it I like it
+and it's something I like this burning sort of gut passion for fire for I really that's
+something I can contribute with there are other people who really who just have different
+passions and it's good like Ryan said and I think that's sort of was my love a little
+bit with Python it felt like they made the programming language so you don't have to
+think much like it didn't put a barriers it's almost like pave the path for you like a red
+carpet and it's famously so that some people say that Python is written down English that
+you can run because it reads so well and so that's always stuck with me I think over the
+years maybe my interests have come and gone in different topics but the whole usability
+piece the Jacob Nielsen research early on was super interesting and you can kind of
+walk away with that keeping two simple axioms in mind and it says Steve Krupp he said don't
+make me think and so there is so much more to that statement than just web interfaces
+or UIs there's also don't make me think to your fellow code reader a fellow colleague
+or even yourself so when you write a piece of code people often talk about the either
+some other engineers can have to work on this code or it's also you yourself so write it
+in a way that it can read as plain English make it almost too simple to be for what you
+know put effort into making it super simple and I think that's a very very important ingredient
+to multiple things and it's not just about how you make your UI and it's not just about
+you type your programming code but there is a huge element of this in your system design
+too like you need to always keep that in mind like if you hand this system over to someone
+will they scratch their head and have to sort of worry about understanding why I don't think
+people have a problem understanding oh this is Postgres oh this is memtest oh this is
+PHP whatever they don't struggle with that but they might be wondering why is there a
+extra Redis server sitting on the side and why does it have a cryptic name that I don't
+understand and I think over the years I think it's become kind of my strain and some of
+that might come from a bit of confidence that I don't feel like I need to show off because
+if you don't need to show off you are less prone to take out the weirdnesses people sometimes
+call out weirdnesses just to show off somehow it's strange I mean we're all a little bit
+guilty of it we want to show to our friends that hey look I'm using this latest reactive
+CSS framework something that you know that you don't use so I'm cool we all have that
+in us there's no denying even people who call themselves masters of simplicity they sometimes
+over complicate and kind of thrive a little bit in it I think we're all a little bit guilty
+of it yeah that's really true you know I mean that way you said like even for yourself I think
+where I learned a little bit about that and it's something that I'm starting to do again
+is when I used to do music stall my guitar teacher told me always write the fingering
+that you use for your left hand and your right hand write it on the sheet music because this
+is not just important for now so that you can see and understand what you're doing but if you pick
+up this piece of music again in five years from now you're going to thank yourself that you did
+that because you're not going to remember oh in this part I decided to re-finger it like this
+because it played easier or it sounded better or whatever the case is so I think leaving the same
+kind of hints to yourself and therefore other developers in your code either by writing your
+code in a clear and concise way that's easily understandable or when it's a little harder
+because just it needs to be leaving comments to explain why it is the way it is so that if you
+or somebody else picks it up then you're like oh I see that's why this is specifically like this and
+it ties back to this thing and this other component that and that's the reason why this
+is decoupled or that's the reason it's not decoupled I think it I think there is a
+a lot of people say that mantra write a comment that explains why and that's almost easier too
+easy to say and I have another perspective on that is when I used to study for my exams
+one of the things I used to do was pretend to write cheat notes I even would write on a piece
+of paper would write the text little with a sharp pen I would write the little formulas that I
+had to memorize or the little important names or whatever it was I would write them in a small hold
+just to make the whole exercise a little bit more special a little bit more mnemonic and I would
+write them down the night before or the the days before whatever it was and then obviously leave
+the cheat notes at home and so you don't get caught and the whole exercise there it's like
+it's cognitive science it forces the brain to think about the things that you don't know
+and it kind of goes like that with your code trail and your comment trail you don't
+you don't necessarily need to explain everything the why but ask yourself like whoa this is a
+little bit surprising I find it a little bit surprising I'm sure someone else is going to find
+surprising so work from that don't look at every statement and think of a why comment for it but
+look at it like hmm is this gonna be hard to understand for me would I need if this was my
+old test would I need cheat notes to remember why this component is different from this or why have
+I allowed to repeat some code or something there's got to be like a store and so deep there ask
+yourself those questions I think that helps yeah yeah for sure I agree yeah that's super interesting
+stuff I was thinking about something now but that slipped my mind so we'll cycle back to that oh
+yeah no what it was is so you talked about usability and how that is like a burning passion for you and
+I mean I've experienced that with some of the meetings we've had on while we were together
+working on MDN where you've asked like really important questions during some of these
+brainstorming meetings we had or where we talked about an interface that other people didn't ask
+so like how do you is this just experience that that's leading to this or is there any like
+material you can point out that you found that really helped you improve the way you think
+about how to make good software right so there's there's two factors to that and that what
+makes it almost impossible to explain but there's one factor is confidence like you need to feel
+somewhat happy in your mind that you can take a punch in the face for looking like an idiot
+because if you can't do that you don't want another instance of looking like a fool at work
+and then maybe looking like a fool in your day-to-day life so confidence is one part
+but the other part is something that stuck with me when I was a young young adult I did a lot of
+martial arts and our instructor would insist like come on ask questions you'll only be an idiot once
+that's the statement that I think about that too so you're in a work meeting
+and as long as you're not completely wasting a bunch of people's time there's a great chance
+that you can remove this idiocracy once and for all and then you've got to keep in mind too
+that there's a big chance that everyone else is thinking the same so that maybe if you talk about
+a tool if you find it a little bit nerve-wracking to kind of admit that you don't understand
+you can at least boost your morale internally by thinking it's very possible that right now
+I'm going to do a favor for her and him and him by asking this question and oh god forbid
+I'm wasting his time and her time because they've already understood that so they were at the other
+meeting but maybe if that helps to always think that you know what I'll take this one for the
+team because it can multiply so I'll ask this hard question or almost embarrassing question
+and so that those other people can also benefit so we can all benefit I think that's a tool that
+can help and then you try to like do that with all sorts of other aspects um for example because
+the truth is what we do as professional engineers working on computers is we write a lot of emails
+slack comments you know relation tracker comments and stuff like that keep that in there too for
+example if you see an acronym you don't understand or something you say what does p h p mean I've
+never heard this before and you're doing that because a you google it but b now you might be
+able to help the other people who are going to come and see this acronym and don't know what it
+means now you're maybe saving that googling time for a bunch of other people so I think that's a
+great little tool to justify that dip that you need to take by asking those questions because
+it is a little dip so they can come out as a winner and I think um I think I so confidence I'm
+I'm I'm a moderately confident person I might not have great self-esteem I feel just as much
+formal as everyone else in the world but another thing too that I think is very important and you
+mentioned meetings is to kind of jump at the elephants in the world the hard questions
+because I've learned almost too late that the academic way of the almost the best way of
+learning is to like attack the really hard problems maybe you don't know the answers today
+but if you jump to the to the last page of your math exercise book and work on those work you're
+going to get stuck but your little brain is going to be chugging away at it maybe after the meeting
+or the over the night or throughout the day so you're slowly like gather little fragments and
+it's the same when you sit down in a corporate world and you're up against some sort of challenge
+I think everyone in the room is kind of eager to to find a low-hanging fruit or something that they
+can say hey uh I can do the uh the new signup button and then you feel sort of fulfillment like
+hey I'm taking something away something that I can do but maybe what you should do is say
+why are we building this or who's the user going to be for this or hang on why didn't we
+install that other you know like really almost controversial questions and they can be asked in
+a way that they don't annoy like like attack those because once you start chewing on those
+whilst you may be working on that signup button rather than I'm just going to worry about the
+signup button now this easy thing and then you're leaving procrastinating the big problems they're
+going away they're just different ways or maybe rearranging them and some of them again maybe
+they take a little bit of confidence to be them almost a little bit controversial by asking a
+little bit weird questions but I think it really works especially if you mix it up a little bit so
+you go some high and some some lows so you chat about like the big tickets that are almost there's
+almost an energy in the room or a lack of energy where people don't talk about this
+and then you mix that up with some of the easy stuff some of the low-hanging fruits
+so that you feel a certain momentum going forward. I heard somebody say the other day
+ignoring something doesn't make it go away doing it makes it done so I think that's
+same for everyone to remember. Something that you've said a lot and that has an impact on me
+personally is you tend to always say writing the code is the easy part understanding the problem
+is the hard part do you want to dig into that a little bit? Yeah I remember there was a famous
+blog post I forget the name of the author and he talked about planning the importance of planning
+and the truth is that planning is awesome like thinking through the problem first
+it really helps. The honest truth though just like buy low sell high it's not easy to plan
+so sometimes what you need to do is you need to sort of immerse yourself with the challenge
+jumping in and I don't know do whatever it takes to like get yourself disgusted by the
+problem make it really really difficult and like get that all over yourself and in your brain so
+it's all corners of your brain is working with this hard one and do whatever that takes like
+some people like to jump into some crazy prototype some people like to write a document a google doc
+a word doc where they're all pen and paper writing styles and like that can like jump into it because
+once those things start to come out we start to sort of slowly develop a picture and then you're
+and then you're like okay shoot we don't need that other database what we do need is the password
+thing widget and now I've thought about it I've prototyped about it maybe that code has been
+thrown away I have chatted to my friends and colleagues about it all right the work is done
+now we just need to type it up so sit down with your JavaScript editor and write it down
+and it's almost like taking notes or writing a reflective summary report and so I think
+that ties into that topic that writing the code can be easy if you've thought about the hard parts
+of it and I don't that's not necessarily an answer but the statement I still stand by that often
+writing the code is in there's also the certain element and we're all very very familiar with
+that is that you're up against a big challenge and it's usually a very complex challenge in that it's
+so much more than just the style sheet it's also getting approval from design and secure database
+security folks and you need to have discussion with the product managers or something like that
+those are and so there comes a time when you just need to put your headphones down and listen to
+some music and just work on something so there is an element of sort of self-peace and happiness
+that you take all those challenges which are so energetically draining because they can be
+controversial and they force you so you kind of want to save yourself this afternoon I'm just
+going to write the code I'm not going to get it right the first time but I'll listen to some music
+and I'll type the code and and it gives you like a moment of meditation I think that's important
+you need that and also the truth be told if you've been going through the challenges upfront so you
+can sit down and relax your brain will still continue to work on those hard problems there
+yeah very true so this podcast is a combination so it's a two sides of a coin it's one I speak to
+people who are new to web development specifically or software engineering it tends to be that I've
+mostly talked to like other web developers and these are people sometimes that young folks that
+are literally like starting their career their life but sometimes it's also people that is
+switching over from one career to becoming a web developer and so I think one of the things
+I'm curious about is for people joining the industry now what do you think what advice
+do you have for people like you talk about confidence and I think that's very important
+but when you're new and you have this kind of imposter syndrome thing because you see a lot
+of these like as they call them the programming ninjas then you kind of feel like I'll never be
+able to meet up to those people what are what are some tips you can give people to like build up
+their confidence and feel a bit more sure about themselves so that they have the confidence to
+step into this world that's a great question and I think I have a very good answer I attribute
+a lot of this to shared experience of being a mentor I've been a mentor for many young interns
+who come like engineering interns but also maybe the most rewarding mentorship experience that
+I've gone through was the outreach program which started in 2015 something like that maybe earlier
+which was originally exclusively for women who wanted to gain to tech and non-asserted college
+strategies so I was mentoring there and I learned a lot I think there's a huge difference between that
+mentoring path compared to young interns especially as you know Skulk a lot of interns we've come
+across they are from the top universities in the U.S. and France and Canada and the kind of a reason
+why they from the top universities and that's because they're freaking clever cookies who got
+into those universities they're the go-getters so they there's a different type of mentoring for
+them whereas the more shall we say adult mentees it's 99% of our confidence 1% I'll name it let's
+say 90% confidence 9% direction and sort of that and maybe 1% a little bit of coding or some
+engineering and I think I can conclude this is like my opinion but maybe one of the best things
+you can do is to have a very good mix of professionalism and weaknesses particularly
+showing weaknesses there is almost nothing better to give someone a massive boost of confidence
+when they can see I'm putting up quotation marks when they can see that someone who's professional
+and good at something fails and that you show that and you talk about them and try to be a little
+bit more than just this one time I accidentally leaked the password but you know drive on this
+point a little bit show that look I am good at A B and C but I am terrible at D I don't understand
+it it's so frustrating I get tired I can't believe it I feel like tearing in my hair sometimes and
+you know that kind of stuff and also maybe mix in some of those little failure stories that
+we all have and they don't always have to be about oh I took down production sir and you dig the
+there are many other failure stores and I often sometimes say stores like I wanted to sit down
+and learn this new programming language and I just couldn't it didn't work for me my brain
+couldn't kick in like I couldn't get it like nothing is more motivating for someone learning
+and new in tech so and the other two tips that I have are more guidance and I think your role as a
+mentor is to not teach anything but to maybe help the person find their passions their strengths and
+like what their heart and their gut goes and and be there for that you know you like tease it out
+like hey you seem hmm I get you starting to maybe see you seem like the kind of person you are
+maybe see you seem like the kind of person who thrives in speaking to a crowd hmm maybe that
+could be your thing you could do talks oh and something like that or or hey you seem like the
+kind of person who likes to I don't know get all the ducks lined up like an organizer someone who
+likes to finish all the bunk tickets and there's one last hugely powerful tip for people who are
+new in the industry and I think in all fairness in terms of wanting to become a better engineer
+there is nothing better than making stuff and I think what we all need to do is we need to cool it
+with our side projects it's so easy to say for a mentor to a mentee or junior person yeah build
+more side projects but it's not that simple people have lives they have passions they have
+personalities but here's the thing may can be many different things if you come across someone
+who might not be that kind of a side project kind of a gal or guy maybe you can say hey do you know
+what you should maybe do write the blog post and they say oh I'm not very good and then you insist
+on that like yeah I know it's a hard in the beginning but you know get started you can maybe
+write a blog post that shows it just to me and maybe we can edit that if that's your passion
+you know like you have to try to find something that they can make because reading will never get
+make someone good I mean it will help but making is the true north for everyone that they need to
+to do to upgrade their skill set but here's the thing you've got to help them understand what mate
+means I've come across mentees who seem to they seem to have a knack for live audience speaking
+and they thrive there and so my job as a mentor is to kind of say look there's a conference
+this one here's the url maybe you propose a presentation for that and I know it's a small
+one and we have to travel and I know you're not an expert of this topic but hey let's figure
+something out maybe you can come up with a slightly adjacent topic there they can yeah those are my
+my three tips on mentoring or show your own weaknesses and help someone guide them towards
+where their heart wants to go and then trigger will force them almost to make things whatever
+that means coding and writing presenting so yeah I think it's huge and I think it's an important
+thing to to highlight the whole thing about being willing to show your weakness because I think the
+world has gotten to that point where people have been actually kind of told the opposite thing
+they've always been told to hide your weaknesses and only show the wins don't show the failures
+only show the wins until you are some super famous person and then you can talk about your failures
+but while you're still coming up hide them hide them and I don't think that that that is a good
+approach because you know the first time you fail you're going to feel so alone in that failure
+you're going to feel so alone in that failure because you have nobody else that is said me too
+I also find it hard I think that is why I still come across people constantly who don't know how
+to use get or even get hub and they're too afraid to say that so that they'd rather just not
+contribute to a project they'd not contribute to open source because they're too ashamed to say
+you know what I can solve this problem but I'm not sure how to use get and get hub to get my
+solution to this project but it feels so silly for me to not know that so I'm just going to not do it
+yeah it's horribly true it is very much so and now that's the perspective of the particularly
+where you started the conversation was like more of junior person and and that is a harsh reality
+and that they had to contend with it's easy for a mentor to say show your weaknesses we're talking
+about the mentors weakness and but it is and it is a very very difficult thing to be up against
+especially when these start to add up like there you have the junior person who realizes oh I still
+don't understand get and I don't know how to use it actually that's just one of them you know I'm
+also struggling to understand flexbox and I'm also struggling to understand compilation I don't
+understand what the difference is between a binary and a plain text or something you know they could
+be many of them and but there's not a lot you can do about that we can't know everything and
+we can't know everything and this is not necessarily about showing your weaknesses so you need different
+mechanisms when you're in that situation when there's too many things and I've always thought
+that if I was in I mean it's easy to say no that I'm more experienced but the only really thing you
+can do when you're up against that is to try to clear the table so that you can focus on one
+little thing at a time and nothing these may be breaking it down into absolute constituents because
+you know this and you've come across junior engineers too who honestly they don't necessarily
+understand everything and neither do you skull for me but what they do is they go to like the top of
+the framework and try to use it and then they get stuck because they don't really understand
+the fundamentals and we've all seen shall we say stack overflow posts where they copy and paste
+all of their code and it's full of full of their like their business logic and stuff and they're
+saying it doesn't work and that kind of stuff and the only way that they can get out of that rut
+is to break it down a little scale away and I think the truth be told too here's the thing
+there is only one way to solve that and that is to peel it down and that absolutely differentiator
+of an experienced engineer and a junior engineer is that the experienced engineer goes there
+himself he like oh I don't understand how github desktop works support what they do is they
+peel away okay all right let me go back to get the command line tool or I still don't get it
+all right maybe they peel away a little bit further they go down to absolute basic commands
+then maybe they open up the files or maybe they seek out some documentation about they like the
+core of it and they start whereas maybe a junior engineer they don't naturally go to the lower
+levels the lower layers themselves they're maybe throwing their hands and so maybe that's it's
+something to keep in mind that hey you're a junior the probably the reason why you get stuck is
+because you don't naturally go deeper to break it down into add a molecules and then you break down
+the molecules into atoms because that is what the seniors do they they don't know it either
+but that's what they do and I mean there's a reason why hello world is popular it's because
+and that's how the brain can learn you start with something like that print hello world and
+we'll work our way up I mean it's easy to sit here and say all of this because there's another
+element too that if you're in a junior position and you want to level up it's not particularly
+fun to go down to assembly language and learn what a bite is and what you want to do is you
+probably want to ship something there are a few things that is rewarding is that you want to like
+make something to show your mom and you want to like you want to just download this framework
+and put some cool stuff together make a web page or an app for something like that that is what
+you want to do right and I don't think there's anything that can be done to solve that other
+than maybe try to do both like you start with an objective you say I want to make a whole iOS app
+and you come at it a little bit some like the basic tutorials on there but then you're like
+all right now I'm starting to get stuck here I need to figure out how do I do a form loop in
+potlin wait that's android but anyway that you you can like come at it from the top like the
+application and then you can take little breaks and go to the very very smaller components and
+just tinker away and I don't know how many times I've done this in the past but it's been an
+absolute godsend you're up against a big challenge big system big framework something like that
+and it's so confusing there's so many compilers and transformers and transpilers and everything
+it's like it's all big blur but you know you've got to ship by next credit and but there's few
+things that are as powerful as learning as to like open a new window maybe go down like download the
+raw babel like just down or if it's next.js you create a fresh new next.js installation
+and you just have this one little thing that you want to do and you can do it maybe your temp
+directory or a new computer but you're like just test it out like ah now I understand how lazy
+loading css will and like that and then you're like scrap that away kind of like your cheat
+notes and then you can go back to the to the beast and to work but that has helped me so many times
+and the only thing stopping me from doing it again and again is just sort of human in persia
+and laziness but you know that it's what you need to do here is you need to sort of maybe
+start a fresh new install of maybe create a brand new database or what a table or something like
+that just so you can understand there's one tiny little thing and then jump back at all it's funny
+that you mentioned that um the other day on the i listened to shop talk show and they were speaking
+to some folks in the agency and they do a lot of wordpress stuff and even though they do a lot of
+wordpress it's not really their strong suit so oftentimes what they would do is when they will
+want to build a new like component they open up a code pin and like build a component inside code pin
+then take that and stick it in into wordpress because now they know they have a version of it
+that works so if anything breaks it's something to do with wordpress so now you need to just figure
+out what is it in this new environment that's clashing with what i'm trying to do because i
+know if i take it out of this situation i put it by itself it works and i bring it into the scenario
+it doesn't work so what is different about these two environments and then start teasing it apart
+until you find oh it's because it has this extension that does this weird thing and i did
+happen to use the same id and it's it's grabbing my element and doing funny stuff with it for sure
+i love those tools code pen code sandbox yeah also um when you and i sculpt worked we did a lot of
+a lot of complex stuff with the aws system and i got a lot of learning from i used like my private
+accounts for that and if there was something i didn't understand i want to create a brand new one
+just to test something and then throw it away and so there are lots of tools and they're all
+they're really good to have they're good to have and to not be intimidated i think it's an amazing
+thing that's happening in the last couple of years now especially in web development where
+you file a bug and so saying it doesn't work they say hey can you copy and paste it into a
+code sandbox and give us the url and you put it in there and eve what's so amazing too is you
+don't necessarily have a perfect story to tell there in your bug that you're going to file or
+the rubber duck debugging is simply breaking it down for the sake of maybe putting it into code
+pen can help you understand what the hell is wrong so for people who don't know what a rubber duck
+debugging means it's uh it's this idea that you are struggling you're stuck something doesn't work
+and you ask your colleague over a friend hey can you help me debug what the hell is going on
+and so your friend comes over and stand over your shoulder or on zoom as we do these days
+that you say all right so i took this fall i tried to copy this i tried to compile this function i
+tried to write this style as well i said what the hell no i see what i've done there's my mistake
+and you say to your friend like never mind i figured it out as i was breaking it up i figured
+it out you can go back to your desk so your friend was just standing there like a rubber duck not
+doing anything and so it's quite a famous sort of strategy or anecdotal strategy and hey use that
+to your advantage you don't need to disturb a colleague every time what you can sometimes do
+is i don't know what's going on i'm going to start a a tiny little atom in say the typescript
+playground just the tiniest little function a little type definition and almost as if you prepare
+yourself to post the stack of posts or something or show that code pen to your colleagues and
+there's big chance that that will inspire your brain to understand it maybe or that you spot
+your little mistake on a type or whatever it might be yeah and i think then this ties back to
+something you said way back um then writing about this whole thought process you went through
+because this can help somebody else again and this ties into your blog which especially when
+i search for stuff related to python or something like that more often than not i will land on your
+blog and find the answer there so i think blogging is extremely important it's something i've been
+neglecting but i'm trying to pick up again but you you do a really good job of running a very
+active very there's just so much useful information in that blog what is your approach to to that like
+any tips for people want to start blogging i i my approach i mean i wish i could um and i'm jealous
+of the people who can pick up a new topic they have observed it and then they almost rewrite it
+again in their own words and for example they're the people who keep an eye on say the tc39 spec
+discussion so something as it goes through and then they uh they're able to just rewrite it one
+more time in a different set of words uh maybe uh less technical and a little bit more of a story
+and that's great readership and maybe the truth maybe they do it to get traffic or maybe they're
+just as human as anybody else in that maybe if i write it all over again in my words i'll understand
+and uh someone else said that if you write an opinion you'll get a lot of negative feedback
+but if you write an experience you can never be real and now it's almost maybe a better quality
+product uh article if it is an opinion and because it can stir the mind a little bit but hey we're
+all the humans so go a little bit for writing your experience and my approach is um a kind of
+imagining almost in my head that there was a stack hold for question and let me uh then explain
+an answer so you write like all right this is the problem i encountered and it was not easy
+eventually i found i can use this function and by the way this function you can read more about on
+this page and here's an example of doing it with unicode characters and that's what i did and then
+i found that so you write a little bit uh an executive summary about what you just went
+through what you learned there like one tiny little micro step that you took in it but you
+maybe spruce up the words so that it can be consumable consumable by someone else in my google
+across it and i tell you um so my blog is just a loud note taking from my perspective that's what it is and it's
+the stack overflow answers that no one asked or something but it is so rewarding uh when someone
+posts a column saying hey that really helped me and uh i would encourage everyone to go for that
+because in a world where we count likes and hearts and sort of increments like that
+there is nothing as rewarding as that feeling of having touched someone's actual progress
+so if you can turn around and look at it from that perspective like what can i do to make
+someone's life a little bit easier like to make them move on it is so much more rewarding than
+getting 20 likes on something keep that in mind that you might touch someone's life by lining
+down these loops and it probably doesn't take that long but it's it's hard and everyone struggles
+with it because we're all guilty of once this thing your challenge got solved you kind of want
+to move on with your life oh that was a stressful thing to figure that out and and i kind of felt
+guilty the way i solved it because i i did trial and error i didn't read the spec or something so
+it felt sort of like i wouldn't move on but that dirty experience behind me i try in the last while
+because like i said look because i want to get back into blogging again well i have been but um
+i try and keep like a notion thing open and then when i hit a problem and i start unraveling it
+i start just putting little notes in the document like as i go through the process just like maybe
+a screenshot of something maybe just a line that kind of can trigger a memory for me later on
+and then i work through the problem i solve it and i move on but then maybe over the weekend or
+something i'd go back to those notes and i try and flesh them out into an article that explains
+properly like this is the issue i hit and these are the steps that i went through so i've got
+the basics there and i've got any screenshots that might be helpful in demonstrating how i
+went through this little bash outputs like this is what you should probably see in bash after
+running this command so i put all of that in and then i run it up sometimes if it's something that
+i can do again i'd literally like do it again and this time take the time to actually write down
+each and every little step but you don't you don't have that time always so that's why sometimes i
+just throw stuff into a notepad thing if you want to call um just i have a reference to go back to
+later and say okay let me break this down into an actual readable thing because at this point nobody
+understands what the exist yeah i often wonder and so you touched on another interesting excuse
+and that is have time and it is an honest uh thing like you it's hard to have time
+um i often wonder so that's one excuse the other excuse was the thing i touched on was that when
+you did go through this experience was it a bit dirty like did you actually not read the manual
+like you should have and which one is the biggest blocker for you taking the time to write down is
+it that you don't have time or that you're a little bit guilty feeling for your journey and
+so it's i think it's worth keeping that sometimes it's a bit of both or sometimes it's one sometimes
+it's the other yeah i guess it also plays into that weakness thing if you had to admit that
+that honestly if i just read the docs i probably would have fixed this in a much shorter time but
+i was too lazy and you kind of don't want to admit that and then if you look back at it you might
+say to yourself that was a stupid thing to do if i just read the docs i could have saved myself
+20 minutes now i've gone through a yucky experience and i'm too embarrassed to write about it it's
+just double uh double there's another element too which is very very important and so one of
+the reasons why we blog is to become a more professional and better engineer than build
+better stuff build better more successful businesses so if that is the goal does it matter
+if you get punched in the face a little bit here and there i have many a times blogged about
+something only to find someone posts a comment where they say hang on did you know that there's
+this library or why didn't you just divide by six oh shoot like whoa and now you're confronted
+with an almost embarrassing blog post plus comment that kind of makes you look a fool but hey
+they wouldn't have mentioned that library in your comment they wouldn't have if you hadn't written
+it you would have been completely oblivious about that amazing other thing that is available
+and okay maybe you could stumble upon it further all right but you didn't so it was thanks to you
+showing your weakness that you stumbled on a new strength now you're like equipped with something
+you didn't have before this is amazing library and the internet's too big to spot everything
+they give you this and now you can copy and paste that or take that and you can put it back into
+your work and you can succeed even better you can now make a better web app that you would have
+otherwise you will earn more dollars thanks to this because had they not mentioned it
+that no had you not shown what you did they mentioned a comment that makes you look a fool
+a little bit you will put more food on the table and that's kind of worth it and things tend to be
+forgotten but successes tend to kind of they can live on longer so that is another motivator i think
+now for sure and there's there's the other side of it that also happens which kind of happened to me
+the other day that's not exactly the same thing but it's it's it's similar in nature so i recorded
+a little uh video of using this library that automatically generates all your pwa assets i
+think it's even called pwa generator or something like that um so i made a little video of how it
+does that and why it's really cool and helpful and saves you a bunch of time and i stuck it on
+youtube and the first comment i got was from a person who said you shouldn't use web technologies
+to write mobile apps you should just write mobile apps and then i like replied to them i said you
+know fair point but the thing is sometimes we don't all have massive teams of developers that
+have experience in writing ios apps writing android apps and then this web team sometimes all you have
+is a little web team or all you have is yourself and you know web technologies and this is a way
+for you to be able to write your write an app for ios or for android or both using your existing
+skills and so the person didn't come back and then about two weeks later the author of the package
+pwa generator came on to mine and said oh thanks so much for your insightful answer and thank you
+so much for writing recording this video about my package i really appreciate it and i was like
+ah awesome so yes i got a little pushback i i like i told the person that you know thank
+you for your opinion here's why i'm saying this and then i kind of got validation from the author
+saying yeah that person was online so these things are also going to happen but it shouldn't stop you
+from putting the thing out there because people have different opinions and you're going to have
+people indeed we're just going to like say there's a little bit of yin and yang to everything yeah of
+course i also think um a lot of people they might look a fool when they're dancing on the dance floor
+they go to the i don't know a club or whatever and they do look a fool and it's embarrassing
+to dance but that's how they met their husband or their wife had they not gone to look a fool they
+wouldn't have met that person and had a wonderful life together so keep that in mind too sometimes
+you got a dance uh and it's gonna hurt and then someone's gonna snicker but just wait there's
+some gems yeah that's very good uh yeah this has been an awesome chat i only have one thing as a
+closing out and i think your comment just now kind of ties into that very nicely which is what do you
+do when you are not coding or mentoring or working um i'm an avid swimmer and i swim almost every
+morning early i wake up at five o'clock and i know that sounds like annoying to some people who are
+not morning people and i'm sorry about that but that's the nature of that sport it's something
+you do early in the morning and and i take a lot of fulfillment out of that because it's one of
+those things that you can do for your health that isn't too disruptive to family lives and and it's
+you don't bang into things like you do with other sport or rip your knees out in certain sports
+and then you can't really fall down like you can with a bicycle that's my other thing i think i
+think i would have answered side projects as my hobby when i'm not coding but it's too boring of
+an answer but it is true it is i mean honest to goodness i look around and i have friends you know
+you know they do uh woodwork or they do um they're playing the piano or something like that and
+i'm jealous almost like hey look they have a hobby um or what i do with my free time oh i code
+side projects but um yeah yeah i remember um forgot his name now same as entrepreneur
+uh started linkedin and many other things um and listen to podcast like he does so many things and
+they ask how can you be in so many things all at the same time it's easy i don't have any hobbies
+and they're like shit man if he can say something like that maybe it's not such an embarrassing fact
+to say that i sit in my vs code editor on a sunday they've messed up the end of the world
+at all no i don't think so i think as long as you get true god-honest joy out of it then there's
+nothing wrong with it yeah and the other truth is that uh why do you swim and are you like smiling
+as you're taking your strokes no uh there might be um i don't know there are some exercise moments
+where you're actually smiling uh but the truth that we do it for is it's honestly to live a
+healthier life over it's like an investment right that's what we love smiling whilst we're doing your
+peloton bikes and so why are you working so hard on these side projects are you like sitting there
+on a sunday afternoon smiling away having fun like no you're almost me you're grinding away so that
+you can have a more sort of a happier years ahead of you because if you're working away on those
+side projects and you might not earn many dollars on it through much fame but hey now you actually
+understand this new css framework you didn't do that before and it can put little smiles thousands
+of little smiles on on your face they barely even move your lips like i actually feel like i
+understand this little piece and it's thanks to what i did last last last last sunday and so that's
+happiness because we all like to make things and we all like to look good doing what we do for a
+living so that's another thing like keep that in mind especially i mentioned earlier that you're
+going to make tomorrow keep that in mind that it might not be all like happiness and fun and stuff
+you might be frustrated in your free time and and it's hard work and there might not be a big amazing
+uh financial success but there will be like spread thin butter on a massive piece of bread like you
+won't get a little bit happier trying a little bit every day by the sheer fact that you know
+something a little bit better is it's rewarding thanks for that i think is a good place to to end
+it thanks again for joining me and uh yeah it was really awesome and thank you so much colt
+thank you for listening to this episode of the my senior network podcast if you're not already
+please subscribe store and leave a review for us in your podcatcher of choice this helps others
+find us and helps us make a better podcast for you on this course you can also find and follow us on
+twitter at meet word mysyndium enjoy the community on tesco all the links are available in the show

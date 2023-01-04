@@ -1,0 +1,2363 @@
+WEBVTT
+
+00:00.000 --> 00:03.720
+Welcome to the Mycelium Network Podcast,
+
+00:03.720 --> 00:06.760
+a podcast all about early stage web developers and
+
+00:06.760 --> 00:09.560
+the mentors and teachers that help them along the way.
+
+00:09.560 --> 00:12.360
+Today, we are joined by Soham Shah,
+
+00:12.360 --> 00:14.840
+a software engineer based out of India,
+
+00:14.840 --> 00:18.480
+a front-end developer who plays around with React,
+
+00:18.480 --> 00:21.600
+Next, JavaScript on a daily basis,
+
+00:21.600 --> 00:24.160
+also an open-source contributor,
+
+00:24.160 --> 00:27.600
+and I've been a Linux Foundation mentee,
+
+00:27.600 --> 00:32.200
+and has served as a collaborator at Chakra UI in the past.
+
+00:32.200 --> 00:33.800
+Welcome, Soham.
+
+00:33.800 --> 00:37.720
+Hi. Yeah, thank you for having me at the podcast.
+
+00:37.720 --> 00:40.560
+It's really great that you are
+
+00:40.560 --> 00:44.920
+doing so amazing stuff for the community, so yeah.
+
+00:44.920 --> 00:51.480
+It's my pleasure. So I think to get this started off,
+
+00:51.480 --> 00:54.560
+maybe tell me where you're currently at,
+
+00:54.560 --> 00:58.240
+and fun fact about yourself.
+
+00:58.240 --> 01:01.840
+Yeah, sure. So currently,
+
+01:01.840 --> 01:04.640
+I'm working as a software engineer at Marvin,
+
+01:04.640 --> 01:11.200
+and my major work revolves around React and the JavaScript frameworks.
+
+01:11.200 --> 01:16.520
+So currently, I am having alignment towards the front-end side,
+
+01:16.520 --> 01:19.400
+but I'm passionate about software engineering in general.
+
+01:19.400 --> 01:23.640
+So yeah, that is what I do on a daily basis.
+
+01:23.640 --> 01:27.000
+Yeah, fun fact could be like I am
+
+01:27.000 --> 01:32.040
+a sucker for the programming tease and the swags,
+
+01:32.040 --> 01:33.800
+like I have them a lot.
+
+01:33.800 --> 01:36.040
+Like I can show like I'm having
+
+01:36.040 --> 01:39.480
+programming code written on my T-shirt right now as well.
+
+01:39.480 --> 01:46.640
+So yeah, I just love these coding and the nerdy stuff. So yeah.
+
+01:46.640 --> 01:48.640
+I'm a sucker for that too.
+
+01:48.640 --> 01:50.680
+I completely understand.
+
+01:50.680 --> 01:55.120
+So it seems like you're really involved in the open source world,
+
+01:55.120 --> 02:00.600
+and I actually know about you from your contributions to MDN.
+
+02:00.600 --> 02:06.760
+So can you maybe tell us a few words about your open source experience?
+
+02:06.760 --> 02:11.120
+Yeah. So open source has been one of
+
+02:11.120 --> 02:15.640
+the parts where I got the confidence into what I'm learning.
+
+02:15.640 --> 02:18.680
+So generally, when you are learning something,
+
+02:18.680 --> 02:19.920
+you need to implement.
+
+02:19.920 --> 02:24.040
+So there are a lot of things that open source has helped me.
+
+02:24.040 --> 02:28.440
+Again, one of the major things that I found is the mentorship part,
+
+02:28.440 --> 02:31.000
+because everyone who has written this code,
+
+02:31.000 --> 02:32.320
+if we are contributing,
+
+02:32.320 --> 02:37.000
+then our quality is evaluated and reviewed.
+
+02:37.000 --> 02:41.800
+So that is something that I have got a lot of learning from that.
+
+02:41.800 --> 02:44.880
+So even what PR I made at MDN,
+
+02:44.880 --> 02:46.800
+that just small thing,
+
+02:46.800 --> 02:49.400
+I still remember what I wrote.
+
+02:49.400 --> 02:52.960
+It was related to this screen reader visibility.
+
+02:52.960 --> 02:54.240
+So I still remember that,
+
+02:54.240 --> 02:57.000
+and whenever I write code for that,
+
+02:57.000 --> 03:01.080
+I remember what fundamentals that you need to follow.
+
+03:01.080 --> 03:03.600
+So also like at Chakra UI,
+
+03:03.600 --> 03:07.640
+I had a good opportunity to do the issue triaging.
+
+03:07.640 --> 03:11.680
+So that was also something that I could understand this large code base,
+
+03:11.680 --> 03:13.680
+and everyone is so helpful.
+
+03:13.680 --> 03:22.200
+So I feel very blessed even specifically as a very new into this space,
+
+03:22.200 --> 03:28.640
+everyone is so much supportive and that mentorship part has a lot much on me.
+
+03:28.640 --> 03:33.280
+So that is one thing that I have particularly loved about open source.
+
+03:33.280 --> 03:38.080
+Apart from that, you build a very good network with the folks.
+
+03:38.080 --> 03:42.840
+So that is what I have truly enjoyed.
+
+03:42.840 --> 03:44.720
+We used to have a long,
+
+03:44.720 --> 03:48.920
+long just chitchatting with the contributors and the collaborators,
+
+03:48.920 --> 03:50.480
+just knowing each other.
+
+03:50.480 --> 03:55.480
+So that was also something that you don't really just do work.
+
+03:55.480 --> 03:58.680
+You also do something that connects you.
+
+03:58.680 --> 04:02.040
+So the open source is for everyone,
+
+04:02.040 --> 04:04.800
+and whatever the technologies,
+
+04:04.800 --> 04:06.560
+whatever things are being built,
+
+04:06.560 --> 04:08.680
+they are all indebted to open source.
+
+04:08.680 --> 04:14.080
+So even small contribution is making such big impact,
+
+04:14.080 --> 04:21.480
+and that is also something that excites you to write more and more better code,
+
+04:21.480 --> 04:26.080
+or it could be more contributions whenever you are available.
+
+04:26.080 --> 04:31.640
+So yeah, that's my personal alignment to open source.
+
+04:31.640 --> 04:33.400
+Now that you've been active,
+
+04:33.400 --> 04:36.600
+you've been active down the software industry for a while.
+
+04:36.600 --> 04:40.840
+But maybe you can tell us a little bit about your background
+
+04:40.840 --> 04:46.400
+and what made you decide to get involved in this industry in the first place.
+
+04:46.400 --> 04:51.000
+Yeah. So if I talk about my high school,
+
+04:51.000 --> 04:52.800
+so I was a science student,
+
+04:52.800 --> 04:54.880
+so there were a lot of options for me.
+
+04:54.880 --> 04:58.360
+I chose software engineering because that was
+
+04:58.360 --> 05:03.400
+the best option that I could get because what I have seen,
+
+05:03.400 --> 05:04.920
+it has a lot of opportunities.
+
+05:04.920 --> 05:07.920
+You can literally go into a lot of areas,
+
+05:07.920 --> 05:11.760
+and that too involves a lot of research as well.
+
+05:11.760 --> 05:12.920
+If you're into research,
+
+05:12.920 --> 05:14.480
+if you're into doing something new,
+
+05:14.480 --> 05:20.120
+then AI and everything are there which are under aggressive research.
+
+05:20.120 --> 05:23.560
+Today, like blockchain and the other metaverse technologies
+
+05:23.560 --> 05:26.000
+are there for a lot of research.
+
+05:26.000 --> 05:29.560
+So that was my reason for choosing software engineering,
+
+05:29.560 --> 05:31.240
+but I was literally clueless.
+
+05:31.240 --> 05:33.600
+I was just going to college and coming back,
+
+05:33.600 --> 05:35.560
+doing those assignments and all.
+
+05:35.560 --> 05:39.000
+But I always had that fear that,
+
+05:39.000 --> 05:42.240
+will I be able to go at a really good company?
+
+05:42.240 --> 05:49.400
+So that phase of mine where I was just in the bubble of my college and that small network,
+
+05:49.400 --> 05:51.560
+I had that competitive mindset that,
+
+05:51.560 --> 05:55.280
+okay, this person is doing better than me,
+
+05:55.280 --> 05:57.920
+so will I be able to do even better?
+
+05:57.920 --> 06:02.760
+So that competitive mindset actually was inside me that,
+
+06:02.760 --> 06:03.920
+am I doing better?
+
+06:03.920 --> 06:06.320
+Even I used to see more GitHub contributions,
+
+06:06.320 --> 06:09.440
+I used to get that envy feeling that,
+
+06:09.440 --> 06:11.920
+will I be able to get that?
+
+06:11.920 --> 06:16.400
+I was always having that fear under my head that,
+
+06:16.400 --> 06:17.720
+what after college?
+
+06:17.720 --> 06:19.400
+What after my graduation?
+
+06:19.400 --> 06:21.080
+Everything was that.
+
+06:21.080 --> 06:22.960
+Then I decided, okay,
+
+06:22.960 --> 06:29.360
+let's not get into this mindset and let's come out and see what
+
+06:29.360 --> 06:32.880
+the other people are doing on the Internet.
+
+06:32.880 --> 06:34.480
+Then slowly and gradually,
+
+06:34.480 --> 06:39.600
+I started joining this Discord servers of different communities.
+
+06:39.600 --> 06:41.720
+I joined this React Flux,
+
+06:41.720 --> 06:44.440
+which is very popular where you see job posting,
+
+06:44.440 --> 06:46.440
+where you see different questions.
+
+06:46.440 --> 06:50.240
+So that was something I saw people are just helping out.
+
+06:50.240 --> 06:54.520
+You are just asking a question and a lot of people who are
+
+06:54.520 --> 06:59.520
+very popular people in the maintainer and open source world,
+
+06:59.520 --> 07:01.920
+they are helping to solve even small, small bugs.
+
+07:01.920 --> 07:03.680
+So that made me realize that,
+
+07:03.680 --> 07:07.400
+okay, it is not that you are into competition,
+
+07:07.400 --> 07:11.200
+but there I learned the importance like open source fundamental,
+
+07:11.200 --> 07:15.240
+that it is about collaboration first and code second mindset.
+
+07:15.240 --> 07:19.720
+So that actually made me understand,
+
+07:19.720 --> 07:22.040
+okay, there is a lot more to it.
+
+07:22.040 --> 07:26.480
+Then I first stepped into machine learning side of things.
+
+07:26.480 --> 07:33.200
+So I did a lot of learning on that side and I really enjoyed it.
+
+07:33.200 --> 07:35.360
+But after a certain point,
+
+07:35.360 --> 07:38.720
+I was getting into proper research.
+
+07:38.720 --> 07:42.720
+But then due to some reason,
+
+07:42.720 --> 07:44.880
+my friend just told me like,
+
+07:44.880 --> 07:47.840
+you can try web development.
+
+07:47.840 --> 07:51.200
+I'm doing this. So it was sort of a freelance work.
+
+07:51.200 --> 07:54.600
+So I did that and I really enjoyed it.
+
+07:54.600 --> 07:59.520
+I didn't know that CSS could be this interesting.
+
+07:59.520 --> 08:04.480
+Generally, it is a mindset that when you start learning,
+
+08:04.480 --> 08:07.880
+then you have to do it.
+
+08:07.880 --> 08:09.480
+So CSS was challenging,
+
+08:09.480 --> 08:11.360
+but also interesting at the same time.
+
+08:11.360 --> 08:16.280
+So I was getting that alignment.
+
+08:16.280 --> 08:18.920
+Then I saw web development has,
+
+08:18.920 --> 08:20.720
+if we see on a larger scale,
+
+08:20.720 --> 08:23.680
+it has a lot of job opportunities.
+
+08:23.680 --> 08:27.720
+Plus, I found out that my software engineering fundamentals
+
+08:27.720 --> 08:32.480
+are clearly seen practical in that part more,
+
+08:32.480 --> 08:35.480
+compared to what I was doing in other side.
+
+08:35.480 --> 08:39.520
+For example, if I say client server architecture,
+
+08:39.520 --> 08:42.640
+that is one main paradigm of software engineering.
+
+08:42.640 --> 08:45.680
+So I could see that in practice in web development.
+
+08:45.680 --> 08:48.760
+So that just gave me that kick.
+
+08:48.760 --> 08:51.280
+Plus, one thing that you can build stuff.
+
+08:51.280 --> 08:53.840
+So you can even build small application
+
+08:53.840 --> 08:56.160
+for your day-to-day real usage.
+
+08:56.160 --> 09:01.280
+So that actually gave me that confidence.
+
+09:01.280 --> 09:05.360
+At that point, I realized that I can switch
+
+09:05.360 --> 09:08.480
+my focus and attention to just one thing,
+
+09:08.480 --> 09:11.920
+at least for now, I can go with web development.
+
+09:11.920 --> 09:14.880
+It is not confined to just this field,
+
+09:14.880 --> 09:16.360
+but I will do this.
+
+09:16.360 --> 09:21.800
+So in AI, I did some research and review papers as well.
+
+09:21.800 --> 09:24.920
+But I decided that this is not going to be,
+
+09:24.920 --> 09:27.880
+at least for now, this is not going to be my career path.
+
+09:27.880 --> 09:30.560
+And I started learning JavaScript.
+
+09:30.560 --> 09:32.280
+I started learning React and all.
+
+09:32.280 --> 09:39.400
+So this was my way I divide the trajectory.
+
+09:39.400 --> 09:41.760
+Basically, I got into web development.
+
+09:41.760 --> 09:46.120
+And then I started just being involved in the community.
+
+09:46.120 --> 09:50.080
+So by that, I learned a lot of things.
+
+09:50.080 --> 09:51.280
+That's very interesting.
+
+09:51.280 --> 09:52.280
+Yeah.
+
+09:52.280 --> 09:56.640
+And so throughout this whole process
+
+09:56.640 --> 10:00.120
+of learning and experimenting and kind of switching even,
+
+10:00.120 --> 10:04.480
+switching careers, if you want to call it,
+
+10:04.480 --> 10:09.520
+what have you found the most challenging about the industry
+
+10:09.520 --> 10:12.640
+and about learning?
+
+10:12.640 --> 10:14.160
+OK.
+
+10:14.160 --> 10:18.680
+I guess the most challenging part is the start point,
+
+10:18.680 --> 10:20.400
+the head start.
+
+10:20.400 --> 10:24.360
+So when I was just into web development,
+
+10:24.360 --> 10:28.760
+so first thing that I faced was the tutorial hell.
+
+10:28.760 --> 10:33.400
+Anyone who is into just starting out any technology,
+
+10:33.400 --> 10:37.560
+if one just sees the YouTube videos
+
+10:37.560 --> 10:41.040
+and just do the line by line implementation,
+
+10:41.040 --> 10:43.360
+then the learning is actually cut off.
+
+10:43.360 --> 10:50.040
+And that is just literally you are getting that fake dopamine
+
+10:50.040 --> 10:52.040
+hit that you have made something.
+
+10:52.040 --> 10:55.600
+But that is actually that is just
+
+10:55.600 --> 10:57.440
+you are doing from YouTube video.
+
+10:57.440 --> 11:00.160
+So that I did for a long time.
+
+11:00.160 --> 11:04.360
+I used to watch like, OK, I want to learn, for example, React
+
+11:04.360 --> 11:05.160
+table, right?
+
+11:05.160 --> 11:07.440
+I want to learn table stuff on React.
+
+11:07.440 --> 11:09.400
+So I used to watch that whole video.
+
+11:09.400 --> 11:12.520
+In reality, it should be I should read the documentation
+
+11:12.520 --> 11:14.040
+or I should read blogs.
+
+11:14.040 --> 11:16.160
+So this was a big, big issue.
+
+11:16.160 --> 11:19.600
+I used to spend hours and hours of watching videos,
+
+11:19.600 --> 11:22.080
+even the different courses on Udemy and all.
+
+11:22.080 --> 11:23.120
+I took them.
+
+11:23.120 --> 11:25.040
+And I was just watching and watching
+
+11:25.040 --> 11:29.080
+and very less implementation was there and very less mind
+
+11:29.080 --> 11:30.880
+I was putting into it.
+
+11:30.880 --> 11:34.880
+So that actually was a big challenge.
+
+11:34.880 --> 11:36.800
+Even in machine learning, I realized
+
+11:36.800 --> 11:40.440
+that what I was doing previously was just
+
+11:40.440 --> 11:43.600
+like looking at different YouTube videos
+
+11:43.600 --> 11:46.400
+or Udemy or different courses.
+
+11:46.400 --> 11:49.560
+And then I was just coding it out on my ID
+
+11:49.560 --> 11:52.160
+and just making the output come.
+
+11:52.160 --> 11:57.080
+But I feel that this is actually not the right way to learn.
+
+11:57.080 --> 12:00.600
+So then I realized that I should focus.
+
+12:00.600 --> 12:03.560
+I should pressure myself a little bit
+
+12:03.560 --> 12:10.280
+that I go to these documentation sites or the blog sites
+
+12:10.280 --> 12:12.800
+or even if I'm watching a tutorial video,
+
+12:12.800 --> 12:16.520
+I should be mindful that I am using my own brain
+
+12:16.520 --> 12:19.760
+to make something, giving things time.
+
+12:19.760 --> 12:22.600
+So then this was a big challenge for me at least.
+
+12:22.600 --> 12:24.840
+Like I spent more than four months
+
+12:24.840 --> 12:27.960
+and even I got internship with that particular knowledge
+
+12:27.960 --> 12:29.200
+that I was doing.
+
+12:29.200 --> 12:32.080
+But even after the internship, I realized that I still
+
+12:32.080 --> 12:33.680
+lack the fundamentals.
+
+12:33.680 --> 12:36.520
+So this was something very insightful.
+
+12:36.520 --> 12:40.160
+And then I came across a boot camp called Neoji Camp.
+
+12:40.160 --> 12:42.560
+So this web development boot camp actually
+
+12:42.560 --> 12:45.440
+helped me a lot in my career.
+
+12:45.440 --> 12:49.280
+What I have learned from there, the community and everything,
+
+12:49.280 --> 12:56.280
+I am totally indebted to what I have learned in that boot camp.
+
+12:56.280 --> 13:01.920
+So there can be any different sort of these resources.
+
+13:01.920 --> 13:04.520
+But the idea is that even there you
+
+13:04.520 --> 13:07.920
+do this tutorial copy pasting or this type of thing,
+
+13:07.920 --> 13:11.600
+then again, that would be an issue.
+
+13:11.600 --> 13:16.080
+So yeah, one idea that I have followed that first thing
+
+13:16.080 --> 13:18.600
+that I have to do is think by my mind,
+
+13:18.600 --> 13:21.960
+then go to documentation, understand it thoroughly.
+
+13:21.960 --> 13:24.360
+And then if I'm getting nothing, then I
+
+13:24.360 --> 13:29.720
+go to maybe just the YouTube video and just quickly see.
+
+13:29.720 --> 13:33.920
+But it is not that follow that thing.
+
+13:33.920 --> 13:38.360
+So yeah, that was a little bit thing
+
+13:38.360 --> 13:42.400
+I could share about my experience.
+
+13:42.400 --> 13:44.400
+Yeah, that's interesting.
+
+13:44.400 --> 13:47.360
+Yeah, I think for myself also, what I have found
+
+13:47.360 --> 13:53.920
+is I find it hard to learn something
+
+13:53.920 --> 13:58.320
+if I don't have anywhere to use it in the moment,
+
+13:58.320 --> 13:59.800
+if you know what I mean.
+
+13:59.800 --> 14:04.040
+So I find if I can think of a need,
+
+14:04.040 --> 14:08.280
+like the way they say scratching your own itch, that thing.
+
+14:08.280 --> 14:11.600
+So I think of an idea, and I'm like, OK, cool.
+
+14:11.600 --> 14:12.520
+So I have this idea.
+
+14:12.520 --> 14:16.560
+So what technologies are out there that I'd like to learn?
+
+14:16.560 --> 14:19.240
+And then I would pick one of these technologies
+
+14:19.240 --> 14:21.120
+that I'm not as familiar with.
+
+14:21.120 --> 14:25.440
+And I would learn it and use it to build this thing
+
+14:25.440 --> 14:27.920
+that I didn't want to build for myself.
+
+14:27.920 --> 14:30.680
+I kind of feel like that is a better way for me
+
+14:30.680 --> 14:35.480
+personally of learning, other than just building yet another
+
+14:35.480 --> 14:39.080
+to-do application or something like that.
+
+14:39.080 --> 14:41.040
+That is very spot on.
+
+14:41.040 --> 14:43.320
+The one which you mentioned, the way
+
+14:43.320 --> 14:45.600
+to go is understanding the problem
+
+14:45.600 --> 14:48.680
+and then searching for the available solutions,
+
+14:48.680 --> 14:52.200
+implemented solution in the market.
+
+14:52.200 --> 14:55.000
+For example, if I had to implement a graph library,
+
+14:55.000 --> 14:59.320
+I won't be going to a tutorial where the guy uses a graph
+
+14:59.320 --> 15:01.040
+library.
+
+15:01.040 --> 15:04.560
+But it would be like what my design says,
+
+15:04.560 --> 15:07.120
+what my future product requirement says,
+
+15:07.120 --> 15:09.760
+or what I have at least imagined for my project
+
+15:09.760 --> 15:12.600
+that I would be implementing this stuff in my graph.
+
+15:12.600 --> 15:14.760
+And then I see different options,
+
+15:14.760 --> 15:17.320
+like how do you go for shopping?
+
+15:17.320 --> 15:18.520
+It is exactly like that.
+
+15:18.520 --> 15:22.560
+You see different things that are similar for your use case,
+
+15:22.560 --> 15:25.120
+but you choose whatever fits your need,
+
+15:25.120 --> 15:28.720
+not what the shopkeeper gives us.
+
+15:28.720 --> 15:33.400
+So that is the idea that I feel everywhere I have seen.
+
+15:33.400 --> 15:36.920
+In fact, when my professional thing started,
+
+15:36.920 --> 15:39.320
+we had to write these design documents
+
+15:39.320 --> 15:42.360
+for different implementations.
+
+15:42.360 --> 15:45.240
+So we used to research on various options
+
+15:45.240 --> 15:51.400
+and the library which we want to introduce.
+
+15:51.400 --> 15:54.080
+So because that takes up the bundle size,
+
+15:54.080 --> 16:00.280
+so the practice should be very mindful about the feature
+
+16:00.280 --> 16:02.120
+and not the technology.
+
+16:05.160 --> 16:06.200
+I agree 100%.
+
+16:06.200 --> 16:08.240
+Yeah.
+
+16:08.240 --> 16:10.400
+So you've mentioned a couple of resources,
+
+16:10.400 --> 16:13.800
+but if you had to pull together a couple of things
+
+16:13.800 --> 16:17.080
+that you found particularly useful up to now,
+
+16:17.080 --> 16:20.640
+what are those resources?
+
+16:20.640 --> 16:22.840
+Right.
+
+16:22.840 --> 16:25.720
+For resource, I would say that first thing
+
+16:25.720 --> 16:28.240
+that the best resource, I would say,
+
+16:28.240 --> 16:31.960
+is the MDN documentation, at least for web development.
+
+16:31.960 --> 16:36.760
+That is the way that should come into practice.
+
+16:36.760 --> 16:40.120
+Even if it is difficult for one as a beginner,
+
+16:40.120 --> 16:44.800
+still it is something that you need to get used to it,
+
+16:44.800 --> 16:46.880
+at least the starting part.
+
+16:46.880 --> 16:49.200
+Because all other resources are sort
+
+16:49.200 --> 16:52.320
+of an extract from this resource only.
+
+16:52.320 --> 16:58.360
+So not just this, but the very source of truth,
+
+16:58.360 --> 17:01.440
+in the community, I guess it is the MDN docs.
+
+17:01.440 --> 17:04.720
+So other resources are an extract of this.
+
+17:04.720 --> 17:07.080
+So one thing that if you need anything,
+
+17:07.080 --> 17:09.920
+then this is going to be your source of truth.
+
+17:09.920 --> 17:11.000
+You can quote it.
+
+17:11.000 --> 17:12.400
+It is given at MDN.
+
+17:12.400 --> 17:15.320
+So there is a high possibility that we
+
+17:15.320 --> 17:20.600
+need to just reconsider our belief about XYZ thing
+
+17:20.600 --> 17:26.240
+that we are knowing about JavaScript or web in general.
+
+17:26.240 --> 17:29.000
+But apart from this, the fundamentals
+
+17:29.000 --> 17:32.920
+should be very, very clear about any language.
+
+17:32.920 --> 17:37.280
+This I have realized when I got some challenging work.
+
+17:37.280 --> 17:40.880
+So on building simple Figma screens,
+
+17:40.880 --> 17:43.560
+implementation into code is very simple.
+
+17:43.560 --> 17:45.920
+We can just make some CSS changes
+
+17:45.920 --> 17:48.640
+and just make the thing work.
+
+17:48.640 --> 17:50.920
+But when there is complexity, when
+
+17:50.920 --> 17:55.600
+there is making things as scale, or any more complexity
+
+17:55.600 --> 17:58.200
+will be introduced, then you will realize, OK,
+
+17:58.200 --> 17:59.760
+this concept should be known.
+
+17:59.760 --> 18:05.760
+Else, on a longer run, the code will be spaghetti.
+
+18:05.760 --> 18:09.560
+So that concept, JavaScript React concepts
+
+18:09.560 --> 18:11.000
+are very important.
+
+18:11.000 --> 18:14.640
+So I would say JavaScript.info is the website
+
+18:14.640 --> 18:17.040
+that I have admired a lot.
+
+18:17.040 --> 18:21.520
+They have put everything so much structured and nicely
+
+18:21.520 --> 18:23.240
+with very good example.
+
+18:23.240 --> 18:27.960
+So for a beginner, this is the resource.
+
+18:27.960 --> 18:31.000
+Even it has helped a lot in interviews
+
+18:31.000 --> 18:34.040
+where you have to crisp.
+
+18:34.040 --> 18:35.480
+You want crisp info.
+
+18:35.480 --> 18:39.600
+So JavaScript info is very good for beginners.
+
+18:39.600 --> 18:42.840
+Apart from that, there is a YouTube playlist
+
+18:42.840 --> 18:45.640
+called Namaste JS, which is by Akshay Saini.
+
+18:45.640 --> 18:50.080
+So he also explains the JavaScript concepts and all
+
+18:50.080 --> 18:52.640
+in very, very good depth.
+
+18:52.640 --> 18:54.920
+And also, one thing that I realized,
+
+18:54.920 --> 18:57.720
+that even if you are doing that tutorial healthing in this
+
+18:57.720 --> 18:59.840
+as well, it applies the same.
+
+18:59.840 --> 19:01.480
+So this resource is also good.
+
+19:01.480 --> 19:04.400
+But if you're not implementing, then it
+
+19:04.400 --> 19:05.880
+is, again, the same story.
+
+19:05.880 --> 19:10.360
+But the reason why I love this playlist or the videos
+
+19:10.360 --> 19:15.040
+of Namaste JavaScript is the way that is being explained
+
+19:15.040 --> 19:18.800
+is from the core, so that I particularly like.
+
+19:18.800 --> 19:23.720
+It is not just syntax, but it is how it works on the behind.
+
+19:23.720 --> 19:24.600
+So yeah.
+
+19:24.600 --> 19:26.880
+But apart from that, if you really
+
+19:26.880 --> 19:32.040
+want to work on particular things like Next.js or Webpack
+
+19:32.040 --> 19:34.040
+or something like that, then there
+
+19:34.040 --> 19:39.120
+is Frontend Master's course, which are pretty good.
+
+19:39.120 --> 19:40.960
+I got it from GitHub pack.
+
+19:40.960 --> 19:44.000
+So if you are a student, then definitely you
+
+19:44.000 --> 19:46.920
+should exercise your GitHub student pack
+
+19:46.920 --> 19:50.600
+and get Frontend Master's, or else you can buy as well.
+
+19:50.600 --> 19:54.520
+But Frontend Master's course are really, really quality courses.
+
+19:54.520 --> 20:00.040
+So definitely, I would consider buying or even
+
+20:00.040 --> 20:02.560
+for resource or for the learning.
+
+20:02.560 --> 20:05.800
+So yeah, you just need to search the right things,
+
+20:05.800 --> 20:08.840
+and Google will make the SEO work for you.
+
+20:08.840 --> 20:14.800
+So just like searching, keep building, SEO will work.
+
+20:14.800 --> 20:16.400
+Yeah.
+
+20:16.400 --> 20:17.360
+Yeah, I have to agree.
+
+20:17.360 --> 20:19.080
+Frontend Master's is really good.
+
+20:19.080 --> 20:21.960
+I use that as well.
+
+20:21.960 --> 20:25.200
+So you've mentioned a whole bunch of resources,
+
+20:25.200 --> 20:26.360
+and they sound great.
+
+20:26.360 --> 20:31.560
+But I'm wondering, what do you find missing or stuff
+
+20:31.560 --> 20:33.760
+that can be improved?
+
+20:33.760 --> 20:37.640
+OK, in these resources, one thing
+
+20:37.640 --> 20:43.320
+that if we see blog-based resource, for example,
+
+20:43.320 --> 20:46.520
+JavaScript Info, so if you just read those blogs
+
+20:46.520 --> 20:50.760
+and just make the examples that they give,
+
+20:50.760 --> 20:56.040
+you just implement them, then I guess it won't be enough.
+
+20:56.040 --> 20:59.880
+So when you read a book, if you just read the whole book
+
+20:59.880 --> 21:05.840
+without thinking or implementing about it,
+
+21:05.840 --> 21:08.120
+then it won't make any sense.
+
+21:08.120 --> 21:11.640
+So it is the same with JavaScript Info.
+
+21:11.640 --> 21:15.160
+For example, if you have learned about closures.
+
+21:15.160 --> 21:19.400
+But the ideal or a good way, I would say,
+
+21:19.400 --> 21:22.280
+it won't be just stopping at that point.
+
+21:22.280 --> 21:25.840
+You can just give yourself some time to digest.
+
+21:25.840 --> 21:30.360
+Then you can look for other blogs available maybe
+
+21:30.360 --> 21:34.720
+on Medium or Hashnode, these blogging websites,
+
+21:34.720 --> 21:39.680
+and know how other concepts that you might have missed.
+
+21:39.680 --> 21:44.000
+For example, the disadvantages of closures.
+
+21:44.000 --> 21:47.440
+This is a topic that might have not
+
+21:47.440 --> 21:49.000
+been covered at JavaScript Info.
+
+21:49.000 --> 21:51.000
+So you can just see.
+
+21:51.000 --> 21:53.320
+So when you give yourself time to digest things,
+
+21:53.320 --> 21:55.360
+then only it will actually fruit.
+
+21:55.360 --> 21:56.840
+Else, you will forget.
+
+21:56.840 --> 21:59.800
+If you read the whole JavaScript Info in one day,
+
+21:59.800 --> 22:02.360
+then it won't result into anything.
+
+22:02.360 --> 22:06.000
+So that is one thing that is being missing.
+
+22:06.000 --> 22:12.040
+The other thing, I feel that they are lacking code.
+
+22:12.040 --> 22:16.280
+They are not having enough code examples
+
+22:16.280 --> 22:23.880
+that you need to become a master or at least a good level
+
+22:23.880 --> 22:26.040
+at the particular technology.
+
+22:26.040 --> 22:29.640
+Not pointing at any one, all the other resource
+
+22:29.640 --> 22:32.680
+because they have limitation of number of examples
+
+22:32.680 --> 22:35.920
+because they don't want that content to be very long.
+
+22:35.920 --> 22:38.960
+So as a developer, what I used to do,
+
+22:38.960 --> 22:43.520
+I used to Google JavaScript questions on closures.
+
+22:43.520 --> 22:45.280
+There will be 10 different websites.
+
+22:45.280 --> 22:48.720
+I just used to pick and put it on my GitHub repo
+
+22:48.720 --> 22:51.640
+so I can refer them later.
+
+22:51.640 --> 22:56.440
+So this is the way we can just compensate that
+
+22:56.440 --> 23:00.440
+because code is everything, right?
+
+23:00.440 --> 23:04.480
+Enough number of lines of text is not that much,
+
+23:04.480 --> 23:07.040
+how much 10-liner code can explain.
+
+23:07.040 --> 23:09.920
+So that's why code is something that you
+
+23:09.920 --> 23:13.400
+need to have in abundance when you are learning.
+
+23:13.400 --> 23:19.880
+And one thing that JavaScript Info example I gave, right?
+
+23:19.880 --> 23:22.080
+So one thing I used to do with my friend,
+
+23:22.080 --> 23:24.000
+we used to do pair learning.
+
+23:24.000 --> 23:26.480
+So what we used to do, we used to pick
+
+23:26.480 --> 23:34.080
+some topics of our interview questions, right?
+
+23:34.080 --> 23:35.440
+JavaScript fundamental questions.
+
+23:35.440 --> 23:37.440
+For example, it could be closures or promises.
+
+23:37.440 --> 23:41.360
+We used to just divide amongst each other.
+
+23:41.360 --> 23:44.200
+And then we used to explain those to each other.
+
+23:44.200 --> 23:46.400
+And then we used to have discussions.
+
+23:46.400 --> 23:47.720
+And we used to have debates.
+
+23:47.720 --> 23:53.640
+And then we ran across Google and searched
+
+23:53.640 --> 23:55.440
+what was the real right answer.
+
+23:55.440 --> 23:57.960
+So those conversations, I feel they
+
+23:57.960 --> 24:02.480
+were a lot more productive than anything else.
+
+24:02.480 --> 24:05.000
+So the human connect is something different
+
+24:05.000 --> 24:06.960
+that I have realized that when you
+
+24:06.960 --> 24:11.760
+have friends who are into the same path you are going towards,
+
+24:11.760 --> 24:14.440
+then it is very helpful.
+
+24:14.440 --> 24:19.120
+And that is also a big, big benefit of being in a community.
+
+24:19.120 --> 24:23.560
+You just text on Discord that, OK, I've learned this.
+
+24:23.560 --> 24:26.600
+I want to explain that to anyone who wants to join.
+
+24:26.600 --> 24:32.360
+Go on the channel and just start discussing, right?
+
+24:32.360 --> 24:38.160
+So this is one thing that has helped me a lot in my interview
+
+24:38.160 --> 24:39.080
+learning process.
+
+24:39.080 --> 24:43.000
+And yeah, that is one fond memory.
+
+24:43.000 --> 24:44.800
+And I also made very good friendship
+
+24:44.800 --> 24:49.600
+with the bond as well.
+
+24:49.600 --> 24:51.240
+That is really, really interesting.
+
+24:51.240 --> 24:54.080
+I've never heard people say that before.
+
+24:54.080 --> 24:58.480
+The specific having a debate and that whole thing,
+
+24:58.480 --> 24:59.680
+that's super interesting.
+
+24:59.680 --> 25:03.640
+And I can imagine that'll work really well.
+
+25:03.640 --> 25:06.800
+I was just telling that we had a big, I guess,
+
+25:06.800 --> 25:10.280
+one and a half hour debate on JavaScript is interpreted
+
+25:10.280 --> 25:11.880
+language or a compiled language.
+
+25:11.880 --> 25:17.600
+Because there is not exactly one stamp answer to that.
+
+25:17.600 --> 25:20.720
+There are a lot of complexity on what perspective you are talking.
+
+25:20.720 --> 25:23.760
+So that was a really amazing discussion.
+
+25:23.760 --> 25:25.840
+So yeah, please go ahead.
+
+25:25.840 --> 25:27.600
+No, no, thanks for sharing that.
+
+25:27.600 --> 25:30.360
+That's really interesting.
+
+25:30.360 --> 25:34.160
+So I was thinking, you've been through the interview process.
+
+25:34.160 --> 25:40.440
+So what do you think about interviews in the tech industry?
+
+25:40.440 --> 25:45.680
+It's a little scary, and maybe you think should be changed?
+
+25:45.680 --> 25:48.200
+Or how do you think it can be improved?
+
+25:50.760 --> 25:55.240
+Yeah, so one thing that I recently gave a lot of interviews.
+
+25:55.240 --> 25:58.280
+So one thing that in common which I realized
+
+25:58.280 --> 26:02.480
+that was a little bit of blocker was I was not even
+
+26:02.480 --> 26:10.280
+having enough context of what I will be giving interview
+
+26:10.280 --> 26:11.080
+for that, right?
+
+26:11.080 --> 26:13.280
+So just an example.
+
+26:13.280 --> 26:18.480
+So some companies like ask something very, very advanced
+
+26:18.480 --> 26:20.280
+in the first round itself.
+
+26:20.280 --> 26:22.920
+And some of them just ask basics.
+
+26:22.920 --> 26:27.280
+Or even if we are doing for a front end role,
+
+26:27.280 --> 26:31.960
+I was asked something very unexpected about system design.
+
+26:31.960 --> 26:36.320
+So that is one thing that there should be a little bit clarity
+
+26:36.320 --> 26:39.800
+upon what skills you will be assessed in a particular round.
+
+26:39.800 --> 26:42.400
+So you are prepared.
+
+26:42.400 --> 26:46.480
+For example, if I was asked about web performance, right?
+
+26:46.480 --> 26:51.320
+But at that point, I was not remembering
+
+26:51.320 --> 26:54.040
+what I learned about web performance,
+
+26:54.040 --> 26:57.200
+at least at the time of the interview.
+
+26:57.200 --> 27:01.120
+So I had to ask that, could you let me Google?
+
+27:01.120 --> 27:03.640
+So they did let me, but what if they didn't?
+
+27:03.640 --> 27:08.440
+So I was not remembering the names like FID or the terms.
+
+27:08.440 --> 27:11.320
+So that could lead that I am not knowing.
+
+27:11.320 --> 27:12.880
+But in reality, I was knowing.
+
+27:12.880 --> 27:16.120
+I had learned about or experimented
+
+27:16.120 --> 27:17.720
+about these things before.
+
+27:17.720 --> 27:20.000
+So yeah, these type of things.
+
+27:20.000 --> 27:25.520
+I was once asked like dynamic programming question.
+
+27:25.520 --> 27:30.640
+So generally, I at least don't expect a lot of this
+
+27:30.640 --> 27:34.840
+complex algorithm as a fresher into front end
+
+27:34.840 --> 27:40.960
+that we are asked a lot more this typical data structure
+
+27:40.960 --> 27:41.800
+algorithm question.
+
+27:41.800 --> 27:43.280
+But even if they're coming, then I
+
+27:43.280 --> 27:46.800
+should know that, OK, I should be prepared.
+
+27:46.800 --> 27:47.880
+So this is one thing.
+
+27:50.920 --> 27:56.080
+Else I have a feeling that for interviews,
+
+27:56.080 --> 28:01.120
+if you are prepared enough, then things are very, very simple.
+
+28:01.120 --> 28:06.280
+But it is not the case for every time and everyone.
+
+28:06.280 --> 28:09.640
+Some people might be a little bit nervous
+
+28:09.640 --> 28:14.200
+or that is into nature because that depends.
+
+28:14.200 --> 28:16.720
+So for that, I feel that practice
+
+28:16.720 --> 28:19.360
+is something that gives you confidence.
+
+28:19.360 --> 28:22.040
+But we as a human, we need validation.
+
+28:22.040 --> 28:25.240
+So even if I have solved 100 questions
+
+28:25.240 --> 28:29.080
+and I practice a lot, but that is not validated by someone.
+
+28:29.080 --> 28:33.520
+So I need someone to validate that, OK, I'm
+
+28:33.520 --> 28:36.320
+at least ready to appear for interview.
+
+28:36.320 --> 28:39.200
+So peers helped a lot.
+
+28:39.200 --> 28:42.800
+I used to give mock interviews with my friends on Twitter.
+
+28:42.800 --> 28:48.800
+So two, three people on Twitter helped me for mock interviews.
+
+28:48.800 --> 28:53.640
+So even that person is not as equal experience as us,
+
+28:53.640 --> 28:58.200
+but at least we can be confident that am I able to explain.
+
+28:58.200 --> 29:03.120
+So that part I can add.
+
+29:03.120 --> 29:11.320
+Apart from that, I always have that one sort of fear
+
+29:11.320 --> 29:16.600
+that whatever I am knowing that in one interview,
+
+29:16.600 --> 29:18.760
+I was asked, do you know CSS?
+
+29:18.760 --> 29:20.960
+Then I literally had no answer.
+
+29:20.960 --> 29:25.120
+If I say yes and that I'm asked very, very difficult
+
+29:25.120 --> 29:28.160
+or in-depth question of CSS, then what will happen?
+
+29:28.160 --> 29:32.520
+So that thing, I always am not sure
+
+29:32.520 --> 29:35.760
+that how much in-depth knowledge you want or you
+
+29:35.760 --> 29:40.360
+need for a particular role, because that is very variable.
+
+29:40.360 --> 29:43.800
+So that was very, very.
+
+29:43.800 --> 29:46.640
+And I've seen in interviews, you are asked yourself
+
+29:46.640 --> 29:53.120
+to rate on some numbers, which I particularly find weird,
+
+29:53.120 --> 29:55.920
+because I am generally asked, out of 10,
+
+29:55.920 --> 29:57.400
+how much you rate yourself.
+
+29:57.400 --> 30:01.920
+So I don't know how, because even if you are reactive,
+
+30:01.920 --> 30:04.120
+you are not Dan Abramo, right?
+
+30:04.120 --> 30:06.160
+So you don't know everything.
+
+30:06.160 --> 30:09.960
+So you cannot tell you are above eight or nine.
+
+30:09.960 --> 30:11.400
+So yeah, that sometimes.
+
+30:11.400 --> 30:12.240
+But it's fine.
+
+30:12.240 --> 30:14.600
+I don't think that is any issue.
+
+30:14.600 --> 30:19.920
+That's just a way to see if you are confident enough.
+
+30:19.920 --> 30:20.920
+Yeah, I guess.
+
+30:20.920 --> 30:23.360
+Yeah, yeah.
+
+30:23.360 --> 30:28.920
+So just a pop quiz question.
+
+30:28.920 --> 30:31.240
+Would you rather start your own business
+
+30:31.240 --> 30:34.560
+or rather join a company?
+
+30:34.560 --> 30:40.560
+Yeah, this is actually a question
+
+30:40.560 --> 30:44.480
+that I actually don't have any right answer, at least
+
+30:44.480 --> 30:47.520
+for now, a little bit tricky for me.
+
+30:47.520 --> 30:53.760
+But I really want to start my own business.
+
+30:53.760 --> 30:59.720
+But the key is if I get the right idea or a product,
+
+30:59.720 --> 31:02.280
+that particularly I believe in.
+
+31:02.280 --> 31:06.480
+So if I want to do something and I
+
+31:06.480 --> 31:09.720
+reach to that particular stage where I can actually
+
+31:09.720 --> 31:13.600
+implement that, given that all the factors you need,
+
+31:13.600 --> 31:17.840
+so then definitely I would go for my startup or something.
+
+31:17.840 --> 31:22.520
+But apart from that, even anywhere I'm at,
+
+31:22.520 --> 31:27.120
+if my work, whatever I'm doing is valued,
+
+31:27.120 --> 31:30.480
+and if I'm satisfied at the end of the day,
+
+31:30.480 --> 31:33.520
+then I guess that is really cool.
+
+31:33.520 --> 31:34.680
+You are doing good at work.
+
+31:34.680 --> 31:38.160
+And life is also, apart from work,
+
+31:38.160 --> 31:40.680
+you want to do what you're passionate about, maybe
+
+31:40.680 --> 31:43.360
+some hobby or something that you do for fun.
+
+31:43.360 --> 31:46.920
+So that balance is also some people look for.
+
+31:46.920 --> 31:49.640
+That is totally depending on person to person.
+
+31:49.640 --> 31:54.640
+But I would like to also keep my hobbies as priority.
+
+31:54.640 --> 31:58.280
+So I don't want to be super, super workaholic.
+
+31:58.280 --> 32:02.520
+I also want to have the balance between both.
+
+32:02.520 --> 32:03.320
+That's good.
+
+32:03.320 --> 32:06.520
+And that leads nicely into the next question, which is,
+
+32:06.520 --> 32:12.560
+what do you like to do when you don't code or learn to code?
+
+32:12.560 --> 32:17.840
+So I would say I do different stuff.
+
+32:17.840 --> 32:21.840
+I just try experimenting different things.
+
+32:21.840 --> 32:27.120
+For example, sometimes I see my friends learning something.
+
+32:27.120 --> 32:29.320
+I just ask, from where you are learning?
+
+32:29.320 --> 32:33.160
+So recently, my friend was learning music and guitar
+
+32:33.160 --> 32:33.720
+and stuff.
+
+32:33.720 --> 32:36.040
+So I have an interest in singing.
+
+32:36.040 --> 32:37.200
+I'm not a good singer.
+
+32:37.200 --> 32:42.520
+But he explained me in more technical terms of music.
+
+32:42.520 --> 32:45.360
+So I have been into that.
+
+32:45.360 --> 32:47.680
+I love doing that.
+
+32:47.680 --> 32:51.520
+Also, from this new year, Jan, I decided
+
+32:51.520 --> 32:53.840
+I would focus more on my health as well.
+
+32:53.840 --> 32:57.040
+So I've been doing yoga and meditation
+
+32:57.040 --> 33:00.640
+and have continued that habit till now.
+
+33:00.640 --> 33:03.000
+So that is also a win for me.
+
+33:03.000 --> 33:07.760
+But I really enjoy doing yoga and all these things.
+
+33:07.760 --> 33:10.840
+A lot good for mental health and peace.
+
+33:10.840 --> 33:13.320
+So also for stretch and everything,
+
+33:13.320 --> 33:16.360
+I really feel energetic throughout the day.
+
+33:16.360 --> 33:21.840
+Apart from that, I'm having a very, not exactly hobby,
+
+33:21.840 --> 33:24.720
+but I love experimenting with my habits.
+
+33:24.720 --> 33:26.720
+So even small, small things, like you
+
+33:26.720 --> 33:30.280
+refrain from something for one week.
+
+33:30.280 --> 33:32.520
+Are you able to control yourself from doing that?
+
+33:32.520 --> 33:36.080
+It could be as simple as not watching TV.
+
+33:36.080 --> 33:37.040
+This is a habit, right?
+
+33:37.040 --> 33:40.280
+You are challenging yourself that, OK,
+
+33:40.280 --> 33:42.600
+I'm not going to do something.
+
+33:42.600 --> 33:45.560
+It is more towards that part.
+
+33:45.560 --> 33:52.480
+Are we not getting a lot much slaves of our own mind?
+
+33:52.480 --> 33:59.040
+So that is an exercise that I like doing whenever I like.
+
+33:59.040 --> 34:02.960
+So if you could recommend a single resource, that
+
+34:02.960 --> 34:07.440
+could be a book, a course, YouTube channel, a community,
+
+34:07.440 --> 34:10.520
+whatever, what would you recommend?
+
+34:13.480 --> 34:18.120
+So for a book, I'm not much into reading self-help books,
+
+34:18.120 --> 34:19.040
+first of all.
+
+34:19.040 --> 34:20.960
+But I have read Atomic Habits.
+
+34:20.960 --> 34:26.000
+So that was a really, really good book, if you implement.
+
+34:26.000 --> 34:28.280
+So whatever is said in that book,
+
+34:28.280 --> 34:32.920
+it has actually helped me a lot to think back
+
+34:32.920 --> 34:36.880
+and on what I'm currently doing, what my habits are.
+
+34:36.880 --> 34:39.720
+And that is where I have got this motivation
+
+34:39.720 --> 34:44.960
+to try out different stuff and improve our habits.
+
+34:44.960 --> 34:47.360
+So that is one book I would definitely
+
+34:47.360 --> 34:49.200
+recommend to implement.
+
+34:49.200 --> 34:53.640
+Apart from that, Neoji Camp Bootcamp
+
+34:53.640 --> 34:58.040
+is something that has changed my trajectory about the career.
+
+34:58.040 --> 35:02.440
+If I had not done that, if I had not got the community there
+
+35:02.440 --> 35:06.160
+and the friends and the mentorship, everything there,
+
+35:06.160 --> 35:11.160
+then I am not sure what I would have been doing.
+
+35:11.160 --> 35:13.960
+But yeah, it is sort of very close to my heart.
+
+35:13.960 --> 35:16.520
+And I am very indebted to that.
+
+35:16.520 --> 35:17.920
+So you can check that out.
+
+35:17.920 --> 35:23.600
+It is a very, very good cohort of learning web development.
+
+35:23.600 --> 35:26.520
+So yeah, that is what I strongly recommend.
+
+35:26.520 --> 35:29.520
+It is more about you learn together.
+
+35:29.520 --> 35:32.760
+And also, they help you in placements as well.
+
+35:32.760 --> 35:34.880
+If you intend to get a job, then they
+
+35:34.880 --> 35:36.400
+help you with that as well.
+
+35:36.400 --> 35:40.960
+So yeah, it has helped me a lot, so definitely.
+
+35:40.960 --> 35:46.000
+But else, resources-wise, I guess if we see properly,
+
+35:46.000 --> 35:47.640
+then we will find things around.
+
+35:47.640 --> 35:51.480
+Just being connected with the community,
+
+35:51.480 --> 35:53.480
+because people has a lot of stories to tell.
+
+35:53.480 --> 35:55.400
+So if you connect with someone today,
+
+35:55.400 --> 35:58.760
+that person will tell you his or her 10 resources.
+
+35:58.760 --> 36:01.280
+And then you know a lot of things,
+
+36:01.280 --> 36:04.960
+and then you can evaluate what fits best for you.
+
+36:04.960 --> 36:08.520
+But that information comes by communicating.
+
+36:08.520 --> 36:12.640
+So that is one thing that I would say as a resource,
+
+36:12.640 --> 36:13.920
+I would say.
+
+36:13.920 --> 36:17.440
+And apart from that, you asked about community.
+
+36:17.440 --> 36:20.040
+So I told about Discord groups.
+
+36:20.040 --> 36:21.320
+They are amazing.
+
+36:21.320 --> 36:24.800
+Whenever you want to hang out, you should.
+
+36:24.800 --> 36:27.600
+At least in the tech community, networking
+
+36:27.600 --> 36:30.200
+is a very, very crucial part.
+
+36:30.200 --> 36:34.280
+Because I have seen that directly applying
+
+36:34.280 --> 36:37.520
+at a company's portal versus getting a referral
+
+36:37.520 --> 36:42.600
+is a very big difference, and also not a referral.
+
+36:42.600 --> 36:45.000
+But you can at least ask the person,
+
+36:45.000 --> 36:46.760
+is the company really good?
+
+36:46.760 --> 36:49.080
+Is it fitting your requirements?
+
+36:49.080 --> 36:54.520
+So that's why networking is crucial in all different terms.
+
+36:54.520 --> 36:58.800
+And yeah, I have been attending and being involved
+
+36:58.800 --> 37:03.920
+with the meetup groups in my, like I have been involved
+
+37:03.920 --> 37:07.120
+with React, the technology that I am interested in.
+
+37:07.120 --> 37:11.600
+So there's React Bangalore, JavaScript Bangalore meetups.
+
+37:11.600 --> 37:14.320
+So these are the meetup groups that I have been involved.
+
+37:14.320 --> 37:16.480
+I've also given a couple of talks.
+
+37:16.480 --> 37:20.280
+But overall, what I focus is on learning.
+
+37:20.280 --> 37:26.520
+So yeah, tech meetup groups are definitely a place to go.
+
+37:26.520 --> 37:29.560
+Sometimes some Saturday when you are free,
+
+37:29.560 --> 37:34.880
+you should hop in to the live meetings, or talks,
+
+37:34.880 --> 37:37.560
+or workshops, whatever you like.
+
+37:37.560 --> 37:40.200
+Yeah, I 100% agree.
+
+37:40.200 --> 37:42.120
+Community is super important.
+
+37:45.800 --> 37:48.360
+So if you could nominate someone that you
+
+37:48.360 --> 37:51.080
+think I should speak to on this podcast,
+
+37:51.080 --> 37:52.840
+who would you nominate?
+
+37:52.840 --> 37:53.340
+Right.
+
+37:56.040 --> 37:59.440
+Yeah, first thing that I feel that you should definitely
+
+37:59.440 --> 38:01.480
+talk with is Sage.
+
+38:01.480 --> 38:05.200
+He is the creator of Chakra UI framework,
+
+38:05.200 --> 38:09.360
+which is a very popular front-end framework.
+
+38:09.360 --> 38:13.800
+So the reason, because I had been in the meetings
+
+38:13.800 --> 38:17.240
+previously when I was involved with Chakra UI actively,
+
+38:17.240 --> 38:21.440
+he is a very humble person and very knowledgeable, very expert
+
+38:21.440 --> 38:23.360
+in this domain.
+
+38:23.360 --> 38:27.440
+And I'm really inspired from what work he has put
+
+38:27.440 --> 38:31.440
+and what things he does for the community.
+
+38:31.440 --> 38:37.280
+So that is my nomination, if you would say that.
+
+38:37.280 --> 38:41.040
+But Sage is the person that I would say.
+
+38:41.040 --> 38:45.040
+Apart from that, Johnny Berger, I'm not sure you know him.
+
+38:45.040 --> 38:46.080
+I've seen him or not.
+
+38:46.080 --> 38:48.520
+But he is a creator of Remotion.
+
+38:48.520 --> 38:53.120
+And I have also made a couple of small contributions
+
+38:53.120 --> 38:54.960
+and have been on the Discord.
+
+38:54.960 --> 38:57.000
+So he's also a very passionate person
+
+38:57.000 --> 39:01.080
+about open source and overall.
+
+39:01.080 --> 39:03.720
+So yeah, definitely them.
+
+39:03.720 --> 39:11.760
+And if you want to talk more about student-centric or
+
+39:11.760 --> 39:15.000
+learner-centric side, so then I would
+
+39:15.000 --> 39:19.600
+recommend that you can talk with Tanay Pratap.
+
+39:19.600 --> 39:21.600
+He's the founder of Invact.
+
+39:21.600 --> 39:24.000
+And he was also involved with NeojiCamp.
+
+39:24.000 --> 39:26.560
+He used to help mentor us and teach us.
+
+39:26.560 --> 39:31.520
+So yeah, definitely he's an amazing person
+
+39:31.520 --> 39:33.440
+for the students.
+
+39:33.440 --> 39:38.600
+And yeah, this is really, this can
+
+39:38.600 --> 39:43.840
+be very helpful for anyone learning, getting started.
+
+39:43.840 --> 39:45.880
+Yeah, those sound all like great people.
+
+39:45.880 --> 39:48.360
+I'll definitely reach out to them.
+
+39:48.360 --> 39:53.960
+So before we wrap this up, please tell us about any projects
+
+39:53.960 --> 39:56.960
+you would like our audience to know about,
+
+39:56.960 --> 39:59.600
+any work opportunities you're open to,
+
+39:59.600 --> 40:06.480
+what kind you're interested in, and how people can contact you.
+
+40:06.480 --> 40:07.680
+Yeah, sure.
+
+40:07.680 --> 40:13.120
+So first thing, to be honest, I have
+
+40:13.120 --> 40:15.640
+done a couple of projects and all.
+
+40:15.640 --> 40:19.960
+But one project that has been very close to me
+
+40:19.960 --> 40:26.320
+was the one that I did in December.
+
+40:26.320 --> 40:27.800
+It was done in November.
+
+40:27.800 --> 40:32.440
+So basically, it is a mock backend
+
+40:32.440 --> 40:35.920
+for the front-end developers who are just
+
+40:35.920 --> 40:37.480
+learning and making projects.
+
+40:37.480 --> 40:39.960
+So it is just for learning purpose.
+
+40:39.960 --> 40:43.160
+But the thing is, if you are making an e-commerce
+
+40:43.160 --> 40:47.360
+application, so the problem is, if you just make the front-end,
+
+40:47.360 --> 40:51.280
+if we are making just front-end and putting just dummy data,
+
+40:51.280 --> 40:55.840
+then it is not making any use of the API call
+
+40:55.840 --> 40:58.720
+or the client server thing.
+
+40:58.720 --> 41:00.840
+Or if I want to do something complex,
+
+41:00.840 --> 41:04.720
+if I want to call different APIs in sequence,
+
+41:04.720 --> 41:08.160
+if I want to do something complex with the API calling,
+
+41:08.160 --> 41:10.680
+I want to show loading states, stuff like that.
+
+41:10.680 --> 41:12.600
+So how I will be able to do that?
+
+41:12.600 --> 41:16.240
+And if I'm not doing, then real work of a front-end person
+
+41:16.240 --> 41:20.240
+is not just making screens, but it is also
+
+41:20.240 --> 41:23.960
+about state management or data, how data will be loaded,
+
+41:23.960 --> 41:25.880
+and everything like that.
+
+41:25.880 --> 41:29.160
+So for that, I built mock me.
+
+41:29.160 --> 41:32.640
+So it gives different templates for different projects.
+
+41:32.640 --> 41:38.440
+So there are more than eight, nine templates are there.
+
+41:38.440 --> 41:42.360
+So for e-commerce or video library or social media
+
+41:42.360 --> 41:44.760
+and all, so people are really using them
+
+41:44.760 --> 41:47.080
+and finding it very helpful.
+
+41:47.080 --> 41:52.360
+So we also built what problem we realized with the library
+
+41:52.360 --> 41:54.960
+that we are using under mock me.
+
+41:54.960 --> 41:59.040
+So it is a Mirage.js-based project.
+
+41:59.040 --> 42:04.600
+So Mirage.js is a library for mocking the APIs.
+
+42:04.600 --> 42:09.760
+But the problem with Mirage.js is you cannot do stuff
+
+42:09.760 --> 42:12.440
+that you do with the real APIs.
+
+42:12.440 --> 42:15.320
+You can go to Postman or some tool
+
+42:15.320 --> 42:19.720
+and make the fetch call and see what is the response.
+
+42:19.720 --> 42:25.320
+That you cannot do with that interface is not available to you
+
+42:25.320 --> 42:29.080
+when you're doing with Mirage.js or the mock me sort of.
+
+42:29.080 --> 42:30.680
+Not going into much technicalities,
+
+42:30.680 --> 42:33.720
+but for this problem statement, we actually
+
+42:33.720 --> 42:37.160
+built another sister project called mock man.
+
+42:37.160 --> 42:40.400
+So basically, this is exactly same as Postman,
+
+42:40.400 --> 42:44.680
+but Postman are some, I guess, the different tools
+
+42:44.680 --> 42:46.600
+are available for API testing.
+
+42:46.600 --> 42:49.520
+So exactly same, but for mock APIs.
+
+42:49.520 --> 42:52.280
+So we built this for Mirage.js.
+
+42:52.280 --> 42:56.880
+So that particular project is powering more than 2,000
+
+42:56.880 --> 42:58.320
+active GitHub projects.
+
+42:58.320 --> 43:01.040
+And overall, these mock me and different templates
+
+43:01.040 --> 43:05.440
+are having, today, more than 18,000 downloads.
+
+43:05.440 --> 43:07.600
+So yeah, that is most impactful project.
+
+43:07.600 --> 43:10.440
+And people like DM me, put it on Twitter
+
+43:10.440 --> 43:12.960
+that they are getting jobs because they
+
+43:12.960 --> 43:15.040
+had it in their mock back end.
+
+43:15.040 --> 43:18.160
+Because the interviewer can see the projects they
+
+43:18.160 --> 43:20.080
+are having real functionality.
+
+43:20.080 --> 43:22.600
+So yeah, my project has been on back end,
+
+43:22.600 --> 43:25.760
+and it is helping people on the back end backstage side.
+
+43:25.760 --> 43:29.920
+So I'm very happy and proud about this project.
+
+43:29.920 --> 43:32.760
+But I really want to maintain it as well in the future.
+
+43:32.760 --> 43:33.840
+That's very cool.
+
+43:33.840 --> 43:36.880
+Yeah, thanks.
+
+43:36.880 --> 43:37.920
+Very, very nice.
+
+43:37.920 --> 43:41.880
+Well, thank you so much for joining me today, Saham.
+
+43:41.880 --> 43:44.560
+I really enjoyed the conversation.
+
+43:44.560 --> 43:47.560
+And I wish you all of the best for the future,
+
+43:47.560 --> 43:51.320
+and looking forward to see all the great things you build.
+
+43:51.320 --> 43:55.000
+Yeah, thank you so much once again for having me.
+
+43:55.000 --> 44:00.280
+It was really good, and good luck for the amazing things
+
+44:00.280 --> 44:01.720
+that you are doing for the community,
+
+44:01.720 --> 44:06.200
+and all hail Mycelium Network.
+
+44:06.200 --> 44:09.120
+Thank you for listening to this episode of the Mycelium Network
+
+44:09.120 --> 44:10.320
+podcast.
+
+44:10.320 --> 44:12.800
+If you're not already, please subscribe, star,
+
+44:12.800 --> 44:16.200
+and leave a review for us in your podcatcher of choice.
+
+44:16.200 --> 44:18.280
+This helps others find us and helps
+
+44:18.280 --> 44:22.080
+us make a better podcast for you on this course.
+
+44:22.080 --> 44:26.360
+You can also find and follow us on Twitter at networdmycelium,
+
+44:26.360 --> 44:28.480
+and join the community on Discord.
+
+44:28.480 --> 44:46.680
+All the links are available in the show notes.
+

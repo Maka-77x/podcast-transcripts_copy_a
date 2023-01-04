@@ -1,0 +1,1073 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage work developers
+and the mentors and teachers that help them along the way.
+Hey, Andrew.
+Thanks so much for joining me for today's podcast.
+How are you doing?
+Oh my goodness, I am doing fantastic.
+We've got a bright, sunshiny day out here on the west coast of Canada just before we
+move into our rainy season.
+So I'm having a good day, and I'm getting to talk to you too, which is a pretty fantastic
+way to start my weekend.
+Yeah, for sure, for sure.
+Yeah, the weather over here is also pretty decent.
+It's hot, and it's too soon to be this hot, but I think the weekend is looking pretty
+decent.
+So yeah, that's good.
+So I found you on Polywork, I'm really appreciative to Polywork because I had this idea, I thought
+I'd just put it out there and see if people were interested, and I was overwhelmed by
+the response, so much so that I've been finding it hard to keep up with getting back to people
+and saying like, oh my goodness, yeah, let's do this.
+So you're one of the first folks that reached out, actually, and I read a little bit about
+your background, and I thought this is perfect for the show.
+So I'm not going to speak about who you are because you know you are better than me.
+So I'm going to listen and I'm going to let you take as much time as you need, go as far
+back as you want to, and tell us your story.
+Oh, I don't know about that.
+You might have gotten more about me from the backgrounds that I sent in than I'm even going
+to remember today.
+But yeah, I mean, I guess I'll start with kind of where I am now and maybe go a little
+bit further backwards.
+So I'm an educator based here in British Columbia, Canada, so just on the west coast of Canada,
+the big focus around technology education and educational technologies.
+So I've worked in the middle school, high school, post-secondary levels, and sort of
+throughout the entire time that I've been in the world of education and the world of
+sort of training other people to do it, I've spent sort of my entire career also just exploring
+technology.
+I mean, I remember my first job post-graduation from a non-tech related tech related degree
+was to build a website for an organization that I was working for.
+And it was kind of my first taste of what this looked like professionally.
+Yeah, yeah.
+So technology enthusiast, really passionate about exploring ways to get people excited
+about technology and to look at alternative ways of teaching people technology.
+And I also work in the industry as a community manager for a really amazing company here
+in Canada called Battlesnake, and I'm sure I'll get a chance to talk about them a little
+bit later.
+Yeah, for sure.
+I definitely want you to talk about that.
+I saw that and I was like, what is this?
+This sounds really interesting.
+So it's kind of cool because so you're a teacher that also teaches teachers, which is like
+inception.
+That's really cool.
+So as you know, the whole idea behind this podcast and the community that I've started
+is all about helping early stage developers get into this industry in a welcoming, friendly
+way and help them identify by talking to them, but also by talking to teachers and mentors,
+find where is the missing pieces?
+What are things that's not working so that we can find ways of improving this so that
+the pain, the struggles that we might have gone through when we started, we don't have
+to repeat that for the next wave of folks getting into the industry.
+And I think one of the things that's also very important to me is to invite and include
+everybody irrespective of where you are in your career development and irrespective of
+where you live and irrespective of your gender, your background, your choice of how you identify
+yourself.
+Like I want this to be a welcoming place for everybody where they can feel they can talk
+openly and freely about what works and what doesn't celebrate their wins and celebrate
+the failures.
+So that is a lot.
+With all of that said, as a teacher who teaches teachers, but also teaches students, what
+advice do you have for both those bodies, I guess, anything that in your time spent
+doing this, anything that you have found that's like maybe not worked so well and that you
+found like, oh, these are better ways of addressing.
+So either speak to students or specifically to the industry in general.
+Yeah, I mean, this was it's so funny.
+So I got to say, first off, I absolutely love that mission, this idea of inclusiveness and
+accessibility to this world, even though technology industry is everywhere and almost every company
+is a technology company now, particularly on the developer side, I mean, around certainly
+in North America, but I think around the world, it is still historically a very dominated
+by a very specific population.
+And so any initiatives that can be done that will enable people that are not coming from
+that dominant culture to enter this space, I think is incredibly important.
+So huge kudos for the Mycelium Network podcast and the work that you're doing in this space.
+All right.
+Yeah.
+So and then answer your question.
+So it's interesting.
+So this was exactly what you're talking about and the exact reason behind Mycelium
+Network was actually one of the big pieces behind one of the initiatives that I'm most
+proud of that I helped to develop in sort of this technology education space, which
+was a program called High Tech U.
+So it was a it's a program based out of the University of Victoria, which is a fairly
+large research intensive university here in here in Victoria, British Columbia has a really
+spectacular software engineering and computer science program.
+But much like the rest of the world, not necessarily turning out the number of folks that need
+to be to be produced at a post secondary institutions to prepare them for for industry and in many
+ways turning out the same type of people that are dominating the industry right now, which
+is not necessarily that sort of perpetuation cycle that we're looking to do.
+So with this initiative, it was very specifically focused on the exact thing that Mycelium is
+is sort of really focused on, which is how can we how can we create a safe, accessible
+environment that will enable folks that didn't necessarily see themselves in technology to
+find their place in the industry, be it as somebody working in customer support or somebody
+that's working on on back end, but helping them find a place.
+And I can go into detail about kind of what that program looked like.
+But I think the biggest the biggest thing that that came out of that initiative and I ran
+it for for three years and built it up with a great team was kind of counterintuitive
+to get people excited about tech.
+It's less about the tech itself and more about the problems that that technology can
+solve and really just enabling people to gain an understanding of how they can use these
+free amazing resources that are out there to solve a problem for them and switching
+this world of you need to be the sort of glasses in your basement with the hoodie eating, eating
+nacho chips and drinking soda, which we all love to do.
+But that's kind of that archetypical computer scientist look right.
+And so, yeah, yeah, we really focus there on on switching to the problem solving and
+then getting people excited about tech and then sort of showing them the different gateways
+that are there.
+That sounds great.
+Yeah, I'm totally for the problem solving thing, because I think one of the challenges
+that I've heard over and over and over again, and I experienced it myself, if you if you
+are transitioning from one because I used to be a musician and then I found it hard
+to make a living.
+I got married and had a kid and so it was it was hard and I couldn't financially sustain
+us.
+I mean, thankfully, I had had parents that could help us.
+But you know, as as a twenty one, twenty two year old, you don't want your daddy to look
+off to you.
+You want be independent.
+Right.
+You're like her.
+So so I had to find some way of making money.
+And at that time, flash was still a big thing, and that was my like gateway drug into this
+because it allowed me to combine different things.
+Right.
+It allowed me because I was I was like, oh, I can do animation with this thing.
+That's cool.
+And I can use music because back in the day, like in the early 2000s, like 2000, 2001,
+it was pretty popular to have this little like fancy intro with animation and music
+and like stuff, and then you add a button there again to enter the website.
+So I ended up building quite a few of those like intros for clients.
+So that that allowed me to give creative expression to myself and still have this little connection
+to my musical career, but also start like getting into the texting.
+And so but with that said, it was still hard because even when I was freelancing, how do
+you get a client if you have no work to show?
+Right.
+So now you have to like try and create these like pseudo projects that don't really exist.
+It's not for anybody.
+You have to somehow get yourself inspired to do this thing, just to say that, oh, here's
+the thing I bought, it's not really for anybody, but you can kind of see my skills, right?
+But it's me by myself alone and get up in these things that didn't even exist back then.
+So it's like literally me putting it on a URL and pointing it to it.
+So it was hard.
+It was really tough.
+And then again, I realized that maybe freelancing isn't going to work.
+I struggled to build my business to a point where I felt like we as a family will be financially
+stable and so I decided to join the workforce.
+And that was tough because I've been doing it for like two, three years at that point,
+but I had very little experience to show for that because a lot of the things I did was
+literally make things for myself as a means of having like designing logos for fictitious
+companies and stuff like that.
+And so that's one of the things that I want to do as part of the Mycelium network is to
+anything that we do, like for example, the Mycelium network needs a website, right?
+So I want to do that with the community.
+I don't want to go and build it.
+I want to do it with the community and I want to do it like a for real project.
+You know, we have a project board on GitHub, we have tasks, people get assigned to tasks,
+people need to do full request reviews, people need to read each other's code, all that kind
+of stuff.
+And be involved in how do we take that thing and get it live on the internet.
+Because the awesome thing about GitHub is it's open and so you can point any potential
+employer to the work you've done.
+And the nice thing if you do it in this like, so it's great to contribute to open source
+in general.
+I think it's a good way to get experience in that kind of thing.
+But if you're involved in something that's run as a structured project, you also show
+the employer that you can work as part of a team.
+You can take criticism, deal with it, not give up, maybe push back even if you feel
+strongly about it and come to a consensus and land your work.
+I think that is a really good way.
+So I think the thing that you mentioned about high tech you and how you looked at specifically
+problem solving, I think that's key and I think it's a key thing that's missing.
+So I'm curious, what do you think about all of that?
+How did you address this whole thing of creating problems for people to solve, to have a means
+of signaling to employers what they're capable of?
+Absolutely.
+And you're totally right.
+I mean, there's so many courses that you can do out there.
+And if you look on, it's interesting if you go on to GitHub and you look for projects
+a lot of the time, right?
+You'll find these half finished repos of like a project that somebody had to do as part
+of this course and there's no documentation.
+It's obviously something they did and it's almost discouraging.
+But there is such power in that world of GitHub and open source and I'm super excited to
+chat like open source and how that plays in.
+But for us, one of the big pieces and it ties into the creativity piece as well is we spent,
+so the kind of core program that we ran was like a five day long, I call it kind of an
+extended hackathon for beginners.
+So instead of sort of coming in and giving a problem statement or giving like a theme,
+we would sort of have them come in and we would teach them the fundamentals that they
+needed to know and then just kind of put them out there in the world.
+And we brought in mentors from local technology companies who would basically just be there
+floating around.
+So whereas unlike that traditional hackathon that you go to where you might have that,
+but it's generally about tapping into the expertise that's in your team or in your
+friend group.
+This was the expectation that nobody was coming in with any knowledge and then the mentors
+were just kind of there and able to support when questions came up.
+But within the world of the problem solving and ensuring that this was something that's
+going to be valuable for the students, one of the big pieces of that onboarding process
+was actually having them gain an understanding of design thinking from like the very base
+level of going and finding a problem that is relevant to a user base.
+And the unique thing in that program was we had about 16 high school age students that
+were there from grade nine to 12 and we said, great, within this sort of like this captured
+user group, go talk to each other and see what problems you can find within this group
+of 16 youth.
+So you've got your target market is there.
+You're building something that solves a problem for young people.
+You're going to do the user research all within like this super fast like hour long
+period and then we're going to work with you to identify the thing that you can actually
+accomplish with your skill level in this sort of like three days fundamentally of programming.
+And so that was a really powerful thing within this model of the projects that they were
+creating is every project that they were creating, they could speak to like why this is an issue
+because they're the user for it.
+And even if they're not the perfect user, the super user, the early adopter, they're
+going to get it because they're in that headspace.
+That's super clever.
+I really, I haven't thought about that angle.
+That's really nice.
+Like essentially telling your community, hey, instead of me bringing a project to you, you
+can bring a project to me by talking to each other.
+That's really clever.
+I really like that.
+That's a nice one.
+And okay, cool.
+So you've kind of like opened the door to open source and you said that you'd be really
+keen to talk about it.
+And it was one of my questions.
+So let's dive into it right now.
+Why do you, how do you see open source?
+What role does it play in teaching and learning?
+So from both sides and it's a big topic.
+Oh my goodness.
+Yeah.
+I love big topic though.
+This is good.
+It has three directions.
+So I mean, in terms of, I mean, I can talk about my experience using it within sort of
+teaching environments and then also just personally, cause I'm, I'm sort of learning this web development
+experience.
+So, so from the teaching perspective, one of the really great things that I've found
+is the open source world has really invited new developers to get a deeper understanding
+of the technology that's out there and that they're using every day.
+Whereas in the past, again, very similar to this project idea, if you wanted to see what
+code looked like for a project, you would have to go and find somebody that had published
+on their personal website or on some other service, some fairly boring project that was
+maybe in a language that you weren't interested in to now the world where literally you're
+excited about, maybe you're excited about live streaming and you want to, you want to
+see like the code behind Twitch.
+Now not all of it is going to be exposed, but you can go and take a look and sort of
+see like, Hey, this is the stuff that's underlying this technology.
+So I think there's a level of playing to people's interests and allowing them to get
+exposed to programming through exploring areas and topics that they're passionate about.
+I mean, I teach, so I teach at a middle school level.
+So I deal with learners that are doing things on sort of Minecraft and mind test a lot.
+That's a big thing with the age group that I work with and the mod community in there
+is huge.
+And the cool thing is I have kids learning about open source without ever knowing the
+word open source.
+They go and search Minecraft mod that does this thing.
+They end up on GitHub.
+They pull the code down, they're reviewing it and just based on their interest level,
+they're going in and they're discovering sort of open source.
+And that's opening the door to saying like, this isn't this ethereal thing that I can't
+understand or I'll never be able to wrap my mind around.
+They're actually letting me in the door.
+So I think accessibility is huge there.
+I think for me personally, as a learner who's been going through the development process,
+what I love is I've always been the kind of person that if I did a course, like where
+I'm building something, I'm going to get to step three of seven and I'm going to be out.
+I'm going to be done.
+I'm like, ah, this isn't something that I'm really interested in.
+What I love doing and what I found really powerful about open source is actually being
+able to just go and grab somebody's code and then mess around with it.
+Like have a working piece of code and then to go in there and I'm going to change a
+variable or like alter a method and I'm going to see the issue and the change that that
+does in there.
+And that's like, it's been a super powerful part of my learning journey is having this
+massive resource to go and dig into code like that.
+Yeah.
+Yeah.
+For sure.
+I was just about to ask you, like, I wonder how effective it is to, for example, present
+and while this is not somebody that's beginning, beginning, but somebody that's like had a
+little bit of learning of HTML, CSS, and a bit of JavaScript to create like a super simple
+project, right?
+It's like, say for example, a mobile navigation, right?
+So it has a little hamburger menu.
+When you click it, it opens a thing.
+When you click it again, it closes it.
+And so it does a couple of things, you know, it like it acts, it reacts to the user.
+It changes the icon based on the state of the menu.
+And then to tell students, okay, here's the code that makes that happen.
+Can you look at it, read through the code and write a blog post explaining how it works?
+I've often thought if that would be an interesting approach for learners.
+100% and at every level.
+So for the high tech U program, we built out the Academy.
+That's exactly kind of what we did, not the blog post angle, but we would actually give
+them a template that was a functional template, but it was the most basic template, right?
+So in our first iteration, they were doing really simple web apps built on, I think Node
+or something like that.
+And it was just, it would basically spit out a thing that said, hello world.
+The most recent iteration, we did the same thing with the GitHub template, but it was
+a discord bot and you would sort of follow the steps and it would give it.
+But again, it was not the build part one, two, three, and eventually you'll get to
+a bot from day one.
+You had a functional thing and your role was to customize it, which was huge.
+And that kind of carries through even to the work that I do with Battlesnake.
+And so within that, it's a very open source company, very community focused, but because
+of the nature of what it is, the game itself requires you to build your own web server
+in a different language.
+And so we provide templates that are really dumb, dumb snakes that are competing in this
+game that will not die.
+They will do a thing, but it's not going to be super powerful.
+And what's interesting there as well, that's I think even more unique about what we're
+doing with that company is that let's say somebody is using a template and say Python
+and they've learned how the Python template works.
+And we've got a Go template or a Rust template.
+They can then go and say like, okay, I see how it was laid out in Python.
+I'm going to go over to Rust and see how it's laid out there.
+And you're going to gain this really practical understanding just by looking at those different
+templates that are accomplishing the same thing.
+And yeah, I think that the whole world, when GitHub did templates, they shifted the game
+in such a huge way for education.
+That is for sure.
+I've totally embraced that.
+I've got this project called Project Calavera and it's very intentionally titled that way
+because it's all about creating skeletons.
+And some of them are the main one, the Project Calavera, Project Calavera is a CLI that basically
+if you're starting a new project and so you want to add prettier, you want to add some
+ESLent rules, you want to add style and rules, maybe you're using SAS, so you want to add
+some SAS stuff.
+That's kind of cumbersome, right?
+Either after you create a template that you then every time fork or not fork, when you
+create a new repo, you create it from that template, or you need to copy and paste stuff
+from this GitHub repository you keep around with all your default configs.
+So the way this one works is you basically run a CLI command and then you have some configuration
+in your package JSON.
+And based on that, it'll just spit out all that stuff for you.
+And I take community input and I follow a bunch of projects that create these best practices
+for what is the latest, greatest way to configure your ESLent or your style and how to configure
+battle and stuff like that.
+So it doesn't do framework things because that's why it says it's like a boilerplate
+for new projects, bring your own framework, because I think frameworks oftentimes have
+this built into their own little CLI.
+So if you start up a new Vue project or you start up a new React project with one of these
+like boilerplate things like create React app or the Vue CLI, it does that.
+But there isn't something like that for somebody that's just like, oh, but I don't want to
+use any framework.
+I really, my needs are pretty simple, but I would like the linting and all that stuff
+there.
+But then the other side that the Project Calaverno project also contains are exactly these things.
+So it's a basic template of a simple express server.
+And so if you just want to create an express server, but you don't want to go and set up
+the app.js and the default basic routes that you'll probably need and helmet to configure
+security, you could just use the Calavera template and start your project from there.
+And so you kind of can get the ground running and can get going quicker.
+But at the same time, it introduces you to existing code.
+So you might say like, oh, this is cool.
+What's all these things that I just gave me?
+And so I work hard on documenting like, this is what it does.
+These are the things that brings in.
+This is what each of these individual dependencies do for you.
+But then people can go back and say, oh, you know what?
+Actually this thing, I don't even think it should be part of the template or I think
+this template is missing something or hey, I think you've got behind a little bit.
+I'm quite good at express and we can improve it this way.
+Or for new people, it's just, you can read through the code and say, oh, that is how
+when I enter localhost 3000, it's serving the index pages because I have this get route
+in this routes.js file.
+Ah, gotcha.
+Now I get it.
+So yeah, I think that template thing you talked about is definitely, definitely key.
+Absolutely.
+And I think the other thing that you brought up that's super key about why open source
+and maybe this is an open source since it really became a much larger thing in sort
+of the 2000s.
+But this idea of documentation, even like, even if you go through and do one of these
+online courses where it's telling you the thing and you do it, once you get the final
+project, generally it's not including like inline comments, right?
+Where you're actually like commenting on a method or commenting on a variable to say
+what this thing is for.
+I think as soon as you open up your code to the world, it's forced individuals that are
+either contributing or creating to do a much better job at documenting, same with companies.
+And that's such a powerful thing for educational situations, learning situations is to be able
+to go in and almost see line by line and it doesn't fit in every situation.
+But for so many people to be able to reference back there on a regular basis is such a huge,
+a huge piece.
+And I certainly know like the framework that I, so I had programmed in PHP many years ago
+and then heard it was terrible and moved away and then decided that I was going to build
+a project in it.
+But the framework that I chose, I chose specifically because the creator of it has incredible focus
+on documentation for it.
+So not only are the docs good, but like you can go into a controller, it's an MVC model.
+So it's like, you can go into the controller, you can go into like new view and they're
+all documented just incredibly well.
+So you don't need to guess about things.
+It's all provided for you.
+Yeah, I know for sure, I think Nuxt is the view version.
+I think Next is the react version, but either way, they let it say it's Nuxt.
+Like it's so very well-documented because it generates a bunch of boilerplates for you,
+right?
+So it generates like folders and inside the folders and stuff.
+And as you open each folder, there's a read me inside every folder that tells you what
+the purpose of this folder and what's the purpose of the files in this folder.
+So there's no guesswork here.
+It's like, oh, I see.
+That's what it is.
+And it will, for example, say like, oh, there isn't, you will say, but wait a minute, there
+isn't a store directory.
+And then you'll see there's a read me where you would expect there to be store dot read
+me.
+And you're like, open that.
+The reason there isn't a store is because Nuxt, this is the way the configuration works
+and it generates the store for you.
+So you never have to worry about the store and that is why it doesn't exist.
+I'm really impressed with their documentation.
+And I think the other side of documentation is opening it up to community for localization.
+I think I saw a documentary about Vue.js and the creator, Evan Yu.
+And one of the reasons Vue took off in China so much as opposed to React was literally
+because Evan is originally Chinese, he lives in the US.
+But for him, it was important to have the docs available in Chinese from the beginning.
+And so he opened it up to the community and he did some of the translation himself.
+And that is the main reason why Vue 1 overreact when it comes to China.
+Because for the people in China, it was very important to have it available in their language.
+And so that being there from the get go, over and above the fact that it was really good
+documentation, the fact that it was available in their language made a big difference.
+And the more I am involved in communities like Mercedes Network and other larger communities
+I'm also involved with, I have gained an understanding and a respect for a lot of people that really
+love their native language.
+And for them, it's not like I can't speak English.
+It is really like they have a passion for their language.
+They have a passion for their culture.
+And it's important to them to be able to read the content in their language.
+And we often forget that.
+It's in English.
+Everybody can speak English, right?
+Yeah.
+It's not just about that.
+There's more to it.
+There's more subtleties about it.
+So I think it's important to encourage that when you run projects.
+Absolutely.
+I couldn't agree more.
+I think we, yeah, it's the simple things that certainly as a native English speaker,
+I love going into these frameworks and these tools and looking at this code and finding
+it in my native language.
+And yeah, I think there's been a really big, maybe not resurgence, or I think a big push
+around the world with it really focusing more on making accessibility, not just about can
+people use this, but also can people use it in a way that they feel the most safe and
+comfortable.
+Exactly.
+Exactly.
+I think the term accessibility is getting a lot of attention and I'm really, really happy
+about that because that's one of the things that I'm really passionate about.
+But I think people have also understood that the umbrella that's covered by accessibility
+is much larger than what people have thought about in the past.
+But I am super curious about Battlesnake.
+And the more you talk about it, the more curious I get.
+So I'm going to like, please tell us more about Battlesnake.
+Awesome.
+Yeah.
+So Battlesnake is a multiplayer programming game where your code is the controller and
+you are building, basically, fundamentally, you're building a web server to compete in
+the classic sort of Nokia phone game Snake.
+Did you ever play that where you sort of the snake goes up and you try and eat and you
+get longer and you try not to die?
+Yep.
+Yep.
+Yeah, I played that a lot.
+Yeah.
+So it's that.
+But it's now a programming game where folks build out, I guess, at a core level, they're
+building out an AI snake that's going to compete against other AI snakes to try and win and
+survive and win prizes or win points or win bragging rights or whatever you're looking
+to get out of the platform.
+And so it started out, I think, in the early aughts of the 2000s as a sort of a recruiting
+event.
+So it was run by a startup here in Victoria, and they would invite hundreds and what eventually
+became thousands of developers to come in and basically do a hackathon, but all focused
+on one specific problem, which was, can you build a snake that can beat the other snakes?
+And it's since transformed into a global platform, more than 10,000 developers around the world
+are playing this game right now and really has shifted from a focus on recruiting to
+providing a really cool sandbox for professional developers to explore new technologies in
+a way that isn't having them just sort of build out a project that's kind of boring.
+Yeah, that's super cool.
+I wonder, I've been seeing like these, I haven't checked on them yet.
+I don't know why, but anyway, I've been seeing videos pop up in my YouTube recommendations
+that's around the Nokia snake thing, and now I'm starting to wonder, is this Battlesnake
+related?
+So I'm definitely going to click on one of those just after this chat and see if it's
+all about this.
+But I'm also going to look at Battlesnake and try and give it a go.
+So can you kind of create like a little community and say like, we're going to build the Mycelium
+network snake and see if it can like beat stuff?
+Yeah, so this is the cool thing.
+So this is a feature that's like very sort of early days.
+It's kind of, we've gone through many iterations, but yeah, so we're in the process of building
+out features where you would have a team and it would basically be, you would sign up for
+the Mycelium network team and then your snake would be represented as the Mycelium network
+there.
+But already, I think we just launched the feature really recently where you can run
+sort of a Mycelium network tournament where people will build their own snakes and go
+and build them and then you'll run sort of a small competition and it auto generates
+the brackets and the ladders.
+And so basically you just press a button that says play and it'll have these big, the games
+will show up and it's super exciting to watch.
+It's one of these situations that is as close to sort of a sporting event for competitive
+programming or for collaborative programming as you can possibly get.
+And it's good if you got to – our CEO, our co-founder has young kids and they love
+tuning in anytime we have a tournament.
+Because it's just bright colors and fun designs that are going around on the stage
+or around the screen.
+But they love it and they're cheering for their favorite snake and hoping that they
+win.
+And yeah, it's pretty amazing.
+That was very much like BattleBots, right?
+Exactly.
+I love watching that, where people like build these bots and then they try and destroy the
+other bot.
+Exactly, yeah.
+It's such a nerdy thing, but it's so fun.
+Totally.
+And that's just it.
+It is.
+And now, that was always for, right, you had to be an electrical engineer or mechanical
+engineer to build those bots.
+Now it's like you can be a software developer with a year of experience or one that has
+10 years of experience, and you can go and build this really cool thing that teaches
+you a new language or a new technology stack and really do it in a way that you're not
+just building a project that's going to sit in a repository somewhere and that nobody's
+going to care about.
+You're invested in this code that you've created in a way that it's personified.
+You can add custom skins to it, so you can have heads and tails that are from a big list
+of customizations, and you can get points to get more of them.
+Yeah, it's just so exciting.
+One of the big reasons that that has been super successful is A, open source.
+Almost all of the platform, all of the key components of it are open source.
+We have folks contributing to it all the time, but also community has been a massive, massive
+part of its success of just enabling the community to get in there and get their hands dirty
+with code.
+That's awesome.
+Yeah, I was about to ask about the open source thing, because I remember you mentioned that,
+and I was like, oh, wow.
+I guess there's quite a lot of opportunity for folks to also contribute directly to the
+project.
+Yeah.
+I mean, it's even gotten to the point where... We've had open source, and it's tying
+this back to the documentation piece.
+We've had a documentation repository forever that was really only managed by our team.
+We really always wanted community members to join, but then we had a bunch of community
+members that were like, I'd really like to see this in there, but I don't want to contribute
+to the official documentation, so they created a separate documentation that we provided
+support for, and now that's become our official documentation setup.
+It's a community-led project that we were like, yes, this is the thing that we really
+want to adopt.
+That's at this core level now, this code that is such a core piece of what we do is something
+that our community said, we can do it better.
+Yeah.
+Yeah.
+I mean, that is where diversity comes in, right?
+Often times, if you open it up to the world and say, poke at our stuff and tell us if
+you can think of better ways of doing it, more often than not, it does happen.
+I love the fact that the company was willing to embrace this, because so often, people
+are very precious about the things they make, if you know what I mean, and so they're like,
+no, no, no, no, no.
+They could not possibly be better than what we did, so kudos to the company for adopting
+this.
+I think it's amazing.
+I've had a little poke at your website and LinkedIn and stuff like that, and I'm curious
+about this one thing.
+You've written scholarly documents on quantum computing.
+Do you want to tell us about some of those?
+You have linked to these citations.
+I had a friend that worked at a quantum computing company for a little bit.
+I've listened to the WIRED thing, where they explain it to me like I'm five.
+I've listened to that, it's fascinating.
+I still don't think I quite understand it, but I would love to hear your take on it.
+Absolutely.
+Yeah, so when I was working with the team that built out the HITECH-U program at the
+University of Victoria, one of the co-founders and a huge mentor to me, Ulrika Staiga, she
+was the chair of the computer science department at the University of Victoria at the time,
+and her and her husband actually, who's also a professor at the University in Software
+Engineering, have been the quintessential leaders in the space of quantum computing
+education at the University of Victoria and actually arguably in British Columbia and
+Canada and North America.
+One of the key pieces when they were building out that sort of what quantum computing education
+looks like, which was at a focus on the post-secondary level, was we want to make this accessible
+for everybody because it's too late if they're in their postdocs to be learning about quantum
+computing.
+This is like a hugely up-and-coming field.
+So yeah, so the initial iteration was we create a play on words, so we did instead of HITECH-U,
+we called it HITECH-Q, and really focus just on how can we take the core components of
+quantum computing and make it accessible to a high school student.
+And so the first year that we ran the workshop, we had some partners from IBM, and we were
+able to get access to IBM's quantum computing, their actual quantum computer as well as their
+simulation software, and gave learners this run through.
+And what's really cool is the focus there was actually to build out a curriculum that
+again was open source for people to use, where we were testing the waters to see what this
+looked like at the high school level, and then we published a few papers to then say
+here's where you can go and do it yourself.
+Oh, brilliant.
+Yeah, that's great.
+I'll definitely close up, and I'm going to read them myself, that's for sure.
+Another thing that I found that you wrote on this Battlesnake blog actually is deploying
+web servers for free in 2022.
+I think this is a key piece that's often missing.
+A lot of people are like, okay, cool, I understand HTML and CSS, I think I'm starting to get
+my pictographs JavaScript, but how the heck do I get this on a website?
+It's cool, I get up, but I want my own URL and things, you want to talk about that a
+little bit?
+Oh yeah, absolutely.
+This is one of these interesting situations that I run into as the non-developer working
+for developers and doing things that newbies do.
+There's a really cool initiative that we run through Battlesnake called our Developer
+Fellowship, which is a program focused on providing support to women and non-binary
+developers from across Canada who just don't have access to either people or mentorship
+or resources.
+Remember that one of the big pieces, super cool initiative, we do it with a bank here
+in Canada called RBC who are just this spectacular partner for Battlesnake.
+One of the pieces of that was educational opportunities.
+I wanted to be able to go in with these developers that were joining and say, here's a bunch
+of ways that you can deploy a Battlesnake to learn a new technology.
+I spent a morning and I just went on all these platforms that I basically Googled, how can
+I do this really fast and for cheap, and then did a timing and then our CEO Brad was like,
+hey man, you need to do this as a legitimate blog post that you can share out more widely.
+That queued up a two month journey of me going and finding even more platforms and trying
+to build this out.
+It doesn't necessarily look that way in the final blog post, but we've got more.
+I deployed on about 12 different services and we were like, we're going to start with
+the five that we have here and then go from there.
+I don't know.
+I fully understand, I heard a famous quote once where a person said, it took me four
+hours to make a 10 minute video, so I totally understand.
+Absolutely.
+Yeah, and I mean the focus with this, for anybody that wants to read it, it's really
+cool if you go to blog.battlesnake.com, it's kind of linked on there.
+But basically my focus with this was for folks that are at my level or early stage developers
+that are not able to log into AWS and figure things out or they look at that and then they
+run away screaming, was to look and find accessible, and I know we're using that word a lot, but
+I mean accessible for the lay person or the new person to go in and within five minutes
+ideally get a functional web server out there from an open source GitHub template.
+And it's funny, so despite the fact that AWS and Azure and GCP kind of have the market
+share for like large companies that are doing it, there's a lot of these smaller companies
+that are coming out, especially now that Heroku has decided to remove their free plan in sort
+of September, October.
+There's more of these companies that are sort of releasing better free plans for people
+to get there.
+And so I got to do like massive shout out, there's a platform that is actually based
+here in Canada as well, actually here on the West Coast, that is I think fundamentally
+is a game changer in the open source deployment space called Railway.
+And it's the most beautiful and smoothest platform that I've ever used.
+They also include in their, when you're starting a new project with them, you can choose from
+a bunch of open source projects and when you click deploy, it goes through and reads everything,
+but it'll deploy the database, it'll deploy your server, it'll give you a public domain.
+It's all free for like 500 hours a month.
+So just like super, super cool.
+Wow.
+That is really impressive.
+Yeah, I'll definitely check that out.
+It's incredible the tooling that's becoming available, honestly, like the ability to just
+open your browser and like do everything.
+Like you don't have to even leave your browser.
+It's super amazing.
+I don't know if you know about the browser company, they make this browser called Arc.
+It's pretty new.
+It's pretty new and it's based on Chromium, but the experience is completely different.
+Like they're re-envisioning what a browser can be.
+And I actually had a talk from the CEO the other day about some of the dreams they have
+for Arc and he sees this is essentially this future where what he calls internet machines
+are going to become the thing.
+And it's very Chromebook-y in nature.
+It's this idea that Arc can be not just your browser, but it's your computer.
+Because if so many things that you think is application is actually just a web app that's
+running in Electron or something like that, where it's in the end of the day, it's actually
+just a browser.
+And so the idea is that Arc will open up those possibilities and make it like this thing
+that you just open up and you're like, okay, cool.
+Open up Arc and the rest of the day you're just marked.
+And like GitHub has done so much to do this, like getting around GitHub with their command
+palette.
+You just need command key on a Mac and it pops open and you're just like, okay, I want
+to go to this repo, boop, boop, I want to go to that one, command key.
+You don't even have to click.
+You can just use the keyboard to get around.
+You can move files, you can rename files.
+And then if you really want to do some intricate work, you just open a code space.
+Now you've got the entire VS code running in your browser with all it's synced with
+your local VS code so it brings in all your extensions and everything's there.
+And then you have services like Railway you talked about where you can just say, okay,
+cool, Railway, take all the stuff I just did and deploy it all, database and all.
+It's amazing.
+It is, and you know, there's another one similar to the code spaces.
+I don't know if you've heard of Gitpod, have you heard of them?
+I've heard about it.
+Yeah.
+Somebody mentioned it to me.
+I'm still alive.
+Look at that.
+Yeah.
+So it's the same idea as code spaces, but the entire platform, that's all they do is
+basically just do code spaces.
+But I've used both when I was setting up during that sort of blog post process, it literally
+like runs up a full, a full setup for you, including your in web browser in like, I don't
+know, it was like 20 seconds.
+It was ridiculously fast.
+And I was like, I don't know how you're doing this, especially when you're, this is free
+for a lot of the time, but also it's just so incredible.
+And it's funny because I've moved, I purchased a secondary device, it was a Chromebook and
+I've tried to set up local device or set up things on my local device and like use the
+backend sort of like Linux environment that it gives you.
+And yeah, I like, I ended up like, you run into so many issues that you're like, can
+I do this in the browser?
+And you can, and it's so much easier.
+You don't need to worry about where, where were your most recent commits if you didn't
+actually push it up to the, push it up to where you should have pushed it up at the
+time.
+It's just all there for you.
+And I think that's actually, that's a big, for new web developers, folks that are getting
+into the space, I think that's a game changer.
+This whole browser based setup, I have a, I have a colleague, I have a colleague that
+has been a software developer for years.
+And they, they said to me recently, you know, one of the biggest things that I do with folks
+that are getting involved in sort of a technology role, or they want to get in there is I will
+sit down with them for two to three hours and I will just like spend all that time to
+get them set up with the perfect development environment.
+Because if they have a terrible experience with getting their dev environment set up,
+they're going to walk away.
+And so making that process and getting rid of the, the, the, the barriers that exist
+there, I think is a huge game changer.
+Yeah.
+I'm finding with the people that I have in the community, I'm finding that people on
+windows machines are especially struggling with this.
+I mean, kudos to Microsoft for adding like windows subsystem for Linux and making that
+be more and more seamless.
+But even with that, it's still really hard.
+Like if you're not on a Mac or if you're not on Linux, Linux is still tricky, but much,
+much easier than windows.
+That's oftentimes what you end up doing most of your day is fighting with your tools.
+And that's the last thing you want to do.
+Even as a professional being in the industry for 10 years, 15 years, the last thing you
+want to do is wake up and fight with your tools.
+You want to solve problems.
+You want to be, you know, productive.
+You don't want to like, ah, I just can't do this thing because VS code is being weird
+or because for some reason, like MongoDB has just disappeared.
+Like suddenly I don't have MongoDB anymore.
+So I think these in browser things that also gives you this ability to create like these
+dev containers, like you can do in code spaces where basically you open it up and it's like,
+I'm just going to get everything ready for you because the creator of this code space
+has already told me what you will need.
+So I'm going to download all these extensions.
+I'm going to do all these configurations and you just open a file and start writing code.
+I think it's, it's definitely like you say, it's, it's a complete game changer.
+It's funny.
+So for the, for, for anybody that that's out there that is on windows, I'm a windows developer.
+I do it there.
+I struggled for years with this same thing.
+I found this brilliant piece of software, open source software again called Laragon.
+And so this is a kind of like a watered down or maybe not watered down based on my understanding
+of like a local Docker instance, but it's not that it's just an app that runs the web
+server.
+It's like a lamp or like WAMP, like those old, those old systems that you had set up,
+but but it's much more modern.
+You can, with the click of a button, you can install anything that you want to, even to
+the point of like publishing or, or getting your app up on ngrok, whereas normally you'd
+have to go through a bunch of steps in the command line.
+It's literally just like you right click on the app and then click deploy to the internet
+and then it'll just like spin up an ngrok URL for you that you're able to use.
+Just like it was a game changer for me when I discovered it.
+Oh, that's brilliant.
+Yeah, I'm definitely going to share that like with everybody.
+It almost feels like it's almost like, I don't know if you know set up, set up is this thing
+you get on, on Macs where you pay like $10 a month and then it's got all like these applications
+that solves all these little problems for you.
+It's often like indie developers and they've created like this little app that does this
+one thing really, really well.
+But there's also like big apps on there that you wouldn't even expect to be on there seeing
+that you only have $10 a month, but it almost feels like a set up, but for developers.
+And I think that would actually be super awesome if somebody can create something like that.
+That's cross platform where you literally say, well, I need a server that can run PHP.
+I need a MySQL database and I need a VS code thing and I need that.
+And it just goes cool.
+Here I go and there's everything for you.
+That would be amazing.
+So there's project ideas.
+I love that.
+Yeah, yeah.
+I mean, I totally feel the pain of all those Windows developers out there.
+And yeah, well, you're talking about having these, again, going back to the browser piece.
+Say what you want about folks that are not able to set up a local development environment
+and that may cause challenges for them later on in their career, but especially for early
+stage folks that are really just needing to get into the code and not fight and not know
+how to troubleshoot these things.
+I think there's going to be a big shift in certainly for junior devs especially.
+Yeah, I completely agree with that.
+So I want to cycle back into something different that's very, very different to what we've
+been talking about, but I think it's something to touch on.
+Seeing that you are kind of, and it's interesting because you're kind of like both sides of
+the coin.
+You've been involved with education, but you're also like a web developer still learning the
+craft and going through interviews and all that kind of good stuff.
+What are your thoughts around interviews, especially related to the tech industry?
+I think interviews are generally a challenging thing no matter what the industry, but I want
+us to kind of focus in on the tech industry.
+Do you have any thoughts around this topic?
+I know it's a bit of a hard topic, but anything you want to say?
+Yeah, so I mean, I guess I come to this from an interesting angle just because even the
+position that I have with Battlesnake, it wasn't necessarily an interview per se in
+the traditional way.
+So the interview that I actually had that kind of got me in there, and I think there's
+probably some piece of that that people can take away, was the work that I did with HiTechU.
+So the founder of Battlesnake, which is the company that I work for now, when we were
+first building up the program, we went and met with I think 30 different tech companies
+and said, hey, we've got this idea, what do you think about this?
+And it was generally just a fact-finding mission.
+And we went and met with this one company and they said, we love this idea, it's fantastic.
+How much money do you need to make it successful?
+And we threw out a number that was way too small and he said, add another zero and we'll
+make that happen.
+And so through that process, it was a lot of sort of them being really involved and
+seeing how I worked and the things that I was able to accomplish and to get an idea
+of who I was as sort of a worker and just a person.
+And then when the opportunity came that this position became open, it was sort of more
+of a conversation.
+So I think while this doesn't tie necessarily directly into the interview, one of the things
+that I will say is you never know where a job is going to come from, and you never know
+what is actually an interview that you don't realize.
+So anytime you're interacting with somebody in the technology industry, I would say from
+step one, from that cold email that you're sending them to the coffee that you're having
+with them, all of that is an interview process.
+And as somebody who has hired a lot of people that are in the technology space, I will also
+say, interviewing sucks for the interviewer.
+Interviewing is time consuming, interviewing is stressful, interviewing is oftentimes just
+not an area of focus for people.
+So employers really want you to be successful.
+They're not going into it like, despite the old view of sort of three people sitting on
+a panel across from you and them sort of challenging you to show that you're worth there.
+They want you to be successful.
+By the time you get into the interview, they already like you.
+It's your job just to sort of show them why and to demonstrate that.
+Yeah, does that kind of answer that question?
+Yeah, yeah.
+And I spoke to somebody during the week for a different recording, a different episode,
+and they said an interesting thing, which I kind of knew, but I forgot about the fact
+that that is actually the most important thing.
+The most important thing almost when you're in an interview is, yeah, sure, your tech
+skills is important.
+And some companies focus too heavily on that, especially when they have like all these crazy
+algorithms and stuff like that and the dreaded whiteboard challenges.
+But companies that take a different approach to this, a more healthier approach, generally
+what they want to understand is what value do you bring to the company?
+And that is what you have to focus on.
+If they hire you, how will it make their company better?
+I think that is what they really want, right?
+Like sure, they know they need another developer because there's a lot of work to do, but what
+is the value you bring?
+Is there like something in your background that's really unique?
+Do you have a unique perspective on the thing?
+And I think researching the company and therefore not just doing the thing where you just send
+out resumes to 200 companies and hoping somebody comes back to you, I think you have to instead
+like really go and do some research about companies that you would be interested in
+working for and find out what they're talking about, what they're blogging about.
+And if you have a unique idea, this is the time to bring it up.
+It's in that interview.
+Like, so I read this thing that you wrote and I really liked the idea, but I was thinking
+and I think blah, blah, blah.
+I think that is the conversations that's going to get you in the door more than just your
+technical skills by itself.
+Absolutely.
+I would say like it's always that last question that is asked by every interviewer everywhere
+in the world, which is, do you have any questions for us, which is actually like the one that's
+going to like land you in that job or could just be a thing that you miss out on?
+It's such a huge opportunity, especially if you're going in and your questions are only
+around what's the salary like or like what's the like some very low level or just surface
+level piece.
+You're actually digging in and being like, so yeah, I saw this post and like, how did
+you decide that that was the way that you were going to pursue?
+Like opening the conversation, right?
+It shows that you're interested in what they're doing.
+I couldn't agree more.
+I think there's huge power in a question that seems like it's just a filler.
+Yeah, for sure.
+I think that's super important and I think people have the wrong perception of that question.
+That question isn't just asked.
+I think that question is asked deliberately to see if you have the confidence to ask questions
+because I think a lot of people are like, oh, I don't want to waste their time.
+No, people actually want you.
+That's critical.
+I know I've interviewed people for positions and I've almost always had a much better feeling
+about candidates that had insightful questions and not about how much money or working hours,
+but more stuff about the culture of the company.
+How do you work together as a team?
+What are the goals for the company in the next six months?
+And then when you tell them the things you can about all these things to have follow-ups,
+to actually actively listen and then have follow-up questions in the moment.
+What we're talking now, a lot of this is not rehearsed.
+I say a thing, you teal from that, I teal from that.
+I think that is what really gets you in because that creates a human connection with the interviewer.
+So it becomes less of an interviewer-interviewee and it becomes a conversation between two
+people that just want to make the company succeed.
+I think that is something that people forget.
+Absolutely.
+Right?
+I mean, at the end of the day, people that are interviewing, they're interviewing to
+see if you're a good fit with the team.
+While that causes, I think, some challenges because in a lot of cases, that means that
+you end up hiring a lot of people that look the same or think the same way.
+Going into it, recognizing that really people are wanting to know who you are as a person
+and not necessarily the things that you've done in the past.
+It's more about who you are and traits, right?
+I think, I mean, we talked about problem solving, but things like coachability and teachability
+and passion for curiosity, if somebody sparks within their conversation that they love learning,
+that is more powerful to me than if they can solve the most complex problem because there
+will always be a more complex problem.
+If you're only worried about being able to demonstrate you can solve it, that's only
+going to get you so far.
+Yeah.
+That's for sure.
+That's for sure.
+Yeah.
+I agree.
+I think we're an hour in.
+Wow.
+I can't believe it.
+I think I just have maybe one or two more things and then if you have anything also.
+Talking about when you're not making awesome battle snakes or writing blog posts, what
+are the things that interest you in this world outside of maybe even outside of tech?
+I know for a lot of people when you ask that question, they're like, I still do tech stuff
+for my free time.
+And that's totally fine.
+What do you like to do when you're not on the job?
+Yeah.
+So I'm kind of there.
+I'm trying to get away from it.
+So I guess I've come to the tech industry through a lot of like windy, wavy processes
+and experiences.
+So what's interesting is I really only within the past sort of I would say five years have
+I really been in the technology space.
+So much of my time up until then was the thing I would do in my spare time was tech stuff.
+And now I'm kind of getting paid for doing tech related things.
+And so I still do tech stuff in my spare time.
+But thankfully, my lovely wife is definitely not that person.
+She is definitely the outdoor person who enjoys like experience in the world where we live
+in British Columbia and on Vancouver Island specifically is absolutely gorgeous.
+So we are one of the things that's a big thing for us is hiking.
+So we hike and I say this and may regret it, but we hike religiously.
+And it's just because it happens on Sundays.
+We do it every Sunday.
+We'll drive.
+We'll hike for a couple of hours.
+And it's such a getting back to like grounding yourself on a weekly basis, especially when
+you're sitting and staring at a computer screen for many, many hours a day is such a such a
+powerful thing.
+And then, yeah, right.
+And like, what about you?
+What about you?
+What do you do in the non in the non tech related time shelf?
+Pretty much a lot of the same, to be honest, we don't have a ton of hiking things we used
+to do it and then we kind of like fellow with COVID and stuff like that.
+We kind of like lost that but we're trying to get back.
+The problem is we have pets that we'd like to take on a hike.
+And in South Africa, it's kind of hard to find places that's bed friendly, like if you
+have a dog that you want to take with stuff like that.
+So we're currently like actually researching and trying to find places that is dog friendly
+because we do enjoy that as a family.
+So that's something that we'd like to do again.
+But we have a golf course close to us.
+And they kind of have a walking path there.
+And that's dog friendly.
+So that's something that we do like in the week, like maybe you just feel like I need
+an hour's break and just the kids we take the dogs and we just could take a walk.
+And it's it's it's amazing what it does to your mental health.
+Just taking that break.
+Absolutely.
+Yeah.
+And then I guess the other the other thing that the tech the tech fun thing that I do.
+So so when I was going through teachers college and I did my master's in education as well,
+and it was specifically focused on sort of like alternative educational assessment of
+sort of like reimagining what the report card is and how it can help learners.
+And so when I initially developed it, it was sort of a it was like a form.
+It was like a rubric.
+And then I built as part of my my thesis, I ended up building sort of a Google Google
+Apps app, like basically using the Google Sheets and just sort of building a pseudo
+database in the background.
+And then when I was done, I went and pitched it to the school that I'd been working with.
+And they said, could it have this function?
+Could you turn it into a web app?
+And that was a dangerous thing to say, because while I said no, initially, then I was like,
+could I?
+I don't know how to do this, but could I?
+And and and now like a year later, I'm still actively working on it, like in every spare
+moment that I have.
+I have that exact same problem.
+I constantly maybe I start working at one thing and then I'm like, what if I can do
+that?
+I can't.
+Oh, cool.
+And then, oh, but if I can do that, I wonder if I can do that.
+And before you know it, it's like three hours later.
+And there's like, thing that maybe was at one purpose can now do all these different
+things.
+And I think that is just that's just the natural curiosity that that is part of the industry.
+I so agree.
+I feel like that I was talking to somebody yesterday who's a professional software developer
+and they were saying the same thing of like, you can do anything like what?
+That's the very cool thing about tech is almost anything you can imagine you can do.
+The question is, should you should you do it?
+But also, like being able to like time box yourself, right?
+Put yourself in this time period.
+But yeah, like this app, this app started out very simple.
+And then as I learn, as you learn more and you discover the features and you actually
+start to understand how things work, you're like, OK, I can do this.
+But you're just like you said, it's like you're like, I'm going to do this in a half an hour.
+Four hours later, as you're like sweating because your problem solving is like not getting
+you to the place you need to go.
+Again, I'm very glad I have a non sort of tech wife like my partner is just like enjoys
+can use computers very well, but is not the developer.
+And she's like, you need to walk away from this.
+You need to go.
+And we need to go for that.
+Like, no, for sure, that's super important to have that balance.
+It's good if you have somebody that can like literally drag you away from the left and
+say, that's enough now.
+It's brilliant.
+So in closing, is there anything else you'd like to share with us?
+Any like putting words, words of wisdom, anything that you'd like to share?
+Yeah, so I think my my only words of wisdom that I can provide and this comes from experience
+and from talking to a lot of people, be curious, be focused on learning and growing a growth
+mindset will bring you farther in not only the technology industry, but any industry.
+It's going to make you a massively valuable asset that keeps growing.
+And it's going to help you to discover things that you didn't even know about yourself.
+And in terms of that growth mindset, don't just let it be about things that you can do.
+Let it be about internal growth as well and discovering who you are and things that you
+enjoy.
+Technology is spectacular, and it can help you do a lot of things for others.
+But really take time to focus on yourself and discover, learn more about yourself and
+take time there as well.
+So grow outwards and also grow inwards.
+That is super valuable advice.
+Thanks for sharing that.
+Well, thank you, Andrew.
+This was this was really great.
+I mean, it's been added for over an hour and it surely doesn't feel like it.
+Thanks so much for taking time on your Friday to speak with me and share all this wonderful
+information with our community.
+I really, really appreciate it.
+Amazing.
+And thank you so much for having me.
+And thank you to Polywork for having a place that makes these opportunities available.
+I think the work that you're doing at Mycelium Network and the community you're building,
+this is exactly what the world needs right now, making technology accessible for everybody.
+And so thank you so much for having me.
+I cannot tell you how much I appreciate it.
+You're so welcome.
+And thanks for the kind words.
+I really appreciate it.
+Have a good day, man.
+Cheers.
+All right, you too.
+Bye bye.
+Thank you for listening to this episode of the Mycelium Network podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at networkmycelium and join the community
+on Discord.
+All the links are available in the show notes.

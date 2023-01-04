@@ -1,0 +1,1688 @@
+WEBVTT
+
+00:00.000 --> 00:06.680
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+
+00:06.680 --> 00:09.600
+and the mentors and teachers that help them along the way.
+
+00:09.600 --> 00:10.600
+Hey, Vinyl.
+
+00:10.600 --> 00:12.520
+Welcome to the Mycelium Network Podcast.
+
+00:12.520 --> 00:15.680
+Thanks so much for joining me.
+
+00:15.680 --> 00:17.560
+Thank you very much for having me.
+
+00:17.560 --> 00:19.240
+It's a pleasure.
+
+00:19.240 --> 00:23.960
+So in the past, I'm learning podcasting as I make these.
+
+00:23.960 --> 00:26.400
+I think it's kind of like how code works, right?
+
+00:26.400 --> 00:29.280
+You learn it as you make things.
+
+00:29.280 --> 00:34.200
+And so in the beginning, I used to always kind of read people's bio out.
+
+00:34.200 --> 00:36.960
+And I thought, nah, that's so been done a million times.
+
+00:36.960 --> 00:38.080
+I want to do something else.
+
+00:38.080 --> 00:44.300
+So what I basically want to do is keep quiet and let you talk.
+
+00:44.300 --> 00:48.200
+So you can go as far back as you want.
+
+00:48.200 --> 00:53.520
+But basically tell us about your story, like who is Vinyl and how did you get to where
+
+00:53.520 --> 00:54.520
+you are today?
+
+00:54.520 --> 00:55.520
+Where are you today?
+
+00:55.520 --> 01:01.000
+And maybe even some things that you are looking forward to in the future?
+
+01:01.000 --> 01:02.000
+Yeah, certainly.
+
+01:02.000 --> 01:05.760
+Oh, gosh, where to start, though?
+
+01:05.760 --> 01:08.200
+Well, I guess I'll start with my name.
+
+01:08.200 --> 01:10.800
+Hi, my name is Vinyl Daigu.
+
+01:10.800 --> 01:20.720
+I am a web developer and web documentation writer for MDN Web Docs as well as Open Web
+
+01:20.720 --> 01:21.720
+Docs.
+
+01:21.720 --> 01:27.880
+Fun fact, I actually started off with a multimedia background not a lot of people know.
+
+01:27.880 --> 01:34.360
+Actually never really got my coding experience from college or any traditional education.
+
+01:34.360 --> 01:41.880
+It was mostly just me playing around my own time with a wonderful private coding tutor.
+
+01:41.880 --> 01:45.680
+And well, here I am now.
+
+01:45.680 --> 01:56.760
+So my background started with doing mostly After Effects type stuff, so film color grading,
+
+01:56.760 --> 02:00.560
+doing animation for big film industries and stuff.
+
+02:00.560 --> 02:07.940
+Not like 3D, more of the 2D visual effects, like adding particles to some sort of wizardry
+
+02:07.940 --> 02:10.480
+show or something like that.
+
+02:10.480 --> 02:17.960
+Also started with doing music as well, like writing soundtracks and orchestral type stuff.
+
+02:17.960 --> 02:18.960
+Oh, wow.
+
+02:18.960 --> 02:19.960
+That is amazing.
+
+02:19.960 --> 02:20.960
+Thank you.
+
+02:20.960 --> 02:21.960
+Is any of that stuff available online?
+
+02:21.960 --> 02:29.440
+Yeah, I've got all of the music that I have written is available on my SoundCloud at soundcloud.com
+
+02:29.440 --> 02:31.840
+slash Queen Guborg.
+
+02:31.840 --> 02:38.080
+It is also available on my YouTube, including my animation works at youtube.com slash Queen
+
+02:38.080 --> 02:43.480
+Guborg, or you can search up my name, Vinyl Daigyu Kazutetsu, and you will find me.
+
+02:43.480 --> 02:44.480
+Oh, awesome.
+
+02:44.480 --> 02:45.480
+I'll share these links.
+
+02:45.480 --> 02:46.920
+I'm really curious about this.
+
+02:46.920 --> 02:48.400
+I'd love to listen to it.
+
+02:48.400 --> 02:51.840
+So talking about that, you do have a very unique name.
+
+02:51.840 --> 02:56.180
+Like I said, it kind of makes me think of artists like Grimes and people like that.
+
+02:56.180 --> 02:57.960
+What is the story behind the name?
+
+02:57.960 --> 03:04.160
+So the first part about it, the vinyl part, mostly comes from the musical experience,
+
+03:04.160 --> 03:06.120
+as I mentioned.
+
+03:06.120 --> 03:12.520
+Most people think that I'm referring to me being like a disc jockey or a DJ, but that's
+
+03:12.520 --> 03:15.680
+not really the same thing as somebody that writes music.
+
+03:15.680 --> 03:20.160
+A DJ is somebody that's mixing existing songs together.
+
+03:20.160 --> 03:25.280
+But I thought about it and the name kind of stuck, so I'm like, eh, vinyl, let's keep
+
+03:25.280 --> 03:26.280
+it.
+
+03:26.280 --> 03:27.280
+That's a very cool name.
+
+03:27.280 --> 03:28.280
+I really like it.
+
+03:28.280 --> 03:32.800
+In preparation for the conversation, I dug through some of your tweets, and I looked
+
+03:32.800 --> 03:37.160
+at some of the websites that you've made and the things you've written, and we've worked
+
+03:37.160 --> 03:38.160
+together.
+
+03:38.160 --> 03:44.400
+Truth be told, we work together almost on a daily basis on MDN and related projects.
+
+03:44.400 --> 03:49.760
+So I also know some things about how you work and the things you do through that, and there's
+
+03:49.760 --> 03:52.280
+some stuff there that I'd like to ask you about a bit later on.
+
+03:52.280 --> 03:57.240
+But before we get to that, I saw a retweet of yours that kind of struck me as well, and
+
+03:57.240 --> 04:00.520
+I know you retweeted it because it struck a chord with you as well.
+
+04:00.520 --> 04:04.600
+The tweet features a graphic, and there's these words that say, the reason why some
+
+04:04.600 --> 04:09.960
+people are so kind is because the world has been so unkind to them, that they don't want
+
+04:09.960 --> 04:14.160
+other people to feel the way they did.
+
+04:14.160 --> 04:17.800
+And for me, I do wish there was more kindness in the world.
+
+04:17.800 --> 04:21.440
+And I think in the last two, three years, everything that's happened in the world and
+
+04:21.440 --> 04:28.880
+continues to happen, there's a feeling of cynicism that is set into a lot of people.
+
+04:28.880 --> 04:30.680
+And it's sad.
+
+04:30.680 --> 04:31.680
+It's hard.
+
+04:31.680 --> 04:36.960
+I mean, I sometimes go through that myself, which I guess is human, but sometimes more
+
+04:36.960 --> 04:46.200
+than I'd like, to always try to find something to make me not give up, essentially.
+
+04:46.200 --> 04:55.680
+But I'd like to hear why that phrase, why that tweet had an impact on you.
+
+04:55.680 --> 05:05.920
+It definitely struck a chord with me, that particular image, and going through the...
+
+05:05.920 --> 05:12.360
+I guess trying to do so many different things, as I have done in the past with the music,
+
+05:12.360 --> 05:16.840
+the animation, trying to get my fingers into so many different things, I've learned all
+
+05:16.840 --> 05:22.920
+about these different communities, how they work, how they operate, the good, and unfortunately,
+
+05:22.920 --> 05:23.920
+the bad as well.
+
+05:23.920 --> 05:29.640
+And I've had a lot of negative experiences in the past with others who have different
+
+05:29.640 --> 05:36.400
+ideas, different mindsets, and quite frankly, different ideas about how to behave towards
+
+05:36.400 --> 05:38.200
+others as well.
+
+05:38.200 --> 05:44.040
+I've been the center of a lot of hate for many different things, one, being a furry,
+
+05:44.040 --> 05:51.920
+two, being transgender, three, just for having my own ideas.
+
+05:51.920 --> 05:57.740
+So I want to be one of those individuals in the world that is not like that.
+
+05:57.740 --> 06:03.440
+I want to be one of the good souls in this world, because I believe that the more that
+
+06:03.440 --> 06:09.960
+we give to help others, the more good we will receive ourselves, and the better the world
+
+06:09.960 --> 06:10.960
+will be.
+
+06:10.960 --> 06:11.960
+Yeah.
+
+06:11.960 --> 06:15.560
+And you're doing a good job at that, by the way.
+
+06:15.560 --> 06:19.800
+I can acknowledge that for one, having worked with you closely.
+
+06:19.800 --> 06:27.960
+So going down the same path and getting a bit more specific maybe, maybe a bit broader,
+
+06:27.960 --> 06:33.880
+I think we can all acknowledge that there are problems in the tech industry.
+
+06:33.880 --> 06:39.040
+Some have gotten better, but it's also maybe not entirely unique to the tech industry.
+
+06:39.040 --> 06:45.400
+Maybe it's more of just the way we work problem, but I personally can only speak to what I've
+
+06:45.400 --> 06:50.560
+experienced, so that is tech, and that is kind of the topic of the podcast and the audience.
+
+06:50.560 --> 06:55.520
+So why do you see as some of the biggest problems in technology, and do you feel free to be
+
+06:55.520 --> 06:58.480
+as broad or narrow as you want?
+
+06:58.480 --> 07:05.320
+I think probably one of the biggest issues that I face on a daily basis is educating
+
+07:05.320 --> 07:11.840
+those to what is available out there for them in terms of technology.
+
+07:11.840 --> 07:18.960
+One of the things I do on the side is computer repair, and as a part of that, a lot of my
+
+07:18.960 --> 07:24.600
+job ends up being teaching others how to use their computer in the first place, or what
+
+07:24.600 --> 07:30.840
+the difference between Google Chrome and Microsoft Edge is, or heck, even the difference between
+
+07:30.840 --> 07:33.400
+left and right mouse click.
+
+07:33.400 --> 07:42.040
+I think that there needs to be more programs out there to teach individuals how to use
+
+07:42.040 --> 07:48.600
+a computer, what a computer is, how it works, also how to avoid scams that are on the computer,
+
+07:48.600 --> 07:53.400
+because the people that don't know how to use a computer as much are the ones that get
+
+07:53.400 --> 07:57.640
+targeted the most, because they don't understand these differences, and I think it would be
+
+07:57.640 --> 08:05.440
+pretty great to see some more government-funded programs and stuff to educate their citizens
+
+08:05.440 --> 08:12.600
+on the 21st century, basically.
+
+08:12.600 --> 08:19.760
+It's kind of strange that if you think about it from a narrow perspective, like somebody
+
+08:19.760 --> 08:25.560
+that's in the tech industry, you completely forget about the fact that there are a lot
+
+08:25.560 --> 08:31.040
+of people that don't know how to use the basic things about a computer.
+
+08:31.040 --> 08:35.680
+One often hears that if you ask somebody, like, what is the internet, they'll tell
+
+08:35.680 --> 08:41.920
+you Facebook, or they'll tell you Google, and that's their concept, that's their understanding
+
+08:41.920 --> 08:43.360
+of what the internet is.
+
+08:43.360 --> 08:49.680
+They don't understand that there's so much more to it than just those two service providers
+
+08:49.680 --> 08:55.280
+or big corporate companies, and then of course, just like you said, the very, very basics
+
+08:55.280 --> 08:59.280
+of, okay, I keep my computers on, now what do I do with this thing?
+
+08:59.280 --> 09:01.680
+A lot of people don't know.
+
+09:01.680 --> 09:06.480
+I think with early-stage web developers, that is the same thing.
+
+09:06.480 --> 09:10.800
+I think once you get to a certain point, you can kind of figure stuff out yourself, and
+
+09:10.800 --> 09:15.000
+you kind of get to know where to find the answers that you're looking for.
+
+09:15.000 --> 09:21.600
+But if you're completely new, I'm not sure we're doing a really good job there of onboarding
+
+09:21.600 --> 09:22.600
+folks.
+
+09:22.600 --> 09:30.320
+I agree with that, and it's quite a challenge to figure out how to write these guides for
+
+09:30.320 --> 09:37.400
+these beginners as well, because us being so experienced with technology and the different
+
+09:37.400 --> 09:42.320
+technologies that are available to us, like being an expert in the field, there are things
+
+09:42.320 --> 09:50.600
+that we just know instinctively at this point, and we kind of forget what people need to
+
+09:50.600 --> 09:58.320
+be taught in that same sense, what they need to learn before they get to the more advanced
+
+09:58.320 --> 09:59.320
+levels.
+
+09:59.320 --> 10:00.320
+Yeah, for sure.
+
+10:00.320 --> 10:07.480
+Like the Massey network, part of, well, I guess the core function or the core reason
+
+10:07.480 --> 10:14.360
+that exists is basically to try and solve this by talking to exactly those people and
+
+10:14.360 --> 10:16.800
+asking them, like, what are your pain points?
+
+10:16.800 --> 10:17.800
+Why?
+
+10:17.800 --> 10:20.380
+Where do you get frustrated?
+
+10:20.380 --> 10:23.880
+And so it's not just understanding why you're getting into tech, but okay, now that you're
+
+10:23.880 --> 10:27.000
+trying to get into it, what is the roadblocks you're facing?
+
+10:27.000 --> 10:31.280
+And oftentimes you think it might be stuff like work experience, and that is definitely
+
+10:31.280 --> 10:36.760
+a problem, or like interviews, or how do I find a job?
+
+10:36.760 --> 10:43.160
+But oftentimes it's more like, no, it's not that, it's, I don't know where to begin, or
+
+10:43.160 --> 10:48.080
+I've started, but now I'm kind of stuck at this point and there's so much information
+
+10:48.080 --> 10:51.080
+and I don't know where to go from here.
+
+10:51.080 --> 10:56.480
+And I kind of end up spinning my wheels and getting a bit demotivated.
+
+10:56.480 --> 11:01.160
+So yeah, I do think there's room here for curation.
+
+11:01.160 --> 11:03.280
+That is what I've learned.
+
+11:03.280 --> 11:06.400
+Not so much creating new content necessarily.
+
+11:06.400 --> 11:12.160
+I think places like MDN and that do a great job of it, but the curation is maybe with
+
+11:12.160 --> 11:13.160
+the missing piece.
+
+11:13.160 --> 11:14.160
+I agree.
+
+11:14.160 --> 11:18.680
+So staying with tweets, another one that caught my eyes is this meme that you tweeted where
+
+11:18.680 --> 11:24.480
+you said like, when explaining to non-developers what you do, this is like a meme that you
+
+11:24.480 --> 11:25.480
+use.
+
+11:25.480 --> 11:27.560
+I found that very interesting.
+
+11:27.560 --> 11:30.760
+Can you maybe, seeing this as a podcast, people can't see the visual, I'll link to it, of
+
+11:30.760 --> 11:36.960
+course, but can you maybe explain the tweet a little bit and like how you use that to
+
+11:36.960 --> 11:40.200
+explain to people what it is you do?
+
+11:40.200 --> 11:41.920
+Yeah, certainly.
+
+11:41.920 --> 11:46.920
+So I always had thought about the big brain, bigger brain, biggest brain meme that you're
+
+11:46.920 --> 11:48.640
+referring to.
+
+11:48.640 --> 11:56.840
+And a lot of times in the past when I tried to explain what I do to others, they wouldn't
+
+11:56.840 --> 12:05.480
+really understand the difference between doing the web development itself versus documenting
+
+12:05.480 --> 12:12.220
+how to write websites and what are the technologies available in these browsers.
+
+12:12.220 --> 12:20.520
+So I always like referred to that meme whenever I would talk about it and say like, it is
+
+12:20.520 --> 12:27.480
+web development related, but what we are doing here at MDN Web Docs is a step beyond that
+
+12:27.480 --> 12:33.280
+because we are teaching others how to write websites, not necessarily writing our own
+
+12:33.280 --> 12:34.280
+websites.
+
+12:34.280 --> 12:39.960
+And I mean, I do do web development still, like I have my own personal website, I have
+
+12:39.960 --> 12:46.200
+the one for my company, I do contract web development for other companies as well.
+
+12:46.200 --> 12:53.440
+But when it comes to what I am contracted to do for MDN Web Docs and Open Web Docs,
+
+12:53.440 --> 13:00.040
+it's not really much to do with the web development itself, more so the teaching others how to
+
+13:00.040 --> 13:01.040
+do it.
+
+13:01.040 --> 13:02.040
+Okay, that's cool.
+
+13:02.040 --> 13:07.000
+Yeah, I think that that is that could be a tricky subject to explain and to really get
+
+13:07.000 --> 13:08.000
+across.
+
+13:08.000 --> 13:10.880
+But I think you did a good job of doing that just now.
+
+13:10.880 --> 13:12.800
+So thank you.
+
+13:12.800 --> 13:19.200
+I still have one one of my family members still thinks that when I say browser compatibility
+
+13:19.200 --> 13:26.900
+data, and I'm talking about the MDN BCD project, they still think to this day, that I am referring
+
+13:26.900 --> 13:34.240
+to writing cross browser compatible websites, and every single time I have to explain, no,
+
+13:34.240 --> 13:41.120
+I'm documenting what web browsers support what features so others are able to do that.
+
+13:41.120 --> 13:42.120
+Yeah.
+
+13:42.120 --> 13:47.280
+So I had this question phrased a little differently in the doc, but now having talked, I'm thinking
+
+13:47.280 --> 13:49.320
+about the phrase a little different.
+
+13:49.320 --> 13:54.560
+You've mentioned that, that, like, you didn't do the traditional like on ramp to getting
+
+13:54.560 --> 14:04.000
+into tech and you come from like a music slash art slash animation background, which I mean,
+
+14:04.000 --> 14:09.280
+if I had a penny for the number of people who've come to take from musicianship, I'd
+
+14:09.280 --> 14:11.600
+be a very rich man at this point.
+
+14:11.600 --> 14:18.200
+Because I myself was a classical guitarist before I got into tech.
+
+14:18.200 --> 14:23.880
+But at some point, you decided that, you know what, I think I'm going to switch to software
+
+14:23.880 --> 14:29.680
+documentation as a career, which is also interesting because not directly web development necessary
+
+14:29.680 --> 14:34.040
+as a career, but documenting the web as you just explained.
+
+14:34.040 --> 14:35.560
+What was it about this stuff?
+
+14:35.560 --> 14:36.640
+Why documentation?
+
+14:36.640 --> 14:42.600
+Why did that get you really excited and make you change careers?
+
+14:42.600 --> 14:50.040
+So I think one of the biggest things, it's kind of in different stages, if I had to say.
+
+14:50.040 --> 14:56.960
+The first stage was attempting to pursue a traditional education for music production
+
+14:56.960 --> 15:00.040
+and music composition and stuff.
+
+15:00.040 --> 15:03.320
+I took college courses for it.
+
+15:03.320 --> 15:07.200
+Honestly speaking, I think that was one of the biggest mistakes that I have made in my
+
+15:07.200 --> 15:14.000
+life, particularly because I don't know if other colleges do this, but for the one that
+
+15:14.000 --> 15:21.640
+I was doing and the classes that I was attending, they were pushing more for quantity and really
+
+15:21.640 --> 15:27.520
+trying to push you to write song after song after song after song.
+
+15:27.520 --> 15:32.680
+That led to pretty much burning me out permanently.
+
+15:32.680 --> 15:40.120
+I was putting so many ideas down in such a short amount of time, it was like two months,
+
+15:40.120 --> 15:45.160
+three months, and I had written maybe 20, maybe 30 different pieces.
+
+15:45.160 --> 15:51.120
+At that point, I was just burnt out and I couldn't think about any other ideas for my
+
+15:51.120 --> 15:55.200
+own projects, for anyone else's projects.
+
+15:55.200 --> 16:02.320
+So after that, I kind of put that to halt and started focusing more on the animation
+
+16:02.320 --> 16:10.160
+side of things, so the music visualizers, the light shows type stuff.
+
+16:10.160 --> 16:17.520
+That was pretty fun, but I was quickly getting frustrated with my computer crashing a bunch
+
+16:17.520 --> 16:23.200
+on me and the software crashing and taking so long to render because I was doing all
+
+16:23.200 --> 16:28.840
+this complicated stuff, the computer was like, whoa, there, I got to process this.
+
+16:28.840 --> 16:36.360
+Really considering the fact I was rendering out 4K videos and 4K at 60 frames a second
+
+16:36.360 --> 16:38.720
+before anybody else on YouTube did.
+
+16:38.720 --> 16:44.520
+Most people were still doing the standard full HD 1080p at 30 frames a second.
+
+16:44.520 --> 16:50.760
+Me, I wanted to get a head start on the future of videos and stuff, especially because I
+
+16:50.760 --> 16:57.360
+noticed that rendering it out in 4K, there's a lot more information for the computer to
+
+16:57.360 --> 17:02.920
+downscale to 1080p and the images would look a lot crisper, they'd look a lot smoother
+
+17:02.920 --> 17:05.760
+and stuff.
+
+17:05.760 --> 17:13.040
+But after a while, I was doing that and I was doing the visualizers for a EDM promotional
+
+17:13.040 --> 17:19.800
+channel on YouTube, which that was going pretty good for quite some time.
+
+17:19.800 --> 17:26.420
+But unfortunately, as I started to get more and more of a bigger role in that, turns out
+
+17:26.420 --> 17:36.200
+my interests in music don't really align with the majority of EDM listeners' preferences,
+
+17:36.200 --> 17:43.280
+so it ended up causing the channel to lose subscriptions and stuff and then people started
+
+17:43.280 --> 17:47.440
+hating me for that and eventually I was like, okay, you know what?
+
+17:47.440 --> 17:53.620
+I give up on this, I'm done, I'm gonna go ahead and move on to something that's probably
+
+17:53.620 --> 17:56.840
+a little bad for my skillset.
+
+17:56.840 --> 18:02.160
+So I was looking around for software development stuff, for web development things.
+
+18:02.160 --> 18:09.340
+I stumbled across the BCD project and saw that I was looking for some help, so I started
+
+18:09.340 --> 18:12.960
+to do some pull requests for it, really get into that.
+
+18:12.960 --> 18:19.280
+Eventually I started enjoying it more and more until that became like my full-time project,
+
+18:19.280 --> 18:23.080
+like I was working on that almost 24-7.
+
+18:23.080 --> 18:32.320
+In the end, I grew in a heavy appreciation for documenting the World Wide Web and creating
+
+18:32.320 --> 18:39.760
+resources for others to learn upon, and something clicked in me at that time.
+
+18:39.760 --> 18:46.800
+I thought, hey, this is really awesome, being able to provide resources for others to improve
+
+18:46.800 --> 18:47.800
+their stuff.
+
+18:47.800 --> 18:52.480
+This is really amazing and a wonderful goal and I want to be a part of that.
+
+18:52.480 --> 18:55.200
+I want to help improve the world for the better.
+
+18:55.200 --> 18:59.680
+Yeah, those are all great missions to have.
+
+18:59.680 --> 19:03.440
+I share the same thing, that's for sure.
+
+19:03.440 --> 19:06.520
+So that is super interesting.
+
+19:06.520 --> 19:16.600
+So how do you counteract or try and prevent burnout in this new career?
+
+19:16.600 --> 19:24.880
+The reason I asked that is because working with you, you're super productive.
+
+19:24.880 --> 19:29.760
+You get things done really fast and really well.
+
+19:29.760 --> 19:35.680
+So is this just pure enthusiasm, or do you have specific techniques you can share with
+
+19:35.680 --> 19:36.680
+everybody?
+
+19:36.680 --> 19:41.400
+And then how do you ensure that you don't burn out in this new career?
+
+19:41.400 --> 19:43.680
+First of all, it means a lot to me to hear those words.
+
+19:43.680 --> 19:47.320
+I really appreciate hearing that.
+
+19:47.320 --> 19:54.520
+I would say probably one of the most helpful things is not just working on a single project
+
+19:54.520 --> 19:56.040
+all the time.
+
+19:56.040 --> 20:01.000
+Because if you're doing the exact same thing over and over and over again, eventually it's
+
+20:01.000 --> 20:04.280
+going to wear you out, you're going to get tired of it, you're going to get sick of it,
+
+20:04.280 --> 20:08.160
+and if you continue, you're eventually going to get completely burnt out.
+
+20:08.160 --> 20:13.120
+So for me, what I do is I switch between different projects a lot.
+
+20:13.120 --> 20:19.160
+I'm still sticking with mostly the projects within the MDN Web Docs repositories and stuff,
+
+20:19.160 --> 20:25.360
+but I'm working on the BCD project, I'm working on some content eventually, then I'm working
+
+20:25.360 --> 20:32.800
+on the core engine for MDN Web Docs, and then I'm working on one of the aspects for the
+
+20:32.800 --> 20:37.360
+interactive examples that you see, and then switching back and forth between them, then
+
+20:37.360 --> 20:41.520
+spending some time on my own personal projects like my company website.
+
+20:41.520 --> 20:48.640
+So I think probably the most helpful thing is not sticking to just one thing at a time,
+
+20:48.640 --> 20:53.560
+but switching between them and trying different things.
+
+20:53.560 --> 21:01.640
+So that way you're always switching to something new, something fresh, and keeping the cycle
+
+21:01.640 --> 21:02.640
+of fresh content.
+
+21:02.640 --> 21:04.120
+Yeah, makes sense.
+
+21:04.120 --> 21:12.040
+I also think that's one of the reasons I like the idea of open source.
+
+21:12.040 --> 21:18.720
+One of many is this freedom to move between projects and also your own stuff, scratching
+
+21:18.720 --> 21:21.440
+your own itch and all that.
+
+21:21.440 --> 21:27.600
+Because I did do the corporate thing in the beginning of my career, and that was not a
+
+21:27.600 --> 21:30.440
+good fit for me at all.
+
+21:30.440 --> 21:39.360
+Getting up every day to build some back-end administrative console for some big mobile
+
+21:39.360 --> 21:45.720
+company was just like, there's nothing here that means anything to me.
+
+21:45.720 --> 21:53.160
+And then the working environment, like the company culture, was not great, so that doesn't
+
+21:53.160 --> 21:54.160
+help.
+
+21:54.160 --> 21:56.320
+You don't even have the people that you stay for.
+
+21:56.320 --> 22:01.800
+So yeah, when I got into open source and when I started contracting with Mozilla about 11
+
+22:01.800 --> 22:11.560
+years ago, I saw a whole new world for sure, and I can't see myself moving out of that
+
+22:11.560 --> 22:14.720
+world ever, ever again.
+
+22:14.720 --> 22:15.720
+So I get that.
+
+22:15.720 --> 22:18.280
+I think of what they say, variety is the spice of life.
+
+22:18.280 --> 22:24.920
+So I guess it's very true when it comes to coding as well and preventing burnout.
+
+22:24.920 --> 22:31.440
+So that leads me to one question, and I'm going to push that one down the road a little
+
+22:31.440 --> 22:34.560
+bit and just step back a little.
+
+22:34.560 --> 22:39.560
+You gave some advice that I think is very good, where it's like, don't spend all your
+
+22:39.560 --> 22:43.560
+time on a single thing, try different things because that keeps things interesting.
+
+22:43.560 --> 22:50.040
+But beyond that, is there any advice you can share for early-stage web developers that's
+
+22:50.040 --> 22:51.040
+starting their journey?
+
+22:51.040 --> 22:58.280
+In this, to be honest, fast-paced industry, I'm sorry, I'm going a little bit over the
+
+22:58.280 --> 23:01.960
+place with my brain keeps thinking things that you said that I wanted to get back to.
+
+23:01.960 --> 23:06.120
+Because the stuff that you talked about with the music industry, I think that industry
+
+23:06.120 --> 23:08.260
+is rough.
+
+23:08.260 --> 23:12.960
+I think it's very, very, very demanding.
+
+23:12.960 --> 23:15.920
+And I think it's because it's become like a kind of sausage factory.
+
+23:15.920 --> 23:21.680
+It just has to keep pumping out more and more and more, and the faster the better, the more
+
+23:21.680 --> 23:24.440
+money there is to do.
+
+23:24.440 --> 23:29.520
+And I think that's one of the things I like more about open source versus corporate environments,
+
+23:29.520 --> 23:34.960
+is that because there's more meaning to the work, I think people take a little bit more
+
+23:34.960 --> 23:40.880
+time to consider how they do things and whether they should do things.
+
+23:40.880 --> 23:47.760
+But yeah, coming back to what I wanted to ask you is, what advice do you have for early-stage
+
+23:47.760 --> 23:50.720
+web developers that's just getting into this industry?
+
+23:50.720 --> 23:53.800
+That's a really good question.
+
+23:53.800 --> 24:00.080
+I would have to say one of the most impactful statements of advice that I would give to
+
+24:00.080 --> 24:05.560
+an early web developer is don't give up.
+
+24:05.560 --> 24:11.280
+As an early programmer, as an early software developer or web developer, you're going to
+
+24:11.280 --> 24:14.240
+run into issues left and right.
+
+24:14.240 --> 24:18.160
+There's always going to be some problem that's going to arise and you're going to have to
+
+24:18.160 --> 24:20.200
+solve it.
+
+24:20.200 --> 24:28.720
+I believe that failure is not the end, but rather a path to success and a learning experience.
+
+24:28.720 --> 24:36.680
+So if something's got you stumped, don't give up, maybe take a step back for a little
+
+24:36.680 --> 24:39.360
+bit and then come back to it with fresh eyes.
+
+24:39.360 --> 24:44.600
+Or if you're really stumped, there's so many great resources online, like Stack Overflow,
+
+24:44.600 --> 24:45.600
+for example.
+
+24:45.600 --> 24:50.120
+You can ask basically any software development question and there are so many people who
+
+24:50.120 --> 24:54.080
+will jump right onto the question and answer it for you.
+
+24:54.080 --> 24:59.120
+Or most likely, if you're having an issue, your question has already been answered and
+
+24:59.120 --> 25:06.640
+there are existing Stack Overflow or Reddit posts that answer the question with so many
+
+25:06.640 --> 25:11.840
+different users giving really wonderful advice on those platforms.
+
+25:11.840 --> 25:18.040
+So don't get discouraged, don't give up, keep pushing forward and you will reach your
+
+25:18.040 --> 25:19.040
+goals eventually.
+
+25:19.040 --> 25:24.520
+So interesting you mentioned Reddit, I'm slowly using it again.
+
+25:24.520 --> 25:26.080
+How do you find Reddit as a platform?
+
+25:26.080 --> 25:32.440
+Do you find it like being inviting and good for tech in general, but then also maybe new
+
+25:32.440 --> 25:33.920
+folks?
+
+25:33.920 --> 25:38.520
+I would say it depends on which communities on Reddit you go to.
+
+25:38.520 --> 25:44.600
+There are some pretty amazing communities that are on Reddit that are actually really
+
+25:44.600 --> 25:47.200
+inviting and welcoming.
+
+25:47.200 --> 25:54.160
+And then there's the ones that are kind of like, oh, you're a person, well, screw you,
+
+25:54.160 --> 26:00.360
+you're a crap stain on society.
+
+26:00.360 --> 26:08.360
+I think just like anywhere on the internet, I would say, it depends on where you go.
+
+26:08.360 --> 26:13.840
+There are going to be the bad apples out there, but there's also a lot of good apples if you
+
+26:13.840 --> 26:14.840
+look in the right places.
+
+26:14.840 --> 26:18.200
+Yeah, do you have any subreddits that you can recommend?
+
+26:18.200 --> 26:25.800
+That's a good question, r slash JavaScript, I guess, would be one.
+
+26:25.800 --> 26:31.080
+I don't really go on Reddit that much myself, but most of the time that I go on Reddit is
+
+26:31.080 --> 26:35.720
+when I'm Google searching something and that's what comes up in the Google search results.
+
+26:35.720 --> 26:40.720
+Yeah, it shows you how different our search results are tailored based on our usage, because
+
+26:40.720 --> 26:44.360
+I always never get Reddit in my search results when I search for stuff.
+
+26:44.360 --> 26:51.600
+So I think r slash Python, so yeah, r slash Python.
+
+26:51.600 --> 26:56.960
+Hot topic, like or dislike TypeScript and how early do you think web developer should start
+
+26:56.960 --> 26:58.480
+paying attention to it?
+
+26:58.480 --> 27:02.080
+Oh, this is a definitely a hot take.
+
+27:02.080 --> 27:07.040
+I personally despise JavaScript, not JavaScript.
+
+27:07.040 --> 27:09.200
+I personally despise TypeScript.
+
+27:09.200 --> 27:17.040
+I like the concept behind it of having type checking for all of your variables to make
+
+27:17.040 --> 27:23.320
+sure that you're sending nothing but exactly the types of inputs that you want and preparing
+
+27:23.320 --> 27:24.320
+for those.
+
+27:24.320 --> 27:32.360
+However, I think that there is a lot with TypeScript that really needs to be overhauled
+
+27:32.360 --> 27:41.320
+and fixed and seeing the development stages for TypeScript or really any of the Microsoft
+
+27:41.320 --> 27:45.840
+owned projects, I highly doubt that they're ever really going to get fixed.
+
+27:45.840 --> 27:53.280
+What I would personally like to see is a TypeScript alternative, like a new project that introduces
+
+27:53.280 --> 27:59.360
+the same things that TypeScript does, but in a much better developer friendly way.
+
+27:59.360 --> 28:04.000
+Yeah, so I don't know if I dreamt this or if this is a thing, but I've mentioned it
+
+28:04.000 --> 28:05.440
+to somebody else as well.
+
+28:05.440 --> 28:10.400
+I heard that Microsoft made a proposal to bring types to JavaScript.
+
+28:10.400 --> 28:12.920
+Does that ring a bell?
+
+28:12.920 --> 28:17.720
+I have not heard about this.
+
+28:17.720 --> 28:21.760
+The tricky thing, of course, with anything you want to do to JavaScript is you have to
+
+28:21.760 --> 28:23.820
+always make sure it's backwards compatible.
+
+28:23.820 --> 28:30.120
+You can't just turn JavaScript into a typed language because 90% of the internet will
+
+28:30.120 --> 28:32.800
+break.
+
+28:32.800 --> 28:40.520
+I don't know if they want to do this in the form of annotations or exactly what, and maybe
+
+28:40.520 --> 28:44.360
+this is something I thought I heard and I didn't, but I'm pretty sure that there was
+
+28:44.360 --> 28:52.080
+this talk that Microsoft has proposed this to TC39 and that it's in discussion about
+
+28:52.080 --> 28:55.200
+whether that's a good idea.
+
+28:55.200 --> 29:02.740
+I spoke to somebody earlier today and it'll have to be really well thought out.
+
+29:02.740 --> 29:07.080
+Maybe this is the opportunity that you're mentioning to rethink how it's done and do
+
+29:07.080 --> 29:10.160
+it better.
+
+29:10.160 --> 29:19.240
+I do worry about if this would present a barrier to people new to the web because currently
+
+29:19.240 --> 29:25.320
+while making a website isn't the most complicated thing, it's not easy either, especially if
+
+29:25.320 --> 29:27.800
+you want to do it well.
+
+29:27.800 --> 29:33.680
+I think all the technologies are really approachable and you can get quite far even if you don't
+
+29:33.680 --> 29:36.320
+know all the ins and outs of it.
+
+29:36.320 --> 29:45.760
+I don't know if bringing typing to JavaScript would cause a bigger barrier to entry.
+
+29:45.760 --> 29:55.360
+I see that there is a Microsoft dev blog post about this proposal from March 9th and what
+
+29:55.360 --> 30:02.320
+I'm seeing here, if I'm reading this correctly, is that it would be bringing type definitions
+
+30:02.320 --> 30:08.800
+to JavaScript but not necessarily require the type definitions.
+
+30:08.800 --> 30:14.800
+If that's the case, then I would be for this because I think that one of the biggest barriers
+
+30:14.800 --> 30:20.520
+with TypeScript itself is the fact that you have to go all or nothing with TypeScript.
+
+30:20.520 --> 30:28.560
+You either do all type checking or you don't bother with TypeScript at all.
+
+30:28.560 --> 30:35.560
+If JavaScript is kept backwards compatible in this sense where you can specify types
+
+30:35.560 --> 30:42.000
+as you desire rather than having to specify all of the different types, then I think that
+
+30:42.000 --> 30:48.240
+this proposal would actually be pretty helpful for the future of the World Wide Web.
+
+30:48.240 --> 30:49.240
+That's cool.
+
+30:49.240 --> 30:50.720
+That's an interesting take.
+
+30:50.720 --> 30:57.640
+Like I said, I think maybe this is that opportunity where they can do it, they can improve and
+
+30:57.640 --> 31:04.060
+take all the learnings that they've had with TypeScript because I have a love-age relationship
+
+31:04.060 --> 31:05.720
+with it.
+
+31:05.720 --> 31:12.400
+When you don't have to fight it, it's super useful, but I do find that oftentimes I feel
+
+31:12.400 --> 31:19.920
+like I could have done something much, much faster if I didn't have to fight TypeScript.
+
+31:19.920 --> 31:24.520
+That is especially true when it comes to DOM elements.
+
+31:24.520 --> 31:28.320
+TypeScript don't seem to play very well with these things.
+
+31:28.320 --> 31:32.120
+If you have an event and it's like it could be a button but it could also have come from
+
+31:32.120 --> 31:36.680
+a link or it could have come from this, then typing starts to get pretty tricky.
+
+31:36.680 --> 31:41.760
+Sometimes it throws up the weirdest errors about stuff like, oh, this thing could potentially
+
+31:41.760 --> 31:48.560
+be null, but it's like, yeah, I guess, but I know that it never will be or this piece
+
+31:48.560 --> 31:54.360
+of code wouldn't have run at all.
+
+31:54.360 --> 31:57.920
+I definitely have a love-age relationship with it.
+
+31:57.920 --> 32:03.000
+My personal opinion around that always has been I can see the value of it when you're
+
+32:03.000 --> 32:04.600
+writing an API.
+
+32:04.600 --> 32:10.280
+I'm not so sold on it when you just use it for good old front-end development.
+
+32:10.280 --> 32:13.840
+I'm not sure how much value it adds there.
+
+32:13.840 --> 32:14.840
+I agree.
+
+32:14.840 --> 32:19.520
+This was the exact same response that I had given to one of my old contracts when they
+
+32:19.520 --> 32:25.080
+had asked if they should migrate over to TypeScript for their front-end.
+
+32:25.080 --> 32:30.600
+They were asking me what I thought the upsides and downsides would be for it.
+
+32:30.600 --> 32:33.720
+My response was pretty much exactly the same.
+
+32:33.720 --> 32:37.280
+There's no real reason to migrate your front-end to TypeScript.
+
+32:37.280 --> 32:40.040
+The back-end, yeah, totally.
+
+32:40.040 --> 32:44.500
+It actually does provide some benefits for the back-end, but the front-end, just leave
+
+32:44.500 --> 32:45.760
+it as pure JavaScript.
+
+32:45.760 --> 32:46.760
+Yeah.
+
+32:46.760 --> 32:50.960
+I think we're talking the same language there for sure.
+
+32:50.960 --> 32:54.960
+You've alluded to this before, but I want to bring it up.
+
+32:54.960 --> 33:00.080
+You are the founder of Guborg Studios, and when I looked into it a little more, I learned
+
+33:00.080 --> 33:05.400
+about Gufont and GooIcons, and the GooIcons are really cool.
+
+33:05.400 --> 33:07.140
+I really like them a lot.
+
+33:07.140 --> 33:13.720
+Can you tell us a little bit more about Guborg Studios and then these other two tangentially
+
+33:13.720 --> 33:15.200
+related projects?
+
+33:15.200 --> 33:17.000
+Yeah, certainly.
+
+33:17.000 --> 33:25.040
+Guborg Studios had basically been my dream company for probably over a decade, maybe
+
+33:25.040 --> 33:32.140
+a decade and a half, and I wanted to create this company that brings a bunch of different
+
+33:32.140 --> 33:39.800
+kinds of artists, software developers, translators, et cetera, together under one roof so that
+
+33:39.800 --> 33:42.800
+we can create these amazing projects together.
+
+33:42.800 --> 33:51.400
+It actually started off as an idea for this one anime series that I wanted to do, which
+
+33:51.400 --> 33:57.320
+later turned into the idea for a video game, which later turned into, well, just sitting
+
+33:57.320 --> 34:00.160
+on my old MacBook back at home.
+
+34:00.160 --> 34:05.600
+I really like that idea, because I myself am building a company, and the thing that
+
+34:05.600 --> 34:12.400
+I didn't want it to be is yet another agency, and it's by some way or shape or form, it's
+
+34:12.400 --> 34:17.480
+going to turn into that, and I'm not happy with it, and I want to now reevaluate everything
+
+34:17.480 --> 34:24.280
+and change the direction, but I really like the idea of this multi-disciplinary kind of
+
+34:24.280 --> 34:30.440
+approach where you're doing all these different creative things and you bring it together,
+
+34:30.440 --> 34:33.680
+because I can just imagine the amazing things that can come out of that.
+
+34:33.680 --> 34:40.240
+Are there any specific projects that the studio has built that you'd like to call out and
+
+34:40.240 --> 34:41.240
+talk about?
+
+34:41.240 --> 34:42.400
+Yeah, certainly.
+
+34:42.400 --> 34:46.880
+I guess two of the big ones would be actually the two that you had mentioned, the goo font
+
+34:46.880 --> 34:49.280
+and the goo icons.
+
+34:49.280 --> 34:59.240
+Those projects started off as a project for our internal design and our outward appearance
+
+34:59.240 --> 35:05.200
+and such, because as the name implies, the goo theme is our biggest thing.
+
+35:05.200 --> 35:08.200
+That's the base of the entire company.
+
+35:08.200 --> 35:14.360
+Making a font that's based upon this and then web icons that are based upon this is primarily
+
+35:14.360 --> 35:22.560
+directed at improving the look and the feel of our own website, but of course, why make
+
+35:22.560 --> 35:28.280
+something that's just for ourselves when we can make it available to others?
+
+35:28.280 --> 35:37.640
+I decided the goo icons themselves, I would make a free accessible web font that anybody
+
+35:37.640 --> 35:42.560
+can download and use on their own websites with, of course, the ability to request new
+
+35:42.560 --> 35:44.840
+icons to be added.
+
+35:44.840 --> 35:51.380
+Then the goo font and other related fonts would be available for just $15 for both commercial
+
+35:51.380 --> 35:59.040
+and non-commercial with continuous implementation of new Unicode blocks for additional language
+
+35:59.040 --> 36:00.040
+support.
+
+36:00.040 --> 36:10.000
+We're currently working on Chinese and Japanese as our next ones, which I found to be...
+
+36:10.000 --> 36:12.120
+You immediately know what I'm talking about.
+
+36:12.120 --> 36:19.360
+I was severely underestimating the number of characters and how big of a dent my wallet
+
+36:19.360 --> 36:20.360
+would have.
+
+36:20.360 --> 36:24.560
+That is very interesting.
+
+36:24.560 --> 36:30.440
+I've toyed with the idea of creating a typeface because I find typography fascinating myself
+
+36:30.440 --> 36:37.120
+also, but having looked into it, it's like I really need to set some time aside to really
+
+36:37.120 --> 36:42.480
+understand this whole artistry of creating typefaces.
+
+36:42.480 --> 36:43.480
+It's fascinating.
+
+36:43.480 --> 36:47.120
+For now, I'll just enjoy the beautiful ones that exist and try and make something useful
+
+36:47.120 --> 36:48.120
+with them.
+
+36:48.120 --> 36:52.760
+Maybe one day I'll explore making my own.
+
+36:52.760 --> 36:58.600
+I know you're heavily involved in open source in general, from what I can tell anyway.
+
+36:58.600 --> 37:06.320
+What do you see the role of open source in education, but then also in making a better
+
+37:06.320 --> 37:07.320
+web?
+
+37:07.320 --> 37:14.460
+I think having open technologies and open standards means that everyone is able to utilize
+
+37:14.460 --> 37:17.800
+these to improve their own projects.
+
+37:17.800 --> 37:23.200
+If they're improving their own projects, it's providing resources to help others improve
+
+37:23.200 --> 37:29.640
+their own projects and so on and so forth, eventually improving the entire world as we
+
+37:29.640 --> 37:30.720
+know it.
+
+37:30.720 --> 37:41.240
+I think it's a very powerful community and just helps improve the world overall.
+
+37:41.240 --> 37:45.400
+There are problems inherent in open source, but they are being talked about much more
+
+37:45.400 --> 37:46.400
+now.
+
+37:46.400 --> 37:51.320
+There's accessibility, where for the longest time, it was something that was tacked on
+
+37:51.320 --> 37:56.840
+at the end and it's become front and center now and it's really great to see that.
+
+37:56.840 --> 38:06.640
+I think in the same fashion, open source has had inherent problems that everybody acknowledged,
+
+38:06.640 --> 38:08.160
+but not in the open.
+
+38:08.160 --> 38:12.840
+If you had a bunch of maintainers in the room, it would be clear that there's a problem.
+
+38:12.840 --> 38:18.960
+If you looked at it from the outside, you would not see the problem necessarily.
+
+38:18.960 --> 38:20.720
+It's multifaceted.
+
+38:20.720 --> 38:26.620
+Some of it has to do with people feeling entitled to demand certain things from people who run
+
+38:26.620 --> 38:29.880
+open source projects and it's like, are you being serious?
+
+38:29.880 --> 38:35.400
+This thing is for free, even contribute, chill out.
+
+38:35.400 --> 38:43.480
+And just the mere fact that the whole thing of giving away everything for free, while
+
+38:43.480 --> 38:50.080
+it's wonderful and all of that, it can only go so far until you really need to understand
+
+38:50.080 --> 39:01.040
+that these are actual human beings with real lives trying to make great software products
+
+39:01.040 --> 39:08.680
+and sustain themselves and it's not very scalable, as they say, to do this for free.
+
+39:08.680 --> 39:17.800
+There needs to be some kind of model that gives you the ability to also have a life.
+
+39:17.800 --> 39:21.840
+Even if you write the greatest open source project in the world, if you have to pay your
+
+39:21.840 --> 39:25.480
+mortgage, they're not going to care about that if you don't have money to pay.
+
+39:25.480 --> 39:26.800
+Exactly.
+
+39:26.800 --> 39:32.080
+I think that's one of the biggest benefits of platforms like the Open Collective, for
+
+39:32.080 --> 39:43.320
+example, allowing donors or sorry, donators like individuals and big companies to contribute
+
+39:43.320 --> 39:50.360
+financially to these projects to sustain their development and to sustain those behind the
+
+39:50.360 --> 39:53.360
+development as well.
+
+39:53.360 --> 40:01.320
+And I think it's an amazing thing to see all of these users and big companies as well
+
+40:01.320 --> 40:11.720
+that are so willing to drop huge amounts either individually or collectively to sustain the
+
+40:11.720 --> 40:14.720
+development of these open source projects.
+
+40:14.720 --> 40:19.360
+It goes to show that they really enjoy these projects and they want to see them continue.
+
+40:19.360 --> 40:20.360
+Yeah.
+
+40:20.360 --> 40:32.080
+I mean, I can't think of one massive web service, whatever you want to call it, website that
+
+40:32.080 --> 40:39.680
+does not heavily rely on open source and who can honestly not say that their success is
+
+40:39.680 --> 40:41.920
+because of open source.
+
+40:41.920 --> 40:48.280
+Like a lot of the things that seem to come overnight, the ability to build things so
+
+40:48.280 --> 40:53.080
+fast is because there's so many building blocks you just have to compose together that are
+
+40:53.080 --> 40:55.120
+open and free.
+
+40:55.120 --> 41:03.080
+I actually just had one more thing in closing and that is just like, what do you enjoy doing
+
+41:03.080 --> 41:08.240
+when the internet doesn't work so well?
+
+41:08.240 --> 41:11.440
+It's kind of hard to say, honestly.
+
+41:11.440 --> 41:17.040
+I guess there is one thing that I do enjoy doing offline and that would actually have
+
+41:17.040 --> 41:18.680
+to be geocaching.
+
+41:18.680 --> 41:23.800
+I think that geocaching is a great way to explore different cities or even different
+
+41:23.800 --> 41:32.920
+countries or different locations altogether to experience its most beautiful locations,
+
+41:32.920 --> 41:34.360
+I would say.
+
+41:34.360 --> 41:40.480
+I enjoy going out and hunting for different geocaches and such.
+
+41:40.480 --> 41:46.200
+There's also the geocaching puzzles and we're a really big puzzle fan.
+
+41:46.200 --> 41:52.080
+So typically speaking, whenever I'm going out on vacation or really just traveling to
+
+41:52.080 --> 41:58.640
+anywhere else, I'll pop up in the geocaching app, look for some that are in my area, and
+
+41:58.640 --> 41:59.640
+go and find them.
+
+41:59.640 --> 42:06.600
+That is super interesting and I'm going to be honest inside and have a clue what geocaching
+
+42:06.600 --> 42:07.600
+is.
+
+42:07.600 --> 42:08.600
+What is that?
+
+42:08.600 --> 42:09.600
+It sounds super interesting.
+
+42:09.600 --> 42:18.200
+Yeah, so geocaching is, in a nutshell, it's a worldwide treasure hunt.
+
+42:18.200 --> 42:23.320
+There are so many different users on the geocaching platform that will hide different containers
+
+42:23.320 --> 42:33.280
+that contain a couple of little trinkets, a little bit of toys or coins or different
+
+42:33.280 --> 42:38.880
+trackable tokens that you can take with you, and then a paper logbook.
+
+42:38.880 --> 42:46.040
+The paper logbook is for different hunters, finders, to sign when they have found the
+
+42:46.040 --> 42:47.040
+container.
+
+42:47.040 --> 42:55.720
+So to say, I have been here, I have found this hidden geocache, and then move on to
+
+42:55.720 --> 42:56.960
+the next one.
+
+42:56.960 --> 43:01.000
+One of the biggest things with geocaching is it's all about the hunt.
+
+43:01.000 --> 43:06.640
+It's all about finding these different containers, which can be hidden in pretty easy locations
+
+43:06.640 --> 43:13.240
+like inside of a telephone pole or maybe at the trunk of a tree.
+
+43:13.240 --> 43:21.080
+Some of them can have very intricate hiding spots like this, one of my favorite ones,
+
+43:21.080 --> 43:23.480
+like a gnome statue that it was hidden in.
+
+43:23.480 --> 43:24.960
+Wow, that is super interesting.
+
+43:24.960 --> 43:26.640
+Yeah, I had no idea.
+
+43:26.640 --> 43:30.760
+I'm definitely going to search a bit more about this and learn more about it.
+
+43:30.760 --> 43:34.120
+I wonder if that's going on here in South Africa as well.
+
+43:34.120 --> 43:35.680
+It'd be interesting to see.
+
+43:35.680 --> 43:41.960
+What's going on in the United States, Canada, Europe, Japan, South Africa as well.
+
+43:41.960 --> 43:45.920
+You can pretty much find a geocache anywhere that you are.
+
+43:45.920 --> 43:50.400
+You can learn more at geocaching.com as well, not sponsored.
+
+43:50.400 --> 43:52.720
+Thanks so much, Vinyl, for joining me for this chat.
+
+43:52.720 --> 43:53.720
+It was really good.
+
+43:53.720 --> 44:00.240
+I learned so much more about you that I had no idea about, and that's always great.
+
+44:00.240 --> 44:02.000
+Thank you for joining.
+
+44:02.000 --> 44:06.280
+Have a lovely rest of your day and a great weekend, and I'll speak to you soon.
+
+44:06.280 --> 44:07.800
+Yeah, thank you very much for having me.
+
+44:07.800 --> 44:08.800
+This was a pleasure.
+
+44:08.800 --> 44:13.760
+Thank you for listening to this episode of the My Senior Network Podcast.
+
+44:13.760 --> 44:18.200
+If you're not already, please subscribe, star, and leave a review for us in your podcatcher
+
+44:18.200 --> 44:19.720
+of choice.
+
+44:19.720 --> 44:25.480
+This helps others find us and helps us make a better podcast for you on this course.
+
+44:25.480 --> 44:30.520
+You can also find and follow us on Twitter, at NetworkMySenior, and join the community
+
+44:30.520 --> 44:31.520
+on Discord.
+
+44:31.520 --> 44:34.480
+All the links are available in the show notes.
+

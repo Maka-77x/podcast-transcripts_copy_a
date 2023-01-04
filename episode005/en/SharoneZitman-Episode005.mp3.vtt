@@ -1,0 +1,2234 @@
+WEBVTT
+
+00:00.000 --> 00:07.120
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+
+00:07.120 --> 00:10.480
+and the mentors and teachers that help them along the way.
+
+00:10.480 --> 00:15.040
+Today we're joined by Sharon Rubai-Trade, who is a developer relations professional
+
+00:15.040 --> 00:20.600
+and in a volunteering capacity, an open-source community builder having built both the DevOps
+
+00:20.600 --> 00:25.720
+Israel and the cloud-native and OSS Israel communities from the ground up.
+
+00:25.720 --> 00:30.820
+Today she spends her time building her company, RTFM Please, building their first adoption
+
+00:30.820 --> 00:35.120
+strategies to bring excellent technology and people together.
+
+00:35.120 --> 00:37.120
+Thanks for joining us, Sharon.
+
+00:37.120 --> 00:39.120
+Welcome.
+
+00:39.120 --> 00:40.120
+Thank you.
+
+00:40.120 --> 00:41.120
+It's my pleasure to be here.
+
+00:41.120 --> 00:46.240
+We had quite a journey to make this one happen, a lot of false starts, but in the end, I'm
+
+00:46.240 --> 00:47.240
+glad we're here.
+
+00:47.240 --> 00:48.240
+Yes, likewise.
+
+00:48.240 --> 00:50.120
+It's going to be fun.
+
+00:50.120 --> 00:55.960
+So I've given a pretty broad introduction to who you are and what you do, but do you
+
+00:55.960 --> 01:01.840
+care to expand on who Sharon Zitzman is and more about these topics that I've already
+
+01:01.840 --> 01:02.840
+mentioned?
+
+01:02.840 --> 01:03.840
+Yes.
+
+01:03.840 --> 01:08.920
+I love when people talk about me and the third person always makes me feel like Sharon Zitzman
+
+01:08.920 --> 01:09.920
+is.
+
+01:09.920 --> 01:16.400
+So these days, like I said, I run RTFM Please, but I'm doing developer relations as a service,
+
+01:16.400 --> 01:21.520
+which is really fun and puts me in front of some of the most exciting developer tools
+
+01:21.520 --> 01:23.880
+and trends that are happening in the industry.
+
+01:23.880 --> 01:26.960
+And I made my way to this kind of this place.
+
+01:26.960 --> 01:33.960
+I went rogue after doing a few roles, consecutive roles in community and developer relations.
+
+01:33.960 --> 01:40.480
+So before this, I was head of user communities at Snyk and that's where we met, by the way.
+
+01:40.480 --> 01:44.800
+And before that, I was head of developer relations at AppsFlyer and I got to those roles because
+
+01:44.800 --> 01:50.640
+I had built the open source developer community around a tool called Cloudify, which was a
+
+01:50.640 --> 01:52.080
+cloud orchestration tool.
+
+01:52.080 --> 01:58.080
+And when I finished my role there as VP Marketing after seven plus years, I realized that the
+
+01:58.080 --> 02:04.400
+thing I enjoyed most was building these developer communities and fostering kind of the collaboration
+
+02:04.400 --> 02:10.800
+and peer sharing and all the things that are so important when it comes to really adapting
+
+02:10.800 --> 02:13.600
+developer tools and stacks and everything else to make people succeed.
+
+02:13.600 --> 02:15.320
+So it's been fun.
+
+02:15.320 --> 02:20.200
+I'm glad that when you mentioned all the great developer tools and stuff that you get to
+
+02:20.200 --> 02:26.080
+get in front of because of your role on RTFM, that is kind of perfect for what we're talking
+
+02:26.080 --> 02:32.760
+about because I think that is one of the areas that has improved so much since I used to
+
+02:32.760 --> 02:35.480
+when I started.
+
+02:35.480 --> 02:40.560
+And I think, but with that said, I do think it's something that developers aren't exactly
+
+02:40.560 --> 02:44.120
+sure how to use when they just get started.
+
+02:44.120 --> 02:49.280
+They're not entirely aware of all the tooling that's out there that can help them get up
+
+02:49.280 --> 02:54.480
+to speed faster and debug problems faster when they do run into issues.
+
+02:54.480 --> 03:01.920
+Are there any tools that you've come across in the recent, I don't know, year or so that
+
+03:01.920 --> 03:06.200
+you found is particularly good to bring to the attention of people or tools that you
+
+03:06.200 --> 03:11.200
+generally find are really good to help you to develop a journey?
+
+03:11.200 --> 03:12.200
+Yeah.
+
+03:12.200 --> 03:19.320
+So first and foremost, I'm a big fan of the tools that make things easy and provide a
+
+03:19.320 --> 03:23.280
+lot of context and have a very low barrier of entry to adoption.
+
+03:23.280 --> 03:27.400
+And that's why the majority of the companies that I work with are PLG companies, product
+
+03:27.400 --> 03:32.160
+led growth companies, where they're focused on the developer experience in the meantime
+
+03:32.160 --> 03:38.120
+to the low world and making sure that that's a really frictionless process and a well-documented
+
+03:38.120 --> 03:44.120
+process and making it very, very easy for even those that are not very familiar with
+
+03:44.120 --> 03:48.600
+the domain or the discipline to adopt the tooling.
+
+03:48.600 --> 03:51.720
+So a lot of the things that I'm seeing is everything kind of moving as code.
+
+03:51.720 --> 03:55.520
+You all know about like kind of shift left and the shift left manifesto and started with
+
+03:55.520 --> 03:58.360
+quality and moved on to infrastructure as code.
+
+03:58.360 --> 04:01.120
+And now I'm seeing things like product as code and security as code.
+
+04:01.120 --> 04:08.200
+And so what's very interesting about all of this is that if before these were kind of
+
+04:08.200 --> 04:12.680
+walled gardens that were outside of the development process and developers didn't really have
+
+04:12.680 --> 04:19.480
+access to how these processes work and how they natively fit into their workflows, today
+
+04:19.480 --> 04:24.200
+a lot of those barriers are being broken down because it's clear that all of these processes
+
+04:24.200 --> 04:26.960
+need to start almost as early as the first line of code.
+
+04:26.960 --> 04:31.080
+So one of the companies that I work with, JIT for example, is not only building a secure
+
+04:31.080 --> 04:39.760
+security as code platform where they help you build security plans as code that focus
+
+04:39.760 --> 04:43.520
+on the code and the infrastructure and the runtime and the containers and all the things
+
+04:43.520 --> 04:49.800
+that really comprise a real development kind of environment and workflow today, they don't
+
+04:49.800 --> 04:51.280
+assume context, right?
+
+04:51.280 --> 04:53.320
+It's like assume zero knowledge.
+
+04:53.320 --> 04:56.840
+So if we take a look at this mycelium network that is really, really awesome and helping
+
+04:56.840 --> 05:02.320
+kind of early and junior engineers kind of find the tooling and find their ground and
+
+05:02.320 --> 05:09.280
+find their feet, one of the things that is, I guess, most daunting in the security world,
+
+05:09.280 --> 05:15.000
+for example, is that barrier entry, that lack of knowledge, that domain expertise.
+
+05:15.000 --> 05:23.520
+And one of the things that they're trying to bridge the gap is by enabling commonly
+
+05:23.520 --> 05:29.440
+accepted best practices and plans and checklists and even like industry level ones like SOC
+
+05:29.440 --> 05:35.240
+2 and compliance standards through like AppSec programs that are like kind of in consensus
+
+05:35.240 --> 05:43.560
+as commonly accepted good practices when securing software or OWASP top 10, which is widely
+
+05:43.560 --> 05:50.600
+accepted and baking this into the product from the ground floor for developers who want
+
+05:50.600 --> 05:55.400
+to secure their product but don't necessarily have security expertise to be able to do that
+
+05:55.400 --> 06:00.280
+from the first line of code based on someone who has done the research, who has curated
+
+06:00.280 --> 06:06.720
+the knowledge and made it very, very easy for a young developer to consume.
+
+06:06.720 --> 06:10.800
+So that's like just in the context of security, but I'm seeing this from the product perspective
+
+06:10.800 --> 06:11.800
+as well.
+
+06:11.800 --> 06:16.580
+LiveCycle are trying to break down silos between development product, UX, UI, and bring everyone
+
+06:16.580 --> 06:22.560
+into the same platform, like in a single contained collaborative environment.
+
+06:22.560 --> 06:26.080
+And I'm seeing also developer experience coming to the center.
+
+06:26.080 --> 06:29.720
+And when we talk about developer experience, it's not like a buzzword, it's in the context
+
+06:29.720 --> 06:36.960
+of really enabling developers to take ownership and learn quickly and have very little friction
+
+06:36.960 --> 06:37.960
+in their processes.
+
+06:37.960 --> 06:42.200
+And so some of the things that have arisen over the years, like Git, Git is ubiquitous.
+
+06:42.200 --> 06:44.720
+It's ubiquitous to like all of our processes.
+
+06:44.720 --> 06:45.720
+And Git is hard.
+
+06:45.720 --> 06:46.720
+It's still hard.
+
+06:46.720 --> 06:51.520
+For people that have been using Git for years, I open, oh shit, Git all the time, that's
+
+06:51.520 --> 06:55.880
+what the website is called, to remember what command I'm running and what I'm, you know.
+
+06:55.880 --> 06:59.840
+And so I'm also working with a company that's hoping to do a hard reset on Git because Git
+
+06:59.840 --> 07:01.880
+does not have a great developer experience.
+
+07:01.880 --> 07:04.060
+They want, you know, auto-complete.
+
+07:04.060 --> 07:07.120
+They want, you know, your commands to be saved.
+
+07:07.120 --> 07:11.680
+They want so many things that a lot of developers need to make it easy, to make it easy for
+
+07:11.680 --> 07:16.480
+us to work, and I constantly have like this cognitive load of what did I need to remember?
+
+07:16.480 --> 07:17.480
+What did I need to know?
+
+07:17.480 --> 07:19.120
+And why don't I remember this command?
+
+07:19.120 --> 07:22.440
+And why is this so hard for me when others think it's easy?
+
+07:22.440 --> 07:26.280
+So that's what I'm really liking in the trends around developer tools.
+
+07:26.280 --> 07:27.760
+Yeah, no, for sure.
+
+07:27.760 --> 07:35.400
+I totally agree because oftentimes I find myself feeling kind of like I am blanking
+
+07:35.400 --> 07:41.200
+on the word now, but basically what I'm trying to get at is you tell people when they get
+
+07:41.200 --> 07:44.160
+into code that it's not about the code.
+
+07:44.160 --> 07:47.360
+The code more often than not is the easy part.
+
+07:47.360 --> 07:49.060
+It's the problem solving thing.
+
+07:49.060 --> 07:55.680
+So if you're getting into the coding, into the software industry, don't think about what
+
+07:55.680 --> 08:00.240
+necessarily what kind of, it's important to know what tools you like and to, you know,
+
+08:00.240 --> 08:01.360
+learn them well.
+
+08:01.360 --> 08:04.600
+Of course, it's like with anything, carpentry, anything.
+
+08:04.600 --> 08:10.280
+You want to know the tools to use, the best tool for the project at hand and be good with
+
+08:10.280 --> 08:11.640
+your tools.
+
+08:11.640 --> 08:17.680
+But the real clincher for a software industry is the ability to problem solve, the ability
+
+08:17.680 --> 08:23.160
+to take a complex problem, break it down into smaller bits, and then define actionable items
+
+08:23.160 --> 08:24.720
+that you can address.
+
+08:24.720 --> 08:28.600
+Then you start designing, then you start writing the code.
+
+08:28.600 --> 08:32.880
+And the harder part is more often than not actually solving the problem, being able to
+
+08:32.880 --> 08:39.840
+cognizantly understand what the problem is and having an idea of how you can solve this.
+
+08:39.840 --> 08:47.600
+So we talk a lot about that, but then people are like, sure, but crime learning to code
+
+08:47.600 --> 08:48.600
+is hard.
+
+08:48.600 --> 08:49.600
+What are you talking about?
+
+08:49.600 --> 08:50.600
+That's the easy part.
+
+08:50.600 --> 08:54.760
+And it's because I think the stuff that you've touched on now is the missing link between
+
+08:54.760 --> 09:01.560
+those two things, is that the tools also around the coding, like Git, for example, oftentimes
+
+09:01.560 --> 09:04.620
+aren't as easy as we'd like to think they are.
+
+09:04.620 --> 09:09.080
+Maybe it's because we've been using it for a long time and we forget about how we struggle.
+
+09:09.080 --> 09:14.240
+Or we've gotten into a routine with a set of tools that we are so comfortable with that
+
+09:14.240 --> 09:15.240
+it's almost like breathing.
+
+09:15.240 --> 09:20.020
+So for us, focusing on the problem solving part is really the hard part and the interesting
+
+09:20.020 --> 09:23.000
+part and writing the code is the easier.
+
+09:23.000 --> 09:27.600
+But you often have to shift your modality, shift your thinking back to, but what if I
+
+09:27.600 --> 09:31.340
+was just starting and I was presented with a problem?
+
+09:31.340 --> 09:36.400
+My mind immediately is going to go to, oh, goodness gracious, how do I get this thing
+
+09:36.400 --> 09:37.400
+online?
+
+09:37.400 --> 09:41.320
+Like I did a live stream the other day where I was talking about atomic design principles,
+
+09:41.320 --> 09:50.420
+because I found that a lot of new engineers building websites have this massive CSS file
+
+09:50.420 --> 09:54.160
+because they don't understand the concept of breaking it down into components.
+
+09:54.160 --> 10:01.680
+And they even don't know that you can import one CSS file into another one.
+
+10:01.680 --> 10:04.280
+And back in the day, this is something we used to say, right?
+
+10:04.280 --> 10:09.480
+You have one CSS file that you serve because of performance, but with HTTP2, that isn't
+
+10:09.480 --> 10:11.200
+that big of a deal anymore, right?
+
+10:11.200 --> 10:15.640
+You can potentially have 10 CSS files and it should still be okay.
+
+10:15.640 --> 10:20.760
+But I mean, and you have bold tools these days that allow you to work in a way that
+
+10:20.760 --> 10:25.320
+is productive by breaking your stuff up into smaller components and then have a bold step
+
+10:25.320 --> 10:30.300
+to combine that into one or two or three CSS files that then serve to the end user.
+
+10:30.300 --> 10:31.300
+People don't know this.
+
+10:31.300 --> 10:34.200
+So they end up with this big CSS file that gets hard to maintain.
+
+10:34.200 --> 10:36.800
+And again, this is not knowing your tools well enough.
+
+10:36.800 --> 10:39.600
+So that's where the missing link is.
+
+10:39.600 --> 10:43.200
+But what I've found is when I talk to these people about it, it's like a revelation to
+
+10:43.200 --> 10:44.200
+them.
+
+10:44.200 --> 10:49.560
+It's like, oh, that's how you manage to keep your head about you when you're just creating
+
+10:49.560 --> 10:50.960
+a simple website.
+
+10:50.960 --> 10:54.400
+So I think the tooling is there and I think the developer relations aspect is also what
+
+10:54.400 --> 10:59.440
+something that needs to be improved upon.
+
+10:59.440 --> 11:04.120
+I think oftentimes we talk to people who already know instead of talking to the people who
+
+11:04.120 --> 11:07.160
+are still really learning the thing.
+
+11:07.160 --> 11:08.160
+So it's great to know that.
+
+11:08.160 --> 11:11.800
+I think GitHub has done a lot here with Git.
+
+11:11.800 --> 11:17.440
+It's abstracted away a lot of the complexities of Git to the point where it's like a UI that
+
+11:17.440 --> 11:20.500
+you just, a website that you interact with.
+
+11:20.500 --> 11:26.360
+But you can only go so far before you have to eventually open the terminal.
+
+11:26.360 --> 11:31.200
+And that's where I think a lot of work can be done to improve it.
+
+11:31.200 --> 11:38.520
+Like for example, the GitHub CLI, that does help a lot, but it has a learning curve itself.
+
+11:38.520 --> 11:42.880
+And I think that, I don't know if you want to expand on that first before I keep talking.
+
+11:42.880 --> 11:46.200
+I would like to actually touch on a couple of things that you said there.
+
+11:46.200 --> 11:47.200
+So I agree.
+
+11:47.200 --> 11:51.040
+So one of the things that's, as you're the person who runs DevOps, you're one of the
+
+11:51.040 --> 11:53.680
+people on the team and I've been doing it for nine years.
+
+11:53.680 --> 11:59.480
+One of the concepts that I always loved from DevOps is kind of an early piece, an integral
+
+11:59.480 --> 12:02.640
+piece of this conference was what they call open spaces.
+
+12:02.640 --> 12:08.920
+And what open spaces fostered was this ability for folks to come together around a topic
+
+12:08.920 --> 12:09.920
+that they're interested in.
+
+12:09.920 --> 12:13.520
+And there's this concept in open spaces called the law of mobility.
+
+12:13.520 --> 12:15.820
+So if it's interesting to you, you'll join this session.
+
+12:15.820 --> 12:18.080
+And if it's not, you'll move on to other sessions and you'll join.
+
+12:18.080 --> 12:22.240
+And you can be either a view, which is the person who kind of buzzes and kind of helps
+
+12:22.240 --> 12:26.400
+like lead the session, or you can be a butterfly just listening on the wall and kind of learning
+
+12:26.400 --> 12:28.280
+and taking in the information.
+
+12:28.280 --> 12:33.040
+But why that's important, that unconference sort of format is that people rally around
+
+12:33.040 --> 12:35.800
+a real problem that they're trying to solve or trying to figure out.
+
+12:35.800 --> 12:39.840
+I remember in the very early days of DevOps days, people were still talking about chat
+
+12:39.840 --> 12:40.840
+ops.
+
+12:40.840 --> 12:41.840
+How do you actually even use chat ops?
+
+12:41.840 --> 12:42.840
+How do you integrate it?
+
+12:42.840 --> 12:43.840
+How do I use it in my Slack?
+
+12:43.840 --> 12:44.840
+How do I use it in other tools?
+
+12:44.840 --> 12:46.520
+How is it actually actionable?
+
+12:46.520 --> 12:47.520
+What can I get out of it?
+
+12:47.520 --> 12:51.480
+And people actually felt comfortable in these small circles that rallied around a certain
+
+12:51.480 --> 12:57.640
+topic to ask questions about like really simple things that they would be afraid to ask.
+
+12:57.640 --> 13:01.360
+Like if somebody's doing your talk on a stage and it sounds so advanced and you're a new
+
+13:01.360 --> 13:05.600
+but you're sitting in pride, you want to ask like, hey, how do I, you know, how do I build
+
+13:05.600 --> 13:06.600
+my CSS files?
+
+13:06.600 --> 13:07.960
+You know, you're not going to ask that.
+
+13:07.960 --> 13:10.920
+But if you're sitting in a little like kind of group of people that are talking about
+
+13:10.920 --> 13:15.880
+like where CSS has evolved to from then to now, and then, you know, you're in a smaller
+
+13:15.880 --> 13:19.960
+group, a safer group, you might actually feel comfortable to ask these questions.
+
+13:19.960 --> 13:25.640
+And I feel like more conferences many times talk at you and don't necessarily kind of
+
+13:25.640 --> 13:27.080
+include you in the conversation.
+
+13:27.080 --> 13:31.000
+And then the people that are sitting in the room that have a lot of questions, they don't
+
+13:31.000 --> 13:33.720
+know necessarily how to ask them.
+
+13:33.720 --> 13:37.080
+And that's why I like to consider community not one day or not one conference a year,
+
+13:37.080 --> 13:41.640
+not one event a year where you can have a place that kind of fosters a conversation
+
+13:41.640 --> 13:46.560
+and people can feel comfortable to ask questions and learn from their peers.
+
+13:46.560 --> 13:52.720
+And I agree, I think a lot of the time in conferences and tech conferences, they'll
+
+13:52.720 --> 13:58.000
+focus on the tech, on the technical side of things.
+
+13:58.000 --> 14:01.080
+But sometimes the culture side of things is even that important.
+
+14:01.080 --> 14:07.000
+Like, what are the best practices for opening your first XYZ project?
+
+14:07.000 --> 14:08.160
+What does this look like?
+
+14:08.160 --> 14:09.680
+What's the baseline?
+
+14:09.680 --> 14:11.000
+What's the framework look like?
+
+14:11.000 --> 14:19.000
+And kind of bringing the more simple fundamentals and primitives in front of folks, because
+
+14:19.000 --> 14:24.360
+a lot of things are so abstracted off the stack these days, that it's hard for juniors
+
+14:24.360 --> 14:26.520
+to learn what's happening under the hood.
+
+14:26.520 --> 14:27.520
+It really is.
+
+14:27.520 --> 14:28.520
+Yes.
+
+14:28.520 --> 14:30.880
+I hear that a lot.
+
+14:30.880 --> 14:36.360
+I'm good until something breaks, then I'm stuck, because I don't know.
+
+14:36.360 --> 14:40.000
+I don't know how to find why it's breaking.
+
+14:40.000 --> 14:42.080
+I don't know how to fix why it's breaking.
+
+14:42.080 --> 14:45.280
+I don't even know what is breaking sometimes.
+
+14:45.280 --> 14:46.640
+I just know that...
+
+14:46.640 --> 14:49.520
+And error messages are so esoteric half the time.
+
+14:49.520 --> 14:51.480
+They're like, this gives me zero context.
+
+14:51.480 --> 14:53.920
+I have no idea what this means.
+
+14:53.920 --> 14:56.920
+Everything's on fire.
+
+14:56.920 --> 14:58.520
+I ran into that just yesterday.
+
+14:58.520 --> 15:03.520
+I was helping a colleague with Git, strangely enough.
+
+15:03.520 --> 15:05.640
+But it wasn't Git that was the problem.
+
+15:05.640 --> 15:09.600
+It was the error message being produced from a build process.
+
+15:09.600 --> 15:10.840
+That was the problem.
+
+15:10.840 --> 15:20.840
+It was basically saying something along the lines of, I'm able to read property toLowerCase
+
+15:20.840 --> 15:21.840
+from undefined.
+
+15:21.840 --> 15:25.800
+I was like, wow, that's massively specific.
+
+15:25.800 --> 15:26.800
+Okay, cool.
+
+15:26.800 --> 15:29.640
+So what can we deduce from the statement?
+
+15:29.640 --> 15:35.640
+You're trying to call a function called toLowerCase, cool, that's a web API thing, a JavaScript
+
+15:35.640 --> 15:39.000
+function that takes a string and then lower cases it.
+
+15:39.000 --> 15:42.060
+So obviously what's on the left is the thing that's undefined.
+
+15:42.060 --> 15:46.920
+So instead of saying string.toLowerCase, you're getting undefined.toLowerCase.
+
+15:46.920 --> 15:50.960
+You can't do that because undefined doesn't have a toLowerCase function.
+
+15:50.960 --> 15:51.960
+Okay, cool.
+
+15:51.960 --> 15:54.480
+What is the thing that's undefined?
+
+15:54.480 --> 15:59.520
+And that took me down a road of saying, okay, cool, at least here is a little break from
+
+15:59.520 --> 16:02.040
+that it happened in this file on this line.
+
+16:02.040 --> 16:04.160
+Thankfully, I had that to go with.
+
+16:04.160 --> 16:09.980
+So then I had to go and clone the whole thing locally to my local computer, put in some
+
+16:09.980 --> 16:15.240
+console log statements around the area where this is happening and try and spit out as
+
+16:15.240 --> 16:21.600
+much information to me as I possibly can to find out that in the end of the day, it was
+
+16:21.600 --> 16:24.640
+a file that was missing front matter.
+
+16:24.640 --> 16:29.360
+And because it was missing the front matter, the string key it was expecting was undefined
+
+16:29.360 --> 16:32.200
+and it was trying to call toLowerCase on that.
+
+16:32.200 --> 16:38.040
+So and I was like, what would have been super cool is if it said, I'm able to call toLowerCase
+
+16:38.040 --> 16:44.480
+on undefined because of missing front matter key in this file.
+
+16:44.480 --> 16:50.280
+That would have been like, oh, okay, and you do have that context at that point in the
+
+16:50.280 --> 16:51.280
+code, right?
+
+16:51.280 --> 16:55.040
+When I was putting in the console log statements, I could get to the problem because the information
+
+16:55.040 --> 16:56.760
+was right there.
+
+16:56.760 --> 17:01.080
+I could log it out to myself and say, give me the path you're reading, give me the front
+
+17:01.080 --> 17:04.760
+matter keys you're trying to read so that I can see which thing is undefined.
+
+17:04.760 --> 17:11.080
+So all the information is there, but it wasn't exposed to the user of the API.
+
+17:11.080 --> 17:15.540
+And I think that is where a lot of people, new people also, you're like, everything is
+
+17:15.540 --> 17:16.540
+an API.
+
+17:16.540 --> 17:20.560
+You need to use APIs from day one because that's how everything is done.
+
+17:20.560 --> 17:25.700
+And they try to use an API and then the API gives them this like non-deterministic error
+
+17:25.700 --> 17:28.880
+message and they're like, okay, something's broken.
+
+17:28.880 --> 17:32.040
+I don't even know what's broken and I don't know where, and they throw up their hands
+
+17:32.040 --> 17:37.400
+and they think, then you do the thing that humans do is you criticize yourself instead
+
+17:37.400 --> 17:44.200
+of saying maybe the documentation is badly written, maybe the API isn't well, they didn't
+
+17:44.200 --> 17:48.480
+think about the user, they thought just, I know what's going wrong, so everybody should
+
+17:48.480 --> 17:49.480
+know.
+
+17:49.480 --> 17:53.040
+And instead of doing that, you're criticizing yourself and saying, I think I'm just too
+
+17:53.040 --> 17:54.040
+stupid for tech.
+
+17:54.040 --> 17:56.440
+And it's like, no, you're not, you're not.
+
+17:56.440 --> 17:57.440
+Don't go there.
+
+17:57.440 --> 17:59.720
+Yeah, that's it.
+
+17:59.720 --> 18:00.720
+I see that.
+
+18:00.720 --> 18:07.200
+I mean, tech is such a high barrier to entry because developer experience is only something
+
+18:07.200 --> 18:10.080
+that's happening now, right?
+
+18:10.080 --> 18:15.480
+Previously you would have all of these, I don't know, like exceptionally talented people building
+
+18:15.480 --> 18:19.920
+tech, but it wasn't at the center of developer experience, the person who's actually using
+
+18:19.920 --> 18:25.480
+the product eventually and how they actually get it to, how to ramp up, how to integrate
+
+18:25.480 --> 18:26.480
+it into environments.
+
+18:26.480 --> 18:32.320
+I remember years ago when I was still building the Cloudify tool, like when I was still building
+
+18:32.320 --> 18:37.280
+that developer experience there and doing developer relations and developer experience
+
+18:37.280 --> 18:43.320
+and product lead growth and all of these things that didn't have a name or a methodology seven
+
+18:43.320 --> 18:49.380
+years ago, but it was clear to me that when I want people to use my product, I want them
+
+18:49.380 --> 18:51.960
+to have a great experience and I want them to understand.
+
+18:51.960 --> 18:57.600
+I remember just fostering the mindset of, no, the product is not ready if the documentation
+
+18:57.600 --> 18:58.600
+is not ready.
+
+18:58.600 --> 19:03.400
+Like I would say this to like the developers and they'd be like, no, I shipped the feature.
+
+19:03.400 --> 19:04.400
+I'm done.
+
+19:04.400 --> 19:06.480
+I'm like, you're not done until you document it.
+
+19:06.480 --> 19:08.600
+And then you get documentation.
+
+19:08.600 --> 19:09.600
+It's half the time.
+
+19:09.600 --> 19:12.480
+It's kind of in the middle of a thought, right?
+
+19:12.480 --> 19:17.760
+Because the developer created this feature so they know everything, all of the prerequisites
+
+19:17.760 --> 19:22.480
+that come before actually getting to this point.
+
+19:22.480 --> 19:27.240
+And that's all of the stuff, those sorts of gaps were the things that I helped this team
+
+19:27.240 --> 19:28.240
+overcome and understand.
+
+19:28.240 --> 19:31.840
+And I said, then, okay, you built this feature and you have this whole environment set up
+
+19:31.840 --> 19:38.400
+and you have all of this stack that you know what it is in order to get to this point.
+
+19:38.400 --> 19:39.400
+Nobody else has that information.
+
+19:39.400 --> 19:46.160
+Even if that information exists earlier in the documentation, reference it prerequisites
+
+19:46.160 --> 19:51.000
+in order to run this new feature are having this set up, having this set up, read it here,
+
+19:51.000 --> 19:56.800
+you know, whatever it is, reminding you to set up your environment like this or you know
+
+19:56.800 --> 19:57.800
+what I mean?
+
+19:57.800 --> 20:01.440
+Whatever it is, having these books in place, but you can't just start in the middle of
+
+20:01.440 --> 20:06.960
+the story and expect somebody to know how to work with your product tool feature, whatever
+
+20:06.960 --> 20:07.960
+it is.
+
+20:07.960 --> 20:13.920
+And that's something that's only now kind of coming to the center stage with the maturity
+
+20:13.920 --> 20:17.800
+of developer relations and developer advocacy and developer experience being such a critical
+
+20:17.800 --> 20:20.240
+piece in dev tooling.
+
+20:20.240 --> 20:21.240
+And that's exciting.
+
+20:21.240 --> 20:22.240
+It's an exciting place to be.
+
+20:22.240 --> 20:27.760
+But I think that there are still tools that, you know, are existing in our stack that aren't
+
+20:27.760 --> 20:32.920
+that are very mature and that, you know, weren't born into like a cloud-muted and kind of world
+
+20:32.920 --> 20:38.720
+that we're in right now that still have gaps in that area.
+
+20:38.720 --> 20:40.160
+And then that's what happens.
+
+20:40.160 --> 20:42.960
+Like a junior developer will feel like, oh, I don't know what I'm doing, I shouldn't even
+
+20:42.960 --> 20:43.960
+be here.
+
+20:43.960 --> 20:44.960
+And that's not the truth.
+
+20:44.960 --> 20:48.880
+The truth is that historically this just wasn't a focus and now it's getting more attention
+
+20:48.880 --> 20:51.680
+and that's a great thing and it's a great trend.
+
+20:51.680 --> 20:55.560
+We need to do the work to bring our existing tooling up to speed.
+
+20:55.560 --> 20:56.560
+Yeah.
+
+20:56.560 --> 20:57.560
+Yeah.
+
+20:57.560 --> 20:59.880
+And I mean, that's one of the reasons I started the podcast, because I think we don't speak
+
+20:59.880 --> 21:02.800
+to the people who are experiencing these problems.
+
+21:02.800 --> 21:05.120
+We're not asking them, where are you getting stuck?
+
+21:05.120 --> 21:07.040
+Where are you getting burned?
+
+21:07.040 --> 21:09.680
+Why do you feel that you don't belong?
+
+21:09.680 --> 21:10.680
+And not all of that is tech.
+
+21:10.680 --> 21:17.360
+Like I'm technical, some of that is community, some of that is fostering a welcoming community
+
+21:17.360 --> 21:20.800
+for people that they feel comfortable in to ask those questions.
+
+21:20.800 --> 21:24.920
+Like you said, you said at a conference, it feels like people are talking at you and you're
+
+21:24.920 --> 21:29.040
+too scared to ask a question because you think the whole room is going to say, you don't
+
+21:29.040 --> 21:32.120
+know how to make CSS into separate files?
+
+21:32.120 --> 21:33.120
+Wow.
+
+21:33.120 --> 21:34.120
+Sad.
+
+21:34.120 --> 21:39.580
+And it's like, no, no, no, that's not the environment we want to create here.
+
+21:39.580 --> 21:42.600
+We want to create an environment because we always say no stupid questions, right?
+
+21:42.600 --> 21:44.840
+But do we really mean it?
+
+21:44.840 --> 21:49.360
+Because it oftentimes feels like we say that, but we don't really mean it.
+
+21:49.360 --> 21:54.480
+Because when people do ask, that to us might be an obvious question, the answer we give
+
+21:54.480 --> 21:58.880
+is oftentimes like not helpful.
+
+21:58.880 --> 22:04.240
+It's kind of like the intent behind it feels like, oh boy, I asked for something really
+
+22:04.240 --> 22:05.240
+dumb now.
+
+22:05.240 --> 22:08.360
+I should just go away and not, and then, and that's what happens.
+
+22:08.360 --> 22:10.320
+People do go away.
+
+22:10.320 --> 22:17.280
+They do stop speaking up inside a discord server on Twitter and in all these social
+
+22:17.280 --> 22:18.560
+spaces on GitHub.
+
+22:18.560 --> 22:23.360
+People are too scared to contribute on GitHub because anybody can see what I'm saying and
+
+22:23.360 --> 22:28.120
+they're going to judge everything I say and what if my stuff is not good enough?
+
+22:28.120 --> 22:30.440
+We should change the thinking around this.
+
+22:30.440 --> 22:34.620
+We should change how we communicate this to people because opening a pull request, having
+
+22:34.620 --> 22:37.440
+it closed is not the end of the world.
+
+22:37.440 --> 22:42.000
+It is sometimes the thing you proposed was just not the right thing at the right time.
+
+22:42.000 --> 22:43.680
+It's probably not your fault.
+
+22:43.680 --> 22:48.160
+It's probably because you did not understand the problem because it wasn't documented well
+
+22:48.160 --> 22:49.160
+enough.
+
+22:49.160 --> 22:55.240
+You thought you found a problem that was actually intended in the way it is, but it wasn't communicated
+
+22:55.240 --> 22:56.240
+well to you.
+
+22:56.240 --> 23:01.320
+I ran into this two weeks ago where I opened up a request and somebody was like, no, that's
+
+23:01.320 --> 23:02.320
+as intended.
+
+23:02.320 --> 23:08.120
+I was like, well, that's not super obvious because for me, I was new to your API or to
+
+23:08.120 --> 23:14.800
+your library and using it in this way, you didn't tell me how to import the thing into
+
+23:14.800 --> 23:16.560
+my node file.
+
+23:16.560 --> 23:17.560
+It was nowhere.
+
+23:17.560 --> 23:20.240
+I had to figure it out on my own.
+
+23:20.240 --> 23:22.640
+That's why I opened the pull request because I thought other people would probably run
+
+23:22.640 --> 23:23.640
+into the same situation.
+
+23:23.640 --> 23:25.640
+Oh no, that's as intended.
+
+23:25.640 --> 23:27.800
+Can you explain why that's as intended?
+
+23:27.800 --> 23:28.800
+Yeah.
+
+23:28.800 --> 23:31.160
+I love those types of answers.
+
+23:31.160 --> 23:33.360
+It's like, okay, that's by design.
+
+23:33.360 --> 23:36.360
+Okay, well, can we unpack that?
+
+23:36.360 --> 23:37.360
+Yeah.
+
+23:37.360 --> 23:42.760
+Would you consider changing the design maybe a little bit as it's non-obvious?
+
+23:42.760 --> 23:43.760
+I completely agree.
+
+23:43.760 --> 23:47.320
+I actually did want to touch on something that you had mentioned to me a second.
+
+23:47.320 --> 23:48.320
+I have to think about it.
+
+23:48.320 --> 23:51.000
+There was something good that you had talked about in all of that.
+
+23:51.000 --> 23:53.680
+There was a lot of good and there was a lot of gold.
+
+23:53.680 --> 23:59.560
+I lost it, but we'll come back to it, but yeah, I completely agree.
+
+23:59.560 --> 24:03.040
+So for somebody new, let's take a specific area.
+
+24:03.040 --> 24:05.680
+Let's take web development.
+
+24:05.680 --> 24:08.760
+What do you think are the important things for people to know when they get started?
+
+24:08.760 --> 24:16.920
+If somebody came to you and said, Chiron, I'm doing X and I want to get into web development.
+
+24:16.920 --> 24:19.040
+Where would you send them?
+
+24:19.040 --> 24:20.040
+What would you tell them?
+
+24:20.040 --> 24:24.720
+I know it's a broad topic, but...
+
+24:24.720 --> 24:25.720
+I know.
+
+24:25.720 --> 24:26.720
+Yeah.
+
+24:26.720 --> 24:30.680
+I'll actually be honest, I'm not an engineer.
+
+24:30.680 --> 24:34.880
+I work with engineers and I understand developer workflows and I understand technical stacks
+
+24:34.880 --> 24:35.880
+and a lot of things.
+
+24:35.880 --> 24:40.480
+And I actually myself have tried to learn to code a few times, but then it really is
+
+24:40.480 --> 24:44.160
+something that you need to work at and it's not something that comes easy, I won't lie.
+
+24:44.160 --> 24:50.440
+And so I feel like it's taking you time and it's taking a lot of energy.
+
+24:50.440 --> 24:51.440
+That is the way it is.
+
+24:51.440 --> 24:53.520
+It's not an easy process.
+
+24:53.520 --> 24:57.880
+There is a high barrier to entry and learning curve to learning to code.
+
+24:57.880 --> 24:59.980
+And so you're fine, you're on the right track.
+
+24:59.980 --> 25:04.720
+There are a lot of really great communities that help and foster and support engineers
+
+25:04.720 --> 25:09.680
+and like, for example, Serenity Barks, Code Newbies community, where it's like a safe
+
+25:09.680 --> 25:14.840
+place for junior engineers to ask questions.
+
+25:14.840 --> 25:19.480
+There's a lot of good content and resources out there, but there are really a lot of good
+
+25:19.480 --> 25:24.840
+communities blanking on the community that I really love, that I started to learn to
+
+25:24.840 --> 25:26.840
+code from.
+
+25:26.840 --> 25:31.800
+So I know there's Learn with Leon, which is very popular, the 100 Devs one, and then there's
+
+25:31.800 --> 25:32.800
+Free Code Camp.
+
+25:32.800 --> 25:38.320
+Free Code Camp is amazing and they have a lot of resources and they have a really great
+
+25:38.320 --> 25:43.220
+blog and they have a lot of stuff that they have a lot of courses like for on Udemy or
+
+25:43.220 --> 25:47.480
+even on YouTube that are free that walk you through a real process.
+
+25:47.480 --> 25:53.320
+A lot of the times the code is oftentimes decoupled from an end goal.
+
+25:53.320 --> 25:57.720
+And then you don't essentially understand how it applies.
+
+25:57.720 --> 25:59.500
+How does it apply in the real world?
+
+25:59.500 --> 26:00.500
+What is it doing?
+
+26:00.500 --> 26:05.520
+So a lot of the things that I've discovered is building a really small and mean app helps
+
+26:05.520 --> 26:09.600
+you have like kind of an end goal and a place that you want to get to like I've ever like
+
+26:09.600 --> 26:15.300
+card shuffling apps or things that like, eventually you learn how what this code when I'm writing
+
+26:15.300 --> 26:20.760
+here looks like in a final product and why it's important, why all these steps are important
+
+26:20.760 --> 26:26.720
+to get to an end place is really important to kind of completing that journey.
+
+26:26.720 --> 26:31.900
+So it's not just theoretical, it's actually applied and you can experience that thing
+
+26:31.900 --> 26:37.760
+that you learned in, you know, an end kind of well crafted project.
+
+26:37.760 --> 26:42.500
+So that's something that I've like is highly recommended.
+
+26:42.500 --> 26:46.080
+So if you're starting to learn to code and you're going through like these lessons, try
+
+26:46.080 --> 26:48.480
+and find something lean and small.
+
+26:48.480 --> 26:52.740
+And I really in the context of DevOps, again, that's the role that I'm like kind of really
+
+26:52.740 --> 26:53.740
+active in.
+
+26:53.740 --> 26:59.120
+But there's the concept of price and like the small wins in aggregate eventually translates
+
+26:59.120 --> 27:01.420
+to big gains.
+
+27:01.420 --> 27:05.340
+That comes from the Japanese supply chain kind of mindset.
+
+27:05.340 --> 27:06.780
+And I really believe in that as well.
+
+27:06.780 --> 27:13.380
+So every time you have like a small win celebrated and kind of see what you've learned, and then
+
+27:13.380 --> 27:17.340
+eventually you'll find that all of those like small wins in aggregate, you'll find that
+
+27:17.340 --> 27:24.500
+you made a lot of progress and that you know a lot more than you think that you do.
+
+27:24.500 --> 27:28.740
+And you've made, you know, you've achieved quite a bit.
+
+27:28.740 --> 27:30.700
+So that I think that's also important.
+
+27:30.700 --> 27:34.980
+And so there are a lot of really great communities like CodeMovies, F3 CodeCamp, Learn with Leon,
+
+27:34.980 --> 27:37.540
+100 Days, and a lot of things like that.
+
+27:37.540 --> 27:40.500
+But there are also great tools and like I said, I'm exposed to a lot of really great
+
+27:40.500 --> 27:41.500
+developer tools.
+
+27:41.500 --> 27:44.380
+And one of the ones that I think is actually extremely interesting and I think that they
+
+27:44.380 --> 27:51.540
+have a lot of potential in helping developers skill up is a tool called Wilco that was just
+
+27:51.540 --> 27:54.260
+recently unveiled and came out and sell.
+
+27:54.260 --> 28:02.020
+And what they're trying to do is create real world modules and environments that help engineers
+
+28:02.020 --> 28:09.960
+have true access to production systems or real programs and collaborative workflows
+
+28:09.960 --> 28:18.020
+and things that they can't necessarily learn from an Udemy course or from some kind of
+
+28:18.020 --> 28:21.920
+self-learning module of some sort.
+
+28:21.920 --> 28:27.260
+This provides them kind of more of a real world kind of experience, experiential way
+
+28:27.260 --> 28:29.100
+of coding.
+
+28:29.100 --> 28:35.740
+They have mock teams, mock data, production systems that they integrate with and other
+
+28:35.740 --> 28:41.500
+things that provide you more of a skilling up opportunity for what it would really look
+
+28:41.500 --> 28:47.980
+like to work in a real world engineering organization so that you can get to that place where you
+
+28:47.980 --> 28:51.860
+feel confident enough to go and interview and talk about the things that you know how
+
+28:51.860 --> 28:55.100
+to do in a real world environment.
+
+28:55.100 --> 28:58.540
+I think that those are the things that are going to be coming, you're going to be seeing
+
+28:58.540 --> 29:05.380
+more trends around how we take theoretical knowledge and get it to be applied in real
+
+29:05.380 --> 29:10.980
+systems or help people bridge that gap to making it into the real world because that
+
+29:10.980 --> 29:11.980
+is still hard.
+
+29:11.980 --> 29:19.340
+There is still a lot of friction there and there's still a lot of self-learning and self-doubt
+
+29:19.340 --> 29:21.780
+and don't feel that way.
+
+29:21.780 --> 29:22.780
+It's not easy.
+
+29:22.780 --> 29:24.700
+It's not a paved road yet.
+
+29:24.700 --> 29:26.060
+Yeah, exactly.
+
+29:26.060 --> 29:30.860
+I think that's the other thing that we didn't touch on really and that is the fact that
+
+29:30.860 --> 29:39.220
+one of the other things that's part of coding is to work on a team and what does that mean?
+
+29:39.220 --> 29:43.100
+What does that mean to work on a team?
+
+29:43.100 --> 29:46.500
+People that's on GitHub these days kind of talk about GitHub as if everybody knows what
+
+29:46.500 --> 29:49.620
+GitHub is and how to do it and how to use it and that's not true.
+
+29:49.620 --> 29:51.100
+Not everybody does.
+
+29:51.100 --> 29:54.900
+Even when you're just talking about the website itself, you're not even talking about terminal
+
+29:54.900 --> 30:01.300
+and the depths of Git, you're just talking about GitHub itself.
+
+30:01.300 --> 30:03.020
+What is a pull request?
+
+30:03.020 --> 30:04.020
+What is an issue?
+
+30:04.020 --> 30:06.100
+Why do I do an issue before a pull request?
+
+30:06.100 --> 30:07.460
+What's up with that?
+
+30:07.460 --> 30:12.860
+How does pull request review work and what does it mean if somebody is giving me feedback?
+
+30:12.860 --> 30:15.500
+How do I incorporate that feedback?
+
+30:15.500 --> 30:19.140
+That's often where the terminal has to come in because it's kind of tricky if you've opened
+
+30:19.140 --> 30:21.860
+the pull request and now somebody gives you feedback, you have to amend it.
+
+30:21.860 --> 30:23.060
+How do I do that?
+
+30:23.060 --> 30:26.500
+I think there's a lot of education around that topic that needs to happen and I think
+
+30:26.500 --> 30:33.460
+some of that, the only real way that you can get experience is by working on a project.
+
+30:33.460 --> 30:38.340
+I feel like that's a loop that a lot of newbies get themselves into.
+
+30:38.340 --> 30:39.980
+It's like, oh, I need experience.
+
+30:39.980 --> 30:41.420
+How do I get experience?
+
+30:41.420 --> 30:44.700
+I need experience, but how do I get the experience?
+
+30:44.700 --> 30:48.820
+That's why I think a lot of communities do this and it's also something I constantly
+
+30:48.820 --> 30:56.380
+do with the Mycelium Network and that is offering any kind of side project where people can
+
+30:56.380 --> 31:00.860
+work together like you would work in a working environment.
+
+31:00.860 --> 31:06.820
+Creating a project, defining the problem, defining the solution and then working from
+
+31:06.820 --> 31:07.820
+there.
+
+31:07.820 --> 31:10.020
+Okay, now what code do we need to write?
+
+31:10.020 --> 31:15.340
+Okay, let's assign tasks to people to do and you'll open a pull request for your task and
+
+31:15.340 --> 31:19.980
+then we'll have somebody that comes in and do code review for you and then it gets merged
+
+31:19.980 --> 31:23.020
+and then it ends up somewhere.
+
+31:23.020 --> 31:26.180
+What is that somewhere and how does it end up in that somewhere because that's the thing
+
+31:26.180 --> 31:31.800
+I wanted to mention earlier that I find people ask so many times is, okay, I'm on my local
+
+31:31.800 --> 31:34.980
+machine and I have this web page that you taught me how to build, how do I get it on
+
+31:34.980 --> 31:35.980
+the internet?
+
+31:35.980 --> 31:40.940
+Do you think we're in 2022, it should really be that easy and it kind of is if you know
+
+31:40.940 --> 31:45.300
+the right tools, but if you don't know the right tools, that is a mystery.
+
+31:45.300 --> 31:52.380
+But it's like, wow, I enter a URL and there's this website, how does that happen?
+
+31:52.380 --> 31:54.700
+That is something that a lot of people don't know.
+
+31:54.700 --> 31:57.140
+Yeah, I agree.
+
+31:57.140 --> 32:00.660
+So that's what I was saying, you'll go to these tech conferences, you'll see tech talks,
+
+32:00.660 --> 32:03.460
+but sometimes just culture.
+
+32:03.460 --> 32:10.660
+What is a real world end-to-end CICV deployment to production process look like?
+
+32:10.660 --> 32:11.660
+What does that look like?
+
+32:11.660 --> 32:12.660
+What are the gates that are in the process?
+
+32:12.660 --> 32:13.660
+What are the guardrails?
+
+32:13.660 --> 32:14.660
+Where is the friction?
+
+32:14.660 --> 32:15.660
+What is the interaction?
+
+32:15.660 --> 32:17.060
+What does branch protection look like?
+
+32:17.060 --> 32:18.060
+Why do I need this?
+
+32:18.060 --> 32:19.060
+How do I work on a branch?
+
+32:19.060 --> 32:25.900
+How do I merge it into, these are the processes that you only gain from real work.
+
+32:25.900 --> 32:34.100
+It's not something that, it's the meta information, it's the metaverse of programming and coding
+
+32:34.100 --> 32:40.220
+and some of this knowledge is just kind of inherent to senior developers that they don't
+
+32:40.220 --> 32:44.300
+even remember that there are these really small gaps of like, yeah, okay, now how do
+
+32:44.300 --> 32:51.500
+I actually deploy my local webpage to and connect it to a domain and then have it live
+
+32:51.500 --> 32:52.940
+and breathe in the real world?
+
+32:52.940 --> 32:55.700
+How do I even do this?
+
+32:55.700 --> 33:00.860
+It's like these small little last mile steps that we forget that people need to be onboarded
+
+33:00.860 --> 33:07.380
+to as well, even just on the process side or on the simple kind of closing the loop.
+
+33:07.380 --> 33:13.340
+Okay, the code is done, everything is set up, the network, we have the cloud, everything
+
+33:13.340 --> 33:14.340
+is there.
+
+33:14.340 --> 33:16.180
+All right, now how do I bring all these pieces together?
+
+33:16.180 --> 33:17.180
+What's the duct tape?
+
+33:17.180 --> 33:18.180
+What's the magic?
+
+33:18.180 --> 33:19.180
+Right?
+
+33:19.180 --> 33:24.940
+People don't always know these things and that also comes back to the name of my company
+
+33:24.940 --> 33:26.220
+is RTFM, right?
+
+33:26.220 --> 33:30.140
+But that's exactly the problem, RTFMing, everything is just too hard.
+
+33:30.140 --> 33:31.900
+There's too much information, right?
+
+33:31.900 --> 33:35.580
+There's too many things to learn, there are too many aspects, you talk about people, there's
+
+33:35.580 --> 33:39.860
+so many titles these days, these inflators are like full stack engineer and just getting
+
+33:39.860 --> 33:42.140
+expertise in the front end or back end is hard.
+
+33:42.140 --> 33:46.500
+Now you want somebody to be expert in everything and everything comes between the duct tape
+
+33:46.500 --> 33:51.180
+between full stack and there's middle stack now these days, how do you connect front end
+
+33:51.180 --> 33:52.180
+and back end?
+
+33:52.180 --> 33:58.020
+How does my database actually talk to my webpage?
+
+33:58.020 --> 34:04.820
+These are things that are not as intuitive as people imagine and think, right?
+
+34:04.820 --> 34:09.660
+And cultivating this expertise takes time, they say that expertise takes about 20 years
+
+34:09.660 --> 34:10.660
+to cultivate, right?
+
+34:10.660 --> 34:15.300
+It's 20 years of hands-on working knowledge, they say to become an expert at something
+
+34:15.300 --> 34:19.180
+you need about 20 years of experience and you are always learning, you're constantly
+
+34:19.180 --> 34:20.180
+learning new things.
+
+34:20.180 --> 34:25.860
+Even senior engineers like a little bit, oh wow, I had no idea that this new endpoint
+
+34:25.860 --> 34:33.620
+could be exposed or this product, this could be used or this feature even exists, so don't
+
+34:33.620 --> 34:37.060
+feel like, just because you're new that you're learning new things, you'd be surprised that
+
+34:37.060 --> 34:41.460
+there are senior engineers that learn new things every single day.
+
+34:41.460 --> 34:44.020
+And the tools are evolving and everything is evolving and everything is evolving under
+
+34:44.020 --> 34:45.020
+our feet.
+
+34:45.020 --> 34:48.620
+We used to work on servers, now we're in serverless, okay, what does that mean?
+
+34:48.620 --> 34:50.780
+Everything needs to now be defined.
+
+34:50.780 --> 34:54.340
+It's crazy, it's crazy how fast everything is moving and the expectation that you need
+
+34:54.340 --> 34:55.340
+to know everything.
+
+34:55.340 --> 34:58.340
+You can't know everything, you just can't.
+
+34:58.340 --> 35:01.220
+No, you cannot, it's not possible.
+
+35:01.220 --> 35:04.820
+I don't think our brains are made for that and I don't think it's an healthy way to do
+
+35:04.820 --> 35:09.540
+it anyway because you'll fill your mind, your brain up with so much information that you
+
+35:09.540 --> 35:13.340
+just have to unlearn constantly because this industry is not done, right?
+
+35:13.340 --> 35:15.660
+It's not close to being done.
+
+35:15.660 --> 35:21.540
+It's evolving, it's growing, we're doing stuff, then doing it differently because we think
+
+35:21.540 --> 35:25.380
+it's better and then I need to end up going back to how we used to do it because turns
+
+35:25.380 --> 35:29.820
+out this new idea wasn't so great or it wasn't as successful.
+
+35:29.820 --> 35:33.100
+That is part of tech because tech is kind of a science, right?
+
+35:33.100 --> 35:40.140
+You get a computer science degree and the reason I think, personally, it's associated
+
+35:40.140 --> 35:46.980
+with science is because we're constantly experimenting and we're trying to find answers through experimentation
+
+35:46.980 --> 35:51.660
+and as with science, oftentimes, it leads you to understand that you were trying to
+
+35:51.660 --> 35:56.220
+solve the wrong problem and then you have to go back and say, okay, what is the real
+
+35:56.220 --> 35:59.340
+problem because clearly I misunderstood it the first time.
+
+35:59.340 --> 36:04.740
+If you think about the whole idea of static site generators and stuff like Dentalify,
+
+36:04.740 --> 36:06.940
+that's not really new.
+
+36:06.940 --> 36:13.520
+The way it's being offered is new and it definitely helps a lot but I mean, we used to do that
+
+36:13.520 --> 36:19.900
+in the days when we FTPed stuff up to a server, you would have the static site on your local
+
+36:19.900 --> 36:20.900
+machine.
+
+36:20.900 --> 36:32.420
+It takes like two hours, your FTP is just like copying files and in the meantime, somebody
+
+36:32.420 --> 36:38.260
+updated the file and it's like you have to restart, you got to restart and see, I remember
+
+36:38.260 --> 36:39.260
+those things too.
+
+36:39.260 --> 36:40.260
+I remember that.
+
+36:40.260 --> 36:47.380
+Those were the days but yeah, so it's true, like the cloud or high speed internet and
+
+36:47.380 --> 36:50.620
+all these things made all these processes faster but not many of them have actually
+
+36:50.620 --> 36:56.060
+even evolved or changed that much, they just look different because okay, so now my files
+
+36:56.060 --> 36:57.060
+are hosted, great.
+
+36:57.060 --> 37:02.140
+When I have access to them, very, very easily, so the internet or cloud, but like kind of
+
+37:02.140 --> 37:09.620
+the method, methodology, the framework, it's very similar and I think that kind of similarity
+
+37:09.620 --> 37:15.020
+helps in that it helps lower the barrier of entry because it's familiar, right?
+
+37:15.020 --> 37:19.540
+They say like kind of, even when you talk about like your web experience, right, a lot
+
+37:19.540 --> 37:23.980
+of the web pages look the same because people have like this tendency to scroll in a very
+
+37:23.980 --> 37:28.340
+specific way and they expect like the menu to be here and they expect the image to be
+
+37:28.340 --> 37:33.180
+here and the more familiar it is to them, the easier it is for them to adapt, right?
+
+37:33.180 --> 37:38.660
+And that's why Android was a clone of iPhone and I know a bunch of examples like that.
+
+37:38.660 --> 37:43.660
+But yeah, so I agree, I think that a lot of the things that we try to change and evolve
+
+37:43.660 --> 37:46.700
+and make completely different and do a hard reset on and then we discovered, okay, maybe
+
+37:46.700 --> 37:51.420
+the older practices were the right ones, but they just need to be introduced into the new
+
+37:51.420 --> 37:59.700
+world or have better experience or better interfacing or better support or backup or
+
+37:59.700 --> 38:06.060
+cloud and be hosted and easily collaborated upon and so I think the world is moving to
+
+38:06.060 --> 38:08.540
+the right place in terms of how we work together.
+
+38:08.540 --> 38:14.860
+I think COVID has taught us a lot about that, but how to work in distributed remote, you
+
+38:14.860 --> 38:21.340
+know, collaborative operations and I think a lot of the DevTooling being introduced puts
+
+38:21.340 --> 38:24.540
+an emphasis on that and how you collaborate better, how you communicate better, embedding
+
+38:24.540 --> 38:32.380
+like kind of communication into tools, commenting, context and a lot of things and I'm hoping
+
+38:32.380 --> 38:36.220
+that that's going to be kind of a continuation and just going to get better from there.
+
+38:36.220 --> 38:40.140
+I really do think Netlify took a well-known concept and they just implemented it better
+
+38:40.140 --> 38:42.700
+and sometimes not the right thing to do.
+
+38:42.700 --> 38:43.700
+Yes.
+
+38:43.700 --> 38:44.700
+Mm-hmm.
+
+38:44.700 --> 38:45.700
+No, for sure.
+
+38:45.700 --> 38:46.700
+I take nothing away from Netlify.
+
+38:46.700 --> 38:47.700
+I absolutely love what they do.
+
+38:47.700 --> 38:55.540
+I love the product I use literally every day and they do a lot to educate people around
+
+38:55.540 --> 38:59.780
+how to use their tools because I think that's what's also sometimes missing is people create
+
+38:59.780 --> 39:07.140
+a great tool that they know how to use and some of it's obvious, but some of it's not
+
+39:07.140 --> 39:12.460
+and I think a lot of questions people need to the industry have is when do I need to
+
+39:12.460 --> 39:19.140
+start caring about X, when do I need to start understanding Y and I think that is something
+
+39:19.140 --> 39:26.260
+I feel is definitely missing is a pathway to follow and I think one of the reasons why
+
+39:26.260 --> 39:32.020
+there aren't very many of those is because it's really hard in tech because it's so diverse
+
+39:32.020 --> 39:37.460
+because like you said, there's all these roles like front of the front, front end, middle,
+
+39:37.460 --> 39:42.780
+back end, full stack, it's like, okay, cool, so first maybe I need to pick one of those,
+
+39:42.780 --> 39:43.780
+do I?
+
+39:43.780 --> 39:49.260
+It's like, no, not really, it helps, so it's hard and I think that's part of the reason
+
+39:49.260 --> 39:54.380
+why there isn't pathways because it's hard to define a clear pathway, but again like
+
+39:54.380 --> 40:02.120
+what Netlify has done, something old made it new and better, I think we need to incrementally
+
+40:02.120 --> 40:07.820
+improve that as well, I think one of the other things where there's a lot of work needed
+
+40:07.820 --> 40:13.860
+is testing, like even me, as a person who's been coding for quite a long time, how many
+
+40:13.860 --> 40:19.140
+of my projects really have good testing, not a lot because it still doesn't feel like it
+
+40:19.140 --> 40:23.940
+fits into my workflow, like there's all these modern tools and stuff but it's still some
+
+40:23.940 --> 40:30.380
+of, doesn't just naturally fit in, it's still an afterthought and as soon as it becomes
+
+40:30.380 --> 40:34.940
+an afterthought, you forget about it because other things take priority and you always
+
+40:34.940 --> 40:39.420
+say, I'll still add testing, I'll still add testing but you end up never doing it, I mean
+
+40:39.420 --> 40:45.980
+I work with some clients that have really big projects with little to no testing because
+
+40:45.980 --> 40:50.940
+it's not easy, it's not baked into my workflow so I'm going to not do it because I need to
+
+40:50.940 --> 40:55.420
+land this feature or I need to fix this bug and yeah, sure, if we had testing, we would
+
+40:55.420 --> 41:00.220
+have found it earlier, maybe we would have been able to fix it quicker but because it
+
+41:00.220 --> 41:03.820
+doesn't fit into my workflow, it's just never getting done.
+
+41:03.820 --> 41:07.620
+You're right, that's the kind of thing that I even opened with, that's how oftentimes
+
+41:07.620 --> 41:12.420
+people thought about things like security as well and so I'm happy to see that undergoing
+
+41:12.420 --> 41:19.100
+a revolution as well and I think testing also needs to find its way and have a more native
+
+41:19.100 --> 41:24.300
+and smooth transition into development processes, maybe automate the things that are obvious
+
+41:24.300 --> 41:32.660
+but obviously a lot of the things around testing automation makes it feel like it provides too
+
+41:32.660 --> 41:38.660
+many, same way as security, false positives, things that are irrelevant and it can never
+
+41:38.660 --> 41:44.700
+really be a replacement for a human or manual intervention and then we're like, oh, we hate
+
+41:44.700 --> 41:48.580
+testing, this sucks, I don't want it, it's too much friction and I need it.
+
+41:48.580 --> 41:53.380
+But it probably also needs to undergo an evolution that makes it a lot more natively integrated
+
+41:53.380 --> 41:58.180
+into processes because yeah, quality is important and not even just from the security side which
+
+41:58.180 --> 42:02.540
+is like bugs and things like that, that can expose your user experience, wrongfully using
+
+42:02.540 --> 42:07.300
+your product, enjoying your product, thinking it works well and those are things that are
+
+42:07.300 --> 42:13.780
+critical as well so it's strategic, it's business critical so we have to think about how we
+
+42:13.780 --> 42:17.860
+bring that to the forefront as well and there's so many areas that need to undergo this evolution
+
+42:17.860 --> 42:22.540
+and I think they will, I think a lot of that is coming kind of to the front, developers,
+
+42:22.540 --> 42:33.900
+decision makers and also with the growth and skill and size of everything that's happening,
+
+42:33.900 --> 42:39.540
+there is a skill shortage, there's a gap and we need to be able to onboard our engineers
+
+42:39.540 --> 42:45.460
+quickly, we need them understanding our tooling rapidly, we need them to bring value rapidly
+
+42:45.460 --> 42:49.780
+and all of that can only happen but we simplify our tools and make them easier, easier to
+
+42:49.780 --> 42:57.180
+adopt and learn and integrate well into well-known processes and everything needs to undergo
+
+42:57.180 --> 42:58.180
+that, everything.
+
+42:58.180 --> 43:01.140
+Yeah, this has been great.
+
+43:01.140 --> 43:04.740
+I think I have two final things before we wrap up.
+
+43:04.740 --> 43:09.820
+The first one is with all of this, like so many things going on, so many areas that need
+
+43:09.820 --> 43:15.660
+improvement, so much to learn, how do you stay motivated?
+
+43:15.660 --> 43:20.500
+I find it exciting to be honest, I think it's very, very interesting to see all this happening
+
+43:20.500 --> 43:25.180
+and to have the opportunity, the privilege to see where we were and where we've gone
+
+43:25.180 --> 43:31.260
+into, I'm old, I'm not young, I'm not young in this industry so I have had that privilege
+
+43:31.260 --> 43:36.580
+of seeing kind of, yeah like you say, years ago we were copying files to FTP, now we're
+
+43:36.580 --> 43:43.620
+working in the cloud and that's way better and so I have the hope that this is what keeps
+
+43:43.620 --> 43:48.780
+you motivated and that things are only always improving and getting better.
+
+43:48.780 --> 43:52.180
+The experience is something that's at the forefront, whether it's the developer experience,
+
+43:52.180 --> 43:58.060
+user experience and making sure that everything is great because that's what matters eventually,
+
+43:58.060 --> 44:03.180
+we want people using our product, we want people getting wrapped up easily whether it's
+
+44:03.180 --> 44:08.660
+on the build side or on the user side and that keeps me motivated because I think that
+
+44:08.660 --> 44:14.100
+it is an exciting thing to watch and see, to be a part of a trend and an industry that's
+
+44:14.100 --> 44:17.820
+constantly evolving and changing, you're constantly learning and I like to be in microphones,
+
+44:17.820 --> 44:22.300
+that also motivates me but yeah, it gets hard, there's friction, there are things that you
+
+44:22.300 --> 44:28.260
+always constantly are learning, you'll never learn everything and like you said, you always
+
+44:28.260 --> 44:31.940
+feel like there are gaps and things to overcome but the thing that should keep you motivated
+
+44:31.940 --> 44:39.100
+is now a few things, first of all, community has become a really core piece of development
+
+44:39.100 --> 44:44.260
+these days, there are almost no developer communities, developer languages or whatever
+
+44:44.260 --> 44:49.260
+it is that don't have communities and there are plenty of people that will be happy to
+
+44:49.260 --> 44:53.580
+help you and mentor you and once upon a time, we didn't have the internet, we didn't have
+
+44:53.580 --> 44:57.940
+forums, we didn't have Reddit, we didn't have communities, we didn't have meetups, people
+
+44:57.940 --> 45:02.460
+had to figure it out on their own, now you do have peers in the industry that you can
+
+45:02.460 --> 45:06.500
+learn from and I think that's really exciting and that's keeping you motivated and have
+
+45:06.500 --> 45:11.140
+friends to the journey that can join you and one of the things, now I'm remembering what
+
+45:11.140 --> 45:16.940
+I wanted to say earlier is that I've always loved the Apache Software Foundation sentiment
+
+45:16.940 --> 45:21.060
+and maybe they don't apply it as well as they should but the open, friendly, welcoming,
+
+45:21.060 --> 45:28.060
+patient kind of mindset, zero tolerance for toxicity and I think a lot of communities
+
+45:28.060 --> 45:32.940
+are enforcing these types of things that are being welcoming, friendly, patient, listening,
+
+45:32.940 --> 45:37.060
+wanting to help and so I think that that should be motivated, don't think that you're alone
+
+45:37.060 --> 45:40.380
+on this journey, don't think you're the only person that's had difficulty, don't think
+
+45:40.380 --> 45:47.380
+that you're not good enough, don't let the imposter syndrome win and I think that is
+
+45:47.380 --> 45:51.460
+something that I can really, I have so much appreciation for the people that take from
+
+45:51.460 --> 45:56.060
+their time like you with this podcast and others and surrounded by and all the things
+
+45:56.060 --> 46:00.260
+that have been built in order to make this easier, to make this transition easier, to
+
+46:00.260 --> 46:06.540
+make people feel that they have a space and a safe space so that's wonderful and that
+
+46:06.540 --> 46:07.540
+keeps me motivated.
+
+46:07.540 --> 46:08.540
+That's awesome.
+
+46:08.540 --> 46:09.540
+Thanks so much, Sharon.
+
+46:09.540 --> 46:15.580
+I'm glad to be finding out this talk because it was really, really good.
+
+46:15.580 --> 46:21.080
+Also in closing, is there anything you'd want to bring to the attention of people, any closing
+
+46:21.080 --> 46:24.860
+words you'd like to share with the community out there?
+
+46:24.860 --> 46:25.860
+Sure.
+
+46:25.860 --> 46:32.420
+Yeah, so I run the TLV community, TLV community on Twitter and TLVcommunity.dev right now.
+
+46:32.420 --> 46:37.620
+Our upcoming event is DevOps Days Tel Aviv, which is more on the system engineering side
+
+46:37.620 --> 46:41.660
+but if you have something to share and you want to get involved, the CopyPapers is open
+
+46:41.660 --> 46:47.340
+until August 31st and we'd love to have everyone from the global community, from the, for junior
+
+46:47.340 --> 46:50.820
+talks to senior talks, it's from what I call noob to ninja.
+
+46:50.820 --> 46:51.820
+Everybody is accepted.
+
+46:51.820 --> 46:55.080
+We really want everybody to come and have a good experience and learn things so please
+
+46:55.080 --> 47:01.140
+don't hesitate to either get involved and submit a talk or even just join us.
+
+47:01.140 --> 47:05.580
+And our community as well, we're very, there are a lot of really great community initiatives
+
+47:05.580 --> 47:09.540
+at least coming out at Tel Aviv, like Ops School, which trains junior operations engineers
+
+47:09.540 --> 47:14.580
+and other things and if you're looking to get involved and have mentors, there's this
+
+47:14.580 --> 47:18.300
+really great mentoring project that was started on Twitter and in the Tel Aviv area if you're
+
+47:18.300 --> 47:23.460
+from Tel Aviv, where there's like this spreadsheet of people that have, that have emphasized
+
+47:23.460 --> 47:28.460
+their expertise and who they're and the time available that they have for mentoring and
+
+47:28.460 --> 47:34.220
+so you can tap into mentoring communities and there's plenty to learn and please don't
+
+47:34.220 --> 47:35.220
+hesitate to reach out.
+
+47:35.220 --> 47:38.700
+It's really, really important for you to feel like you have a community and you do.
+
+47:38.700 --> 47:39.700
+Yeah, for sure.
+
+47:39.700 --> 47:44.260
+Thanks so much and we'll put links to all of this obviously in the show notes.
+
+47:44.260 --> 47:45.460
+Thanks for taking your time.
+
+47:45.460 --> 47:48.980
+I really appreciate it and have a lovely rest of your day.
+
+47:48.980 --> 47:49.980
+Thanks so much.
+
+47:49.980 --> 47:54.540
+Thank you for listening to this episode of the My Senior Network Podcast.
+
+47:54.540 --> 47:58.980
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+
+47:58.980 --> 47:59.980
+of choice.
+
+47:59.980 --> 48:06.300
+This helps others find us and helps us make a better podcast for you on this course.
+
+48:06.300 --> 48:11.340
+You can also find and follow us on Twitter at MeetWeirdMyCindium and join the community
+
+48:11.340 --> 48:12.340
+on Discord.
+
+48:12.340 --> 48:39.260
+All the links are available in the show notes.
+
+32:00.680 --> 49:06.260
+join the community on Discord at MeetWeirdMyCindium and join the community on Discord.
+
+49:06.260 --> 49:34.060
+All the links are available on Discord at MeetWeirdMyCindium and join the community on
+

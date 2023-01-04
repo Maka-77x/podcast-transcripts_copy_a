@@ -1,0 +1,787 @@
+Welcome to the Mycelium Network Podcast,
+a podcast all about early stage web developers and
+the mentors and teachers that help them along the way.
+Today, we are joined by Soham Shah,
+a software engineer based out of India,
+a front-end developer who plays around with React,
+Next, JavaScript on a daily basis,
+also an open-source contributor,
+and I've been a Linux Foundation mentee,
+and has served as a collaborator at Chakra UI in the past.
+Welcome, Soham.
+Hi. Yeah, thank you for having me at the podcast.
+It's really great that you are
+doing so amazing stuff for the community, so yeah.
+It's my pleasure. So I think to get this started off,
+maybe tell me where you're currently at,
+and fun fact about yourself.
+Yeah, sure. So currently,
+I'm working as a software engineer at Marvin,
+and my major work revolves around React and the JavaScript frameworks.
+So currently, I am having alignment towards the front-end side,
+but I'm passionate about software engineering in general.
+So yeah, that is what I do on a daily basis.
+Yeah, fun fact could be like I am
+a sucker for the programming tease and the swags,
+like I have them a lot.
+Like I can show like I'm having
+programming code written on my T-shirt right now as well.
+So yeah, I just love these coding and the nerdy stuff. So yeah.
+I'm a sucker for that too.
+I completely understand.
+So it seems like you're really involved in the open source world,
+and I actually know about you from your contributions to MDN.
+So can you maybe tell us a few words about your open source experience?
+Yeah. So open source has been one of
+the parts where I got the confidence into what I'm learning.
+So generally, when you are learning something,
+you need to implement.
+So there are a lot of things that open source has helped me.
+Again, one of the major things that I found is the mentorship part,
+because everyone who has written this code,
+if we are contributing,
+then our quality is evaluated and reviewed.
+So that is something that I have got a lot of learning from that.
+So even what PR I made at MDN,
+that just small thing,
+I still remember what I wrote.
+It was related to this screen reader visibility.
+So I still remember that,
+and whenever I write code for that,
+I remember what fundamentals that you need to follow.
+So also like at Chakra UI,
+I had a good opportunity to do the issue triaging.
+So that was also something that I could understand this large code base,
+and everyone is so helpful.
+So I feel very blessed even specifically as a very new into this space,
+everyone is so much supportive and that mentorship part has a lot much on me.
+So that is one thing that I have particularly loved about open source.
+Apart from that, you build a very good network with the folks.
+So that is what I have truly enjoyed.
+We used to have a long,
+long just chitchatting with the contributors and the collaborators,
+just knowing each other.
+So that was also something that you don't really just do work.
+You also do something that connects you.
+So the open source is for everyone,
+and whatever the technologies,
+whatever things are being built,
+they are all indebted to open source.
+So even small contribution is making such big impact,
+and that is also something that excites you to write more and more better code,
+or it could be more contributions whenever you are available.
+So yeah, that's my personal alignment to open source.
+Now that you've been active,
+you've been active down the software industry for a while.
+But maybe you can tell us a little bit about your background
+and what made you decide to get involved in this industry in the first place.
+Yeah. So if I talk about my high school,
+so I was a science student,
+so there were a lot of options for me.
+I chose software engineering because that was
+the best option that I could get because what I have seen,
+it has a lot of opportunities.
+You can literally go into a lot of areas,
+and that too involves a lot of research as well.
+If you're into research,
+if you're into doing something new,
+then AI and everything are there which are under aggressive research.
+Today, like blockchain and the other metaverse technologies
+are there for a lot of research.
+So that was my reason for choosing software engineering,
+but I was literally clueless.
+I was just going to college and coming back,
+doing those assignments and all.
+But I always had that fear that,
+will I be able to go at a really good company?
+So that phase of mine where I was just in the bubble of my college and that small network,
+I had that competitive mindset that,
+okay, this person is doing better than me,
+so will I be able to do even better?
+So that competitive mindset actually was inside me that,
+am I doing better?
+Even I used to see more GitHub contributions,
+I used to get that envy feeling that,
+will I be able to get that?
+I was always having that fear under my head that,
+what after college?
+What after my graduation?
+Everything was that.
+Then I decided, okay,
+let's not get into this mindset and let's come out and see what
+the other people are doing on the Internet.
+Then slowly and gradually,
+I started joining this Discord servers of different communities.
+I joined this React Flux,
+which is very popular where you see job posting,
+where you see different questions.
+So that was something I saw people are just helping out.
+You are just asking a question and a lot of people who are
+very popular people in the maintainer and open source world,
+they are helping to solve even small, small bugs.
+So that made me realize that,
+okay, it is not that you are into competition,
+but there I learned the importance like open source fundamental,
+that it is about collaboration first and code second mindset.
+So that actually made me understand,
+okay, there is a lot more to it.
+Then I first stepped into machine learning side of things.
+So I did a lot of learning on that side and I really enjoyed it.
+But after a certain point,
+I was getting into proper research.
+But then due to some reason,
+my friend just told me like,
+you can try web development.
+I'm doing this. So it was sort of a freelance work.
+So I did that and I really enjoyed it.
+I didn't know that CSS could be this interesting.
+Generally, it is a mindset that when you start learning,
+then you have to do it.
+So CSS was challenging,
+but also interesting at the same time.
+So I was getting that alignment.
+Then I saw web development has,
+if we see on a larger scale,
+it has a lot of job opportunities.
+Plus, I found out that my software engineering fundamentals
+are clearly seen practical in that part more,
+compared to what I was doing in other side.
+For example, if I say client server architecture,
+that is one main paradigm of software engineering.
+So I could see that in practice in web development.
+So that just gave me that kick.
+Plus, one thing that you can build stuff.
+So you can even build small application
+for your day-to-day real usage.
+So that actually gave me that confidence.
+At that point, I realized that I can switch
+my focus and attention to just one thing,
+at least for now, I can go with web development.
+It is not confined to just this field,
+but I will do this.
+So in AI, I did some research and review papers as well.
+But I decided that this is not going to be,
+at least for now, this is not going to be my career path.
+And I started learning JavaScript.
+I started learning React and all.
+So this was my way I divide the trajectory.
+Basically, I got into web development.
+And then I started just being involved in the community.
+So by that, I learned a lot of things.
+That's very interesting.
+Yeah.
+And so throughout this whole process
+of learning and experimenting and kind of switching even,
+switching careers, if you want to call it,
+what have you found the most challenging about the industry
+and about learning?
+OK.
+I guess the most challenging part is the start point,
+the head start.
+So when I was just into web development,
+so first thing that I faced was the tutorial hell.
+Anyone who is into just starting out any technology,
+if one just sees the YouTube videos
+and just do the line by line implementation,
+then the learning is actually cut off.
+And that is just literally you are getting that fake dopamine
+hit that you have made something.
+But that is actually that is just
+you are doing from YouTube video.
+So that I did for a long time.
+I used to watch like, OK, I want to learn, for example, React
+table, right?
+I want to learn table stuff on React.
+So I used to watch that whole video.
+In reality, it should be I should read the documentation
+or I should read blogs.
+So this was a big, big issue.
+I used to spend hours and hours of watching videos,
+even the different courses on Udemy and all.
+I took them.
+And I was just watching and watching
+and very less implementation was there and very less mind
+I was putting into it.
+So that actually was a big challenge.
+Even in machine learning, I realized
+that what I was doing previously was just
+like looking at different YouTube videos
+or Udemy or different courses.
+And then I was just coding it out on my ID
+and just making the output come.
+But I feel that this is actually not the right way to learn.
+So then I realized that I should focus.
+I should pressure myself a little bit
+that I go to these documentation sites or the blog sites
+or even if I'm watching a tutorial video,
+I should be mindful that I am using my own brain
+to make something, giving things time.
+So then this was a big challenge for me at least.
+Like I spent more than four months
+and even I got internship with that particular knowledge
+that I was doing.
+But even after the internship, I realized that I still
+lack the fundamentals.
+So this was something very insightful.
+And then I came across a boot camp called Neoji Camp.
+So this web development boot camp actually
+helped me a lot in my career.
+What I have learned from there, the community and everything,
+I am totally indebted to what I have learned in that boot camp.
+So there can be any different sort of these resources.
+But the idea is that even there you
+do this tutorial copy pasting or this type of thing,
+then again, that would be an issue.
+So yeah, one idea that I have followed that first thing
+that I have to do is think by my mind,
+then go to documentation, understand it thoroughly.
+And then if I'm getting nothing, then I
+go to maybe just the YouTube video and just quickly see.
+But it is not that follow that thing.
+So yeah, that was a little bit thing
+I could share about my experience.
+Yeah, that's interesting.
+Yeah, I think for myself also, what I have found
+is I find it hard to learn something
+if I don't have anywhere to use it in the moment,
+if you know what I mean.
+So I find if I can think of a need,
+like the way they say scratching your own itch, that thing.
+So I think of an idea, and I'm like, OK, cool.
+So I have this idea.
+So what technologies are out there that I'd like to learn?
+And then I would pick one of these technologies
+that I'm not as familiar with.
+And I would learn it and use it to build this thing
+that I didn't want to build for myself.
+I kind of feel like that is a better way for me
+personally of learning, other than just building yet another
+to-do application or something like that.
+That is very spot on.
+The one which you mentioned, the way
+to go is understanding the problem
+and then searching for the available solutions,
+implemented solution in the market.
+For example, if I had to implement a graph library,
+I won't be going to a tutorial where the guy uses a graph
+library.
+But it would be like what my design says,
+what my future product requirement says,
+or what I have at least imagined for my project
+that I would be implementing this stuff in my graph.
+And then I see different options,
+like how do you go for shopping?
+It is exactly like that.
+You see different things that are similar for your use case,
+but you choose whatever fits your need,
+not what the shopkeeper gives us.
+So that is the idea that I feel everywhere I have seen.
+In fact, when my professional thing started,
+we had to write these design documents
+for different implementations.
+So we used to research on various options
+and the library which we want to introduce.
+So because that takes up the bundle size,
+so the practice should be very mindful about the feature
+and not the technology.
+I agree 100%.
+Yeah.
+So you've mentioned a couple of resources,
+but if you had to pull together a couple of things
+that you found particularly useful up to now,
+what are those resources?
+Right.
+For resource, I would say that first thing
+that the best resource, I would say,
+is the MDN documentation, at least for web development.
+That is the way that should come into practice.
+Even if it is difficult for one as a beginner,
+still it is something that you need to get used to it,
+at least the starting part.
+Because all other resources are sort
+of an extract from this resource only.
+So not just this, but the very source of truth,
+in the community, I guess it is the MDN docs.
+So other resources are an extract of this.
+So one thing that if you need anything,
+then this is going to be your source of truth.
+You can quote it.
+It is given at MDN.
+So there is a high possibility that we
+need to just reconsider our belief about XYZ thing
+that we are knowing about JavaScript or web in general.
+But apart from this, the fundamentals
+should be very, very clear about any language.
+This I have realized when I got some challenging work.
+So on building simple Figma screens,
+implementation into code is very simple.
+We can just make some CSS changes
+and just make the thing work.
+But when there is complexity, when
+there is making things as scale, or any more complexity
+will be introduced, then you will realize, OK,
+this concept should be known.
+Else, on a longer run, the code will be spaghetti.
+So that concept, JavaScript React concepts
+are very important.
+So I would say JavaScript.info is the website
+that I have admired a lot.
+They have put everything so much structured and nicely
+with very good example.
+So for a beginner, this is the resource.
+Even it has helped a lot in interviews
+where you have to crisp.
+You want crisp info.
+So JavaScript info is very good for beginners.
+Apart from that, there is a YouTube playlist
+called Namaste JS, which is by Akshay Saini.
+So he also explains the JavaScript concepts and all
+in very, very good depth.
+And also, one thing that I realized,
+that even if you are doing that tutorial healthing in this
+as well, it applies the same.
+So this resource is also good.
+But if you're not implementing, then it
+is, again, the same story.
+But the reason why I love this playlist or the videos
+of Namaste JavaScript is the way that is being explained
+is from the core, so that I particularly like.
+It is not just syntax, but it is how it works on the behind.
+So yeah.
+But apart from that, if you really
+want to work on particular things like Next.js or Webpack
+or something like that, then there
+is Frontend Master's course, which are pretty good.
+I got it from GitHub pack.
+So if you are a student, then definitely you
+should exercise your GitHub student pack
+and get Frontend Master's, or else you can buy as well.
+But Frontend Master's course are really, really quality courses.
+So definitely, I would consider buying or even
+for resource or for the learning.
+So yeah, you just need to search the right things,
+and Google will make the SEO work for you.
+So just like searching, keep building, SEO will work.
+Yeah.
+Yeah, I have to agree.
+Frontend Master's is really good.
+I use that as well.
+So you've mentioned a whole bunch of resources,
+and they sound great.
+But I'm wondering, what do you find missing or stuff
+that can be improved?
+OK, in these resources, one thing
+that if we see blog-based resource, for example,
+JavaScript Info, so if you just read those blogs
+and just make the examples that they give,
+you just implement them, then I guess it won't be enough.
+So when you read a book, if you just read the whole book
+without thinking or implementing about it,
+then it won't make any sense.
+So it is the same with JavaScript Info.
+For example, if you have learned about closures.
+But the ideal or a good way, I would say,
+it won't be just stopping at that point.
+You can just give yourself some time to digest.
+Then you can look for other blogs available maybe
+on Medium or Hashnode, these blogging websites,
+and know how other concepts that you might have missed.
+For example, the disadvantages of closures.
+This is a topic that might have not
+been covered at JavaScript Info.
+So you can just see.
+So when you give yourself time to digest things,
+then only it will actually fruit.
+Else, you will forget.
+If you read the whole JavaScript Info in one day,
+then it won't result into anything.
+So that is one thing that is being missing.
+The other thing, I feel that they are lacking code.
+They are not having enough code examples
+that you need to become a master or at least a good level
+at the particular technology.
+Not pointing at any one, all the other resource
+because they have limitation of number of examples
+because they don't want that content to be very long.
+So as a developer, what I used to do,
+I used to Google JavaScript questions on closures.
+There will be 10 different websites.
+I just used to pick and put it on my GitHub repo
+so I can refer them later.
+So this is the way we can just compensate that
+because code is everything, right?
+Enough number of lines of text is not that much,
+how much 10-liner code can explain.
+So that's why code is something that you
+need to have in abundance when you are learning.
+And one thing that JavaScript Info example I gave, right?
+So one thing I used to do with my friend,
+we used to do pair learning.
+So what we used to do, we used to pick
+some topics of our interview questions, right?
+JavaScript fundamental questions.
+For example, it could be closures or promises.
+We used to just divide amongst each other.
+And then we used to explain those to each other.
+And then we used to have discussions.
+And we used to have debates.
+And then we ran across Google and searched
+what was the real right answer.
+So those conversations, I feel they
+were a lot more productive than anything else.
+So the human connect is something different
+that I have realized that when you
+have friends who are into the same path you are going towards,
+then it is very helpful.
+And that is also a big, big benefit of being in a community.
+You just text on Discord that, OK, I've learned this.
+I want to explain that to anyone who wants to join.
+Go on the channel and just start discussing, right?
+So this is one thing that has helped me a lot in my interview
+learning process.
+And yeah, that is one fond memory.
+And I also made very good friendship
+with the bond as well.
+That is really, really interesting.
+I've never heard people say that before.
+The specific having a debate and that whole thing,
+that's super interesting.
+And I can imagine that'll work really well.
+I was just telling that we had a big, I guess,
+one and a half hour debate on JavaScript is interpreted
+language or a compiled language.
+Because there is not exactly one stamp answer to that.
+There are a lot of complexity on what perspective you are talking.
+So that was a really amazing discussion.
+So yeah, please go ahead.
+No, no, thanks for sharing that.
+That's really interesting.
+So I was thinking, you've been through the interview process.
+So what do you think about interviews in the tech industry?
+It's a little scary, and maybe you think should be changed?
+Or how do you think it can be improved?
+Yeah, so one thing that I recently gave a lot of interviews.
+So one thing that in common which I realized
+that was a little bit of blocker was I was not even
+having enough context of what I will be giving interview
+for that, right?
+So just an example.
+So some companies like ask something very, very advanced
+in the first round itself.
+And some of them just ask basics.
+Or even if we are doing for a front end role,
+I was asked something very unexpected about system design.
+So that is one thing that there should be a little bit clarity
+upon what skills you will be assessed in a particular round.
+So you are prepared.
+For example, if I was asked about web performance, right?
+But at that point, I was not remembering
+what I learned about web performance,
+at least at the time of the interview.
+So I had to ask that, could you let me Google?
+So they did let me, but what if they didn't?
+So I was not remembering the names like FID or the terms.
+So that could lead that I am not knowing.
+But in reality, I was knowing.
+I had learned about or experimented
+about these things before.
+So yeah, these type of things.
+I was once asked like dynamic programming question.
+So generally, I at least don't expect a lot of this
+complex algorithm as a fresher into front end
+that we are asked a lot more this typical data structure
+algorithm question.
+But even if they're coming, then I
+should know that, OK, I should be prepared.
+So this is one thing.
+Else I have a feeling that for interviews,
+if you are prepared enough, then things are very, very simple.
+But it is not the case for every time and everyone.
+Some people might be a little bit nervous
+or that is into nature because that depends.
+So for that, I feel that practice
+is something that gives you confidence.
+But we as a human, we need validation.
+So even if I have solved 100 questions
+and I practice a lot, but that is not validated by someone.
+So I need someone to validate that, OK, I'm
+at least ready to appear for interview.
+So peers helped a lot.
+I used to give mock interviews with my friends on Twitter.
+So two, three people on Twitter helped me for mock interviews.
+So even that person is not as equal experience as us,
+but at least we can be confident that am I able to explain.
+So that part I can add.
+Apart from that, I always have that one sort of fear
+that whatever I am knowing that in one interview,
+I was asked, do you know CSS?
+Then I literally had no answer.
+If I say yes and that I'm asked very, very difficult
+or in-depth question of CSS, then what will happen?
+So that thing, I always am not sure
+that how much in-depth knowledge you want or you
+need for a particular role, because that is very variable.
+So that was very, very.
+And I've seen in interviews, you are asked yourself
+to rate on some numbers, which I particularly find weird,
+because I am generally asked, out of 10,
+how much you rate yourself.
+So I don't know how, because even if you are reactive,
+you are not Dan Abramo, right?
+So you don't know everything.
+So you cannot tell you are above eight or nine.
+So yeah, that sometimes.
+But it's fine.
+I don't think that is any issue.
+That's just a way to see if you are confident enough.
+Yeah, I guess.
+Yeah, yeah.
+So just a pop quiz question.
+Would you rather start your own business
+or rather join a company?
+Yeah, this is actually a question
+that I actually don't have any right answer, at least
+for now, a little bit tricky for me.
+But I really want to start my own business.
+But the key is if I get the right idea or a product,
+that particularly I believe in.
+So if I want to do something and I
+reach to that particular stage where I can actually
+implement that, given that all the factors you need,
+so then definitely I would go for my startup or something.
+But apart from that, even anywhere I'm at,
+if my work, whatever I'm doing is valued,
+and if I'm satisfied at the end of the day,
+then I guess that is really cool.
+You are doing good at work.
+And life is also, apart from work,
+you want to do what you're passionate about, maybe
+some hobby or something that you do for fun.
+So that balance is also some people look for.
+That is totally depending on person to person.
+But I would like to also keep my hobbies as priority.
+So I don't want to be super, super workaholic.
+I also want to have the balance between both.
+That's good.
+And that leads nicely into the next question, which is,
+what do you like to do when you don't code or learn to code?
+So I would say I do different stuff.
+I just try experimenting different things.
+For example, sometimes I see my friends learning something.
+I just ask, from where you are learning?
+So recently, my friend was learning music and guitar
+and stuff.
+So I have an interest in singing.
+I'm not a good singer.
+But he explained me in more technical terms of music.
+So I have been into that.
+I love doing that.
+Also, from this new year, Jan, I decided
+I would focus more on my health as well.
+So I've been doing yoga and meditation
+and have continued that habit till now.
+So that is also a win for me.
+But I really enjoy doing yoga and all these things.
+A lot good for mental health and peace.
+So also for stretch and everything,
+I really feel energetic throughout the day.
+Apart from that, I'm having a very, not exactly hobby,
+but I love experimenting with my habits.
+So even small, small things, like you
+refrain from something for one week.
+Are you able to control yourself from doing that?
+It could be as simple as not watching TV.
+This is a habit, right?
+You are challenging yourself that, OK,
+I'm not going to do something.
+It is more towards that part.
+Are we not getting a lot much slaves of our own mind?
+So that is an exercise that I like doing whenever I like.
+So if you could recommend a single resource, that
+could be a book, a course, YouTube channel, a community,
+whatever, what would you recommend?
+So for a book, I'm not much into reading self-help books,
+first of all.
+But I have read Atomic Habits.
+So that was a really, really good book, if you implement.
+So whatever is said in that book,
+it has actually helped me a lot to think back
+and on what I'm currently doing, what my habits are.
+And that is where I have got this motivation
+to try out different stuff and improve our habits.
+So that is one book I would definitely
+recommend to implement.
+Apart from that, Neoji Camp Bootcamp
+is something that has changed my trajectory about the career.
+If I had not done that, if I had not got the community there
+and the friends and the mentorship, everything there,
+then I am not sure what I would have been doing.
+But yeah, it is sort of very close to my heart.
+And I am very indebted to that.
+So you can check that out.
+It is a very, very good cohort of learning web development.
+So yeah, that is what I strongly recommend.
+It is more about you learn together.
+And also, they help you in placements as well.
+If you intend to get a job, then they
+help you with that as well.
+So yeah, it has helped me a lot, so definitely.
+But else, resources-wise, I guess if we see properly,
+then we will find things around.
+Just being connected with the community,
+because people has a lot of stories to tell.
+So if you connect with someone today,
+that person will tell you his or her 10 resources.
+And then you know a lot of things,
+and then you can evaluate what fits best for you.
+But that information comes by communicating.
+So that is one thing that I would say as a resource,
+I would say.
+And apart from that, you asked about community.
+So I told about Discord groups.
+They are amazing.
+Whenever you want to hang out, you should.
+At least in the tech community, networking
+is a very, very crucial part.
+Because I have seen that directly applying
+at a company's portal versus getting a referral
+is a very big difference, and also not a referral.
+But you can at least ask the person,
+is the company really good?
+Is it fitting your requirements?
+So that's why networking is crucial in all different terms.
+And yeah, I have been attending and being involved
+with the meetup groups in my, like I have been involved
+with React, the technology that I am interested in.
+So there's React Bangalore, JavaScript Bangalore meetups.
+So these are the meetup groups that I have been involved.
+I've also given a couple of talks.
+But overall, what I focus is on learning.
+So yeah, tech meetup groups are definitely a place to go.
+Sometimes some Saturday when you are free,
+you should hop in to the live meetings, or talks,
+or workshops, whatever you like.
+Yeah, I 100% agree.
+Community is super important.
+So if you could nominate someone that you
+think I should speak to on this podcast,
+who would you nominate?
+Right.
+Yeah, first thing that I feel that you should definitely
+talk with is Sage.
+He is the creator of Chakra UI framework,
+which is a very popular front-end framework.
+So the reason, because I had been in the meetings
+previously when I was involved with Chakra UI actively,
+he is a very humble person and very knowledgeable, very expert
+in this domain.
+And I'm really inspired from what work he has put
+and what things he does for the community.
+So that is my nomination, if you would say that.
+But Sage is the person that I would say.
+Apart from that, Johnny Berger, I'm not sure you know him.
+I've seen him or not.
+But he is a creator of Remotion.
+And I have also made a couple of small contributions
+and have been on the Discord.
+So he's also a very passionate person
+about open source and overall.
+So yeah, definitely them.
+And if you want to talk more about student-centric or
+learner-centric side, so then I would
+recommend that you can talk with Tanay Pratap.
+He's the founder of Invact.
+And he was also involved with NeojiCamp.
+He used to help mentor us and teach us.
+So yeah, definitely he's an amazing person
+for the students.
+And yeah, this is really, this can
+be very helpful for anyone learning, getting started.
+Yeah, those sound all like great people.
+I'll definitely reach out to them.
+So before we wrap this up, please tell us about any projects
+you would like our audience to know about,
+any work opportunities you're open to,
+what kind you're interested in, and how people can contact you.
+Yeah, sure.
+So first thing, to be honest, I have
+done a couple of projects and all.
+But one project that has been very close to me
+was the one that I did in December.
+It was done in November.
+So basically, it is a mock backend
+for the front-end developers who are just
+learning and making projects.
+So it is just for learning purpose.
+But the thing is, if you are making an e-commerce
+application, so the problem is, if you just make the front-end,
+if we are making just front-end and putting just dummy data,
+then it is not making any use of the API call
+or the client server thing.
+Or if I want to do something complex,
+if I want to call different APIs in sequence,
+if I want to do something complex with the API calling,
+I want to show loading states, stuff like that.
+So how I will be able to do that?
+And if I'm not doing, then real work of a front-end person
+is not just making screens, but it is also
+about state management or data, how data will be loaded,
+and everything like that.
+So for that, I built mock me.
+So it gives different templates for different projects.
+So there are more than eight, nine templates are there.
+So for e-commerce or video library or social media
+and all, so people are really using them
+and finding it very helpful.
+So we also built what problem we realized with the library
+that we are using under mock me.
+So it is a Mirage.js-based project.
+So Mirage.js is a library for mocking the APIs.
+But the problem with Mirage.js is you cannot do stuff
+that you do with the real APIs.
+You can go to Postman or some tool
+and make the fetch call and see what is the response.
+That you cannot do with that interface is not available to you
+when you're doing with Mirage.js or the mock me sort of.
+Not going into much technicalities,
+but for this problem statement, we actually
+built another sister project called mock man.
+So basically, this is exactly same as Postman,
+but Postman are some, I guess, the different tools
+are available for API testing.
+So exactly same, but for mock APIs.
+So we built this for Mirage.js.
+So that particular project is powering more than 2,000
+active GitHub projects.
+And overall, these mock me and different templates
+are having, today, more than 18,000 downloads.
+So yeah, that is most impactful project.
+And people like DM me, put it on Twitter
+that they are getting jobs because they
+had it in their mock back end.
+Because the interviewer can see the projects they
+are having real functionality.
+So yeah, my project has been on back end,
+and it is helping people on the back end backstage side.
+So I'm very happy and proud about this project.
+But I really want to maintain it as well in the future.
+That's very cool.
+Yeah, thanks.
+Very, very nice.
+Well, thank you so much for joining me today, Saham.
+I really enjoyed the conversation.
+And I wish you all of the best for the future,
+and looking forward to see all the great things you build.
+Yeah, thank you so much once again for having me.
+It was really good, and good luck for the amazing things
+that you are doing for the community,
+and all hail Mycelium Network.
+Thank you for listening to this episode of the Mycelium Network
+podcast.
+If you're not already, please subscribe, star,
+and leave a review for us in your podcatcher of choice.
+This helps others find us and helps
+us make a better podcast for you on this course.
+You can also find and follow us on Twitter at networdmycelium,
+and join the community on Discord.
+All the links are available in the show notes.

@@ -1,0 +1,1433 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Marseillean Network Podcast, a podcast all about early-stage web developers
+
+00:06.640 --> 00:10.320
+and the mentors and teachers that help them along the way.
+
+00:10.320 --> 00:12.520
+Hey, Yuri.
+
+00:12.520 --> 00:14.120
+Thank you for joining me for the podcast.
+
+00:14.120 --> 00:15.120
+I'm really excited.
+
+00:15.120 --> 00:16.800
+Hey, Shauk.
+
+00:16.800 --> 00:17.800
+Thank you for having me.
+
+00:17.800 --> 00:20.640
+I'm happy to be here.
+
+00:20.640 --> 00:25.880
+So in the past, I've kind of read out a little bio of people, but I thought that's super
+
+00:25.880 --> 00:28.440
+boring and it's been done.
+
+00:28.440 --> 00:34.880
+So what I like to do is I like to give you the floor and say, tell us about who you are
+
+00:34.880 --> 00:41.120
+and take as much time as you need, go back as far as you need, tell us your story.
+
+00:41.120 --> 00:46.480
+So you want to ask me how did my parents born me?
+
+00:46.480 --> 00:50.360
+That's maybe a little too far back.
+
+00:50.360 --> 00:59.680
+Okay, so I'm a community builder right now and I love it very much, but I trapped, let's
+
+00:59.680 --> 01:07.280
+say trapped into the community world very, like I didn't think that I will be a community
+
+01:07.280 --> 01:10.480
+builder because I was doing a lot of stuff.
+
+01:10.480 --> 01:13.440
+I was a risk analyst in the bank.
+
+01:13.440 --> 01:22.200
+I was running my internet shop and then somehow, just because of this internet shop, I've made
+
+01:22.200 --> 01:28.600
+some SEO for it and I hired people to do it and they did a bad job.
+
+01:28.600 --> 01:32.520
+So I decided to learn SEO.
+
+01:32.520 --> 01:36.200
+So I went to an SEO forum, started learning.
+
+01:36.200 --> 01:40.760
+That's how I understood that they were doing not a good job.
+
+01:40.760 --> 01:45.760
+And while learning SEO, I started talking to people, connecting to them.
+
+01:45.760 --> 01:51.920
+And one day I saw a message that it will be a meetup somewhere in other city.
+
+01:51.920 --> 01:56.760
+And then I was like, okay, why don't we have an SEO meetup in Kiev?
+
+01:56.760 --> 02:03.460
+So I just created a post and basically that's how my first community SEO club started.
+
+02:03.460 --> 02:09.520
+And we just connected, we just had a conversation, we just had some pizza and we liked it so
+
+02:09.520 --> 02:17.920
+much that during the time, some time, it became an SEO club, the best well-known community
+
+02:17.920 --> 02:20.200
+of SEO experts in Ukraine.
+
+02:20.200 --> 02:30.480
+So after that was like a marketing club, CPC Real Talk is a community for advertisers who
+
+02:30.480 --> 02:32.420
+work with paid advertisement.
+
+02:32.420 --> 02:38.420
+And also I'm running a sales hero community in Ukraine, it's for salespeople for sure.
+
+02:38.420 --> 02:45.560
+And when the war started in Ukraine on 24th of February, basically I've lost my any sources
+
+02:45.560 --> 02:50.560
+of income because it was dependent on community, I made it some courses and all this stuff.
+
+02:50.560 --> 02:57.000
+But for sure, people didn't need to learn and all this, they needed to understand how
+
+02:57.000 --> 02:58.840
+to survive.
+
+02:58.840 --> 03:04.720
+And at that point, I just reached out to David Spinks, the founder of the CMX community and
+
+03:04.720 --> 03:10.680
+told him that, hey, David, I have this experience and I'm in trouble, I need some community
+
+03:10.680 --> 03:13.800
+job, I need something to do.
+
+03:13.800 --> 03:18.080
+And he told me, yeah, okay, I will help you, he made a post.
+
+03:18.080 --> 03:22.840
+That's how I found, that's how I met Steve Gargiulo from the cultivators community, we're
+
+03:22.840 --> 03:25.040
+still working with them.
+
+03:25.040 --> 03:30.200
+And that's how I started doing an audit for a CMX community.
+
+03:30.200 --> 03:34.600
+So it helped me a lot to support me and my family during the hard times.
+
+03:34.600 --> 03:39.040
+And that's how I basically become an international community, not only builder, but a consultant
+
+03:39.040 --> 03:40.040
+too.
+
+03:40.040 --> 03:41.240
+So it was really very fast.
+
+03:41.240 --> 03:45.080
+So I was building my communities, Ukrainian communities for seven years.
+
+03:45.080 --> 03:49.560
+Five of those years, I didn't even know that it called community building.
+
+03:49.560 --> 03:54.340
+I thought that I just meet great people and we have some good time.
+
+03:54.340 --> 04:00.760
+And then I joined the CMX community, I understood that I'm not alone in this community world.
+
+04:00.760 --> 04:07.200
+And yeah, basically, that's how I started being a community, international community
+
+04:07.200 --> 04:08.200
+person.
+
+04:08.200 --> 04:09.200
+Great.
+
+04:09.200 --> 04:11.520
+That's a really good story.
+
+04:11.520 --> 04:16.040
+I'm glad that you had people to reach out to and that people helped you.
+
+04:16.040 --> 04:18.560
+So I'm really grateful for that.
+
+04:18.560 --> 04:21.720
+But you know, also it was not in a second.
+
+04:21.720 --> 04:24.840
+So I was kind of building these connections.
+
+04:24.840 --> 04:29.720
+So I joined CMX community like two years before and I was there.
+
+04:29.720 --> 04:34.400
+I was communicating with people, but I just never get to know other people very good.
+
+04:34.400 --> 04:36.760
+But at least they knew me.
+
+04:36.760 --> 04:39.680
+So I was not like a person from the street.
+
+04:39.680 --> 04:41.160
+Yeah, yeah, yeah.
+
+04:41.160 --> 04:43.120
+Yeah, I get that.
+
+04:43.120 --> 04:44.120
+Cool.
+
+04:44.120 --> 04:50.640
+So do you want to talk a little bit about the Community Life podcast?
+
+04:50.640 --> 04:53.120
+Seeing that you're on a podcast.
+
+04:53.120 --> 04:54.520
+Yes, yes, yes.
+
+04:54.520 --> 05:01.440
+It was it was my idea I started in the sales hero community.
+
+05:01.440 --> 05:03.480
+So what was the idea behind it?
+
+05:03.480 --> 05:08.640
+I just choose great people, great experts from the sales world.
+
+05:08.640 --> 05:13.920
+And we go with them and we have just this conversation about themselves.
+
+05:13.920 --> 05:15.560
+So it's not about titles.
+
+05:15.560 --> 05:17.640
+It's not about some tricks.
+
+05:17.640 --> 05:19.380
+It's just about people.
+
+05:19.380 --> 05:23.400
+So I'm really curious, who are their parents?
+
+05:23.400 --> 05:25.280
+Like where did they born?
+
+05:25.280 --> 05:27.440
+How their childhood looked like?
+
+05:27.440 --> 05:29.760
+And all this stuff.
+
+05:29.760 --> 05:32.000
+Like I just I'm just curious.
+
+05:32.000 --> 05:34.880
+I just want to know these people better.
+
+05:34.880 --> 05:39.640
+And we are having this conversation.
+
+05:39.640 --> 05:44.080
+We can understand how to be a successful salesperson here.
+
+05:44.080 --> 05:46.040
+Like what skills do you need?
+
+05:46.040 --> 05:48.280
+Who are those people who are great?
+
+05:48.280 --> 05:55.560
+And like when I become, let's say, international expert, I decided, OK, so why don't we have
+
+05:55.560 --> 05:58.320
+this conversation with community experts?
+
+05:58.320 --> 06:02.320
+And I just once again, I just reached out to David Spinks with this crazy idea.
+
+06:02.320 --> 06:05.080
+Tell them, hey, David, I have this idea.
+
+06:05.080 --> 06:06.080
+Why don't we try?
+
+06:06.080 --> 06:08.320
+And he was like, sure, I've never done this before.
+
+06:08.320 --> 06:09.520
+Let's do it.
+
+06:09.520 --> 06:12.760
+So it was my first, let's say, episode.
+
+06:12.760 --> 06:18.580
+And by now, I had a conversation with 18 amazing people so far.
+
+06:18.580 --> 06:22.560
+And I keep going, you know, just one new conversation every week.
+
+06:22.560 --> 06:25.520
+So it helps me a lot.
+
+06:25.520 --> 06:30.880
+Like as I told, I'm really curious about people and it helps me very much to understand those
+
+06:30.880 --> 06:35.040
+people who I am talking to in the community world.
+
+06:35.040 --> 06:40.680
+And I really do not hunt an audience.
+
+06:40.680 --> 06:44.000
+I don't know how many people listen to those podcasts.
+
+06:44.000 --> 06:49.040
+But once again, the main idea is that at the moment, there are just two people, me and
+
+06:49.040 --> 06:52.600
+the guest, we are talking about their lives.
+
+06:52.600 --> 06:59.200
+And it's just very, you know, it's just very emotionally connected experience.
+
+06:59.200 --> 07:00.680
+And I just love it.
+
+07:00.680 --> 07:06.120
+So and also people who listened to podcasts, they told me that they love it, too.
+
+07:06.120 --> 07:09.080
+So you know, click, match.
+
+07:09.080 --> 07:10.080
+Let's do it.
+
+07:10.080 --> 07:11.080
+Yeah, exactly.
+
+07:11.080 --> 07:14.760
+That's exactly how I feel about this experience.
+
+07:14.760 --> 07:20.640
+I mean, this I've recorded probably about 15 now we've released 12.
+
+07:20.640 --> 07:23.920
+But it's also the conversations are just it's just wonderful.
+
+07:23.920 --> 07:30.560
+I get to speak to really different people from all walks of life from different places
+
+07:30.560 --> 07:35.300
+in the world and get to hear their stories and what makes them excited and the struggles
+
+07:35.300 --> 07:36.300
+they have.
+
+07:36.300 --> 07:39.080
+And that leads you to start thinking like, how can I help?
+
+07:39.080 --> 07:42.520
+Like, what can I do to help these people?
+
+07:42.520 --> 07:49.320
+Sometimes you also connect over similar challenges, like maybe like I'm from a third world country.
+
+07:49.320 --> 07:53.240
+So if I speak to somebody else's also in a developing country, oftentimes they tell me
+
+07:53.240 --> 07:58.520
+a story and I'm like, oh, my goodness, I can so relate because I've also experienced this.
+
+07:58.520 --> 08:00.520
+But I've had some some luck.
+
+08:00.520 --> 08:04.360
+Maybe some of it I created for myself, some of it just came across my path.
+
+08:04.360 --> 08:09.680
+And through that, I'm able to use my connections to help these people.
+
+08:09.680 --> 08:14.400
+And so, yeah, I I'm also like, I don't know how many I've some rough ideas how many people
+
+08:14.400 --> 08:15.400
+listen to the show.
+
+08:15.400 --> 08:17.960
+But that's not the most important thing to me.
+
+08:17.960 --> 08:21.960
+To me, it's more like if somebody like my daughter, for example, she told me the other
+
+08:21.960 --> 08:25.720
+day she started listening to the podcast and she can't stop.
+
+08:25.720 --> 08:27.520
+And I was like, that's lovely.
+
+08:27.520 --> 08:28.520
+I love that.
+
+08:28.520 --> 08:35.000
+I love that somebody that's like an author, who's a little curious about coding and stuff
+
+08:35.000 --> 08:39.600
+like that, but who likes stories, enjoy the podcast, because that's what I want it to
+
+08:39.600 --> 08:40.600
+be.
+
+08:40.600 --> 08:44.760
+It's about people telling stories about their life and about what they what's hard and what's
+
+08:44.760 --> 08:46.760
+what's not.
+
+08:46.760 --> 08:47.840
+People love to talk.
+
+08:47.840 --> 08:53.840
+And if you if you are asking them about themselves, they will really share.
+
+08:53.840 --> 08:56.520
+So they will share everything you will ask you.
+
+08:56.520 --> 08:58.720
+You have to just ask it.
+
+08:58.720 --> 09:01.040
+Yeah, yeah, that's very true.
+
+09:01.040 --> 09:06.440
+And I've also found that you shouldn't be scared to reach out to people.
+
+09:06.440 --> 09:12.480
+I think it's it's amazing how many people are willing to to talk to you.
+
+09:12.480 --> 09:18.600
+So what I was what I was going to say is we had this conversation scheduled for a little
+
+09:18.600 --> 09:20.080
+earlier than we're doing it now.
+
+09:20.080 --> 09:24.560
+And it's because you said you had this between two water coolers meeting.
+
+09:24.560 --> 09:27.440
+And I was like, that sounds interesting.
+
+09:27.440 --> 09:29.880
+I've heard about between two ferns.
+
+09:29.880 --> 09:32.560
+What is this between two water coolers thing?
+
+09:32.560 --> 09:33.560
+Yeah.
+
+09:33.560 --> 09:36.320
+So it's it's a super fast.
+
+09:36.320 --> 09:41.160
+Yeah, it was I was motivated by between two ferns.
+
+09:41.160 --> 09:47.400
+So I decided I even have this picture of Zach Galifianakis staying between two ferns.
+
+09:47.400 --> 09:54.880
+And there are a lot of there are photos from our every meeting behind him like on the wall.
+
+09:54.880 --> 09:59.200
+So this is a picture for between two water coolers meeting.
+
+09:59.200 --> 10:05.980
+And what is the idea that you go there?
+
+10:05.980 --> 10:14.320
+We collect some community experts and we just have three rounds of five minutes of communication.
+
+10:14.320 --> 10:17.280
+So we just go to one on one breakout rooms.
+
+10:17.280 --> 10:18.360
+We meet each other.
+
+10:18.360 --> 10:22.760
+We talk about everything we want for five minutes, three times.
+
+10:22.760 --> 10:26.280
+And we have just really quick and fun experience.
+
+10:26.280 --> 10:32.320
+It allows us to build these connections to get to know each other a little better.
+
+10:32.320 --> 10:34.440
+And also, there is no obligations.
+
+10:34.440 --> 10:37.500
+You don't have to talk for half an hour or an hour.
+
+10:37.500 --> 10:41.400
+So if you clicked, you can continue your conversation in the community world.
+
+10:41.400 --> 10:43.640
+You can even go for a Zoom call.
+
+10:43.640 --> 10:45.380
+You can even meet in person.
+
+10:45.380 --> 10:49.080
+If you don't click, once again, no expectations.
+
+10:49.080 --> 10:51.040
+Just go to another person.
+
+10:51.040 --> 11:00.720
+So it's kind of, let's say, networking, speed networking or speed dating networking, something
+
+11:00.720 --> 11:01.720
+like that.
+
+11:01.720 --> 11:05.920
+But once again, the main idea is that it's super cool, super fast, super fun.
+
+11:05.920 --> 11:12.240
+And just 20 minutes a week, you don't have to spend a lot of time to meet amazing people.
+
+11:12.240 --> 11:14.360
+And once again, it's all about connections.
+
+11:14.360 --> 11:15.760
+It's all about meeting new people.
+
+11:15.760 --> 11:16.760
+But just another way of doing it.
+
+11:16.760 --> 11:17.760
+Yeah.
+
+11:17.760 --> 11:20.680
+And is this open to anybody?
+
+11:20.680 --> 11:24.360
+How do you go about joining it?
+
+11:24.360 --> 11:25.360
+Totally open to everyone.
+
+11:25.360 --> 11:30.880
+I just hosted in the CMX community because I love CMX community and it helped me a lot
+
+11:30.880 --> 11:35.480
+during my life and during all this war stuff.
+
+11:35.480 --> 11:42.280
+And it's kind of my, let's say, I want to give back something.
+
+11:42.280 --> 11:49.280
+That's why I'm hosting these events in the CMX community every week, every Friday.
+
+11:49.280 --> 11:52.540
+So I just love it and people love it.
+
+11:52.540 --> 11:55.880
+So once again, one more click, one more match.
+
+11:55.880 --> 11:57.760
+Yeah, that's great.
+
+11:57.760 --> 12:02.880
+I started using this app that's still in very early development called Groove.
+
+12:02.880 --> 12:07.700
+And the idea there is that it's also people from all over the world.
+
+12:07.700 --> 12:12.560
+Currently, it's on your phone, but they think they're looking at making a desktop version
+
+12:12.560 --> 12:14.280
+of it as well.
+
+12:14.280 --> 12:18.920
+And so you'd say, I want to start a groove and then it would notify some people.
+
+12:18.920 --> 12:21.740
+And then they can decide to join the groove.
+
+12:21.740 --> 12:25.760
+And then everybody gets on camera and you say like, what do you want to try and do in
+
+12:25.760 --> 12:27.760
+the next 50 minutes?
+
+12:27.760 --> 12:29.280
+And then you say, OK, let's do it.
+
+12:29.280 --> 12:32.800
+And then everybody goes away and have a little chat window open.
+
+12:32.800 --> 12:36.880
+And then people do their jobs and they like try to tickle stuff if they get it done.
+
+12:36.880 --> 12:40.980
+And then after 50 minutes, everybody comes back together and you basically give a status
+
+12:40.980 --> 12:45.520
+update of what you were able to do in the 50 minutes.
+
+12:45.520 --> 12:54.280
+And yeah, if you work remotely and you work in, I don't know, you just feel sometimes
+
+12:54.280 --> 13:00.280
+you feel a little lost, a little alone, maybe like you need that human connection.
+
+13:00.280 --> 13:06.360
+And I love all these opportunities that are starting to happen on the Internet for people
+
+13:06.360 --> 13:10.360
+to connect in all kinds of different ways.
+
+13:10.360 --> 13:14.840
+In preparation for this, I kind of looked at your Twitter and your LinkedIn and stuff
+
+13:14.840 --> 13:19.500
+like that to kind of learn more about who you are.
+
+13:19.500 --> 13:27.320
+And so one of the things that I've realized is that you're somebody who loves people and
+
+13:27.320 --> 13:33.840
+who have a generally very positive attitude towards life.
+
+13:33.840 --> 13:41.400
+And I won't say I will definitely not say that I dislike people, but sometimes but sometimes
+
+13:41.400 --> 13:49.840
+I get down about what we do to each other and and our planet and things like that.
+
+13:49.840 --> 14:01.800
+So I read a tweet where the question was, if you weren't scared of failure, what would
+
+14:01.800 --> 14:03.400
+you do?
+
+14:03.400 --> 14:10.160
+And you replied to that exactly what I was doing now, just without fear.
+
+14:10.160 --> 14:14.960
+And so that suggests to me that fear is not something that stops you.
+
+14:14.960 --> 14:22.560
+So how did you get to this place where you can be okay with the fear?
+
+14:22.560 --> 14:31.800
+You know, you never can be okay with the fear, because it's something that lives with us,
+
+14:31.800 --> 14:37.200
+but you have you can have different response, you can, you know, you can fight or flight.
+
+14:37.200 --> 14:45.680
+So here is the same, like I can, like, froze and stay and be afraid of everything and not
+
+14:45.680 --> 14:52.700
+do nothing, or the fear is motivating me, you know, when if I'm afraid of something,
+
+14:52.700 --> 14:55.300
+it means that I'm going out of my comfort zone.
+
+14:55.300 --> 15:02.560
+And most likely, if I didn't receive results, I wanted most likely I need to go out of my
+
+15:02.560 --> 15:04.880
+comfort zone and try something new.
+
+15:04.880 --> 15:12.800
+So that's how I learned not to be afraid of doing something new of trying of making mistakes
+
+15:12.800 --> 15:20.080
+and what like, what we really fear, what we're really afraid of is to make mistakes.
+
+15:20.080 --> 15:27.520
+And even more what other people will will think about us, if we will make those mistakes.
+
+15:27.520 --> 15:33.040
+But you know, it's like it's natural for people to make mistakes.
+
+15:33.040 --> 15:34.800
+And it's not a mistake.
+
+15:34.800 --> 15:41.360
+It's the way we learn, because, you know, when children starts start going, they're
+
+15:41.360 --> 15:46.440
+falling so many times, but they continue trying to walk.
+
+15:46.440 --> 15:50.360
+And then they're walking without even thinking about it.
+
+15:50.360 --> 15:55.320
+So why are we afraid to try to walk?
+
+15:55.320 --> 16:00.800
+We need to try, we need to try, we need to fall many times, we need to hurt our legs,
+
+16:00.800 --> 16:07.320
+we need maybe even to hurt our head sometime, like not literally, but in general.
+
+16:07.320 --> 16:13.880
+But that's the only way like, you know, some people say that you can learn by seeing and
+
+16:13.880 --> 16:17.240
+reading about others mistakes.
+
+16:17.240 --> 16:21.580
+But no, the best way to learn is to make your own mistakes.
+
+16:21.580 --> 16:28.120
+And I love this saying from the line chocolate advertisement, that if you will forgive my
+
+16:28.120 --> 16:31.240
+imperfection, I'll forgive yours.
+
+16:31.240 --> 16:33.740
+So basically, that's how I feel.
+
+16:33.740 --> 16:38.680
+And if I'm making mistakes, if somebody will point that I'm making a mistake without saying
+
+16:38.680 --> 16:43.120
+how to make it better, I will just not care about it.
+
+16:43.120 --> 16:50.160
+So if somebody will say that I made a mistake and help me to not to make this mistake in
+
+16:50.160 --> 16:52.160
+the future, I will really appreciate it.
+
+16:52.160 --> 16:54.760
+And that's how we'll build our connections.
+
+16:54.760 --> 16:59.360
+And that's how we become friends, you know, otherwise, like, why care?
+
+16:59.360 --> 17:06.320
+I mean, that leads into another one that where you said that it is 100% okay to say I don't
+
+17:06.320 --> 17:08.400
+know.
+
+17:08.400 --> 17:11.160
+And I agree with that.
+
+17:11.160 --> 17:15.300
+I don't allow myself that often.
+
+17:15.300 --> 17:20.720
+But when I catch myself in those moments, I'm like, hey, whoa, stop.
+
+17:20.720 --> 17:22.800
+It's okay to say you don't know.
+
+17:22.800 --> 17:26.860
+It's actually it means that this is a learning opportunity, right?
+
+17:26.860 --> 17:31.020
+If it's something you don't know, well, are you interested in knowing this thing?
+
+17:31.020 --> 17:38.880
+And if so, wow, we're in the age where content is, there's too much, you actually, we're
+
+17:38.880 --> 17:40.520
+drowning in information.
+
+17:40.520 --> 17:43.600
+So if you don't know, you can learn.
+
+17:43.600 --> 17:49.440
+Yes, it, it saves a lot of time, because you can talk to a person.
+
+17:49.440 --> 17:54.560
+And the person will say some words, some, I don't know, meanings or something that you
+
+17:54.560 --> 17:55.740
+don't know.
+
+17:55.740 --> 18:00.080
+And you can say that, oh, I'm sorry, but can you explain me this?
+
+18:00.080 --> 18:01.080
+I just don't know.
+
+18:01.080 --> 18:02.920
+I just don't understand.
+
+18:02.920 --> 18:05.960
+And person will explain you this in two minutes.
+
+18:05.960 --> 18:11.880
+And you will save a lot of time because you don't have to try things out and you will
+
+18:11.880 --> 18:13.920
+understand each other.
+
+18:13.920 --> 18:19.440
+And there will be no, you know, this going back and forth, trying to understand what
+
+18:19.440 --> 18:24.560
+that person really mean, because you will understand it right away and it will save
+
+18:24.560 --> 18:27.560
+a lot of time and nerves and sometimes even money.
+
+18:27.560 --> 18:30.420
+Yeah, very true.
+
+18:30.420 --> 18:37.600
+So I know that you're mostly focused on like community building and in sales and that kind
+
+18:37.600 --> 18:38.600
+of thing.
+
+18:38.600 --> 18:40.160
+But I think technology is part of all of our lives.
+
+18:40.160 --> 18:46.320
+I mean, we're using it right now to be able to have this conversation.
+
+18:46.320 --> 18:52.760
+So I'm curious, do you have any thoughts about the tech industry?
+
+18:52.760 --> 18:56.120
+Just like a high level, like somebody from the outside, like if you're looking at the
+
+18:56.120 --> 19:01.760
+tech industry from the outside, why do you think about this industry, like the good and
+
+19:01.760 --> 19:02.760
+the bad?
+
+19:02.760 --> 19:11.400
+It's a really big question because what I recently saw, like from community side of
+
+19:11.400 --> 19:15.240
+tech industry, it's many layoffs and all this stuff.
+
+19:15.240 --> 19:20.360
+So I'm like thinking from this point, from human point of view, and I don't really like
+
+19:20.360 --> 19:26.600
+it right now because many amazing people lost their jobs and all this, and all they're going
+
+19:26.600 --> 19:30.000
+through these difficult challenges, et cetera.
+
+19:30.000 --> 19:35.200
+But in general, if we're not talking about the human side, if we're talking about technologies,
+
+19:35.200 --> 19:40.360
+it's definitely amazing that we even have, you know, I'm in one place of the world, you
+
+19:40.360 --> 19:42.680
+and another, and we still have this conversation.
+
+19:42.680 --> 19:50.320
+So it allows us to connect, like not taking in the mind the whole distance between us
+
+19:50.320 --> 19:58.680
+so, like we are currently open to the whole world and we can easily get to know even more
+
+19:58.680 --> 20:00.280
+amazing people.
+
+20:00.280 --> 20:07.320
+It's also, it's really like, it makes things harder because like in the whole world, there
+
+20:07.320 --> 20:11.520
+are so many amazing people that you just won't have time to talk to everyone.
+
+20:11.520 --> 20:17.080
+But it also makes it easier because like, you know, I'm not trying to intentionally like
+
+20:17.080 --> 20:26.760
+choose who I will talk to, but if we meet each other, it means that we intended, that
+
+20:26.760 --> 20:30.480
+we had to meet each other and we have to have this conversation.
+
+20:30.480 --> 20:33.720
+And if we like each other, we'll continue our conversations.
+
+20:33.720 --> 20:40.440
+And if not, okay, like a lot of other people are waiting to have this conversation.
+
+20:40.440 --> 20:43.520
+So you just have more choices right now.
+
+20:43.520 --> 20:45.360
+Yeah, that's very true.
+
+20:45.360 --> 20:48.280
+And I mean, I don't shy away from the human topic.
+
+20:48.280 --> 20:53.200
+I think that's a very important thing and I do agree with you.
+
+20:53.200 --> 20:56.160
+The last two years have been rough.
+
+20:56.160 --> 20:59.960
+There's a lot of people that I personally know who's lost, you know, who's lost their
+
+20:59.960 --> 21:08.280
+jobs and one sometimes thinks that if this happens to people in say the United States,
+
+21:08.280 --> 21:14.160
+for example, you know, but it's not that big of a deal that there's a lot of work, they'll
+
+21:14.160 --> 21:18.560
+quickly find a job, but it's not always the case.
+
+21:18.560 --> 21:25.660
+You know, I've known people who a year later after the big lives in 2020, who still hadn't
+
+21:25.660 --> 21:34.080
+found a job and people who had to settle for jobs that they weren't really happy in because,
+
+21:34.080 --> 21:37.140
+you know, it was just the nature of the time.
+
+21:37.140 --> 21:38.480
+Things have changed.
+
+21:38.480 --> 21:41.960
+Now, I think there's a different challenge now.
+
+21:41.960 --> 21:49.440
+I spoke to somebody the other day in one of the other podcasts and so I asked him, like,
+
+21:49.440 --> 21:53.640
+what does he think is one of the challenges for junior people and early stage developers
+
+21:53.640 --> 21:59.480
+getting into the industry and he said the problem right now is the industry is a little
+
+21:59.480 --> 22:07.760
+weird because of all of these layoffs, the industry has flooded with people with a lot
+
+22:07.760 --> 22:15.020
+of experience and people who've held very high roles at big companies.
+
+22:15.020 --> 22:22.340
+So you as a starting junior engineer, you've now suddenly faced with having to compete
+
+22:22.340 --> 22:27.040
+with these people because they're in the pool of people looking for jobs now.
+
+22:27.040 --> 22:34.720
+So while it's still entirely possible and people shouldn't be despondent and feel that
+
+22:34.720 --> 22:39.680
+they just chose the wrong time to get into the tech industry, it is something we do need
+
+22:39.680 --> 22:42.580
+to acknowledge that it is tricky, right?
+
+22:42.580 --> 22:44.520
+It is not easy right now.
+
+22:44.520 --> 22:49.960
+There are all kinds of challenges and this is a new one that's been added to the challenges
+
+22:49.960 --> 22:58.600
+for early stage engineers and then it's just sad to see so many people having to go through
+
+22:58.600 --> 22:59.600
+these things.
+
+22:59.600 --> 23:00.600
+Yes, totally.
+
+23:00.600 --> 23:09.440
+I want to talk about a topic that's maybe to some extent related and it's brought to
+
+23:09.440 --> 23:10.800
+my attention.
+
+23:10.800 --> 23:16.960
+One aspect of this is brought to my attention by a tweet on Twitter by Febcat that you shared
+
+23:16.960 --> 23:22.920
+and then commented on and the topic was on a conversation that was had about mobilizing
+
+23:22.920 --> 23:30.120
+communities in a time of crisis and as you've alluded to this before, you are from Kyiv
+
+23:30.120 --> 23:39.200
+and Ukraine and so you more than a lot of people on this earth knows what a true crisis
+
+23:39.200 --> 23:45.200
+is and the devastation of all of that, I cannot even imagine it.
+
+23:45.200 --> 23:51.860
+I have so much compassion for everybody there.
+
+23:51.860 --> 23:58.080
+With that big thing in mind, what guidance do you have for people who feel like their
+
+23:58.080 --> 23:59.840
+lives are in crisis?
+
+23:59.840 --> 24:03.080
+Trying to make a change, but they're scared of failing.
+
+24:03.080 --> 24:08.120
+The first thing you have to do is to meet other people and to connect with other people
+
+24:08.120 --> 24:13.160
+because when the war started, when Russia started the war in Ukraine on February 21st,
+
+24:13.160 --> 24:21.880
+so the first thing I've did with my communities, I kind of closed all these chats because there
+
+24:21.880 --> 24:27.960
+were a lot of misleading information, but instead of that, I created one group for people
+
+24:27.960 --> 24:35.520
+from all the communities who wanted to connect and help to each other and I was always saying
+
+24:35.520 --> 24:42.360
+that during the war, it's been seven months already, seven and a half, Ukraine becomes
+
+24:42.360 --> 24:49.760
+the biggest community in the world because we are all in the same boat and we are helping
+
+24:49.760 --> 24:56.560
+each other, so before the war, if you will go to a person in the street and ask for help,
+
+24:56.560 --> 25:01.880
+it would be hard to find help, but now people are more open to each other and they're helping
+
+25:01.880 --> 25:08.080
+each other, so if you face any crisis, you just, you have to, you know, it takes a lot
+
+25:08.080 --> 25:20.040
+of courage to open your heart to people because without being vulnerable, you can't connect,
+
+25:20.040 --> 25:28.760
+so you should allow yourself to be vulnerable and just take other people's vulnerability
+
+25:28.760 --> 25:36.600
+and care about it, so basically, you have to trust people, you know, sometimes you have
+
+25:36.600 --> 25:42.760
+to trust even those people who you don't know yet, but in the end of the day, you will understand
+
+25:42.760 --> 25:49.600
+who's friend or who's foe because from my experience, sometimes those people who are
+
+25:49.600 --> 25:56.920
+very open, who are very smiley, who are always like encouraging each other and all the stuff,
+
+25:56.920 --> 26:04.440
+they're not really helping in time of crisis and those people who are not that, let's say,
+
+26:04.440 --> 26:10.720
+amazing, they are really helpful when you need them and it's really hard to understand
+
+26:10.720 --> 26:18.800
+it before you face the challenge, so also, it is really very good to face some challenges
+
+26:18.800 --> 26:24.840
+together because after that, you will understand whether you should continue your journey together
+
+26:24.840 --> 26:26.640
+or just to wave goodbye.
+
+26:26.640 --> 26:32.800
+Yeah, that's true, so do you think that sometimes crisis brings out the best in people?
+
+26:32.800 --> 26:42.560
+I will say that sometimes crisis really brings opportunities, but it's very, it's like, it's
+
+26:42.560 --> 26:56.320
+so hard, depends on what kind of human person is because some people will give up and like
+
+26:56.320 --> 27:03.160
+just go with the flow, do nothing, and other people will try to find ways to make things
+
+27:03.160 --> 27:11.960
+better and it's just nature, you know, like in nature, if an animal is weak, most likely
+
+27:11.960 --> 27:17.880
+it will die, but if it will fight, it will win, it will continue, it will survive, so
+
+27:17.880 --> 27:26.920
+you know, humans are still animals, so we need just to fight, we need just to continue
+
+27:26.920 --> 27:34.640
+our conversations, continue cooperations, and you know, like what the war teaches me
+
+27:34.640 --> 27:44.040
+that if you are alive, if you are healthy, if your family is safe, like nothing else
+
+27:44.040 --> 27:51.160
+matters, like you will find a place to live, you will find money, you will find food, you
+
+27:51.160 --> 27:56.800
+will find everything, like there is no problems unless you are dead.
+
+27:56.800 --> 28:06.960
+Yeah, that's very true, I think we often take being alive for granted.
+
+28:06.960 --> 28:13.720
+Yes, exactly, we think, we struggle with not having money, we struggle with not riding
+
+28:13.720 --> 28:21.400
+fancy cars, we struggle with not wearing like new clothes every week, but we just don't
+
+28:21.400 --> 28:29.320
+care that we are alive, and like what the war showed me that many people are dead and
+
+28:29.320 --> 28:37.480
+they will never come back, so yeah.
+
+28:37.480 --> 28:45.800
+So as you've mentioned, so all of this is happening in your life, and you're still doing
+
+28:45.800 --> 28:51.320
+all these things, right, you're still recording podcasts, having conversations with people,
+
+28:51.320 --> 28:59.120
+you're running this two water coolers thing, you're always, whenever I see you on Slack
+
+28:59.120 --> 29:07.880
+or on Twitter or when I watch the podcast recordings, you're always like such a positive
+
+29:07.880 --> 29:18.440
+spirit, to put it that way, who are the people, events, books, stories that motivates you,
+
+29:18.440 --> 29:21.800
+that makes you be who you are?
+
+29:21.800 --> 29:29.400
+First of all, it's my family for sure, because you know, with other people, they don't know
+
+29:29.400 --> 29:35.200
+real me, and I also have my ups and downs and totally will never see me when I'm down,
+
+29:35.200 --> 29:40.960
+but my family sees me, and they help me a lot, they support me a lot, and they are not
+
+29:40.960 --> 29:46.040
+always having a good time with me, you know, I'm not an easy person, but at the end of
+
+29:46.040 --> 29:52.680
+the day, we always talk, we always find ways how to work things out, you know, so I'm like
+
+29:52.680 --> 29:59.960
+married for 11 years so far, and we've gone through a lot, and we're still together, I
+
+29:59.960 --> 30:09.520
+have an amazing kid, like 10 years old, and it means a life to me to have my family, and
+
+30:09.520 --> 30:18.000
+like, beside a family, those people who supported me during my community, all this war journey,
+
+30:18.000 --> 30:25.200
+I would say that it's for sure Lisa Barocca, who I work with in the Call to Address community,
+
+30:25.200 --> 30:31.480
+it's Ella Andeongue, who I work with in the Call to Control community, it's many people
+
+30:31.480 --> 30:39.600
+from the CMX community, such as Ill Care, such as Lori Goldman, such as Koresh Ghaffari,
+
+30:39.600 --> 30:46.000
+so, there are like tons of super cool people who are helping you, even though you are not
+
+30:46.000 --> 30:54.080
+asking them to do it, so I'm so happy that I'm working in this community world, because
+
+30:54.080 --> 31:00.800
+it's like, it's not, I don't know even how to explain it, but it's totally different
+
+31:00.800 --> 31:06.760
+to all other spheres, because I was working in SEO, in sales, in marketing, there is no
+
+31:06.760 --> 31:13.080
+such support in any sphere as you receive in the community world, and I'm just amazed
+
+31:13.080 --> 31:19.240
+with it, and it also motivates me to do the same, to be the same person, so all these
+
+31:19.240 --> 31:27.120
+people, when I see the generosity, the openness, their helpfulness, I want to do the same,
+
+31:27.120 --> 31:34.400
+so it's like the will of life, you do something good, then somebody else will do something
+
+31:34.400 --> 31:40.360
+good for you, and it's just continuation, it's how the energy works, if you do something
+
+31:40.360 --> 31:45.080
+bad for people, I don't know whether to call it karma or not, but if you do something bad,
+
+31:45.080 --> 31:48.320
+you will definitely receive something bad, and if you do something good, you receive
+
+31:48.320 --> 31:50.960
+something good, so why don't we do something good?
+
+31:50.960 --> 31:58.720
+Yeah, for sure, when you put it like that, it's like, duh, why would we not do good things?
+
+31:58.720 --> 32:07.040
+Yeah, no, I totally agree, and I have to say, I've been on part of some of these communities,
+
+32:07.040 --> 32:10.280
+Slack channels and things like that, and it is definitely a different world than what
+
+32:10.280 --> 32:16.880
+you see on a lot of other places, where there's so much communication and open sharing, and
+
+32:16.880 --> 32:23.200
+people are never negative towards each other, people are always encouraging you when you
+
+32:23.200 --> 32:27.240
+share content, people are always encouraging, oh, that's really good, and people would look
+
+32:27.240 --> 32:31.680
+at your stuff and give you feedback, it's definitely a different thing.
+
+32:31.680 --> 32:37.440
+The one thing that I found, though, for those people that I work a lot with, early stage
+
+32:37.440 --> 32:48.120
+developers, is they're scared of joining communities because maybe they're shy, maybe they're unsure
+
+32:48.120 --> 33:00.640
+of themselves still because they're new, so what can a community boulder do to bring those
+
+33:00.640 --> 33:07.040
+people in and make them feel safe and make them feel welcome and ensure them that their
+
+33:07.040 --> 33:11.760
+voice is welcome and that they are welcome to speak?
+
+33:11.760 --> 33:16.680
+First of all, it's a human touch, you know, that's exactly, so I'm working with a community
+
+33:16.680 --> 33:22.560
+of tech experts, and we have kind of two community in one, so we have code control community
+
+33:22.560 --> 33:28.560
+is a community of top senior experts, tech experts, and we have 9am community, the community
+
+33:28.560 --> 33:36.120
+for every freelancer, but we are only in Europe, because we are building this tool for freelancers,
+
+33:36.120 --> 33:44.320
+and we are letting in people from Europe to join it, but the main idea is that as a person
+
+33:44.320 --> 33:52.760
+join, we start communication, we start the onboarding process, and we reach out to this
+
+33:52.760 --> 34:00.800
+person and we explain how the community works, and we always say that if they need any help,
+
+34:00.800 --> 34:07.160
+they can always reach out to us and we are here for them, so they don't have to start
+
+34:07.160 --> 34:13.120
+a thread in like crowded channel, they don't have to introduce themselves, they don't have
+
+34:13.120 --> 34:21.000
+to do nothing, but we encourage them to do it just because, you know, the worst question
+
+34:21.000 --> 34:29.800
+is unasked, and the question which didn't, I don't know how to say it in English, sometimes
+
+34:29.800 --> 34:36.120
+I miss my words, but the worst question is that you didn't ask, and we are explaining
+
+34:36.120 --> 34:42.520
+it to people, and they can always reach out to me and Ella, my colleague who I work with,
+
+34:42.520 --> 34:47.720
+and we will always help them, they can ask us any stupid question, even if they think
+
+34:47.720 --> 34:51.960
+that the question is stupid, they can ask it, we will never tell them that the question
+
+34:51.960 --> 34:58.120
+is stupid, but we will help them, that's exactly, you know, when I was studying in the university,
+
+34:58.120 --> 35:08.800
+we had two different kinds of teachers, like one type is who you ask a question, and those
+
+35:08.800 --> 35:16.160
+people make you to feel your stupidity, so they tell like, really, you don't know this?
+
+35:16.160 --> 35:22.220
+Why are you still learning here? You have to go away and do some low-paid work or something
+
+35:22.220 --> 35:30.920
+like that, and other people, they won't do it, they will answer you any question, even
+
+35:30.920 --> 35:37.800
+if you're asking them what will be 2 plus 2, they will answer you, they will explain
+
+35:37.800 --> 35:42.920
+you that it will be 4, and they will explain you that why, so you have to be open and you
+
+35:42.920 --> 35:50.560
+have to tell people that it's okay to ask, it's okay to ask for help, it's okay to like
+
+35:50.560 --> 36:00.320
+be not perfect, and it's really a lot, it really depends on a community builder to build
+
+36:00.320 --> 36:06.440
+this level of trust, to build this level of vulnerability, to build this level of openness
+
+36:06.440 --> 36:15.240
+in the community, otherwise, and if the community builder is showing it themselves, other people
+
+36:15.240 --> 36:25.040
+will also do the same, and if like, yeah, so you show an example, you show people how
+
+36:25.040 --> 36:30.920
+to act, and then they do it without you, so then you have this amazing space.
+
+36:30.920 --> 36:36.680
+Yeah, that's great advice, that's definitely what I'm trying to do as part of the community
+
+36:36.680 --> 36:43.600
+that I'm building, I'm definitely trying to encourage people to ask, but I'm also encouraging
+
+36:43.600 --> 36:50.840
+them to ask in a venue that they feel comfortable in, and then slowly push themselves a little
+
+36:50.840 --> 36:56.720
+bit out of their comfort zone, and a little bit more, and a little bit more, until before
+
+36:56.720 --> 37:03.160
+you know it, you're welcoming new people, you're the one welcoming the new people, you're
+
+37:03.160 --> 37:09.360
+the one saying how can I help, but it starts small, and then you build up over time, and
+
+37:09.360 --> 37:14.840
+for other people it's easy, they just have a natural tendency to just join in, they just
+
+37:14.840 --> 37:21.120
+join a community and start talking, but you shouldn't feel bad if that's not you, we're
+
+37:21.120 --> 37:27.080
+all unique creatures, and you should play to your strengths, but at the same time, as
+
+37:27.080 --> 37:35.160
+you said, don't be scared, take a chance, trust other people, trust that people are
+
+37:35.160 --> 37:42.240
+generally good, and they have your best interests at heart.
+
+37:42.240 --> 37:45.920
+Thank you, Yuri, this has been a really good conversation, even though it's been really
+
+37:45.920 --> 37:55.720
+challenging with technology, but yeah, we made it, and in closing, is there anything
+
+37:55.720 --> 38:03.480
+that you would like to, just any thoughts, words of wisdom, any inspirational things
+
+38:03.480 --> 38:06.840
+that you'd like to leave the community with?
+
+38:06.840 --> 38:16.840
+I will just share what I'm always doing, there is no overnight success, and if you start
+
+38:16.840 --> 38:21.520
+small but constant, at the end of the day, at the end of some time period, you will receive
+
+38:21.520 --> 38:28.920
+great results, and that's what really relates to community building, because you won't have
+
+38:28.920 --> 38:34.520
+a successful community in one week, even in one month, most likely even in one year, but
+
+38:34.520 --> 38:41.400
+if you constantly keep doing and doing and doing, keep showing up, keep talking to people,
+
+38:41.400 --> 38:45.760
+keep encouraging, keep motivating them, at the end of the day, you will have an amazing
+
+38:45.760 --> 38:50.800
+community, so start small, be constant, and you will receive big results.
+
+38:50.800 --> 38:55.880
+That's great advice, and I 100% agree with that.
+
+38:55.880 --> 39:01.560
+Thank you again, thanks again, Yuri, it was lovely to talk to you, we should do this again
+
+39:01.560 --> 39:07.400
+when internet connections and technologies are playing along, I'd love to have a conversation
+
+39:07.400 --> 39:14.400
+with you again, all of the very best, thanks for everything you're doing, and stay safe.
+
+39:14.400 --> 39:20.080
+Thank you very much, Auk, it's an amazing talk, and I'm happy that we met, so yeah,
+
+39:20.080 --> 39:21.080
+see you in the community world.
+
+39:21.080 --> 39:22.080
+See you in the community.
+
+39:22.080 --> 39:27.760
+Thank you for listening to this episode of the Mycenae Network Podcast.
+
+39:27.760 --> 39:32.200
+If you're not already, please subscribe, star, and leave a review for us in your podcatcher
+
+39:32.200 --> 39:33.720
+of choice.
+
+39:33.720 --> 39:39.520
+This helps others find us and helps us make a better podcast for you on this course.
+
+39:39.520 --> 39:44.520
+You can also find and follow us on Twitter, at NetworkMycenae, and join the community
+
+39:44.520 --> 39:45.520
+on Discord.
+
+39:45.520 --> 39:52.400
+All the links are available in the show notes.
+

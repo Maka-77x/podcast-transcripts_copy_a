@@ -1,0 +1,617 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Buisile, thanks so much for joining me for the Mycelium Network Podcast.
+The pleasure is mine. I'm happy to be here.
+How's yours? How's your day been so far?
+It's been a good day. It's been a good day. It's raining here in Zimbabwe,
+so you're always welcome. Yeah, that's very true. That's very true.
+So, I think let's just get this conversation right off to a start.
+So, I know you from way back in the day when we met at a Mozilla event, I believe it was.
+I think it might even have been something to do with Firefox OS still back in the day.
+Yeah, that was in Johannesburg. That is correct. That is correct.
+And after that, I've been following you on Twitter and I've been seeing the conversations
+you've been having and all the things you've been up to. And when I started this whole community
+and I started the podcast, I've always meant to invite you. So, I'm glad that I finally did
+and that you were available and that we can have this conversation. Because I do think that you
+have an interesting perspective and that you have a good story to tell and I would love to
+give you a voice. So, to get us started, tell us more about who you are, how you got into
+development, where did you grow up, anything that in your early years that might have been a catalyst
+to kickstart your career, kickstart your interest in tech. And then just as an aside at some point,
+I'm always curious when people have like a pseudonym on the internet what the story
+behind it is. And like on Github and Twitter, you have this pseudonym called Terra Maiar,
+if I'm pronouncing it correctly. So, I'm curious if there's a story behind that.
+Okay. All right. That's okay. Let me tell my story. So, I was raised in Zimbabwe.
+I've always loved tech and computers. I've always been intrigued by how they work. I'd say I'm a
+logical person, I think in a bullet point kind of way, like a very sequential way. Computers
+work the same. So, I just understood them. And so, I've always loved computers. And I used to
+go to my sister's workplace just to play with her computer back in the day. We didn't have a
+computer. I didn't have a personal computer at home. So, the only computers I came across were
+computers in people's workplaces. I would always visit friends and family's offices just to use
+their computer. That's how I got to learn how to use a computer. And then, once I knew enough,
+I started going to internet cafes, messing around on the internet, you know, started joining forums
+and chat groups and things like that. And so, that's how my interest in computers was what it
+peaked at that point, I'd say. And then after high school, I went to a polytechnic college,
+I studied IT. So, I learned formally about computers and information technology. Unfortunately,
+I wasn't able to graduate because of financial problems and some other personal reasons that
+kept me from completing that course. But I still loved it. And I still carry that knowledge I gained
+from them with me. So, after I finished or after college was done, I started contributing to open
+source. That's when I started. I found Mozilla. I joined Mozilla community at first. I was just
+doing translation. I worked on Firefox OS translation into Hindi, the language I speak here.
+And then from there, as I met more people, I got more and more involved in the community,
+and then contributed to QA. We used to do QA testing for pre-release Firefox builds and even
+Firefox OS at some point. And then that was when I was introduced to programming because a lot of
+the QA engineers at Mozilla used Python to automate the tests that they used to against the Firefox
+or many of the internal Mozilla websites they were testing. So, that's when I was introduced to Python
+and got interested, and I started learning it. So, I started learning. That was around 2013,
+2014, I think. And yeah, that's when my Python journey started. And then after that,
+after a few years, I learned Python. I watched some YouTube tutorials. I read some books. I
+bought some courses, and I got good at it. But unfortunately, I wasn't able to get a job
+because something the tech pros on YouTube don't tell you is when you're learning a
+tool or programming language, you need to learn something that makes sense for where you are.
+And there isn't a big market for Python here in Zimbabwe, so I learned that the hard way.
+But yeah, after a while, I eventually found remote jobs. And that's how I got into
+software development using Python. Okay. That's interesting. That is an interesting perspective
+to think about not only which language, but which language is in demand where you live.
+I guess that's to some extent true in South Africa as well. I don't know now. I've not been
+super in touch with the workforce in South Africa for quite some time. But I know when I started,
+Java was definitely the language du jour. If you wanted a job, you had to know Java.
+That's why I always say I have a love-hate relationship with Java because I never
+enjoyed the language. But I am grateful for the opportunities that it given me because it
+introduced me to open source and it allowed me to get a job, a decent paying job, which allowed me
+to explore some other avenues. But I definitely quickly discovered that for me, that wasn't the
+language and especially not J2EE. The enterprise stuff was definitely not where my love and interest
+lie. But I'm grateful for what it introduced me to. So is there a story behind TerraMajor
+or is it just something you picked? Oh, yeah. I forgot to mention. So when I was
+fooling around on the internet, I wanted to have a pseudonym I could use across all my socials.
+Right. And the name is a pretty common name here in Africa. So most of the time when I try to use
+the name, it'll be taken. So I had to come up with something unique, but that also spoke to the kind
+of person I was. So TerraMajor is an acronym. I'd say it describes me in a sense. It stands for
+Tremendously Exuberant, Risen, and Real Attitude. That's a terra. I think that's what I am,
+I'd like to say. And then major is just like a major, like a title from an army.
+Oh, okay. Someone who has that attitude and who's also a major. And I just felt it different
+weirdly so that I would always be unique. That's very interesting. So I did that with us as young,
+just straight out of college. And the name stuck. Unfortunately, I've built my brand, so to speak,
+quote unquote, around that name. So I haven't really changed it. So you'll find most of my socials,
+I'm TerraMajor on most of my socials. It's like GitHub, Twitter, everywhere.
+That's very interesting. Yeah. I always like hearing the stories behind the names. So as you
+mentioned, even though Python wasn't the language that you needed in Zimbabwe to get a job, it's
+still a language that you learned. And I know that you love Python. That's what I can tell from
+your tweets and all this stuff you do. And I have to say, if I had to pick a backend language,
+other than Node, i.e. JavaScript, I would probably pick Python as well. I really love the syntax.
+I really like the rules of Python. Are you thinking Python? It resonates with me very much.
+But you, as somebody who uses Python as your main language, what is it about Python that attracted
+you and what do you love about Python? Okay. So like I mentioned, firstly, I learned Python
+because that's what all the cool engineers at Mozilla used. That's what first got me into Python.
+But then as I learned, it was really easy for me to learn. Unlike languages like C++ or Java,
+it read like English. It's very straightforward. You can pick up a Python program and figure out
+what it does, even when you're not very experienced with programming. So that was what got me
+interested in Python. But really what made me love the language as much as I do is the community.
+It is a fantastic community. And as someone who was finding their way, I was on my own. I didn't
+have a college degree. I didn't have a lot of support here. So I had to lean on the Python
+community to basically get mentorship, get opportunities. And the community was fantastic.
+Very friendly people, very helpful, and very accommodating. So that's what really
+made me like the language as much as I do. But another thing is, it's a bit of, it's really
+sentimental. Because I learned Python, and then I couldn't get a job. So I had to make a choice.
+Because either I pick up a language like Java, or one of the.NET languages that are common here,
+even wanted to get a job, or I could just stick it out and not give up and just keep pushing
+until I got the job. Because I already put in the time to learn this language. So that's what I did.
+I chose the second option. You know what? You have already put in this work. Just see it through.
+So I went through a very difficult phase where I forced myself to learn enough Python to get a job.
+That was my goal. I was like, you know what? Just get a job that way you can use Python, and then
+that way I won't feel like a failure for learning it. And so it's one of those things where I just
+had to stick through with it. I had to learn the language. I had to learn the language.
+I had to make it work. So I did that. I got the job. And now I'm actually trying to move away from
+Python and learn different languages. I don't want to be the Python guy. I just want to be able to
+code in Python and other languages. Is there any other language specifically that you're thinking
+about? Go and Rust on my radar. Yeah, those are good ones. I always mean to learn Rust, but
+JavaScript evolves so fast that I'm finding it hard enough to keep up with JavaScript.
+Exactly. But I'm just like, oh, my goodness, what's this new thing in JavaScript today? Okay,
+wait, let me just figure this one out first before I try a new language. But at some point,
+I'd like to learn Rust because I think some of the backend stuff that I'm doing,
+especially the one side project I'm working on, if that kicks off and is successful,
+I think it would be beneficial if I have the backend written in Rust as opposed to in Node.
+I think Rust will allow me to scale much, much better than doing Node. Because with Rust,
+if I understand correctly, I'm going to be much closer to the metal instead of having to go
+through a translation layer that then speaks to the metal, which is always a good thing if you
+want to eke out that extra bit of performance. That's basically how I learn. I put myself in a
+situation where I'm like, okay, I'm going to do this project and I'm going to do it in Rust,
+and now I have no choice. I have to learn it. I don't know. That's just how I learn. So,
+I have to think which area I want to go into. Let's dig into community a little bit.
+Among the many things I do is, well, I've started this community called Mercedes Network,
+but I'm also the community manager for MDN Web Docs at Mozilla. So, I'm more and more involved
+in everything community. One of the reasons for it is, like you said, I think it's often
+the differentiator and the enabler for a lot of people where you don't feel alone.
+Because I think oftentimes it's not easy to give up, but you're more likely to give up if
+you don't have a community that either holds you accountable or simply inspires you or both.
+So, what are your feelings? That's how I think about community. What is important to you
+about community? Well, it's two things really. Sharing of skills and opportunities. When you're
+learning on your own, when you're self-taught, or when you're just figuring stuff out from doing a
+bunch of tutorials online, you really don't know what you don't know. It's beneficial to be part
+of a community with people who are more experienced than you because they can help you see the things
+or figure out the things you're supposed to know that you're not aware that you don't know.
+So, that helps a lot. And it helps also, like you mentioned, to see people doing the stuff you want
+to do in the real world and actually making an impact using the stuff you're learning. So,
+it gives you the motivation to work towards a goal to be like them. Like I mentioned, I learned
+Python because the cool engineers at Mozilla were using it and it looked cool and I liked that.
+I wanted to be like them and then that's what got me involved. And then along the way, as I was
+learning, I had people in the community I could reach out to for help when I needed it. And these
+are people who are leaders in respecting different fields. So, I knew I was always getting the right
+kind of guidance and the right kind of information. And it helped to have that. Unlike where you just
+have to Google like on Stack Overflow or something, it helped to have that human connection.
+Yeah, for sure. I totally agree. So, then on a slightly related but tougher topic,
+I'd just like to get your input. So, I recently learned that of all contributions to open source,
+only 17% comes from Africa. That blew my mind because that's a very, very small number
+if you take into account how many people are on this continent. So, my one question is,
+why do you think are holding people back from it? And then what role can open source play
+in lifting people up and creating opportunity? Because I strongly believe open source has
+tremendous possibility to open up doors for people. And I think you've experienced it through
+the whole Mozilla thing and you mentioned getting into open source early. So, what are your thoughts
+on those topics? Why do you think there's such a small number of people contributing to open
+source? And what can we do about that? Man, this one is a tricky one because I think
+it's to do with lack of access. So, I'd say there's poorly developed infrastructure
+that plays a role. Lack of skills to effectively contribute to some open source project. And
+I guess this also falls under infrastructure is that internet access is not widely distributed,
+I mean, evenly distributed in Africa. So, you'll find that in landlocked countries, generally,
+the internet tends to be slower because they don't have a lot of inland fiber connections. So,
+because it's slower, they use technologies like satellite, UHF and whatnot. These are
+slow and expensive. So, internet access for the most part is not... A lot of people have access to
+high speed internet and if they do have it, it's expensive. That's the first problem. In most of
+Africa, there is, of course, the power of problems and a lot of infrastructure problems. Then that
+aside, I think the second reason why we don't have a lot of contributions in open source is
+time. I'd say one has to be privileged, in a sense, to be able to contribute to open source.
+I don't like saying this, but I'll say it here, because you need to have time. You're willing to
+give away basically for free because you're not being compensated for the time to work on something.
+So, not a lot of people have that time because most people, especially people from disadvantaged
+backgrounds, they're more focused on putting food on the table. So, they're doing paid work.
+So, that's the second thing. Then I think the third thing would be skills. So, we, Africa,
+in general, hasn't had a lot of time to develop skill and talent as much as the West or Asia has.
+So, we're still playing catch up with the rest of the world. So, there's still a skills gap
+that needs to be filled. I think once that is filled, we'll have developers, our community
+members of the community in positions where they can contribute better. So, you'll find that most
+of the contributions to open source, I think, don't quote me on this, but I think you'll find
+that most of them come from economies that generally perform better than the rest of the
+world. Economies that generally perform better, like Nigeria, South Africa, Egypt, or Kenya.
+So, the better infrastructure, better economies, and better levels of education, and better access
+to hardware, and these opportunities. You have big tech companies setting up lots of startups.
+So, it's a very difficult problem, but I think there's definitely lots of opportunity in
+contributing to open source. I gained a lot from working in open source. I learned a lot of things
+that I wouldn't otherwise have learned just from reading books or watching video tutorials. I've
+had opportunities that came as a result of that, but the unfortunate truth is that it's not easy
+for everyone to get into it. I also sometimes wonder, because in the few interactions I've had
+where during Hectorbofist, we as a community worked on this project that's ongoing, but
+we kind of focused on it. It was incredible to find how unfriendly a lot of open source
+tools and stuff is if you're on a Windows machine, for example, as opposed to a Mac or even Linux.
+I think in Africa, it's probably more prevalent for people to have Windows machines than it is
+to have Macs, for sure Macs. Maybe a lot of people don't know about Linux and also don't know which
+are the more user-friendly installations of those that has a more Windows-like experience,
+but will give you a better... Then, of course, Windows has come a long way in the sense of
+a Windows subsystem for Linux, but you need to run the very latest version of Windows. That
+sometimes means you have to have a pretty decent machine, so if you can't afford the expensive
+computer, you can't run the latest Windows, and so you don't have access to WSL. There you go.
+I think that might be another problem. You mentioned hardware access being one of the
+problems. I wonder if something like an incubator for open source in Africa would go some way
+towards this, because what I'm thinking is it's a means for young, and this is not young in age,
+young and experienced people, to have a starting point where they get paid a decent enough salary
+to work on open source, and through that, they then can get introduced to more opportunities.
+So, the incubator serves as an on-ramp into the industry, so it takes people in,
+it skills them up, and through skilling them up, they get paid, but they also contribute
+to open source projects, which again, benefits a whole large part of the economy, because
+everybody depends on open source these days, but then it gets them to a point where they can then
+leave the incubator and either start their own thing or join a company, because now they've
+experienced, and they could contribute to open source, because like you said, they can still
+put food on the table, because they're actually getting paid to do that. What do you think about
+something like that? I actually think it's a good idea, and I'd really prefer it if this came from
+the highest level, say, have governments introduce open source policies, that would drive demand for
+open source software. Say, for instance, the government were to stipulate that all government
+departments would use open source operating systems and open source software, so that would
+mean you'd have to have people skilled in installing these operating systems, in managing
+these operating systems, and using the software, and it would save them money, which is a good
+thing for government, because most of these tools are free, open source is free, and then it would
+then create demand for people with skills in using or handling open source software. And then
+these incubators would then have a pipeline, like you draw in the talent, you train the talent,
+and you have somewhere to move that talent to, because there's demand on the other side.
+So I think it would be to be a really good thing for all parties involved. Open source is free,
+so that cuts costs, it creates opportunities for people using it, and then it's a win-win for
+everyone. Yeah, yeah. I think it's a very good idea for governments to adopt this. My experience
+is that it's a hard place to start. It almost feels like industry needs to, I don't know how
+exactly this would work, but they have to kind of put pressure on the government to adopt these
+things, because I'm not sure that the governments even know. They just pay the licensing fee they've
+been paying for 20 years because it's what they've been doing. I don't know if there's enough.
+There's a company in South Africa called Open Up, and they do quite a bit of this, where they
+actually interface with municipalities and stuff like this, and they are very much into opening
+up data, but also the use of open source and that kind of stuff. So I think it's kind of like an
+education kind of thing, where there needs to be these companies that show government the benefits
+of open source, and show the possibility of creating jobs and developing talent, and maybe
+through creating something. Exactly, exactly. And maybe through setting an example, they'd be more
+willing to adopt it, and you'd probably have to start on a small scale. You might have to start
+with your own municipality and getting them to adopt some open source software, and then them
+going to their leaders and saying, hey, my goodness, look, we've been using this thing that we learned
+from these other guys, and it's saving us so much money, and there's a bunch of people that's being
+trained, that knows how to run these things, and then maybe it goes up the chain and up the chain,
+and eventually it gets adopted wider. I think there are some Asian countries that's actually
+doing a really good job with this. For some reason, Taiwan always comes to my mind, but I'm not sure
+if it's them who has really adopted a complete, and I think even South America, like Brazil and
+them, I think they've also adopted open source software quite heavily. So I think there's scope
+for that, and I do think that in the end of the day, that would be a good thing, but I do think
+industry will need to set an example and offer proof that it's not just talk, it's for real,
+like the benefits are real. But yeah, I think that that might be something that
+would be nice if one can get a couple of companies together to try this out and see what one can do.
+I think there are some education, some places doing education in South Africa, that is kind of
+got this idea, but again, there you sit with the problem of the monetary problem, whereas
+you're studying, so you're not earning anything yet. And so you have to, and that's definitely
+a massive problem. I mean, unemployment in South Africa is something like 50%. So if you have an
+unemployment rate of 50%, people don't have a lot of free time to give away of their precious time
+that they have. So you have to incentivize them monetarily as well. So on that topic, yep.
+I just want to say, this has a positive effect on people actually involved in work, that actually
+use the software, because say a municipality needs a certain feature, they could have their employees
+build the feature and then release it back into open source. So I mean, it's a hard problem to
+solve, but it has lots of benefits if it would be implemented right. Yeah, no, for sure. And I mean,
+and talking about that, I know you were a freelancer. I think you recently took a full-time
+position. Yeah. Am I correct there? Okay, cool. Yeah. So to dig into that a little bit. So
+in the beginning of this year, I officially started my own company. It's an open startup,
+which means we are fully transparent in terms of income, in terms of what we pay people,
+who our employees are. If the employee is okay with it, of course, we're not going to publish
+their stuff publicly if they don't want us to do that. But so far, everybody's fine with that.
+But our expenses, everything is open. And of course, we are heavily invested in open source.
+The company is completely based around open source. We give back to open source.
+We have a mandate of any project we rely on. We have to either financially or through
+contributions give back. What's your product? So at the moment, it's mostly around consulting
+and education, but we're building two products, one that's developer facing. It's called developer
+tool chest. It's a way of collecting a bunch of tools that you use often and giving you easy
+access to it. So you can just contribute to it, anything, and you tag it in ways that you'd
+obviously want to find it later on. And then it's just like a search interface. And also allow easy
+discovery of other tools you might not know about. And then we have some plans for going forward.
+The other one is called our backyard. And that is a platform to help small businesses
+get in front of people. So it's easy to find big box stores because they have thousands of runs
+to spend on advertising and big signs and big buildings. Whereas a lot of small businesses
+run from their own little house and they don't have a bunch of money. And so the idea is that
+our backyard is literally what the name suggests. It's where you go to find small businesses in
+your own community and support local business in your own community. So it's got that good
+thing to it. But then down the line, we will look at how we can responsibly make some money from it.
+Because, of course, at some point, it needs to make a profit. But we want to do it responsibly.
+So privacy is extremely important to us. So we don't want to stick a bunch of advertising
+in front of you. We don't want to track you everywhere you go. But we'll find a business
+model that works. Maybe it's something as simple as if this service is valuable to you,
+to give money to it on a monthly basis. Maybe it's a business model like that. Kind of like
+Open Collective. Because it's also built open source. The whole platform is built in the open.
+But with that said, it's not easy. It's definitely not easy. And doing it in the
+African context brings its own challenges. I heard a talk on a podcast of a guy called
+Lex Friedman, where he spoke to a woman that she started a business in Lagos,
+and then she started a business in the US. And she was talking about how different the
+experience was between the two. And what it boiled down to was that in the United States,
+with all its problems, the system is set up for you to succeed. Whereas, in her words,
+in Africa, it's set up for you to fail. Because the infrastructure, the support,
+it's just not there. More often than not, she got where she did because she knew the
+mayor in the town and she could ask for a favor. Whereas if she didn't, you know,
+she might never have gotten electricity to her business and the business would have failed.
+All these kinds of things. So, I'm curious, because there's another thing,
+because I know you struggled with this. So, if you're in a first world country,
+and you want to experiment with something, so you want to create a newsletter, and then you want to
+put some aspect of it, maybe you want to allow people to post comments on your newsletter,
+but only if they're a paid member, for example. Now, there's an array of options to do that.
+You can use Substack. You can use Ghost. There's a bunch of things. But if you're from Africa,
+you're going to hit a problem. And that is because the only processor they support is Stripe.
+And we don't have access to Stripe in Africa, in the entire continent we don't. Now,
+Stripe offers this thing called Stripe Atlas. I don't know if you've heard about that.
+Yeah, they create an LLC for you in Delaware, in the United States.
+But the thing is, it costs $500 to get that set up, and then $100 per year to keep that LLC going.
+Now, if you just want to experiment with a newsletter, that's a massive investment of
+money for something you don't know if it's going to succeed, and where you're going to
+charge people probably like $2 a month for a subscription. So, with all that context that
+I've given now, what were the problems that you faced that made you, that put you in a position
+where you had to say, you know what, I'm going to have to stop this freelance thing for a while,
+and just get a paid job where I'm a little bit more certain of my salary?
+So, before I started working as a developer, I used to run a web hosting business
+for Hanger Branding for a few years. And the biggest problem I've faced was the changing,
+like changes in business environment in Zimbabwe. The regulations are always changing. It's very
+hard to plan for your business. And getting money into a bank account is very difficult,
+because I think our currency has changed. I think we've changed currencies like five, four or five
+times in the past few years. So, one minute we're using US dollars, next minute we're using
+something different. So, that lack of consistency just made it very difficult. So, there were
+problems that were bigger than me that affected the clients that I had. Everyone was affected by
+this business environment. So, you'd have situations where clients weren't able to pay me on time,
+or if they were able to pay me, I'd just have problems collecting the money. Because if you
+have a client outside Zimbabwe, getting money into Zimbabwe is very difficult because of these
+problems with our banking system and everything. So, that was the biggest problem for me is just
+moving money. I had cash flow problems because of the changes and lack of consistency.
+So, I'd say that was the first one. And then the second one, the second challenge I had is,
+we have a number of payment options here. We have mobile money, we have bank transfers, we have
+online payments from debit cards and credit cards. But getting support for all those is very
+difficult. For instance, mobile money is run by a few telecoms companies, or the biggest one is
+Ecocash. And they're not very open to providing their API to small businesses. So, if you're
+starting out and you want to accept Ecocash payments or mobile money payments, it's not very
+easy to get that. So, that's one of the first problems. And then the second one is the payment
+processes we have here charge very high fees, just like Stripe does, the yearly fees. So, it can go
+in the way, go against running the business because you end up paying more to these payment
+processes that you're actually taking in. And then the last straw for me was the payment process I
+was using at the time to shut down. No warning, no compensation, no communication, nothing.
+It just shut down one day and it just stopped working. So, migrating the business to a new
+payment process, it would have just taken too long. And you're like, hey, you know what,
+I don't need this. So, that's when I notified all my customers. I just gave them free service for
+about a year while I helped them move their websites to different hosting providers. And
+that's when I was really done. Then I started looking for a job. So, yeah, it's hard to run
+a business here in Africa because of infrastructure problems and the business environment is just not
+set up for, that doesn't set you up for success. So, getting a job was another challenge because
+economy in Zimbabwe is not great right now. And that was the first thing. And the second thing
+was the skills I had learned where I couldn't get a job for the skills I had. So, I was forced to
+get a remote job from international companies. So, that comes with its own challenges. But
+unfortunately, I did get a job. I have a job now. I'm happy. So, yeah.
+Oh, I'm glad to hear that. So, okay, let's step back into something else. There's a project that
+I believe you started. And I believe I saw the tweet when this idea started in your head
+that ended up being Pai Pai in a box. Yeah. Do you want to dig into that? Because that's
+really, really cool. I read about it a bit more today and it's really cool if you want to tell
+us more about that. So, what started this project is part of the problems we've been talking about,
+infrastructure problems here in Africa. You go to a meetup, you're running a workshop, you want
+people to install some packages, and then the internet goes out or the power goes out. So,
+that basically means you can't do anything. You just have to talk through what you would have done.
+So, I got to a point where I attend a lot of conferences and I attend meetups and workshops,
+and I do trainings at these events. And that was my biggest frustration that I didn't have
+a reliable internet access or reliable power to run the workshops I needed to run. So, I thought,
+hey, what could I do to allow people in the workshops, guest attendees to install the
+software and not be bothered by whether there's internet or not? And then I figured, what if
+I could download the packages I needed onto a little computer, build, make it a Wi-Fi hotspot,
+have everyone connect to it, and then they could download packages? So, that's when
+I started tweeting about it, asking people how I could go about it. I did some research and I
+figured it's actually not difficult because firstly, Raspberry Pi is an affordable computer.
+At the time, they're still available, they're still affordable. You can buy, I bought one,
+I got a very large, like the largest size SD card I could get. I think it was 256 gigs. And then I
+cloned the Python package repository. So, it's like the NPM package repository if you're from
+JavaScript world. So, that was about, the download was about 100 gigs. So, I downloaded the packages
+and I found some software online that can recreate the structure of PyPI, which is the Python package
+index. So, it recreated the structure and indexed the packages and then I put a web server in front
+of that and then I configured the Raspberry Pi to act as a Wi-Fi hotspot. So, you can now, using
+this tool, install, do a pip install package name from a local repository instead of going to the
+Python package index. You know, pip, the package manager can do that. It allows you to install from
+offline or local package repositories. So, whenever we'd have an event here at Zimbabwe, I'd do that.
+I'd set up the Raspberry Pi, everyone would connect to it and they'd run that one command,
+they'd be able to install the packages that they needed. It's a, you know, it's a simple device,
+but it's really went a long way in making sure I can teach the way I wanted to teach, you know,
+whether there's internet or there's power, we always had a little Wi-Fi connection that could
+allow people to install software. Yeah, yeah, that's super cool. So, do you put like a
+a SIM card in the Raspberry Pi and it uses that to connect to the internet, like mobile?
+No, so the Raspberry Pi, the model I have is the latest model. So, it has an Ethernet port
+and it has Wi-Fi as well. So, the way I have it set up is I connect it to the internet via the
+Ethernet port and then set up a Wi-Fi hotspot on its Wi-Fi adapter. So, I can download packages
+using Ethernet and then broadcast Wi-Fi network using the Wi-Fi adapter. Now, alternatively,
+you can download packages on your laptop and then transfer them onto its little SD card because it
+uses an SD card as a hard drive. So, you can set up everything, all the files you need on your
+computer on the SD card and then transfer that to the Raspberry Pi. So, it works just like a normal
+computer except without all the fancy bells and whistles you'd expect from a powerful desktop.
+Yeah, yeah, that's super interesting. I know there's another project. It's not meant for
+Python or anything like that, but it's called Internet in a Box. I don't know if you know about
+that. Yes, I came across it when I was working on this. It's a very similar project. They do
+basically everything else. It's a digital library of different websites and stuff.
+Yeah, like Wikipedia and that kind of stuff. So, if you're in a rural area, you can put that down
+somewhere and people can have access to it. And then, if you once a month just do an update
+from the internet to make sure you have the latest content, then people don't need internet
+access to be able to access all this, which is amazing. I mean, sometimes the thing that stands
+between you and success is just having access to that content. So, yeah, it's great. I'm actually
+thinking of doing something similar. When I started this, it was just a proof of concept to
+see if I could do it. But now, what I want to do is I want to take the same concept and use it to
+make my own internet in a box. So, I only do Stack Overflow and Wikipedia. So, I found
+a lab tool called Keywigs that allows you to do this very easily. It bundles all the software you
+need to serve up clothed content offline easily. So, you just download the content, install this
+software, and then it allows you to serve up some Wikipedia or Stack Overflow easily. So,
+that's the next thing I'm going to try. Yeah, that sounds really cool. Do you know if there exists
+a similar thing to this for NPM, like NPM in a box? I actually haven't heard anything like that.
+So, I wouldn't know. I once asked on my Twitter, I've been on you, but I didn't get any responses.
+So, I'm not sure if it's there or people just ignore me. I don't know.
+Yeah. Would it be, thinking about your experience creating
+PyPy in a box, do you think it would be a lot of the work you've done is transferable to
+creating something like NPM in a box? With what you've done, would that have a lot of
+the infrastructure just reusable for that, or is it very specific to PyPy?
+I think it is. The concepts, rather, are reusable because I use a lot of Python packages to do this,
+but I think the principles can be applied to NPM. I'm not sure how packaging works in the
+JavaScript world, but I imagine JavaScript packages take up much more space than the
+Python packages. So, you'd need to find a way to download packages that you can fit into Raspberry
+Pi and then a way to index them and then serve them up. So, probably, for serving them up,
+you could use a web server like Nginx or something, and then indexing them, I don't know. I'm sure
+there's something NPM specific that you could do, but you just need to find the right tools,
+but it should definitely be possible. Yeah. So, what do you use for indexing PyPy?
+Because I'm thinking, the name is just in my head now, it's hard again.
+So, there's this thing called PyPy server. You point it to where you have the Python packages
+downloaded. It runs through the list and then creates an index. That makes it easy for the
+PIP tool to find the package. You can find the package based on the name or its metadata.
+You can figure out what dependencies it depends on. So, indexing really is useful. It saves you
+a bunch of time instead of searching through the entire package repo every time you want to do a
+PIP install. Yeah. I wonder whether Algolia or something like that, I wonder if you can run that
+on a server with NPM and use Algolia to index the NPM registry. That'd be interesting.
+I'm really curious if this is possible. Yeah, it could be an interesting problem to
+solve. Yeah, for sure. Like you said, I'm sitting here and I was speaking to you and the only reason
+I can is because I'm plugged into a big battery because currently we're being load shed. So,
+we don't have electricity at the moment. So, I have a big battery that I'm plugged in and because
+of that, I still have internet access and I can actually speak to you. I only bought it this week
+and it was very expensive. I had to put money aside and thankfully, I have a business. So,
+I did some extra work for extra clients and so far, it seems like it was definitely a good buy,
+but it's not cheap and it's not something that's accessible to many people, unfortunately. So,
+there's a lot of people around me sitting without electricity right now. So,
+I did that recently, so I can relate. Yeah. So, I can totally see a situation where you're in the
+middle of a workshop and there goes the power and you're like, oh boy, now what do we do? So,
+being able to whip out a Raspberry Pi with NPM on it would be super useful. So, I think it's something
+that as Mechanical Ink should spend some time on and I might just need to tap your brain for some
+knowledge. Yeah, I'm happy to. I'd love to actually see that, because I know that would definitely
+have more of a use case here than the Python thing does, because there are generally more
+JavaScript developers around than Python ones. Interesting. So, what I also saw is, I think,
+maybe PyPy in a box presented an opportunity for yourself, because you recently gave a talk about
+it at the Ubuntu Summit in Prague. Yes. How was that experience? So, what happened is, interesting,
+I gave a talk about the same project in Namibia at the Python conference in 2020.
+When did COVID start? 2020. Yeah, so I gave a conference. Yeah, the last conference I attended
+was just before COVID started. So, in 2020, I gave a conference, a talk at Namibia, and one of the
+community managers at Canonical was in attendance at the conference. He heard the talk and, hey,
+that's actually a good idea. And so, this year, he invited me to speak at the Ubuntu Summit. So,
+the Ubuntu Summit is a Ubuntu conference that seeks to invite community members and Canonical
+staff, put them in a room together for a few days, and share stories about how people are using
+Ubuntu and Linux and open source in general. So, I got to present about how I was using Ubuntu on an
+Raspberry Pi to do that. So, giving that talk led to that opportunity to be invited to that conference.
+And it was my first time in Europe. I'd never been to Europe, so I got to travel to Europe,
+give the talk, meet fantastic people from the Canonical team. It was at a fantastic time.
+Yeah, it's always great. I remember the first time I went to the US when I started contracting
+at Mozilla. It was also like a complete culture shock. And you can understand how there's so many
+tech companies because everywhere around you, like if you sit in a little coffee shop and you're
+just talking, everybody around you are talking about their startup and about this problem they're
+having with this program. And so, there's this energy in the air that's very, very contagious.
+So, I was wondering with that conference that you were able to attend in Prague and now that
+we're slowly walking our way out of the pandemic and starting to... But we've also learned some
+lessons about the fact that in-person events are great, but it doesn't necessarily... The
+world doesn't have to come to a complete standstill if we can't get on a plane and fly somewhere.
+So, we can do a lot of these things virtually. So, do you think if we can install a more active
+conference circuit, so to speak, in Africa, do you think that would foster a more active startup
+culture? Because that's the one thing that I find is very, very active in Europe and in the US.
+And I think a lot of great ideas come out of just this concept of trying something and being
+willing to fail, but also being willing to pivot. But I do think, like I said, you have to have a
+culture, you have to have an active community that encourages this. So, do you think if we can
+somehow, maybe starting all virtually, because that's also cheaper than having to fly all over
+the place and also better for the environment, do you think if we can install this idea of having
+more Africa-focused conferences, speaking about stuff like what me and you have been talking
+about now, the challenges and possible solutions, do you think if we can kickstart something like
+that, that that'll, by its very nature, install this idea of a startup culture?
+I think it would, because we all have similar problems, similar challenges we face. And I think
+now physical conferences, like physical meetups, we actually work better than virtual ones, because
+I think the networking opportunity that gives you allows people to just share ideas and talk about
+problems. Some of the things that people talk about come up, even not in the conference talk,
+but in the hallway track, or in the dinners, or in the lunches, whatever. It's like we can share
+ideas and conferences or meetups are very good places to talk about stuff or to learn about stuff
+you don't really know. Because when you're to the conference, you can learn something you
+weren't aware that you didn't know. Like, oh, that could be really useful for this project that I'm
+trying to solve. It allows you to make connections and to learn stuff. So I definitely think
+that conferences would help, because we don't have enough conferences, I'd say, or meetups,
+because most of the conferences I've seen are enterprise conferences where companies are getting
+together. They're okay, but they have a bottom line goal most of the time. And I think we need
+more community-focused conferences that just allow people to meet and share ideas and figure out a
+way to solve common problems. So yeah, I think it would help. Yeah, 100% agree. Yeah, a lot of those
+others are more trying to sell you their products and services than really fostering a community of
+makers. So yeah, I agree. So you're an AWS certified cloud practitioner. By the way,
+congratulations on having achieved that. That's no small feat. But I do see that you also use
+a service called Devo. How do those differ or are they more similar than different?
+I'd say one is an abstraction over the other. So Devo is an enterprise solution.
+What their goal is to unify multiple clouds. So say you have a business, you want to put your
+business on the cloud, but you don't want to deal with the complexity of choosing a cloud or you
+want to put some information in one region or one cloud and whatnot, they take care of all that for
+you. So they just provide you with a platform, you upload your code, and then you can choose through
+a drop-down what cloud you want to put this on, what region you want to put this on, and then they
+take care of all that. So you could actually have an app that has some data in Azure, some data in
+Google, and then some data in AWS in a specific region. They can take care of that for you. So
+I'd say that's how they differ. But at the end of the day, Devo does use AWS under the hood. Now,
+if I were to release an app, develop an app, there'd be times where I choose Devo and other
+times where I prefer to use AWS or another service. So Devo is mostly focused on enterprise. So you'll
+find that their paid plans are quite pricey. I think they issued this plan, the last I checked
+was like $150 a month or something. But they had a very good free developer plan. So if I was just
+building a pit project that needed a home and URLs, load balancing, and a server, I'd use Devo.
+It's a very easy platform to use. You download the CLI, you Dockerize your project, you just push
+the basis. It's very similar to Heroku. So they have a nice platform, good documentation,
+really easy to set up Dockerized applications and give them an online presence. But I'd say
+AWS is, if I was running a business, I'd probably put my product on AWS or even Azure or any other
+cloud, because you get more options, more fine grain control over what you spend your money on,
+you know, AWS. So there's easy solutions to AWS. If you just want to get an application online,
+there's solutions, you know, things like Elastic Beanstalk, you know, you can use
+Elastic Beanstalk, just put up a website online and then Amazon will take care of auto scaling,
+load balancing, security, provisioning, and all that. Or if you have more skills,
+you can get a VPS. You can get a VPS from them and do all that yourself. So it really depends on
+what you want to do, you know, how much time you have and how much money you're willing to spend.
+Because obviously, AWS, like Elastic Beanstalk is more expensive because it's a managed service. So
+you get a lot of things out of the box and you pay more for it.
+Okay, interesting. So on that topic, I've spoken to somebody before, Chelsea Adams, and she
+also does quite a bit of the AWS kind of stuff, but she also does front end and that kind of thing,
+but she's well versed when it comes to AWS, for example. And I think one thing that she mentioned
+that I found interesting, and it's true, most, I don't want to say all because that would be
+unfair, but most of these bootcamps or even like longer term educational institutions that provide
+specifically education around front end development, they stop short of, okay,
+now I can build a React application, but how do I put it online? Maybe they'll show you how to do it
+with like using GitHub pages or something like that. But I mean, if you want to do a production
+app, that's not really, you know, the way you're going to go. And so the one thing that she
+mentioned is there's a hole there that needs to be filled in the sense that there's not really
+any good education, accessible, good education out there to teach front end developers, how do
+I put this app of mine online the right way? You know, it's easy to put it online, but how do I
+put it online the right way so that if I announced this on my social media network and some famous
+person retweets my thing and 10,000 people hit my website, that is not going to go down. And also
+that I'm not going to tomorrow morning wake up and somebody's going to say, why is there a bunch of
+porn on your URL? Because somebody hacked your website. So do you have any like tips or good
+resources or something that you can recommend to people if they want to like know how to do that
+stuff the right way? I didn't know front end had this problem as well. I thought it was just a
+Python problem. But yeah, deployment is hard, which is actually one of the reasons why I
+got into DevOps. I wanted to learn more about deployment and how to do it and automate stuff to
+make it easy. But in terms of general tips, I don't have any resources I can think of right now,
+but I have a few tips that I'd like to give. Like there's certain things that I think
+most people aren't taught in these boot camps about how to make deployments go well. The first
+thing I think is to think about security from the get go. Don't start thinking about security
+when you're ready to deploy. So that will help you avoid making mistakes that could later burn you.
+So you mentioned that you're setting up a website and putting porn. People can do that. And one of
+the reasons why some of these things are possible is say you put up your code in Git. So first thing,
+learn how to use Git correctly. If your project doesn't need to be open source,
+don't make your code publicly available. Keep it private. That helps hide mistakes you may have
+made. Whereas if your project is publicly available and people can see information,
+sensitive information, you don't want them to see that. That gives them keys to doing bad stuff on
+your website. But in a more general sense, I'd say that the first thing to watch out for is just
+make sure you handle credentials correctly. Like don't hard code passwords and credentials into
+your code. That's easy to do when you're just mucking around locally, but you can forget to
+remove that stuff. So don't put credentials in the code. And if you're using environment files,
+try and avoid adding them to Git. Don't track them. Don't push them up to GitHub, wherever
+you're pushing your code. So try and keep your code separate from your credentials.
+So there are services you can use. You could use password managers to manage your passwords. You
+can use password vaults that would inject the credentials into your environment while you have
+it running locally, so that you never have your credentials available in an unencrypted text file,
+for instance. So there's things like that. I think KeePass has an open source tool you can
+install in your environments that can manage credentials for you. There's something called
+HashiCorp Vault. You can install that on your server. It manages secrets for you. And then
+once you're ready to deploy, I'd say make use of environment variables on the deployment server.
+So whatever service you're deploying to, put your passwords there, the secrets and credentials there
+instead of hard coding. So that's the first thing that would help reduce the risk of being hacked.
+It's not the only thing, but it really helps. And then I'd say the second thing is,
+if you can afford it, try and get a service that allows you to auto scale easily.
+If you look at cloud solutions like AWS or Azure, there are tools that allow you to auto scale. So
+if you put up your website and it gets popular, all those auto scaling solutions will allow your
+traffic, will keep your website running even if it gets hit by like 10,000 requests or a lot of
+people start using it. It will cost you money, but you won't have to think about it because
+it's done for you. So if you can afford it, look into something like that. And then I think the
+last thing I'd say is try and make your deployments repeatable. And I know for front-end
+developers, this might mean learning some skills that they may not generally want to learn, but
+learn something about CI, CD and how that works. If you can get an automated deployment pipeline
+going, do that because having that deploying code for you will allow you to run checks on your code
+to make sure that the tool catches any errors you could introduce early before you actually do the
+deployment. So you can look into that and try and make the deployments as automated and as repeatable
+as possible. Yeah. So I think GitHub is doing a lot to make this more accessible through
+GitHub, CI, CD, your GitHub actions and that kind of stuff. Do you use something like Terraform?
+Not for the current project I work on, no. Okay. Yeah. I know it's some folks that Mozilla uses
+Terraform and then Kubernetes, I think is one of the other things that people use. Yeah, I use
+Kubernetes, but not Terraform. Okay. Okay. Yeah. But yeah, I think those are all great tips and
+I would highly recommend people look that up and I'll add links to all of these things
+when we publish this episode. So in closing, something fun. In your bio on your website,
+you said you like cutting wood. Yes. Tell me more about that. Tell me more about that.
+Okay. So software development is very stressful and you need an outlet to release that stress.
+Cutting wood is a very good outlet. Wood doesn't complain. Wood can take a beating. So
+I like to cut wood. But on a serious note, it's very similar to software development. You need
+to think about what you want to make. You need to design what you want to build. You need to choose
+the right tools and you need to follow a logical sequence of steps to get to make whatever it is
+you want to make. And so it's a very, I'd say it's a good hobby to pursue if you're in software
+development because many of the skills you learn, you know, from developing software are easily
+transferable to woodworking. You just need to find the right tools, determine what you want
+to build. Like I don't make any fancy furniture or anything like that. I can't do that. I make very
+simple tables and desks, you know, like flat things, not flat corners, you know, but it's a really
+nice fulfilling feeling to work on something you actually built yourself. Yeah, for sure. And like
+I said, if you're stressed, you can hammer it with all day and all night because you're probably
+going to make something good out of it. I really enjoy doing that and watching videos of experienced
+carpenters and woodworkers doing DIY stuff. I'm really heavily into DIY. I believe every person
+should at least know how to fix something. Yeah, for sure. So I really enjoy watching that stuff
+and trying it on my own when I have the time. Yeah, yeah. I love those videos of the people
+that do the woodturning where they have, you know, those big fancy machines that like take this
+rough piece of wood and they just turn it and it's this beautiful shapes and just these gradients
+that the colors of the wood forms. And it's so meditative to watch that stuff. It's just beautiful.
+So I can imagine if, you know, if you can get to that point where you can actually do that
+yourself, it'll be an amazing experience. But I think even starting with a pocket knife and a
+piece of wood can be a nice start. Definitely, definitely. I have a friend who actually started
+that way. You know, he used to make these little walking sticks and now he runs a business and
+makes furniture. So you can start as a hobby and turn into a business. Yeah, for sure. That's great.
+Well, thank you so much for this conversation. I really, really enjoyed it. It was
+lovely to talk to somebody in Africa that shares a lot of the pain that I go through as well.
+But I think you also have some unique challenges that we in South Africa might not always face.
+But still, I think there's a lot of opportunities and I think we should connect more
+and cross-pollinate. And I'm definitely going to hit you up about the whole NPM in the box.
+I'm definitely going to contact you. And let's chat about that and make that a thing. I think
+that'll be super interesting to do, but also super useful. So thanks so much for the conversation and
+have a lovely rest of your day. And all the best for the future. And I'm looking forward to seeing
+all the wonderful things you do. Thanks a lot. Cheers.
+Thank you for listening to this episode of the Mycenae Network Podcast. If you're not already,
+please subscribe, star, and leave a review for us in your podcatcher of choice. This helps others
+find us and helps us make a better podcast for you on this course. You can also find and follow us on
+Twitter at networkmycenae and join the community on Discord. All the links are available in the
+show notes.
