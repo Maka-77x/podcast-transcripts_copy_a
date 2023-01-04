@@ -1,0 +1,2174 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+
+00:06.640 --> 00:10.160
+and the mentors and teachers that help them along the way.
+
+00:10.160 --> 00:13.560
+Hey, Tara, welcome to the Mycelium Network Podcast.
+
+00:13.560 --> 00:16.560
+Thank you so much for joining me.
+
+00:16.560 --> 00:17.560
+Thank you for inviting me.
+
+00:17.560 --> 00:18.560
+I'm excited to be here.
+
+00:18.560 --> 00:20.600
+Yeah, it's a pleasure.
+
+00:20.600 --> 00:25.760
+So I know you from the days at Mozilla when you used to work there, and I'm still there
+
+00:25.760 --> 00:30.440
+to some extent, but you've moved on and started your own company.
+
+00:30.440 --> 00:34.440
+And I know the work, I followed the work that you did at Mozilla, and I've been following
+
+00:34.440 --> 00:36.880
+the work you've been doing with your own company.
+
+00:36.880 --> 00:44.800
+And I really appreciate and respect your input and the way you look at a lot of things.
+
+00:44.800 --> 00:47.400
+And I think this podcast is going to be a little different than some of the others I've
+
+00:47.400 --> 00:51.440
+done, but it's intentionally so, because I think these are really important topics to
+
+00:51.440 --> 00:53.040
+talk about.
+
+00:53.040 --> 00:58.540
+And for early-stage people, I think they need to understand that there's more to the tech
+
+00:58.540 --> 01:02.320
+industry and more to a job than just writing code.
+
+01:02.320 --> 01:07.280
+How we work with each other and how we interact is as critical as the code we write.
+
+01:07.280 --> 01:16.600
+And oftentimes, an unwelcoming environment is going to lead to not great work.
+
+01:16.600 --> 01:20.960
+And so your code might actually end up suffering because the environment's not great.
+
+01:20.960 --> 01:25.720
+And I think I've also spoken to some women that has had it a little tough, especially
+
+01:25.720 --> 01:34.760
+the one, Pamela, who came from Mexico, where being the only woman in the room was definitely
+
+01:34.760 --> 01:39.080
+hard and definitely tough, and it did affect how comfortable she felt.
+
+01:39.080 --> 01:44.160
+And you don't voice your opinion in those situations, and that is a loss for the company
+
+01:44.160 --> 01:49.600
+because we want diverse voices, because it makes our products better, it makes our everything
+
+01:49.600 --> 01:50.600
+better.
+
+01:50.600 --> 01:53.800
+And that's why I wanted to have a chat about this.
+
+01:53.800 --> 01:55.880
+So but I don't want to ramble on.
+
+01:55.880 --> 02:01.240
+I want to give you the floor, and I want you to tell us about who you are.
+
+02:01.240 --> 02:05.560
+And please take as much time as you want, go as far back as you want, and be as detailed
+
+02:05.560 --> 02:07.360
+as you want.
+
+02:07.360 --> 02:08.360
+Thanks.
+
+02:08.360 --> 02:11.120
+So my name is Tara Robertson.
+
+02:11.120 --> 02:16.280
+I'm in Vancouver, Canada on the unceded traditional territories of the Musqueam, Squamish, and
+
+02:16.280 --> 02:20.080
+Tsleil-Waututh First Nations.
+
+02:20.080 --> 02:24.280
+Making a land acknowledgement like this is fairly common in Canada, but I think if we're
+
+02:24.280 --> 02:28.760
+going to talk about power and talk about diversity, equity, and inclusion, like the land that
+
+02:28.760 --> 02:38.680
+I'm on and the power dynamics just that exist in a colonial setting, they kind of inform
+
+02:38.680 --> 02:39.680
+everything.
+
+02:39.680 --> 02:47.480
+I also just think about the land that I'm on, and during the pandemic, the mountains,
+
+02:47.480 --> 02:53.520
+the forest, the ocean, like, I've been able to really resource myself and my brain and
+
+02:53.520 --> 02:55.940
+my heart and my spirit from the land.
+
+02:55.940 --> 03:02.440
+So the land takes care of me, like literally, and we've got a responsibility to figure out
+
+03:02.440 --> 03:06.520
+how we take care of the land as well.
+
+03:06.520 --> 03:13.400
+That was an attention I expected to go on but yeah, like, and if this is like kind of
+
+03:13.400 --> 03:17.880
+the magic of the internet because where it's 11 a.m. where I'm at and it's nighttime where
+
+03:17.880 --> 03:25.720
+you are, and we met at a certain time at Mozilla, and before we hopped on, we're just talking
+
+03:25.720 --> 03:30.760
+about the fondness that we have for the people and the culture and the work there.
+
+03:30.760 --> 03:36.560
+So I kind of love, like at Mozilla, we were finding to keep the internet open and accessible
+
+03:36.560 --> 03:41.960
+for all, and right now we're connected through the internet, on the internet, to have this
+
+03:41.960 --> 03:46.120
+conversation about culture and how we want to work together.
+
+03:46.120 --> 03:49.120
+Yeah, yeah, it's amazing.
+
+03:49.120 --> 03:52.560
+So right now, as a consultant, I do two different things.
+
+03:52.560 --> 03:59.880
+I do data-driven diversity, equity, and inclusion strategy work with companies and organizations
+
+03:59.880 --> 04:05.160
+who want to have, like, an overall strategy so that they can really make this work part
+
+04:05.160 --> 04:10.400
+of everything that they do from, like, the employee, the employee experience through
+
+04:10.400 --> 04:15.120
+to the marketing team, through the products and services that a company is offering, as
+
+04:15.120 --> 04:17.920
+well as stuff like procurement and where they're doing banking.
+
+04:17.920 --> 04:22.080
+Like, for me, diversity, equity, and inclusion is a lens that we need to view everything
+
+04:22.080 --> 04:27.600
+through, not just, like, how we write a job description and who we hire.
+
+04:27.600 --> 04:36.160
+I love what you touched on about, like, people who think it's just about writing code, like,
+
+04:36.160 --> 04:41.880
+but work happens, like, in a context, and just thinking about the problems that we have
+
+04:41.880 --> 04:45.200
+right now, they're huge in the world, and the problems that we're trying to solve in
+
+04:45.200 --> 04:49.400
+tech are really complex, wicked problems.
+
+04:49.400 --> 04:54.320
+So we also need an environment where there's psychological safety, and people feel like
+
+04:54.320 --> 04:59.360
+they can speak up either with, like, a wildly creative idea that might sound, like, just
+
+04:59.360 --> 05:04.840
+way out there, and also speak up when they see something that's wrong.
+
+05:04.840 --> 05:06.720
+And both of those things take a lot of courage.
+
+05:06.720 --> 05:07.720
+They do.
+
+05:07.720 --> 05:10.400
+So, like, there's the individual courage to speak up.
+
+05:10.400 --> 05:15.400
+But there's also how the kind of culture that we build day after day together, where we
+
+05:15.400 --> 05:19.840
+either build a culture where we can take risks and we're more likely to take those risks
+
+05:19.840 --> 05:27.560
+together or not, where we keep our great ideas to ourselves, or when we see something that's
+
+05:27.560 --> 05:30.120
+getting shipped, we're like, oh, is that going to break something?
+
+05:30.120 --> 05:31.120
+I don't know.
+
+05:31.120 --> 05:32.120
+I'm just not going to say anything.
+
+05:32.120 --> 05:33.120
+Yeah.
+
+05:33.120 --> 05:35.120
+We all lose out.
+
+05:35.120 --> 05:36.120
+Yeah, no, for sure.
+
+05:36.120 --> 05:37.120
+For sure.
+
+05:37.120 --> 05:42.960
+I mean, and this is something that a previous guest has touched on.
+
+05:42.960 --> 05:46.120
+She talked about harassment in the workspace.
+
+05:46.120 --> 05:51.000
+And in Mexico, the laws are a little fast and loose when it comes to that.
+
+05:51.000 --> 05:55.880
+And basically, she was talking to somebody, and they said, well, one of your options is
+
+05:55.880 --> 05:59.160
+to go to the CEO and demand change.
+
+05:59.160 --> 06:02.240
+And I'm like, wow, that is super scary.
+
+06:02.240 --> 06:08.680
+Like, if you're somebody, this individual, that already feels out of place, and now you
+
+06:08.680 --> 06:14.320
+feel uncomfortable and harassed, but you're depending on this job to feed your family,
+
+06:14.320 --> 06:19.320
+and your only recourse is to go to the CEO of the company and say, I demand that you
+
+06:19.320 --> 06:21.360
+do something about this.
+
+06:21.360 --> 06:23.600
+What is the chances that you will do that?
+
+06:23.600 --> 06:29.520
+Such a scary thing and such a burden to put on somebody's shoulders, it's just not right.
+
+06:29.520 --> 06:30.920
+No.
+
+06:30.920 --> 06:36.040
+And then there's also other costs, like the people who witness that kind of behavior,
+
+06:36.040 --> 06:43.840
+that harassment or discrimination, they're taking that data in about this is what happens
+
+06:43.840 --> 06:48.500
+here and this is what underrepresented people have to deal with.
+
+06:48.500 --> 06:55.520
+So when things happen again and nothing happens, there is an impact to bystanders as well.
+
+06:55.520 --> 07:02.680
+There's an impact to everybody, not just the person who is discriminated against.
+
+07:02.680 --> 07:09.880
+So yeah, it's funny, I had to drop my dog off at the vet the other day, and as we were
+
+07:09.880 --> 07:15.920
+leaving, there was a woman who'd been hit on her bicycle on the road, and she was in
+
+07:15.920 --> 07:22.960
+the curb lane, almost unconscious, she had like, it was really intense.
+
+07:22.960 --> 07:25.800
+And people hadn't stopped.
+
+07:25.800 --> 07:35.400
+So I've been thinking a lot this week about what happens when bystanders overt their eyes,
+
+07:35.400 --> 07:40.000
+when they see something that's clearly not okay, and they go by.
+
+07:40.000 --> 07:44.540
+And then I don't think any of the people who drove by were bad people.
+
+07:44.540 --> 07:47.400
+And I don't think that I'm a good person.
+
+07:47.400 --> 07:50.920
+There wasn't a decision in my mind that was like, get out of the car and run over, like
+
+07:50.920 --> 07:52.360
+it just happened.
+
+07:52.360 --> 07:58.160
+But as soon as I kind of, I don't know, pop that bubble of bystanderness, other people
+
+07:58.160 --> 08:03.600
+stopped, a trucker stopped, and he ran into the vet to grab gloves, a woman parked her
+
+08:03.600 --> 08:05.920
+car behind to keep this woman safe.
+
+08:05.920 --> 08:10.320
+I called the ambulance while someone who had more first aid experience stepped in, like,
+
+08:10.320 --> 08:16.640
+it just takes one person to kind of name something and follow up with some action, and other
+
+08:16.640 --> 08:18.040
+things start to happen.
+
+08:18.040 --> 08:22.960
+So it's kind of an extreme example of a cyclist on the road, but something I've been thinking
+
+08:22.960 --> 08:23.960
+a lot about this week.
+
+08:23.960 --> 08:27.360
+Yeah, no, no, no, I think that's a very good example.
+
+08:27.360 --> 08:28.360
+And I've seen that a lot.
+
+08:28.360 --> 08:32.680
+And I think it's because I think there's so much judgment going on that nobody wants
+
+08:32.680 --> 08:37.700
+to be the first one, because you're always afraid of what if I do the wrong thing?
+
+08:37.700 --> 08:40.160
+Does this person want my help?
+
+08:40.160 --> 08:45.760
+There's so much confusion these days about what's okay and what's not okay.
+
+08:45.760 --> 08:52.080
+I think that makes a lot of us stand back and say, I think I'm rather not going to
+
+08:52.080 --> 08:54.480
+get involved until you see other people.
+
+08:54.480 --> 08:59.440
+And then I think our natural humanity kicks in, where we then want to all band together
+
+08:59.440 --> 09:04.800
+and see if we can change the situation.
+
+09:04.800 --> 09:10.720
+I saw that you, in an interview you had on open spaces, open scapes, sorry, I keep reading
+
+09:10.720 --> 09:13.640
+it as open spaces.
+
+09:13.640 --> 09:17.280
+In this, you mentioned two books, and I love these titles, I'm definitely going to read
+
+09:17.280 --> 09:20.320
+these books, but I want you to dig it into them a little bit.
+
+09:20.320 --> 09:25.720
+So it's Braiding Sweetgrass and All We Can Save.
+
+09:25.720 --> 09:30.780
+What about those two books have been so influential?
+
+09:30.780 --> 09:36.920
+One of my first clients when I set up my consulting business was open scapes.
+
+09:36.920 --> 09:43.240
+And they're a data science group that they teach data science skills to researchers.
+
+09:43.240 --> 09:50.640
+So they're working with fisheries researchers, Julie Lownes, or Dr. Julie Lownes, Julie Squid
+
+09:50.640 --> 10:01.760
+on Twitter, she's got a PhD in squid, was seeing how do we teach data science skills
+
+10:01.760 --> 10:07.600
+to academic researchers in a cohort model.
+
+10:07.600 --> 10:13.800
+And they hired me to help think about DEI early on.
+
+10:13.800 --> 10:19.920
+And some of the early things that I would do with a company around looking at HR data,
+
+10:19.920 --> 10:24.880
+that wasn't it, because there was just a couple of them, but thinking about how to weave or
+
+10:24.880 --> 10:31.280
+look through what they were doing through the lens of DEI, had us going down some interesting
+
+10:31.280 --> 10:32.280
+conversations.
+
+10:32.280 --> 10:37.400
+Like she's a marine biologist, my background is in the library and information studies,
+
+10:37.400 --> 10:39.440
+and I'm a DEI leader now.
+
+10:39.440 --> 10:46.640
+So it's like kind of a co-creation and a co-design, putting our passions, our values and like putting
+
+10:46.640 --> 10:53.240
+our two heads together to be like, what is the perspective on DEI here?
+
+10:53.240 --> 11:01.320
+And one of the conversations we had early on was like, who can afford to do open science
+
+11:01.320 --> 11:03.560
+and to learn openly?
+
+11:03.560 --> 11:09.800
+And most of the people she was working with were white researchers with PhDs.
+
+11:09.800 --> 11:13.720
+So I was thinking like, who is the most on the margins here?
+
+11:13.720 --> 11:18.240
+Where are the black researchers and where are the indigenous researchers?
+
+11:18.240 --> 11:23.080
+And like not only how do we get those people to the table and how do we work with them,
+
+11:23.080 --> 11:26.640
+but also like what can we learn from them?
+
+11:26.640 --> 11:33.440
+And I knew I didn't have the answers on what are some indigenous perspectives on data science
+
+11:33.440 --> 11:37.640
+and working together collaboratively in the sciences.
+
+11:37.640 --> 11:40.380
+So we kind of started doing this.
+
+11:40.380 --> 11:45.520
+She recommended these two books, All We Can Save, which is different perspectives on climate
+
+11:45.520 --> 11:46.520
+change.
+
+11:46.520 --> 11:52.700
+It's such an inspiring book and it gives me so much hope.
+
+11:52.700 --> 11:59.880
+There's this great Venn diagram from Dr. Iana Elizabeth Johnson, she did a TED talk recently.
+
+11:59.880 --> 12:07.120
+Because I think like with climate change and DEI, there's a similar feeling of overwhelm
+
+12:07.120 --> 12:09.480
+and like, what do I do?
+
+12:09.480 --> 12:10.520
+And it's so overwhelming.
+
+12:10.520 --> 12:17.080
+So people are stuck in inaction and just like overwhelm.
+
+12:17.080 --> 12:23.080
+So for me, her Venn diagram about what you should do is the overlap about what brings
+
+12:23.080 --> 12:25.400
+you joy?
+
+12:25.400 --> 12:29.080
+What's the work that needs doing and what skills do you have?
+
+12:29.080 --> 12:34.880
+I think that's a really useful model, both to think about what our individual and collective
+
+12:34.880 --> 12:40.680
+actions can be around climate change, but also how we show up around DEI and organizations.
+
+12:40.680 --> 12:43.120
+Like what brings you joy?
+
+12:43.120 --> 12:48.840
+Like don't sign up to do something or commit to do something that is absolute drudgery
+
+12:48.840 --> 12:50.040
+or an absolute chore.
+
+12:50.040 --> 12:54.880
+Like you're going to hate it and you're not going to do it.
+
+12:54.880 --> 12:59.640
+But being clear about like, what's the work that needs doing?
+
+12:59.640 --> 13:08.680
+Maybe it is around building better anti-harassment policies in your organization.
+
+13:08.680 --> 13:14.480
+Maybe it's around product and accessibility, like those are two very, very different problems.
+
+13:14.480 --> 13:16.220
+So being clear on the problem you're trying to solve.
+
+13:16.220 --> 13:19.580
+And then like, what skills do you have?
+
+13:19.580 --> 13:24.000
+You and I, we share some values around the open internet, but we have very different
+
+13:24.000 --> 13:28.960
+backgrounds and very different skills and probably very different things in our toolboxes.
+
+13:28.960 --> 13:31.980
+So what you can bring to a problem and what I can bring are very different.
+
+13:31.980 --> 13:36.400
+So like, what's your area of genius and what are you going to do?
+
+13:36.400 --> 13:37.880
+Yeah, I know.
+
+13:37.880 --> 13:39.120
+I really like it.
+
+13:39.120 --> 13:45.280
+You shared that diagram with me in the document and that is actually something I've been struggling
+
+13:45.280 --> 13:46.280
+with.
+
+13:46.280 --> 13:50.920
+I'm trying to find that what should I do?
+
+13:50.920 --> 13:57.240
+And that is a very nice framework for thinking through this, like thinking about because,
+
+13:57.240 --> 14:04.560
+I mean, our lives are finite and it's kind of pointless to spend all our time doing something
+
+14:04.560 --> 14:09.640
+we don't, that doesn't bring us joy and that doesn't feel fulfilling and that doesn't seem
+
+14:09.640 --> 14:12.160
+to have a purpose.
+
+14:12.160 --> 14:18.480
+And I know there's also a bit of privilege in that, in that you can think about those
+
+14:18.480 --> 14:22.280
+things, but I wish we can get to a place where more people can think about this because I
+
+14:22.280 --> 14:23.880
+don't think it should be a privilege.
+
+14:23.880 --> 14:28.200
+I think we all should have the ability to think through what brings us joy and be able
+
+14:28.200 --> 14:35.560
+to make decisions for our lives that include having meaning and finding joy in the work
+
+14:35.560 --> 14:36.560
+we do.
+
+14:36.560 --> 14:40.980
+Well, you inviting me on your podcast and also welcoming conversations about culture
+
+14:40.980 --> 14:47.120
+and psychological safety and inclusion into a podcast where your audience is mostly like
+
+14:47.120 --> 14:54.400
+developers and startup folks, like that, your podcast brings you joy.
+
+14:54.400 --> 14:55.800
+What are the skills that you've got?
+
+14:55.800 --> 15:01.240
+Like you're a host and a convener of conversations that go out much more broadly than just the
+
+15:01.240 --> 15:02.920
+two of us.
+
+15:02.920 --> 15:03.920
+And what are you good at?
+
+15:03.920 --> 15:08.040
+Like, you're good at being a bridge to those worlds.
+
+15:08.040 --> 15:09.040
+So thank you.
+
+15:09.040 --> 15:11.120
+Thank you for getting me here.
+
+15:11.120 --> 15:13.720
+Like one of the things you are doing is this.
+
+15:13.720 --> 15:15.720
+Yeah, that's very true.
+
+15:15.720 --> 15:19.240
+I'm getting chills with this stuff.
+
+15:19.240 --> 15:20.240
+So thank you for saying that.
+
+15:20.240 --> 15:21.240
+Yeah.
+
+15:21.240 --> 15:22.240
+Well, that's very true.
+
+15:22.240 --> 15:23.240
+Yeah.
+
+15:23.240 --> 15:24.240
+Thank you so much for sharing that.
+
+15:24.240 --> 15:25.240
+Oh, can I?
+
+15:25.240 --> 15:26.240
+Yeah, go for it.
+
+15:26.240 --> 15:37.000
+The other book you asked about was Braiding Sweetgrass and Robin Wall Kimner is.
+
+15:37.000 --> 15:38.000
+I don't know.
+
+15:38.000 --> 15:41.600
+Like it's a book that braids together different strands of stuff.
+
+15:41.600 --> 15:48.640
+There's like some of the biology stuff, like indigenous perspectives on biology, some of
+
+15:48.640 --> 15:51.440
+her story and it's woven together.
+
+15:51.440 --> 15:58.400
+I listen to it as an audiobook because I have a hard time reading books and I would listen
+
+15:58.400 --> 16:03.240
+to it early in the morning as I was pottering around and just sometimes I would listen to
+
+16:03.240 --> 16:04.240
+it outside.
+
+16:04.240 --> 16:11.300
+And it's a beautiful book that actually kind of shifted my perspective on how we know things
+
+16:11.300 --> 16:13.760
+and like what science is.
+
+16:13.760 --> 16:16.960
+So I'd encourage either you to read the book or listen to it.
+
+16:16.960 --> 16:17.960
+It's really good.
+
+16:17.960 --> 16:18.960
+Yeah, not for sure.
+
+16:18.960 --> 16:20.800
+I definitely owe my list.
+
+16:20.800 --> 16:26.800
+I heard this quote the other day, I listened to a different podcast and the artist Grimes.
+
+16:26.800 --> 16:33.000
+Apparently it's a quote from a Star Wars movie and I think one of the things that you said
+
+16:33.000 --> 16:38.520
+is very similar to what she said, the quote that she had from that is, don't kill what
+
+16:38.520 --> 16:40.320
+you hate, save what you love.
+
+16:40.320 --> 16:43.480
+I think that was really beautiful.
+
+16:43.480 --> 16:49.360
+I heard that and I was like, holy cow, that's something I want to remember.
+
+16:49.360 --> 16:53.880
+Don't spend your energy trying to kill what you hate, rather spend your energy saving
+
+16:53.880 --> 16:54.880
+what you love.
+
+16:54.880 --> 16:58.040
+And I think this diagram plays into that as well.
+
+16:58.040 --> 17:01.920
+So yeah, that was inspiring.
+
+17:01.920 --> 17:03.880
+What are you trying to save right now?
+
+17:03.880 --> 17:06.200
+What do you love?
+
+17:06.200 --> 17:12.680
+So I want to create opportunity for others because I feel laced in the things that happened
+
+17:12.680 --> 17:13.680
+to me.
+
+17:13.680 --> 17:14.680
+I've taken chances.
+
+17:14.680 --> 17:23.960
+I mean, before I started my job at Mozilla way back 11 years ago, I quit my job before
+
+17:23.960 --> 17:30.640
+having had them tell me that they're going to hire me just because I didn't feel joy
+
+17:30.640 --> 17:31.640
+where I was.
+
+17:31.640 --> 17:32.640
+I really didn't like it.
+
+17:32.640 --> 17:33.640
+It was killing me.
+
+17:33.640 --> 17:41.120
+The commute, the insane hours you had to work, the people just literally not having any appreciation
+
+17:41.120 --> 17:42.320
+for the work you did.
+
+17:42.320 --> 17:43.840
+I was sick of it.
+
+17:43.840 --> 17:49.160
+And even being married and having kids at that time, I knew I had a bit of a fallback
+
+17:49.160 --> 17:54.720
+with my parents that they could support and help if things really went bad.
+
+17:54.720 --> 17:58.440
+But I didn't do it just because of that, just because I had the safety net.
+
+17:58.440 --> 18:01.040
+I just felt I couldn't do it longer.
+
+18:01.040 --> 18:08.560
+And through the years, I have met so many amazing people and I've had such life-changing
+
+18:08.560 --> 18:15.260
+experiences through Mozilla and through the people that I've met and worked with that
+
+18:15.260 --> 18:22.740
+I want to create those opportunities for other people using the connections I have.
+
+18:22.740 --> 18:25.600
+So that's why I created the podcast.
+
+18:25.600 --> 18:29.340
+That's why I created the community because I know one of the struggles these people have
+
+18:29.340 --> 18:36.160
+is being visible, being seen, having work to show to employers.
+
+18:36.160 --> 18:40.720
+Oftentimes, they lose out because, wow, how much experience you have?
+
+18:40.720 --> 18:41.720
+What have you made?
+
+18:41.720 --> 18:42.720
+Well, nothing.
+
+18:42.720 --> 18:45.880
+I'm still learning, but I just want my first chance.
+
+18:45.880 --> 18:51.560
+So I want to give them that first chance, even if it is, not even if it is, but using
+
+18:51.560 --> 18:57.240
+open source as a tool for that, creating open source projects and running them like real
+
+18:57.240 --> 19:02.480
+projects and giving people real tasks to do in the open where they can then point to and
+
+19:02.480 --> 19:04.480
+say, I've done this.
+
+19:04.480 --> 19:08.080
+And here you can see not only that I can write code, but that I can work as a team, that
+
+19:08.080 --> 19:12.560
+I can take feedback, that I can give feedback because all of those things are important
+
+19:12.560 --> 19:19.880
+and that I can start discussions and bring up new ideas and all that kind of stuff.
+
+19:19.880 --> 19:25.160
+And then giving them this vehicle where you can literally, where you can hear their voice.
+
+19:25.160 --> 19:28.440
+So that's what's important to me.
+
+19:28.440 --> 19:37.160
+I love to see a world where people are just happier, to be honest.
+
+19:37.160 --> 19:41.160
+On a day-to-day basis, I look around me and I see so many people that are clearly not
+
+19:41.160 --> 19:48.080
+happy and it comes out as anger and it comes out as people push each other away.
+
+19:48.080 --> 19:54.800
+And I think it's simply because people are frustrated, they're scared, and they're unhappy.
+
+19:54.800 --> 20:02.840
+And if I can do a little something to help someone, even if it's one person, then I would
+
+20:02.840 --> 20:07.040
+feel like it was worth it.
+
+20:07.040 --> 20:14.080
+I'm also hearing another layer in the opportunities you're working to have in open source for
+
+20:14.080 --> 20:18.280
+new developers to look and be able to say, I did that.
+
+20:18.280 --> 20:23.360
+They're making a real contribution to a real project that has real world impact.
+
+20:23.360 --> 20:27.840
+It's not a portfolio assignment, it's not something for a class.
+
+20:27.840 --> 20:32.240
+Not that there's anything wrong with those things, but there's something different about
+
+20:32.240 --> 20:37.440
+contributing to something that's bigger than what you can do on your own.
+
+20:37.440 --> 20:42.640
+There's a learning, but for me, what's so powerful about open source and open science
+
+20:42.640 --> 20:47.600
+and open learning is just I feel part of something bigger.
+
+20:47.600 --> 20:53.640
+And I love that feeling on a team where it's like one plus one equals not two, but it's
+
+20:53.640 --> 20:54.640
+like seven.
+
+20:54.640 --> 20:56.960
+We're really more than the sum of our parts.
+
+20:56.960 --> 21:04.000
+When that magic happens, I feel so alive and I just feel like, yes, let's do this.
+
+21:04.000 --> 21:06.800
+We can tackle big challenges together.
+
+21:06.800 --> 21:08.280
+We can do brave things together.
+
+21:08.280 --> 21:09.280
+Yeah, for sure.
+
+21:09.280 --> 21:10.280
+Yeah.
+
+21:10.280 --> 21:14.800
+And that is the idea is to build things that have impact.
+
+21:14.800 --> 21:20.840
+One of the projects is this curation thing where we want to make it easier for new developers
+
+21:20.840 --> 21:25.720
+to find the information and the learning tools that they need.
+
+21:25.720 --> 21:29.880
+Because the more and more I speak with people, the problem is not content.
+
+21:29.880 --> 21:33.000
+We're drowning in content, we're drowning in information.
+
+21:33.000 --> 21:38.720
+It's knowing where to find the things that work for you and also being able to guide
+
+21:38.720 --> 21:43.080
+people down different pathways because some people learn well.
+
+21:43.080 --> 21:45.960
+For example, you said you prefer to listen to books.
+
+21:45.960 --> 21:47.660
+Some people prefer to read books.
+
+21:47.660 --> 21:49.500
+Some people prefer video.
+
+21:49.500 --> 21:53.920
+So try and find these different resources because they all exist.
+
+21:53.920 --> 22:00.480
+But it's finding them and curating them into the space where they then are easily consumable.
+
+22:00.480 --> 22:04.400
+And in doing that, you're contributing to something that has real world impact.
+
+22:04.400 --> 22:09.300
+You could potentially impact somebody else's life because they're like, wow, this resource
+
+22:09.300 --> 22:12.000
+has made it easy for me to learn this thing.
+
+22:12.000 --> 22:17.160
+Now I can contribute back to it and I might be able to get a job through all of this.
+
+22:17.160 --> 22:22.080
+And now you've taken somebody who might not have known how they're going to go about this
+
+22:22.080 --> 22:26.480
+or somebody that was in a job that they weren't happy and they wanted to really do something
+
+22:26.480 --> 22:29.080
+and you created this opportunity for them.
+
+22:29.080 --> 22:36.580
+So it's this self-fulfilling circle of life type of thing that happens.
+
+22:36.580 --> 22:41.320
+This is reminding me about the ideas toolkit that I worked on with the Carpentries, which
+
+22:41.320 --> 22:54.080
+is a global nonprofit that teaches data science and coding skills to researchers worldwide.
+
+22:54.080 --> 22:57.160
+I feel similarly about diversity, equity, inclusion, and information.
+
+22:57.160 --> 22:59.280
+There's tons of toolkits out there.
+
+22:59.280 --> 23:03.320
+A lot of people just want to know, tell me the 10 things I need to do.
+
+23:03.320 --> 23:12.880
+And it was an interesting project because there was this need for like tactical, like
+
+23:12.880 --> 23:15.080
+what do we need to do?
+
+23:15.080 --> 23:20.100
+But a lot of it is also mindset stuff and like perspective shifting.
+
+23:20.100 --> 23:27.680
+So working with Dr. Carrie Jordan, who's an amazing woman with a PhD in engineering, she's
+
+23:27.680 --> 23:30.520
+the executive director of the Carpentries.
+
+23:30.520 --> 23:35.200
+Like we went back and forth, we worked with different community members around the world
+
+23:35.200 --> 23:41.160
+and their community, and there was this tension between like, tell us what to do, but also
+
+23:41.160 --> 23:48.800
+like we need this to be meaningful and flexible and applicable and yeah, all over the world
+
+23:48.800 --> 23:55.080
+in different contexts, like in the university context, in the community context, and it's
+
+23:55.080 --> 23:58.240
+like, oh, like how are we going to do this?
+
+23:58.240 --> 24:05.840
+And what we came up with was like for each one of these topics, inclusion, diversity,
+
+24:05.840 --> 24:12.280
+equity, and accessibility, we looked at like things you can think about.
+
+24:12.280 --> 24:19.160
+So like kind of open-ended coaching questions to provoke discussion or to help people who
+
+24:19.160 --> 24:25.880
+are reading it go a little deeper and think about like what their stake is, what they
+
+24:25.880 --> 24:30.600
+can do, and then balance that with like some tactical things that people can do.
+
+24:30.600 --> 24:38.200
+Yeah, I think combining those two is based on both, I think it's what you need.
+
+24:38.200 --> 24:43.960
+When you say accessibility, what does that mean to you?
+
+24:43.960 --> 24:53.320
+When I say accessibility, I mean barrier-free access for people with disabilities.
+
+24:53.320 --> 24:59.680
+But I'm like, is that the right definition?
+
+24:59.680 --> 25:09.560
+Whether it's digital space, digital information, physical space, or even like an environment,
+
+25:09.560 --> 25:15.040
+what are the conditions necessary or what are the different ways in so that anyone and
+
+25:15.040 --> 25:22.640
+everyone, whether they are disabled or not disabled, can use the information, participate
+
+25:22.640 --> 25:27.280
+in the setting, make their contributions?
+
+25:27.280 --> 25:34.840
+And from a universal design kind of perspective, allowing for some of those affordances and
+
+25:34.840 --> 25:38.800
+different ways of entry and participation, it also means that a lot of other people can
+
+25:38.800 --> 25:40.280
+participate as well.
+
+25:40.280 --> 25:46.200
+Like one of the examples from the physical world is a curb cut.
+
+25:46.200 --> 25:52.880
+So like in a curb, like having an incline so that someone in a wheelchair can get on
+
+25:52.880 --> 25:54.720
+and off the curb.
+
+25:54.720 --> 26:01.640
+But also a delivery person pushing a large trolley with heavy packages on it can also
+
+26:01.640 --> 26:03.120
+get up on the curb.
+
+26:03.120 --> 26:07.320
+And for me, when I'm walking my bike, it's easier to get my bike up on the curb.
+
+26:07.320 --> 26:14.680
+Like that curb cut is necessary for a person using a wheelchair to access that space.
+
+26:14.680 --> 26:18.600
+And it also makes it a lot easier for some other users to use that space.
+
+26:18.600 --> 26:19.600
+Yeah.
+
+26:19.600 --> 26:20.600
+I love it when...
+
+26:20.600 --> 26:21.600
+What do you mean by accessibility?
+
+26:21.600 --> 26:22.600
+Yeah.
+
+26:22.600 --> 26:23.600
+Pretty much the same thing.
+
+26:23.600 --> 26:28.680
+I mean, I often look at it from a web perspective, of course, because being a front engineer,
+
+26:28.680 --> 26:32.080
+that's where I can most have the most impact in that area.
+
+26:32.080 --> 26:40.440
+But I do love these examples where making something accessible actually benefits everyone.
+
+26:40.440 --> 26:46.200
+I think we're seeing more and more of that giving people choice between, do you prefer
+
+26:46.200 --> 26:51.360
+dark mode or do you prefer light or do you prefer to switch between day and night?
+
+26:51.360 --> 26:53.720
+Something as simple as that.
+
+26:53.720 --> 26:57.600
+I think just having the options there is a good thing.
+
+26:57.600 --> 26:59.640
+So for me, I mostly think about that.
+
+26:59.640 --> 27:04.640
+But for me, accessibility is not just using the right HTML elements.
+
+27:04.640 --> 27:13.200
+It's also about if I'm in a third world country on a low grade Android phone, can I even open
+
+27:13.200 --> 27:14.760
+your website?
+
+27:14.760 --> 27:18.840
+Because what load shedding has taught me is that...
+
+27:18.840 --> 27:21.600
+So to me, maybe people wouldn't know what load shedding is.
+
+27:21.600 --> 27:23.040
+Sorry, what was that word you said?
+
+27:23.040 --> 27:24.040
+Load shedding.
+
+27:24.040 --> 27:25.040
+Load shedding?
+
+27:25.040 --> 27:26.040
+Yes.
+
+27:26.040 --> 27:27.340
+Let me step back and maybe explain what that is.
+
+27:27.340 --> 27:30.280
+So I think in other places it's called rolling blackouts.
+
+27:30.280 --> 27:35.360
+So basically what it is is our electricity grid is under so much strain because of years
+
+27:35.360 --> 27:42.520
+of ill maintenance and corruption and all these wonderful things that as soon as there's
+
+27:42.520 --> 27:50.440
+anything that causes high demand, the grid starts to crumble and things starts to break
+
+27:50.440 --> 27:51.440
+down.
+
+27:51.440 --> 27:56.120
+And so what they have to do to avoid a complete blackout is they have to, on different schedules,
+
+27:56.120 --> 28:01.260
+depending on how bad it is, they have to switch the power off for a certain area.
+
+28:01.260 --> 28:05.600
+So you'll be without power for two hours and then you'll get power back and the area next
+
+28:05.600 --> 28:07.320
+to you will lose power.
+
+28:07.320 --> 28:11.080
+And so it will go every day depending.
+
+28:11.080 --> 28:15.320
+Sometimes it'll be for four hours if it's really bad.
+
+28:15.320 --> 28:22.880
+And so besides the fact that I have to continuously shift meetings around or not be able to attend
+
+28:22.880 --> 28:27.560
+meetings, one of the things I've started doing recently is I just started using my phone
+
+28:27.560 --> 28:31.080
+as like a mobile hotspot.
+
+28:31.080 --> 28:40.400
+And sometimes though, especially when there's these long bouts of load shedding going on,
+
+28:40.400 --> 28:44.320
+then I get like a 3G connection.
+
+28:44.320 --> 28:48.440
+And it's fascinating to find that for people with a 3G connection, the internet almost
+
+28:48.440 --> 28:50.240
+doesn't exist.
+
+28:50.240 --> 28:51.800
+You can get to nothing.
+
+28:51.800 --> 28:56.180
+A web page is like you try and do a search, it just doesn't load.
+
+28:56.180 --> 29:01.960
+Or you would wait two minutes just for the first two, three results to come back.
+
+29:01.960 --> 29:07.640
+And you just think that there are people whose that is their life every day.
+
+29:07.640 --> 29:11.440
+Not just in a load shedding environment, that is their life every day.
+
+29:11.440 --> 29:16.720
+And I think when our electricity is on and our power is running fine, I mean, I have
+
+29:16.720 --> 29:18.200
+a 5G connection.
+
+29:18.200 --> 29:25.120
+And so you don't realize how slow things are because everything is just instantaneous.
+
+29:25.120 --> 29:30.140
+It's when that 5G goes away and you get that reality check that this is not what everybody
+
+29:30.140 --> 29:31.600
+experiences the web like.
+
+29:31.600 --> 29:33.920
+Some people experience it like that.
+
+29:33.920 --> 29:40.480
+Then you think about that that is such a huge part of the accessibility of the internet
+
+29:40.480 --> 29:46.900
+is thinking about, wait a minute, before we decide to use this massive framework, how's
+
+29:46.900 --> 29:49.320
+this going to impact our users?
+
+29:49.320 --> 29:51.600
+Are they even going to be able to open our website?
+
+29:51.600 --> 29:54.240
+Because it doesn't matter how great our app is.
+
+29:54.240 --> 29:57.680
+If you can't open it up, it's useless.
+
+29:57.680 --> 30:01.160
+It can be the greatest app in the world that can solve world hunger.
+
+30:01.160 --> 30:06.260
+But if the people who need it can't open the app, it's of no use to them.
+
+30:06.260 --> 30:11.760
+So sometimes it's interesting to be put in these situations that's, I mean, honestly
+
+30:11.760 --> 30:16.880
+infuriating, but at the same time, eye-opening.
+
+30:16.880 --> 30:17.880
+It makes you think again.
+
+30:17.880 --> 30:25.360
+And it makes you second guess when you just would have easily installed this extra dependency.
+
+30:25.360 --> 30:29.120
+It makes you think, wait a minute, what is that going to do down the line to the people
+
+30:29.120 --> 30:31.600
+who want to actually use this thing?
+
+30:31.600 --> 30:33.440
+Do I really need that thing?
+
+30:33.440 --> 30:35.440
+So it makes you ask those questions.
+
+30:35.440 --> 30:44.080
+And I think there's a diversity, equity, and inclusion kind of lens to this as well.
+
+30:44.080 --> 30:47.080
+One of the questions you sent me was like, what's the biggest problem in tech?
+
+30:47.080 --> 30:49.240
+And I'm like, oh, I don't even know how to answer that.
+
+30:49.240 --> 30:51.560
+But now I've got the answer listening to you.
+
+30:51.560 --> 31:00.600
+I think when we've got only people in Silicon Valley from Stanford who have the newest iPhone
+
+31:00.600 --> 31:10.960
+and the fastest connections or whatever and skew male, white, and a certain age, we miss
+
+31:10.960 --> 31:11.960
+out.
+
+31:11.960 --> 31:15.800
+And things that are common sense or what might be common sense to you and common sense to
+
+31:15.800 --> 31:18.640
+me might just be outside of people's experience.
+
+31:18.640 --> 31:24.000
+So if we're trying to design things really for everyone, we need everyone at the table.
+
+31:24.000 --> 31:27.040
+And everyone needs to have a voice.
+
+31:27.040 --> 31:28.320
+And it can't be an afterthought.
+
+31:28.320 --> 31:29.840
+It has to happen from the beginning.
+
+31:29.840 --> 31:35.640
+So it's not like, uh-oh, the world's greatest app, we need to figure out what the 3G access
+
+31:35.640 --> 31:36.640
+is going to be.
+
+31:36.640 --> 31:41.720
+It's like, let's design from the beginning knowing that that is going to be the access
+
+31:41.720 --> 31:43.080
+point for some people.
+
+31:43.080 --> 31:47.560
+And the process of doing that will lead to different outcomes.
+
+31:47.560 --> 31:48.560
+Yeah.
+
+31:48.560 --> 31:49.560
+Yeah.
+
+31:49.560 --> 31:50.560
+I agree.
+
+31:50.560 --> 31:55.600
+This conversation is making me think a lot.
+
+31:55.600 --> 31:56.600
+That's why I'm pausing.
+
+31:56.600 --> 31:59.600
+That's why I'm pausing every now and again.
+
+31:59.600 --> 32:01.400
+What's going on in your head?
+
+32:01.400 --> 32:02.400
+A lot.
+
+32:02.400 --> 32:05.400
+That's the problem.
+
+32:05.400 --> 32:07.920
+So I was thinking about this other thing.
+
+32:07.920 --> 32:10.440
+So I mentioned this in the doc that I shared.
+
+32:10.440 --> 32:15.120
+So one of the core goals of the Mycelium Network is to be welcome and to celebrate diversity
+
+32:15.120 --> 32:16.120
+and empower people.
+
+32:16.120 --> 32:22.160
+I think I've also said that with some of the things I've said earlier.
+
+32:22.160 --> 32:26.600
+But sometimes you do run into situations, I haven't had to deal with it, but sometimes
+
+32:26.600 --> 32:35.280
+you do run into situations where people do come in and try to disrupt a good thing.
+
+32:35.280 --> 32:37.600
+What is the best way to prepare yourself for this?
+
+32:37.600 --> 32:42.240
+But then even with all the reparation in the world, sometimes these things still happen.
+
+32:42.240 --> 32:49.320
+So not only how do you prepare, but what are good techniques for handling a situation where
+
+32:49.320 --> 32:55.640
+somebody comes in and to be disruptive?
+
+32:55.640 --> 32:59.800
+It's interesting because the research shows that more diverse groups have more conflict
+
+32:59.800 --> 33:04.720
+as well, which isn't necessarily a bad thing.
+
+33:04.720 --> 33:09.760
+But I think when we come from different backgrounds, our common sense will be very different.
+
+33:09.760 --> 33:17.680
+So being explicit about those group norms, when we say welcoming, what does that mean?
+
+33:17.680 --> 33:19.520
+What does that look like in Slack?
+
+33:19.520 --> 33:22.580
+What does that look like when we meet in person?
+
+33:22.580 --> 33:26.200
+What does that look like when we meet on Zoom or whatever?
+
+33:26.200 --> 33:33.040
+Talking about the behaviors that we want to see, but also concretely, what does that look
+
+33:33.040 --> 33:34.040
+like?
+
+33:34.040 --> 33:36.000
+I think a lot about unwritten rules.
+
+33:36.000 --> 33:43.320
+So with a lot of my clients, I've asked, what are the unwritten rules here?
+
+33:43.320 --> 33:48.880
+Because every community and every group has unwritten rules.
+
+33:48.880 --> 33:52.760
+People who come over to my house, they just take their shoes off because they know, I
+
+33:52.760 --> 33:54.160
+don't wear my shoes in my house.
+
+33:54.160 --> 33:58.600
+And my close friends who come over for dinner know, I go to bed early and I'm going to be
+
+33:58.600 --> 34:03.800
+really clear and be like, hey, it's 8 o'clock and 15 minutes, I'm kicking you out.
+
+34:03.800 --> 34:04.800
+And no one's offended.
+
+34:04.800 --> 34:07.120
+They're just like, you're really direct.
+
+34:07.120 --> 34:11.520
+I don't have these long, lingering, awkward goodbyes or I'm starting to get resentful
+
+34:11.520 --> 34:13.000
+because I'm tired.
+
+34:13.000 --> 34:17.160
+But we can do that at work as well.
+
+34:17.160 --> 34:24.480
+So being explicit about group norms so that people can, new people can come in and know
+
+34:24.480 --> 34:32.320
+what the rules are, both the official rules and the unofficial rules.
+
+34:32.320 --> 34:37.800
+And when behavior is not in alignment with that, we can have a conversation.
+
+34:37.800 --> 34:45.740
+We can say, we say we value all voices and have a norm around making sure that people
+
+34:45.740 --> 34:48.760
+don't hog all the meeting time.
+
+34:48.760 --> 34:54.760
+I've noticed in the last couple of meetings, it's the same guy who's taking up 90% of the
+
+34:54.760 --> 34:55.760
+meeting time.
+
+34:55.760 --> 35:00.480
+Like, what do we want to do here?
+
+35:00.480 --> 35:02.200
+And what is the opportunity?
+
+35:02.200 --> 35:03.880
+What are we missing out?
+
+35:03.880 --> 35:06.760
+Is he aware that he's using up all the airspace?
+
+35:06.760 --> 35:11.780
+Like all these things, but we have to be on the same page about what we value, what those
+
+35:11.780 --> 35:14.160
+behaviors look like.
+
+35:14.160 --> 35:20.600
+And like those unwritten rules, we also kind of need to make them explicit, especially
+
+35:20.600 --> 35:23.600
+in international environments.
+
+35:23.600 --> 35:26.520
+Yeah.
+
+35:26.520 --> 35:33.960
+So when you say the unwritten rules, does this concept of remote first play into that?
+
+35:33.960 --> 35:37.000
+Because for me, that is kind of important.
+
+35:37.000 --> 35:44.440
+Like I think Mozilla, I keep going back to Mozilla because it's just something I know
+
+35:44.440 --> 35:45.440
+really well.
+
+35:45.440 --> 35:50.600
+I think they started out as a remote first company, but have become a remote friendly
+
+35:50.600 --> 35:51.600
+company.
+
+35:51.600 --> 35:55.400
+And there's a distinct difference between the two.
+
+35:55.400 --> 35:58.760
+And I always try to think remote first.
+
+35:58.760 --> 36:02.640
+And one of the things is always try to think who's not in the room and how you can include
+
+36:02.640 --> 36:04.480
+them.
+
+36:04.480 --> 36:09.760
+So does that play into this idea of the unwritten rules to actually write down the unwritten
+
+36:09.760 --> 36:14.560
+rules?
+
+36:14.560 --> 36:17.840
+I think writing them down can be helpful.
+
+36:17.840 --> 36:22.400
+It's always a little awkward at first because people are like, I don't know.
+
+36:22.400 --> 36:30.700
+But if you tease out or ask, people know what they are.
+
+36:30.700 --> 36:36.160
+And it's kind of cool working with a group where people start to trust and like start
+
+36:36.160 --> 36:40.440
+to say the things that we all know that are true, but we don't say out loud.
+
+36:40.440 --> 36:43.240
+I think that's really powerful.
+
+36:43.240 --> 36:47.800
+For me, like the last couple of years have been really interesting with the pandemic
+
+36:47.800 --> 36:53.720
+and how we've adopted to work.
+
+36:53.720 --> 37:01.680
+I think for me, if it's remote first or remote friendly, I think it's important that we're
+
+37:01.680 --> 37:07.920
+using the label that's in alignment with what's actually happening.
+
+37:07.920 --> 37:13.520
+And I think this is a DEI thing as well, because all companies will say on their careers page,
+
+37:13.520 --> 37:16.160
+you know, DEI is part of our DNA.
+
+37:16.160 --> 37:19.720
+It's like, well, what does that mean for you?
+
+37:19.720 --> 37:22.720
+Like what does that concretely look like?
+
+37:22.720 --> 37:25.080
+Show me the receipts.
+
+37:25.080 --> 37:30.000
+So if a company says they are remote first, like, I'm curious, like, what does that mean
+
+37:30.000 --> 37:31.000
+for them?
+
+37:31.000 --> 37:33.040
+That is a thing.
+
+37:33.040 --> 37:34.040
+How do people gather?
+
+37:34.040 --> 37:36.160
+And like, who gathers in person?
+
+37:36.160 --> 37:37.160
+Who doesn't?
+
+37:37.160 --> 37:38.160
+Like, show me the receipts.
+
+37:38.160 --> 37:41.160
+Yeah, that's a good way of putting it.
+
+37:41.160 --> 37:44.400
+Yeah, because I mean, I'm struggling with that myself.
+
+37:44.400 --> 37:54.320
+Like, I say that I want to do whatever I create, whether it be the company that I'm sort of
+
+37:54.320 --> 38:00.800
+kind of building or the community or, you know, whatever it may be.
+
+38:00.800 --> 38:07.960
+I do believe in the concept, but at the same time, I'm struggling to really define it.
+
+38:07.960 --> 38:13.040
+I sit in front of a page and think I'm going to write about remote first and what it is.
+
+38:13.040 --> 38:16.220
+And I really find it hard to nail it down.
+
+38:16.220 --> 38:21.120
+And then I start searching online to try and find, like, who are the companies that really
+
+38:21.120 --> 38:22.120
+do this well?
+
+38:22.120 --> 38:23.840
+Ah, I've heard about Automatic.
+
+38:23.840 --> 38:28.980
+They seem to be doing it really well, but I can't really find anywhere where even somebody
+
+38:28.980 --> 38:32.600
+like Matt Muldenweg has really defined what that really is.
+
+38:32.600 --> 38:35.360
+Like here is the 10 things.
+
+38:35.360 --> 38:38.120
+And I think maybe that's part of the problem.
+
+38:38.120 --> 38:43.800
+Maybe we always want a list of things.
+
+38:43.800 --> 38:48.880
+And I don't think it's always that cut and dry that you can just list it.
+
+38:48.880 --> 38:53.800
+It's more a feeling.
+
+38:53.800 --> 38:56.840
+You can feel when a company is remote first.
+
+38:56.840 --> 39:03.360
+Certain things just happen naturally without having to necessarily mandate anything.
+
+39:03.360 --> 39:06.600
+And therefore, nobody really sits down.
+
+39:06.600 --> 39:11.360
+So I think that plays to the unwritten rules that you've mentioned.
+
+39:11.360 --> 39:16.600
+It's unwritten rules that you've never really thought to write down because it doesn't feel
+
+39:16.600 --> 39:18.400
+like it needs to be written down.
+
+39:18.400 --> 39:23.840
+It almost feels like it's you just know that that's how things are done.
+
+39:23.840 --> 39:32.400
+So yeah, but I'm thinking of the ideas toolkit here, like maybe that one of the mindset pieces
+
+39:32.400 --> 39:34.840
+and like, what are the tactical things like?
+
+39:34.840 --> 39:38.640
+So what is the mindset of being remote first?
+
+39:38.640 --> 39:46.000
+And tactically, what does that look like with the real world constraints of time zones,
+
+39:46.000 --> 39:53.800
+work life balance, load shedding and rolling blackouts?
+
+39:53.800 --> 39:59.720
+Like all of the myriad of ways that we work and prefer to work and like to work.
+
+39:59.720 --> 40:04.480
+And what does that mean for accessibility?
+
+40:04.480 --> 40:11.760
+I don't know how often you work with developers and web developers, maybe even specifically,
+
+40:11.760 --> 40:19.600
+but as they enter this world, and some people are literally young folks in their early 20s
+
+40:19.600 --> 40:25.160
+that's like just doing this, some are people in their 50s, some are in between deciding
+
+40:25.160 --> 40:29.280
+that the career that they they've been doing, and I think that that's happened a lot in
+
+40:29.280 --> 40:33.560
+the last two years where people have like realized that I don't want to go back to the
+
+40:33.560 --> 40:37.920
+job I had before this pandemic, because I really was unhappy.
+
+40:37.920 --> 40:44.240
+And some of it is out of fear, because people fear that they will lose their jobs to robots.
+
+40:44.240 --> 40:47.040
+Whether that's justified or not is a completely separate topic.
+
+40:47.040 --> 40:51.400
+But you can't, like I say, you can't argue with somebody's experience.
+
+40:51.400 --> 40:55.140
+You can argue with an opinion, but you can't argue with somebody's experience.
+
+40:55.140 --> 40:59.840
+So if you experience fear, and you want to do something, and you've decided that what
+
+40:59.840 --> 41:03.480
+you're going to do is you're going to learn how to code, and you're going to get into
+
+41:03.480 --> 41:04.480
+this industry.
+
+41:04.480 --> 41:10.560
+Like, what are the things that that advice that you would give them from a from a DNI,
+
+41:10.560 --> 41:13.600
+like fulfilling life perspective?
+
+41:13.600 --> 41:23.360
+This is more from a coaching perspective, I think, especially for people like, actually
+
+41:23.360 --> 41:29.680
+for anyone, and whether they're new, or you've been doing this for 20 years, like, there's
+
+41:29.680 --> 41:34.960
+something really honest about writing down your goals, your professional development
+
+41:34.960 --> 41:40.840
+goals, your goals, where you want to take a stand for DEI, writing them down, like,
+
+41:40.840 --> 41:44.760
+there's something for me about putting something down on paper, where I can step back and look
+
+41:44.760 --> 41:45.760
+at it.
+
+41:45.760 --> 41:50.560
+And I can also pull it out in the future and be like, I said this was important to me.
+
+41:50.560 --> 41:54.120
+How am I doing there?
+
+41:54.120 --> 41:59.320
+So thinking about where you want to develop and how you wanted to develop, not just like
+
+41:59.320 --> 42:03.740
+on the technical skills, but like, what are the soft skills or the interpersonal skills
+
+42:03.740 --> 42:06.840
+or the collaboration skills you want to build?
+
+42:06.840 --> 42:12.800
+Like if you say you want to help new people bridge into open source, what are you doing?
+
+42:12.800 --> 42:17.680
+Like what's the plan for the next year, six months, three months?
+
+42:17.680 --> 42:18.680
+What are you doing this month?
+
+42:18.680 --> 42:20.460
+What are you doing this week?
+
+42:20.460 --> 42:25.480
+So taking those bigger goals and breaking them down into smaller chunks, and then building
+
+42:25.480 --> 42:35.680
+in accountability, either with your manager, with your trusted friend, with community members.
+
+42:35.680 --> 42:41.420
+And you know, you can always drop things off there, but having some rigor to your own development
+
+42:41.420 --> 42:45.720
+and investing in how you're growing your skills is super important.
+
+42:45.720 --> 42:49.880
+And I think also bringing that to like, how do you want to take a stand for DEI?
+
+42:49.880 --> 42:57.040
+And what are you doing to make your workplace or software community more inclusive?
+
+42:57.040 --> 42:59.600
+Like write it down.
+
+42:59.600 --> 43:00.600
+Set a measurable goal.
+
+43:00.600 --> 43:01.600
+Are you doing it?
+
+43:01.600 --> 43:02.600
+Yeah.
+
+43:02.600 --> 43:03.600
+Yeah.
+
+43:03.600 --> 43:04.600
+I know.
+
+43:04.600 --> 43:11.280
+Also, I think like if you're learning new things, for me, I'm an extroverted thinker,
+
+43:11.280 --> 43:16.080
+but there's also an accountability and learning with other people.
+
+43:16.080 --> 43:22.240
+It's cool to like, where I'm stronger on a skill and can help someone who's maybe stuck
+
+43:22.240 --> 43:29.320
+and then receive that help on a different skill, like we learn better together, like
+
+43:29.320 --> 43:34.640
+so finding those people where you can help each other get unstuck on a technical problem.
+
+43:34.640 --> 43:41.040
+But I think there's also another piece where like we're humaning together, like we're learning,
+
+43:41.040 --> 43:45.400
+we're getting stuck, we're helping, we're receiving help, we're supporting each other.
+
+43:45.400 --> 43:50.640
+Like for me, that's the real strength and where we can do powerful things.
+
+43:50.640 --> 43:51.640
+So find your people.
+
+43:51.640 --> 43:52.640
+Yeah, that's very true.
+
+43:52.640 --> 43:57.880
+I mean, I'm experiencing that, but I think maybe it's gotten worse over the last couple
+
+43:57.880 --> 44:04.160
+of years because before the pandemic and all of this, there would be times when I would
+
+44:04.160 --> 44:08.600
+get together with other colleagues and we will have an in-person thing and like that
+
+44:08.600 --> 44:12.360
+hasn't happened for three years or so now.
+
+44:12.360 --> 44:16.040
+And I'm definitely starting to feel that.
+
+44:16.040 --> 44:21.880
+I'm starting to feel the fact that I've been remote for a long, long time and really remote
+
+44:21.880 --> 44:25.600
+if you want to call it that, the last three years.
+
+44:25.600 --> 44:35.200
+And I do miss that in-person almost collaboration, but even if it's just being on a video call
+
+44:35.200 --> 44:40.920
+together with somebody else and like working together on a thing, like talking through
+
+44:40.920 --> 44:45.640
+a problem, I think like, even if you're the mentor and you're just talking through a code
+
+44:45.640 --> 44:54.280
+problem with somebody, I think it's great to have that human connection and that like
+
+44:54.280 --> 44:56.960
+feeling that, oh no, yeah, you're getting it.
+
+44:56.960 --> 44:57.960
+You're getting it.
+
+44:57.960 --> 44:58.960
+You're almost there.
+
+44:58.960 --> 44:59.960
+And like, yeah, that's it.
+
+44:59.960 --> 45:00.960
+You got it.
+
+45:00.960 --> 45:04.280
+And sometimes it helps you also think through the problem that you haven't thought through
+
+45:04.280 --> 45:07.520
+for a while and you actually think of better ways of doing things.
+
+45:07.520 --> 45:13.000
+And just that collaboration, that like bouncing ideas of each other and stuff like that, I
+
+45:13.000 --> 45:14.000
+miss that.
+
+45:14.000 --> 45:17.920
+And I think it's going to be something that's going to be tricky for us to solve as the
+
+45:17.920 --> 45:25.840
+world becomes more and more remote and as people seem to almost retreat more into themselves.
+
+45:25.840 --> 45:31.040
+I think some people have concern about the idea of virtual reality becoming like something
+
+45:31.040 --> 45:37.840
+where people really withdraw and completely withdraw into that superficial world and what
+
+45:37.840 --> 45:39.320
+the impact of that would be.
+
+45:39.320 --> 45:44.120
+And I think we kind of had a little bit of a taste of that the last three years and I'm
+
+45:44.120 --> 45:47.720
+not so sure that people have handled it really well if they're being honest with themselves.
+
+45:47.720 --> 45:53.880
+I think it had a massive mental health impact in a lot of people that they are only now
+
+45:53.880 --> 45:54.880
+discovering.
+
+45:54.880 --> 45:55.880
+Like for me.
+
+45:55.880 --> 46:02.880
+Yes, and I became really close to my neighbor by playing Fortnite with her.
+
+46:02.880 --> 46:10.320
+Not virtual reality, but like video game and we would, you know, she's very good at the
+
+46:10.320 --> 46:11.320
+game.
+
+46:11.320 --> 46:14.360
+So I got to I got doing something with someone who's something much better than you, it's
+
+46:14.360 --> 46:16.240
+something I learned a lot faster.
+
+46:16.240 --> 46:21.840
+But we would also just talk about like what what we were proud of that day or like what
+
+46:21.840 --> 46:27.760
+we were cooking for dinner or like witness other like hard things that we were each going
+
+46:27.760 --> 46:28.760
+through.
+
+46:28.760 --> 46:29.760
+So both.
+
+46:29.760 --> 46:30.760
+I think.
+
+46:30.760 --> 46:34.680
+Yeah, I think that's the thing.
+
+46:34.680 --> 46:39.120
+It's being able to connect because oftentimes, like you said, you connect over this one thing,
+
+46:39.120 --> 46:43.720
+but it leads to other conversations that you actually find meaningful.
+
+46:43.720 --> 46:46.280
+Yeah, it's interesting.
+
+46:46.280 --> 46:50.880
+And I mean, I do I'm not anti all these other things.
+
+46:50.880 --> 46:53.320
+I'm not like against VR or anything like that.
+
+46:53.320 --> 47:00.560
+I think it has its place, but I think we do we do need to be mindful of how we use this
+
+47:00.560 --> 47:03.360
+and how we approach it, that it doesn't become an all consuming thing.
+
+47:03.360 --> 47:08.560
+I think a lot of people are talking about the metaverse and about is that the next evolution
+
+47:08.560 --> 47:09.560
+of social media?
+
+47:09.560 --> 47:14.720
+And it's going to be our downfall, so to speak, because I'm rolling my eyes.
+
+47:14.720 --> 47:22.520
+Yeah, I know so much about all these things is kind of like, I should probably read more
+
+47:22.520 --> 47:23.520
+about it.
+
+47:23.520 --> 47:27.320
+So I have a better understanding of what it's all about.
+
+47:27.320 --> 47:32.720
+As it seems to have like, just keeps getting more and more momentum, like web three and
+
+47:32.720 --> 47:33.720
+the whole idea.
+
+47:33.720 --> 47:36.600
+I mean, some of the web three stuff I do find compelling.
+
+47:36.600 --> 47:39.560
+I like the idea of decentralization.
+
+47:39.560 --> 47:41.640
+I like the idea of owning your own content.
+
+47:41.640 --> 47:48.800
+I think it's incredibly important for we've given too much of ourselves away for free
+
+47:48.800 --> 47:49.800
+for the longest time.
+
+47:49.800 --> 47:50.840
+So I do like that.
+
+47:50.840 --> 47:53.760
+But I think there's a lot of craft going on around that.
+
+47:53.760 --> 47:57.640
+That's just toys, sometimes feels like toys for rich people.
+
+47:57.640 --> 48:03.320
+And I don't know what what it's really going to solve, what it's addressing and what it's
+
+48:03.320 --> 48:06.300
+trying to make better.
+
+48:06.300 --> 48:10.000
+And so that is a slight concern that I have with some of these things.
+
+48:10.000 --> 48:14.440
+But I do think that I need to understand it better, because I can't you can't criticize
+
+48:14.440 --> 48:16.400
+something if you don't understand it, right?
+
+48:16.400 --> 48:20.720
+You need to at least give it a chance and say, what is this all about?
+
+48:20.720 --> 48:25.520
+And then maybe you'll find out that there's just a bunch of a minority of loud voices
+
+48:25.520 --> 48:30.560
+that is that is making some things make it seem like it's something it's not.
+
+48:30.560 --> 48:36.320
+And if you actually dig into the real deal of what what people actually mean when they
+
+48:36.320 --> 48:39.560
+talk about web three, then maybe it is a good thing.
+
+48:39.560 --> 48:43.240
+Maybe it is something we need to move towards and embrace.
+
+48:43.240 --> 48:51.840
+Yeah, so I can keep going for for a while, but I think this was really like delightful
+
+48:51.840 --> 48:53.800
+and interesting.
+
+48:53.800 --> 48:58.240
+It's really nice to see you and also talk about like things that we both really care
+
+48:58.240 --> 49:01.640
+about and some some big ideas like this.
+
+49:01.640 --> 49:03.200
+This conversation has really filled me up.
+
+49:03.200 --> 49:04.200
+Thank you.
+
+49:04.200 --> 49:05.200
+Yeah, no, thank you very much.
+
+49:05.200 --> 49:06.200
+This is really good.
+
+49:06.200 --> 49:07.680
+It was everything I hoped it would be.
+
+49:07.680 --> 49:08.680
+So that's great.
+
+49:08.680 --> 49:09.680
+Me too.
+
+49:09.680 --> 49:10.680
+Thanks so much, Dora.
+
+49:10.680 --> 49:14.680
+I hope you have a lovely day and I hope you can chat again.
+
+49:14.680 --> 49:16.680
+That would be really good.
+
+49:16.680 --> 49:17.680
+Yeah.
+
+49:17.680 --> 49:22.040
+And like ping me on the Slack or email me like if there's anything I could ever do to
+
+49:22.040 --> 49:28.880
+support you or help you like we are in community and I truly believe like like we're connected
+
+49:28.880 --> 49:30.440
+and we can do big things together.
+
+49:30.440 --> 49:31.440
+So yeah.
+
+49:31.440 --> 49:32.440
+Yeah.
+
+49:32.440 --> 49:33.440
+Yeah.
+
+49:33.440 --> 49:34.440
+Have a great night.
+
+49:34.440 --> 49:35.440
+Yeah.
+
+49:35.440 --> 49:36.440
+Have a great day.
+
+49:36.440 --> 49:42.800
+Thank you for listening to this episode of the My Senior Network Podcast.
+
+49:42.800 --> 49:47.240
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+
+49:47.240 --> 49:48.780
+of choice.
+
+49:48.780 --> 49:54.560
+This helps others find us and helps us make a better podcast for you on this course.
+
+49:54.560 --> 49:59.560
+You can also find and follow us on Twitter at Network My Senior and join the community
+
+49:59.560 --> 50:00.560
+on Discord.
+
+50:00.560 --> 50:06.600
+All the links are available in the show notes.
+

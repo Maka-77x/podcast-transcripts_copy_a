@@ -1,0 +1,4292 @@
+1
+00:00:00,000 --> 00:00:06,680
+Welcome to the Mycelium Network Podcast, a podcast all about early stage work developers
+
+2
+00:00:06,680 --> 00:00:09,880
+and the mentors and teachers that help them along the way.
+
+3
+00:00:09,880 --> 00:00:11,200
+Hey, Andrew.
+
+4
+00:00:11,200 --> 00:00:14,600
+Thanks so much for joining me for today's podcast.
+
+5
+00:00:14,600 --> 00:00:15,600
+How are you doing?
+
+6
+00:00:15,600 --> 00:00:19,040
+Oh my goodness, I am doing fantastic.
+
+7
+00:00:19,040 --> 00:00:24,440
+We've got a bright, sunshiny day out here on the west coast of Canada just before we
+
+8
+00:00:24,440 --> 00:00:25,960
+move into our rainy season.
+
+9
+00:00:25,960 --> 00:00:32,200
+So I'm having a good day, and I'm getting to talk to you too, which is a pretty fantastic
+
+10
+00:00:32,200 --> 00:00:35,400
+way to start my weekend.
+
+11
+00:00:35,400 --> 00:00:37,920
+Yeah, for sure, for sure.
+
+12
+00:00:37,920 --> 00:00:40,760
+Yeah, the weather over here is also pretty decent.
+
+13
+00:00:40,760 --> 00:00:45,680
+It's hot, and it's too soon to be this hot, but I think the weekend is looking pretty
+
+14
+00:00:45,680 --> 00:00:46,680
+decent.
+
+15
+00:00:46,680 --> 00:00:48,320
+So yeah, that's good.
+
+16
+00:00:48,320 --> 00:00:55,640
+So I found you on Polywork, I'm really appreciative to Polywork because I had this idea, I thought
+
+17
+00:00:55,640 --> 00:00:59,920
+I'd just put it out there and see if people were interested, and I was overwhelmed by
+
+18
+00:00:59,920 --> 00:01:05,600
+the response, so much so that I've been finding it hard to keep up with getting back to people
+
+19
+00:01:05,600 --> 00:01:08,560
+and saying like, oh my goodness, yeah, let's do this.
+
+20
+00:01:08,560 --> 00:01:12,640
+So you're one of the first folks that reached out, actually, and I read a little bit about
+
+21
+00:01:12,640 --> 00:01:16,840
+your background, and I thought this is perfect for the show.
+
+22
+00:01:16,840 --> 00:01:22,260
+So I'm not going to speak about who you are because you know you are better than me.
+
+23
+00:01:22,260 --> 00:01:26,920
+So I'm going to listen and I'm going to let you take as much time as you need, go as far
+
+24
+00:01:26,920 --> 00:01:29,480
+back as you want to, and tell us your story.
+
+25
+00:01:29,480 --> 00:01:31,040
+Oh, I don't know about that.
+
+26
+00:01:31,040 --> 00:01:37,080
+You might have gotten more about me from the backgrounds that I sent in than I'm even going
+
+27
+00:01:37,080 --> 00:01:38,280
+to remember today.
+
+28
+00:01:38,280 --> 00:01:42,560
+But yeah, I mean, I guess I'll start with kind of where I am now and maybe go a little
+
+29
+00:01:42,560 --> 00:01:43,600
+bit further backwards.
+
+30
+00:01:43,600 --> 00:01:51,560
+So I'm an educator based here in British Columbia, Canada, so just on the west coast of Canada,
+
+31
+00:01:51,560 --> 00:01:56,520
+the big focus around technology education and educational technologies.
+
+32
+00:01:56,520 --> 00:02:04,160
+So I've worked in the middle school, high school, post-secondary levels, and sort of
+
+33
+00:02:04,160 --> 00:02:07,880
+throughout the entire time that I've been in the world of education and the world of
+
+34
+00:02:07,880 --> 00:02:13,440
+sort of training other people to do it, I've spent sort of my entire career also just exploring
+
+35
+00:02:13,440 --> 00:02:14,440
+technology.
+
+36
+00:02:14,440 --> 00:02:21,520
+I mean, I remember my first job post-graduation from a non-tech related tech related degree
+
+37
+00:02:21,520 --> 00:02:25,680
+was to build a website for an organization that I was working for.
+
+38
+00:02:25,680 --> 00:02:28,920
+And it was kind of my first taste of what this looked like professionally.
+
+39
+00:02:28,920 --> 00:02:30,780
+Yeah, yeah.
+
+40
+00:02:30,780 --> 00:02:38,200
+So technology enthusiast, really passionate about exploring ways to get people excited
+
+41
+00:02:38,200 --> 00:02:42,680
+about technology and to look at alternative ways of teaching people technology.
+
+42
+00:02:42,680 --> 00:02:48,400
+And I also work in the industry as a community manager for a really amazing company here
+
+43
+00:02:48,400 --> 00:02:51,960
+in Canada called Battlesnake, and I'm sure I'll get a chance to talk about them a little
+
+44
+00:02:51,960 --> 00:02:52,960
+bit later.
+
+45
+00:02:52,960 --> 00:02:53,960
+Yeah, for sure.
+
+46
+00:02:53,960 --> 00:02:55,760
+I definitely want you to talk about that.
+
+47
+00:02:55,760 --> 00:02:58,160
+I saw that and I was like, what is this?
+
+48
+00:02:58,160 --> 00:03:00,360
+This sounds really interesting.
+
+49
+00:03:00,360 --> 00:03:05,560
+So it's kind of cool because so you're a teacher that also teaches teachers, which is like
+
+50
+00:03:05,560 --> 00:03:06,560
+inception.
+
+51
+00:03:06,560 --> 00:03:08,160
+That's really cool.
+
+52
+00:03:08,160 --> 00:03:14,680
+So as you know, the whole idea behind this podcast and the community that I've started
+
+53
+00:03:14,680 --> 00:03:23,800
+is all about helping early stage developers get into this industry in a welcoming, friendly
+
+54
+00:03:23,800 --> 00:03:32,880
+way and help them identify by talking to them, but also by talking to teachers and mentors,
+
+55
+00:03:32,880 --> 00:03:35,240
+find where is the missing pieces?
+
+56
+00:03:35,240 --> 00:03:41,040
+What are things that's not working so that we can find ways of improving this so that
+
+57
+00:03:41,040 --> 00:03:45,440
+the pain, the struggles that we might have gone through when we started, we don't have
+
+58
+00:03:45,440 --> 00:03:49,280
+to repeat that for the next wave of folks getting into the industry.
+
+59
+00:03:49,280 --> 00:03:55,520
+And I think one of the things that's also very important to me is to invite and include
+
+60
+00:03:55,520 --> 00:04:00,560
+everybody irrespective of where you are in your career development and irrespective of
+
+61
+00:04:00,560 --> 00:04:10,080
+where you live and irrespective of your gender, your background, your choice of how you identify
+
+62
+00:04:10,080 --> 00:04:11,080
+yourself.
+
+63
+00:04:11,080 --> 00:04:16,400
+Like I want this to be a welcoming place for everybody where they can feel they can talk
+
+64
+00:04:16,400 --> 00:04:21,520
+openly and freely about what works and what doesn't celebrate their wins and celebrate
+
+65
+00:04:21,520 --> 00:04:23,000
+the failures.
+
+66
+00:04:23,000 --> 00:04:26,220
+So that is a lot.
+
+67
+00:04:26,220 --> 00:04:32,720
+With all of that said, as a teacher who teaches teachers, but also teaches students, what
+
+68
+00:04:32,720 --> 00:04:39,700
+advice do you have for both those bodies, I guess, anything that in your time spent
+
+69
+00:04:39,700 --> 00:04:44,600
+doing this, anything that you have found that's like maybe not worked so well and that you
+
+70
+00:04:44,600 --> 00:04:48,480
+found like, oh, these are better ways of addressing.
+
+71
+00:04:48,480 --> 00:04:53,560
+So either speak to students or specifically to the industry in general.
+
+72
+00:04:53,560 --> 00:04:57,200
+Yeah, I mean, this was it's so funny.
+
+73
+00:04:57,200 --> 00:05:03,800
+So I got to say, first off, I absolutely love that mission, this idea of inclusiveness and
+
+74
+00:05:03,800 --> 00:05:10,120
+accessibility to this world, even though technology industry is everywhere and almost every company
+
+75
+00:05:10,120 --> 00:05:15,560
+is a technology company now, particularly on the developer side, I mean, around certainly
+
+76
+00:05:15,560 --> 00:05:22,480
+in North America, but I think around the world, it is still historically a very dominated
+
+77
+00:05:22,480 --> 00:05:24,320
+by a very specific population.
+
+78
+00:05:24,320 --> 00:05:30,120
+And so any initiatives that can be done that will enable people that are not coming from
+
+79
+00:05:30,120 --> 00:05:34,120
+that dominant culture to enter this space, I think is incredibly important.
+
+80
+00:05:34,120 --> 00:05:38,880
+So huge kudos for the Mycelium Network podcast and the work that you're doing in this space.
+
+81
+00:05:38,880 --> 00:05:39,880
+All right.
+
+82
+00:05:39,880 --> 00:05:40,880
+Yeah.
+
+83
+00:05:40,880 --> 00:05:41,880
+So and then answer your question.
+
+84
+00:05:41,880 --> 00:05:43,800
+So it's interesting.
+
+85
+00:05:43,800 --> 00:05:50,040
+So this was exactly what you're talking about and the exact reason behind Mycelium
+
+86
+00:05:50,040 --> 00:05:56,720
+Network was actually one of the big pieces behind one of the initiatives that I'm most
+
+87
+00:05:56,720 --> 00:06:02,360
+proud of that I helped to develop in sort of this technology education space, which
+
+88
+00:06:02,360 --> 00:06:06,320
+was a program called High Tech U.
+
+89
+00:06:06,320 --> 00:06:11,440
+So it was a it's a program based out of the University of Victoria, which is a fairly
+
+90
+00:06:11,440 --> 00:06:17,840
+large research intensive university here in here in Victoria, British Columbia has a really
+
+91
+00:06:17,840 --> 00:06:22,920
+spectacular software engineering and computer science program.
+
+92
+00:06:22,920 --> 00:06:29,280
+But much like the rest of the world, not necessarily turning out the number of folks that need
+
+93
+00:06:29,280 --> 00:06:35,520
+to be to be produced at a post secondary institutions to prepare them for for industry and in many
+
+94
+00:06:35,520 --> 00:06:40,240
+ways turning out the same type of people that are dominating the industry right now, which
+
+95
+00:06:40,240 --> 00:06:46,120
+is not necessarily that sort of perpetuation cycle that we're looking to do.
+
+96
+00:06:46,120 --> 00:06:51,800
+So with this initiative, it was very specifically focused on the exact thing that Mycelium is
+
+97
+00:06:51,800 --> 00:06:56,720
+is sort of really focused on, which is how can we how can we create a safe, accessible
+
+98
+00:06:56,720 --> 00:07:02,940
+environment that will enable folks that didn't necessarily see themselves in technology to
+
+99
+00:07:02,940 --> 00:07:09,160
+find their place in the industry, be it as somebody working in customer support or somebody
+
+100
+00:07:09,160 --> 00:07:14,000
+that's working on on back end, but helping them find a place.
+
+101
+00:07:14,000 --> 00:07:17,240
+And I can go into detail about kind of what that program looked like.
+
+102
+00:07:17,240 --> 00:07:23,280
+But I think the biggest the biggest thing that that came out of that initiative and I ran
+
+103
+00:07:23,280 --> 00:07:29,500
+it for for three years and built it up with a great team was kind of counterintuitive
+
+104
+00:07:29,500 --> 00:07:31,800
+to get people excited about tech.
+
+105
+00:07:31,800 --> 00:07:36,240
+It's less about the tech itself and more about the problems that that technology can
+
+106
+00:07:36,240 --> 00:07:44,800
+solve and really just enabling people to gain an understanding of how they can use these
+
+107
+00:07:44,800 --> 00:07:51,040
+free amazing resources that are out there to solve a problem for them and switching
+
+108
+00:07:51,040 --> 00:07:56,680
+this world of you need to be the sort of glasses in your basement with the hoodie eating, eating
+
+109
+00:07:56,680 --> 00:08:01,080
+nacho chips and drinking soda, which we all love to do.
+
+110
+00:08:01,080 --> 00:08:05,640
+But that's kind of that archetypical computer scientist look right.
+
+111
+00:08:05,640 --> 00:08:10,760
+And so, yeah, yeah, we really focus there on on switching to the problem solving and
+
+112
+00:08:10,760 --> 00:08:14,520
+then getting people excited about tech and then sort of showing them the different gateways
+
+113
+00:08:14,520 --> 00:08:15,600
+that are there.
+
+114
+00:08:15,600 --> 00:08:16,600
+That sounds great.
+
+115
+00:08:16,600 --> 00:08:19,640
+Yeah, I'm totally for the problem solving thing, because I think one of the challenges
+
+116
+00:08:19,640 --> 00:08:25,320
+that I've heard over and over and over again, and I experienced it myself, if you if you
+
+117
+00:08:25,320 --> 00:08:30,120
+are transitioning from one because I used to be a musician and then I found it hard
+
+118
+00:08:30,120 --> 00:08:31,640
+to make a living.
+
+119
+00:08:31,640 --> 00:08:38,680
+I got married and had a kid and so it was it was hard and I couldn't financially sustain
+
+120
+00:08:38,680 --> 00:08:39,680
+us.
+
+121
+00:08:39,680 --> 00:08:42,000
+I mean, thankfully, I had had parents that could help us.
+
+122
+00:08:42,000 --> 00:08:46,400
+But you know, as as a twenty one, twenty two year old, you don't want your daddy to look
+
+123
+00:08:46,400 --> 00:08:47,400
+off to you.
+
+124
+00:08:47,400 --> 00:08:48,400
+You want be independent.
+
+125
+00:08:48,400 --> 00:08:49,400
+Right.
+
+126
+00:08:49,400 --> 00:08:50,400
+You're like her.
+
+127
+00:08:50,400 --> 00:08:55,600
+So so I had to find some way of making money.
+
+128
+00:08:55,600 --> 00:09:04,720
+And at that time, flash was still a big thing, and that was my like gateway drug into this
+
+129
+00:09:04,720 --> 00:09:07,360
+because it allowed me to combine different things.
+
+130
+00:09:07,360 --> 00:09:08,360
+Right.
+
+131
+00:09:08,360 --> 00:09:11,120
+It allowed me because I was I was like, oh, I can do animation with this thing.
+
+132
+00:09:11,120 --> 00:09:12,120
+That's cool.
+
+133
+00:09:12,120 --> 00:09:17,840
+And I can use music because back in the day, like in the early 2000s, like 2000, 2001,
+
+134
+00:09:17,840 --> 00:09:22,760
+it was pretty popular to have this little like fancy intro with animation and music
+
+135
+00:09:22,760 --> 00:09:27,320
+and like stuff, and then you add a button there again to enter the website.
+
+136
+00:09:27,320 --> 00:09:31,760
+So I ended up building quite a few of those like intros for clients.
+
+137
+00:09:31,760 --> 00:09:37,760
+So that that allowed me to give creative expression to myself and still have this little connection
+
+138
+00:09:37,760 --> 00:09:44,900
+to my musical career, but also start like getting into the texting.
+
+139
+00:09:44,900 --> 00:09:53,560
+And so but with that said, it was still hard because even when I was freelancing, how do
+
+140
+00:09:53,560 --> 00:09:55,440
+you get a client if you have no work to show?
+
+141
+00:09:55,440 --> 00:09:56,440
+Right.
+
+142
+00:09:56,440 --> 00:10:02,160
+So now you have to like try and create these like pseudo projects that don't really exist.
+
+143
+00:10:02,160 --> 00:10:03,160
+It's not for anybody.
+
+144
+00:10:03,160 --> 00:10:12,240
+You have to somehow get yourself inspired to do this thing, just to say that, oh, here's
+
+145
+00:10:12,240 --> 00:10:18,560
+the thing I bought, it's not really for anybody, but you can kind of see my skills, right?
+
+146
+00:10:18,560 --> 00:10:22,760
+But it's me by myself alone and get up in these things that didn't even exist back then.
+
+147
+00:10:22,760 --> 00:10:27,360
+So it's like literally me putting it on a URL and pointing it to it.
+
+148
+00:10:27,360 --> 00:10:28,360
+So it was hard.
+
+149
+00:10:28,360 --> 00:10:29,360
+It was really tough.
+
+150
+00:10:29,360 --> 00:10:37,160
+And then again, I realized that maybe freelancing isn't going to work.
+
+151
+00:10:37,160 --> 00:10:44,320
+I struggled to build my business to a point where I felt like we as a family will be financially
+
+152
+00:10:44,320 --> 00:10:48,480
+stable and so I decided to join the workforce.
+
+153
+00:10:48,480 --> 00:10:52,800
+And that was tough because I've been doing it for like two, three years at that point,
+
+154
+00:10:52,800 --> 00:10:57,400
+but I had very little experience to show for that because a lot of the things I did was
+
+155
+00:10:57,400 --> 00:11:05,000
+literally make things for myself as a means of having like designing logos for fictitious
+
+156
+00:11:05,000 --> 00:11:08,360
+companies and stuff like that.
+
+157
+00:11:08,360 --> 00:11:13,160
+And so that's one of the things that I want to do as part of the Mycelium network is to
+
+158
+00:11:13,160 --> 00:11:17,240
+anything that we do, like for example, the Mycelium network needs a website, right?
+
+159
+00:11:17,240 --> 00:11:20,160
+So I want to do that with the community.
+
+160
+00:11:20,160 --> 00:11:21,520
+I don't want to go and build it.
+
+161
+00:11:21,520 --> 00:11:26,480
+I want to do it with the community and I want to do it like a for real project.
+
+162
+00:11:26,480 --> 00:11:31,240
+You know, we have a project board on GitHub, we have tasks, people get assigned to tasks,
+
+163
+00:11:31,240 --> 00:11:36,200
+people need to do full request reviews, people need to read each other's code, all that kind
+
+164
+00:11:36,200 --> 00:11:37,200
+of stuff.
+
+165
+00:11:37,200 --> 00:11:41,080
+And be involved in how do we take that thing and get it live on the internet.
+
+166
+00:11:41,080 --> 00:11:47,840
+Because the awesome thing about GitHub is it's open and so you can point any potential
+
+167
+00:11:47,840 --> 00:11:50,600
+employer to the work you've done.
+
+168
+00:11:50,600 --> 00:11:54,700
+And the nice thing if you do it in this like, so it's great to contribute to open source
+
+169
+00:11:54,700 --> 00:11:55,700
+in general.
+
+170
+00:11:55,700 --> 00:11:59,280
+I think it's a good way to get experience in that kind of thing.
+
+171
+00:11:59,280 --> 00:12:04,080
+But if you're involved in something that's run as a structured project, you also show
+
+172
+00:12:04,080 --> 00:12:08,880
+the employer that you can work as part of a team.
+
+173
+00:12:08,880 --> 00:12:15,320
+You can take criticism, deal with it, not give up, maybe push back even if you feel
+
+174
+00:12:15,320 --> 00:12:19,880
+strongly about it and come to a consensus and land your work.
+
+175
+00:12:19,880 --> 00:12:21,520
+I think that is a really good way.
+
+176
+00:12:21,520 --> 00:12:26,040
+So I think the thing that you mentioned about high tech you and how you looked at specifically
+
+177
+00:12:26,040 --> 00:12:30,680
+problem solving, I think that's key and I think it's a key thing that's missing.
+
+178
+00:12:30,680 --> 00:12:33,800
+So I'm curious, what do you think about all of that?
+
+179
+00:12:33,800 --> 00:12:39,660
+How did you address this whole thing of creating problems for people to solve, to have a means
+
+180
+00:12:39,660 --> 00:12:43,840
+of signaling to employers what they're capable of?
+
+181
+00:12:43,840 --> 00:12:45,340
+Absolutely.
+
+182
+00:12:45,340 --> 00:12:46,340
+And you're totally right.
+
+183
+00:12:46,340 --> 00:12:50,360
+I mean, there's so many courses that you can do out there.
+
+184
+00:12:50,360 --> 00:12:54,780
+And if you look on, it's interesting if you go on to GitHub and you look for projects
+
+185
+00:12:54,780 --> 00:12:55,960
+a lot of the time, right?
+
+186
+00:12:55,960 --> 00:13:00,180
+You'll find these half finished repos of like a project that somebody had to do as part
+
+187
+00:13:00,180 --> 00:13:02,460
+of this course and there's no documentation.
+
+188
+00:13:02,460 --> 00:13:06,880
+It's obviously something they did and it's almost discouraging.
+
+189
+00:13:06,880 --> 00:13:11,920
+But there is such power in that world of GitHub and open source and I'm super excited to
+
+190
+00:13:11,920 --> 00:13:15,160
+chat like open source and how that plays in.
+
+191
+00:13:15,160 --> 00:13:20,280
+But for us, one of the big pieces and it ties into the creativity piece as well is we spent,
+
+192
+00:13:20,280 --> 00:13:27,320
+so the kind of core program that we ran was like a five day long, I call it kind of an
+
+193
+00:13:27,320 --> 00:13:29,860
+extended hackathon for beginners.
+
+194
+00:13:29,860 --> 00:13:33,740
+So instead of sort of coming in and giving a problem statement or giving like a theme,
+
+195
+00:13:33,740 --> 00:13:37,420
+we would sort of have them come in and we would teach them the fundamentals that they
+
+196
+00:13:37,420 --> 00:13:40,860
+needed to know and then just kind of put them out there in the world.
+
+197
+00:13:40,860 --> 00:13:45,100
+And we brought in mentors from local technology companies who would basically just be there
+
+198
+00:13:45,100 --> 00:13:46,320
+floating around.
+
+199
+00:13:46,320 --> 00:13:51,400
+So whereas unlike that traditional hackathon that you go to where you might have that,
+
+200
+00:13:51,400 --> 00:13:54,840
+but it's generally about tapping into the expertise that's in your team or in your
+
+201
+00:13:54,840 --> 00:13:56,360
+friend group.
+
+202
+00:13:56,360 --> 00:14:00,160
+This was the expectation that nobody was coming in with any knowledge and then the mentors
+
+203
+00:14:00,160 --> 00:14:05,220
+were just kind of there and able to support when questions came up.
+
+204
+00:14:05,220 --> 00:14:08,440
+But within the world of the problem solving and ensuring that this was something that's
+
+205
+00:14:08,440 --> 00:14:12,980
+going to be valuable for the students, one of the big pieces of that onboarding process
+
+206
+00:14:12,980 --> 00:14:19,500
+was actually having them gain an understanding of design thinking from like the very base
+
+207
+00:14:19,500 --> 00:14:25,100
+level of going and finding a problem that is relevant to a user base.
+
+208
+00:14:25,100 --> 00:14:32,020
+And the unique thing in that program was we had about 16 high school age students that
+
+209
+00:14:32,020 --> 00:14:36,460
+were there from grade nine to 12 and we said, great, within this sort of like this captured
+
+210
+00:14:36,460 --> 00:14:41,960
+user group, go talk to each other and see what problems you can find within this group
+
+211
+00:14:41,960 --> 00:14:44,100
+of 16 youth.
+
+212
+00:14:44,100 --> 00:14:46,060
+So you've got your target market is there.
+
+213
+00:14:46,060 --> 00:14:49,640
+You're building something that solves a problem for young people.
+
+214
+00:14:49,640 --> 00:14:53,720
+You're going to do the user research all within like this super fast like hour long
+
+215
+00:14:53,720 --> 00:14:58,440
+period and then we're going to work with you to identify the thing that you can actually
+
+216
+00:14:58,440 --> 00:15:07,580
+accomplish with your skill level in this sort of like three days fundamentally of programming.
+
+217
+00:15:07,580 --> 00:15:12,140
+And so that was a really powerful thing within this model of the projects that they were
+
+218
+00:15:12,140 --> 00:15:17,020
+creating is every project that they were creating, they could speak to like why this is an issue
+
+219
+00:15:17,020 --> 00:15:18,860
+because they're the user for it.
+
+220
+00:15:18,860 --> 00:15:23,460
+And even if they're not the perfect user, the super user, the early adopter, they're
+
+221
+00:15:23,460 --> 00:15:27,180
+going to get it because they're in that headspace.
+
+222
+00:15:27,180 --> 00:15:28,180
+That's super clever.
+
+223
+00:15:28,180 --> 00:15:30,420
+I really, I haven't thought about that angle.
+
+224
+00:15:30,420 --> 00:15:31,420
+That's really nice.
+
+225
+00:15:31,420 --> 00:15:36,020
+Like essentially telling your community, hey, instead of me bringing a project to you, you
+
+226
+00:15:36,020 --> 00:15:38,260
+can bring a project to me by talking to each other.
+
+227
+00:15:38,260 --> 00:15:39,380
+That's really clever.
+
+228
+00:15:39,380 --> 00:15:40,500
+I really like that.
+
+229
+00:15:40,500 --> 00:15:41,500
+That's a nice one.
+
+230
+00:15:41,500 --> 00:15:42,540
+And okay, cool.
+
+231
+00:15:42,540 --> 00:15:46,060
+So you've kind of like opened the door to open source and you said that you'd be really
+
+232
+00:15:46,060 --> 00:15:47,060
+keen to talk about it.
+
+233
+00:15:47,060 --> 00:15:48,280
+And it was one of my questions.
+
+234
+00:15:48,280 --> 00:15:50,580
+So let's dive into it right now.
+
+235
+00:15:50,580 --> 00:15:54,220
+Why do you, how do you see open source?
+
+236
+00:15:54,220 --> 00:15:58,780
+What role does it play in teaching and learning?
+
+237
+00:15:58,780 --> 00:16:01,260
+So from both sides and it's a big topic.
+
+238
+00:16:01,260 --> 00:16:02,260
+Oh my goodness.
+
+239
+00:16:02,260 --> 00:16:03,260
+Yeah.
+
+240
+00:16:03,260 --> 00:16:04,980
+I love big topic though.
+
+241
+00:16:04,980 --> 00:16:05,980
+This is good.
+
+242
+00:16:05,980 --> 00:16:07,060
+It has three directions.
+
+243
+00:16:07,060 --> 00:16:13,060
+So I mean, in terms of, I mean, I can talk about my experience using it within sort of
+
+244
+00:16:13,060 --> 00:16:18,660
+teaching environments and then also just personally, cause I'm, I'm sort of learning this web development
+
+245
+00:16:18,660 --> 00:16:19,660
+experience.
+
+246
+00:16:19,660 --> 00:16:24,420
+So, so from the teaching perspective, one of the really great things that I've found
+
+247
+00:16:24,420 --> 00:16:36,700
+is the open source world has really invited new developers to get a deeper understanding
+
+248
+00:16:36,700 --> 00:16:42,540
+of the technology that's out there and that they're using every day.
+
+249
+00:16:42,540 --> 00:16:47,260
+Whereas in the past, again, very similar to this project idea, if you wanted to see what
+
+250
+00:16:47,260 --> 00:16:51,620
+code looked like for a project, you would have to go and find somebody that had published
+
+251
+00:16:51,620 --> 00:16:57,060
+on their personal website or on some other service, some fairly boring project that was
+
+252
+00:16:57,060 --> 00:17:02,580
+maybe in a language that you weren't interested in to now the world where literally you're
+
+253
+00:17:02,580 --> 00:17:06,540
+excited about, maybe you're excited about live streaming and you want to, you want to
+
+254
+00:17:06,540 --> 00:17:08,660
+see like the code behind Twitch.
+
+255
+00:17:08,660 --> 00:17:12,260
+Now not all of it is going to be exposed, but you can go and take a look and sort of
+
+256
+00:17:12,260 --> 00:17:15,820
+see like, Hey, this is the stuff that's underlying this technology.
+
+257
+00:17:15,820 --> 00:17:21,020
+So I think there's a level of playing to people's interests and allowing them to get
+
+258
+00:17:21,020 --> 00:17:26,620
+exposed to programming through exploring areas and topics that they're passionate about.
+
+259
+00:17:26,620 --> 00:17:29,980
+I mean, I teach, so I teach at a middle school level.
+
+260
+00:17:29,980 --> 00:17:34,740
+So I deal with learners that are doing things on sort of Minecraft and mind test a lot.
+
+261
+00:17:34,740 --> 00:17:38,420
+That's a big thing with the age group that I work with and the mod community in there
+
+262
+00:17:38,420 --> 00:17:40,340
+is huge.
+
+263
+00:17:40,340 --> 00:17:44,380
+And the cool thing is I have kids learning about open source without ever knowing the
+
+264
+00:17:44,380 --> 00:17:45,860
+word open source.
+
+265
+00:17:45,860 --> 00:17:49,120
+They go and search Minecraft mod that does this thing.
+
+266
+00:17:49,120 --> 00:17:50,380
+They end up on GitHub.
+
+267
+00:17:50,380 --> 00:17:55,460
+They pull the code down, they're reviewing it and just based on their interest level,
+
+268
+00:17:55,460 --> 00:17:58,420
+they're going in and they're discovering sort of open source.
+
+269
+00:17:58,420 --> 00:18:04,580
+And that's opening the door to saying like, this isn't this ethereal thing that I can't
+
+270
+00:18:04,580 --> 00:18:07,420
+understand or I'll never be able to wrap my mind around.
+
+271
+00:18:07,420 --> 00:18:09,080
+They're actually letting me in the door.
+
+272
+00:18:09,080 --> 00:18:12,820
+So I think accessibility is huge there.
+
+273
+00:18:12,820 --> 00:18:18,340
+I think for me personally, as a learner who's been going through the development process,
+
+274
+00:18:18,340 --> 00:18:22,460
+what I love is I've always been the kind of person that if I did a course, like where
+
+275
+00:18:22,460 --> 00:18:26,780
+I'm building something, I'm going to get to step three of seven and I'm going to be out.
+
+276
+00:18:26,780 --> 00:18:27,780
+I'm going to be done.
+
+277
+00:18:27,780 --> 00:18:31,340
+I'm like, ah, this isn't something that I'm really interested in.
+
+278
+00:18:31,340 --> 00:18:35,100
+What I love doing and what I found really powerful about open source is actually being
+
+279
+00:18:35,100 --> 00:18:39,860
+able to just go and grab somebody's code and then mess around with it.
+
+280
+00:18:39,860 --> 00:18:44,220
+Like have a working piece of code and then to go in there and I'm going to change a
+
+281
+00:18:44,220 --> 00:18:49,140
+variable or like alter a method and I'm going to see the issue and the change that that
+
+282
+00:18:49,140 --> 00:18:50,860
+does in there.
+
+283
+00:18:50,860 --> 00:18:55,220
+And that's like, it's been a super powerful part of my learning journey is having this
+
+284
+00:18:55,220 --> 00:19:00,020
+massive resource to go and dig into code like that.
+
+285
+00:19:00,020 --> 00:19:01,020
+Yeah.
+
+286
+00:19:01,020 --> 00:19:02,020
+Yeah.
+
+287
+00:19:02,020 --> 00:19:03,020
+For sure.
+
+288
+00:19:03,020 --> 00:19:10,500
+I was just about to ask you, like, I wonder how effective it is to, for example, present
+
+289
+00:19:10,500 --> 00:19:14,380
+and while this is not somebody that's beginning, beginning, but somebody that's like had a
+
+290
+00:19:14,380 --> 00:19:20,820
+little bit of learning of HTML, CSS, and a bit of JavaScript to create like a super simple
+
+291
+00:19:20,820 --> 00:19:21,820
+project, right?
+
+292
+00:19:21,820 --> 00:19:26,260
+It's like, say for example, a mobile navigation, right?
+
+293
+00:19:26,260 --> 00:19:27,540
+So it has a little hamburger menu.
+
+294
+00:19:27,540 --> 00:19:29,140
+When you click it, it opens a thing.
+
+295
+00:19:29,140 --> 00:19:30,860
+When you click it again, it closes it.
+
+296
+00:19:30,860 --> 00:19:36,780
+And so it does a couple of things, you know, it like it acts, it reacts to the user.
+
+297
+00:19:36,780 --> 00:19:41,220
+It changes the icon based on the state of the menu.
+
+298
+00:19:41,220 --> 00:19:46,700
+And then to tell students, okay, here's the code that makes that happen.
+
+299
+00:19:46,700 --> 00:19:57,020
+Can you look at it, read through the code and write a blog post explaining how it works?
+
+300
+00:19:57,020 --> 00:20:02,380
+I've often thought if that would be an interesting approach for learners.
+
+301
+00:20:02,380 --> 00:20:05,300
+100% and at every level.
+
+302
+00:20:05,300 --> 00:20:08,820
+So for the high tech U program, we built out the Academy.
+
+303
+00:20:08,820 --> 00:20:12,620
+That's exactly kind of what we did, not the blog post angle, but we would actually give
+
+304
+00:20:12,620 --> 00:20:18,500
+them a template that was a functional template, but it was the most basic template, right?
+
+305
+00:20:18,500 --> 00:20:23,220
+So in our first iteration, they were doing really simple web apps built on, I think Node
+
+306
+00:20:23,220 --> 00:20:24,220
+or something like that.
+
+307
+00:20:24,220 --> 00:20:27,900
+And it was just, it would basically spit out a thing that said, hello world.
+
+308
+00:20:27,900 --> 00:20:31,100
+The most recent iteration, we did the same thing with the GitHub template, but it was
+
+309
+00:20:31,100 --> 00:20:34,820
+a discord bot and you would sort of follow the steps and it would give it.
+
+310
+00:20:34,820 --> 00:20:38,900
+But again, it was not the build part one, two, three, and eventually you'll get to
+
+311
+00:20:38,900 --> 00:20:40,340
+a bot from day one.
+
+312
+00:20:40,340 --> 00:20:46,100
+You had a functional thing and your role was to customize it, which was huge.
+
+313
+00:20:46,100 --> 00:20:49,660
+And that kind of carries through even to the work that I do with Battlesnake.
+
+314
+00:20:49,660 --> 00:20:56,060
+And so within that, it's a very open source company, very community focused, but because
+
+315
+00:20:56,060 --> 00:21:04,520
+of the nature of what it is, the game itself requires you to build your own web server
+
+316
+00:21:04,520 --> 00:21:05,780
+in a different language.
+
+317
+00:21:05,780 --> 00:21:11,420
+And so we provide templates that are really dumb, dumb snakes that are competing in this
+
+318
+00:21:11,420 --> 00:21:14,460
+game that will not die.
+
+319
+00:21:14,460 --> 00:21:20,260
+They will do a thing, but it's not going to be super powerful.
+
+320
+00:21:20,260 --> 00:21:24,060
+And what's interesting there as well, that's I think even more unique about what we're
+
+321
+00:21:24,060 --> 00:21:30,020
+doing with that company is that let's say somebody is using a template and say Python
+
+322
+00:21:30,020 --> 00:21:32,580
+and they've learned how the Python template works.
+
+323
+00:21:32,580 --> 00:21:34,700
+And we've got a Go template or a Rust template.
+
+324
+00:21:34,700 --> 00:21:38,380
+They can then go and say like, okay, I see how it was laid out in Python.
+
+325
+00:21:38,380 --> 00:21:40,820
+I'm going to go over to Rust and see how it's laid out there.
+
+326
+00:21:40,820 --> 00:21:45,620
+And you're going to gain this really practical understanding just by looking at those different
+
+327
+00:21:45,620 --> 00:21:48,300
+templates that are accomplishing the same thing.
+
+328
+00:21:48,300 --> 00:21:53,620
+And yeah, I think that the whole world, when GitHub did templates, they shifted the game
+
+329
+00:21:53,620 --> 00:21:56,460
+in such a huge way for education.
+
+330
+00:21:56,460 --> 00:21:57,580
+That is for sure.
+
+331
+00:21:57,580 --> 00:22:00,860
+I've totally embraced that.
+
+332
+00:22:00,860 --> 00:22:06,700
+I've got this project called Project Calavera and it's very intentionally titled that way
+
+333
+00:22:06,700 --> 00:22:10,240
+because it's all about creating skeletons.
+
+334
+00:22:10,240 --> 00:22:18,780
+And some of them are the main one, the Project Calavera, Project Calavera is a CLI that basically
+
+335
+00:22:18,780 --> 00:22:22,860
+if you're starting a new project and so you want to add prettier, you want to add some
+
+336
+00:22:22,860 --> 00:22:27,060
+ESLent rules, you want to add style and rules, maybe you're using SAS, so you want to add
+
+337
+00:22:27,060 --> 00:22:28,840
+some SAS stuff.
+
+338
+00:22:28,840 --> 00:22:30,700
+That's kind of cumbersome, right?
+
+339
+00:22:30,700 --> 00:22:35,980
+Either after you create a template that you then every time fork or not fork, when you
+
+340
+00:22:35,980 --> 00:22:40,100
+create a new repo, you create it from that template, or you need to copy and paste stuff
+
+341
+00:22:40,100 --> 00:22:44,500
+from this GitHub repository you keep around with all your default configs.
+
+342
+00:22:44,500 --> 00:22:48,900
+So the way this one works is you basically run a CLI command and then you have some configuration
+
+343
+00:22:48,900 --> 00:22:50,740
+in your package JSON.
+
+344
+00:22:50,740 --> 00:22:55,900
+And based on that, it'll just spit out all that stuff for you.
+
+345
+00:22:55,900 --> 00:23:02,600
+And I take community input and I follow a bunch of projects that create these best practices
+
+346
+00:23:02,600 --> 00:23:09,260
+for what is the latest, greatest way to configure your ESLent or your style and how to configure
+
+347
+00:23:09,260 --> 00:23:10,980
+battle and stuff like that.
+
+348
+00:23:10,980 --> 00:23:16,700
+So it doesn't do framework things because that's why it says it's like a boilerplate
+
+349
+00:23:16,700 --> 00:23:22,100
+for new projects, bring your own framework, because I think frameworks oftentimes have
+
+350
+00:23:22,100 --> 00:23:24,060
+this built into their own little CLI.
+
+351
+00:23:24,060 --> 00:23:28,300
+So if you start up a new Vue project or you start up a new React project with one of these
+
+352
+00:23:28,300 --> 00:23:34,180
+like boilerplate things like create React app or the Vue CLI, it does that.
+
+353
+00:23:34,180 --> 00:23:37,020
+But there isn't something like that for somebody that's just like, oh, but I don't want to
+
+354
+00:23:37,020 --> 00:23:38,020
+use any framework.
+
+355
+00:23:38,020 --> 00:23:42,820
+I really, my needs are pretty simple, but I would like the linting and all that stuff
+
+356
+00:23:42,820 --> 00:23:43,820
+there.
+
+357
+00:23:43,820 --> 00:23:49,420
+But then the other side that the Project Calaverno project also contains are exactly these things.
+
+358
+00:23:49,420 --> 00:23:54,340
+So it's a basic template of a simple express server.
+
+359
+00:23:54,340 --> 00:23:57,900
+And so if you just want to create an express server, but you don't want to go and set up
+
+360
+00:23:57,900 --> 00:24:03,300
+the app.js and the default basic routes that you'll probably need and helmet to configure
+
+361
+00:24:03,300 --> 00:24:10,460
+security, you could just use the Calavera template and start your project from there.
+
+362
+00:24:10,460 --> 00:24:15,060
+And so you kind of can get the ground running and can get going quicker.
+
+363
+00:24:15,060 --> 00:24:20,420
+But at the same time, it introduces you to existing code.
+
+364
+00:24:20,420 --> 00:24:23,540
+So you might say like, oh, this is cool.
+
+365
+00:24:23,540 --> 00:24:26,000
+What's all these things that I just gave me?
+
+366
+00:24:26,000 --> 00:24:29,300
+And so I work hard on documenting like, this is what it does.
+
+367
+00:24:29,300 --> 00:24:30,300
+These are the things that brings in.
+
+368
+00:24:30,300 --> 00:24:35,940
+This is what each of these individual dependencies do for you.
+
+369
+00:24:35,940 --> 00:24:38,660
+But then people can go back and say, oh, you know what?
+
+370
+00:24:38,660 --> 00:24:43,540
+Actually this thing, I don't even think it should be part of the template or I think
+
+371
+00:24:43,540 --> 00:24:47,780
+this template is missing something or hey, I think you've got behind a little bit.
+
+372
+00:24:47,780 --> 00:24:51,940
+I'm quite good at express and we can improve it this way.
+
+373
+00:24:51,940 --> 00:24:56,300
+Or for new people, it's just, you can read through the code and say, oh, that is how
+
+374
+00:24:56,300 --> 00:25:03,180
+when I enter localhost 3000, it's serving the index pages because I have this get route
+
+375
+00:25:03,180 --> 00:25:05,020
+in this routes.js file.
+
+376
+00:25:05,020 --> 00:25:06,020
+Ah, gotcha.
+
+377
+00:25:06,020 --> 00:25:07,700
+Now I get it.
+
+378
+00:25:07,700 --> 00:25:13,660
+So yeah, I think that template thing you talked about is definitely, definitely key.
+
+379
+00:25:13,660 --> 00:25:15,020
+Absolutely.
+
+380
+00:25:15,020 --> 00:25:19,740
+And I think the other thing that you brought up that's super key about why open source
+
+381
+00:25:19,740 --> 00:25:24,360
+and maybe this is an open source since it really became a much larger thing in sort
+
+382
+00:25:24,360 --> 00:25:26,140
+of the 2000s.
+
+383
+00:25:26,140 --> 00:25:32,400
+But this idea of documentation, even like, even if you go through and do one of these
+
+384
+00:25:32,400 --> 00:25:36,840
+online courses where it's telling you the thing and you do it, once you get the final
+
+385
+00:25:36,840 --> 00:25:41,020
+project, generally it's not including like inline comments, right?
+
+386
+00:25:41,020 --> 00:25:44,620
+Where you're actually like commenting on a method or commenting on a variable to say
+
+387
+00:25:44,620 --> 00:25:46,340
+what this thing is for.
+
+388
+00:25:46,340 --> 00:25:51,260
+I think as soon as you open up your code to the world, it's forced individuals that are
+
+389
+00:25:51,260 --> 00:25:56,700
+either contributing or creating to do a much better job at documenting, same with companies.
+
+390
+00:25:56,700 --> 00:26:03,300
+And that's such a powerful thing for educational situations, learning situations is to be able
+
+391
+00:26:03,300 --> 00:26:08,340
+to go in and almost see line by line and it doesn't fit in every situation.
+
+392
+00:26:08,340 --> 00:26:15,500
+But for so many people to be able to reference back there on a regular basis is such a huge,
+
+393
+00:26:15,500 --> 00:26:17,060
+a huge piece.
+
+394
+00:26:17,060 --> 00:26:22,460
+And I certainly know like the framework that I, so I had programmed in PHP many years ago
+
+395
+00:26:22,460 --> 00:26:25,820
+and then heard it was terrible and moved away and then decided that I was going to build
+
+396
+00:26:25,820 --> 00:26:27,100
+a project in it.
+
+397
+00:26:27,100 --> 00:26:37,180
+But the framework that I chose, I chose specifically because the creator of it has incredible focus
+
+398
+00:26:37,180 --> 00:26:38,420
+on documentation for it.
+
+399
+00:26:38,420 --> 00:26:43,740
+So not only are the docs good, but like you can go into a controller, it's an MVC model.
+
+400
+00:26:43,740 --> 00:26:46,980
+So it's like, you can go into the controller, you can go into like new view and they're
+
+401
+00:26:46,980 --> 00:26:48,900
+all documented just incredibly well.
+
+402
+00:26:48,900 --> 00:26:50,940
+So you don't need to guess about things.
+
+403
+00:26:50,940 --> 00:26:51,940
+It's all provided for you.
+
+404
+00:26:51,940 --> 00:26:57,500
+Yeah, I know for sure, I think Nuxt is the view version.
+
+405
+00:26:57,500 --> 00:27:04,260
+I think Next is the react version, but either way, they let it say it's Nuxt.
+
+406
+00:27:04,260 --> 00:27:09,780
+Like it's so very well-documented because it generates a bunch of boilerplates for you,
+
+407
+00:27:09,780 --> 00:27:10,780
+right?
+
+408
+00:27:10,780 --> 00:27:12,940
+So it generates like folders and inside the folders and stuff.
+
+409
+00:27:12,940 --> 00:27:17,780
+And as you open each folder, there's a read me inside every folder that tells you what
+
+410
+00:27:17,780 --> 00:27:21,640
+the purpose of this folder and what's the purpose of the files in this folder.
+
+411
+00:27:21,640 --> 00:27:23,860
+So there's no guesswork here.
+
+412
+00:27:23,860 --> 00:27:26,580
+It's like, oh, I see.
+
+413
+00:27:26,580 --> 00:27:27,580
+That's what it is.
+
+414
+00:27:27,580 --> 00:27:31,300
+And it will, for example, say like, oh, there isn't, you will say, but wait a minute, there
+
+415
+00:27:31,300 --> 00:27:35,420
+isn't a store directory.
+
+416
+00:27:35,420 --> 00:27:39,620
+And then you'll see there's a read me where you would expect there to be store dot read
+
+417
+00:27:39,620 --> 00:27:40,620
+me.
+
+418
+00:27:40,620 --> 00:27:42,420
+And you're like, open that.
+
+419
+00:27:42,420 --> 00:27:47,540
+The reason there isn't a store is because Nuxt, this is the way the configuration works
+
+420
+00:27:47,540 --> 00:27:49,780
+and it generates the store for you.
+
+421
+00:27:49,780 --> 00:27:53,360
+So you never have to worry about the store and that is why it doesn't exist.
+
+422
+00:27:53,360 --> 00:27:56,220
+I'm really impressed with their documentation.
+
+423
+00:27:56,220 --> 00:28:02,380
+And I think the other side of documentation is opening it up to community for localization.
+
+424
+00:28:02,380 --> 00:28:09,300
+I think I saw a documentary about Vue.js and the creator, Evan Yu.
+
+425
+00:28:09,300 --> 00:28:15,580
+And one of the reasons Vue took off in China so much as opposed to React was literally
+
+426
+00:28:15,580 --> 00:28:20,860
+because Evan is originally Chinese, he lives in the US.
+
+427
+00:28:20,860 --> 00:28:25,940
+But for him, it was important to have the docs available in Chinese from the beginning.
+
+428
+00:28:25,940 --> 00:28:30,660
+And so he opened it up to the community and he did some of the translation himself.
+
+429
+00:28:30,660 --> 00:28:34,980
+And that is the main reason why Vue 1 overreact when it comes to China.
+
+430
+00:28:34,980 --> 00:28:39,160
+Because for the people in China, it was very important to have it available in their language.
+
+431
+00:28:39,160 --> 00:28:44,180
+And so that being there from the get go, over and above the fact that it was really good
+
+432
+00:28:44,180 --> 00:28:48,380
+documentation, the fact that it was available in their language made a big difference.
+
+433
+00:28:48,380 --> 00:28:54,140
+And the more I am involved in communities like Mercedes Network and other larger communities
+
+434
+00:28:54,140 --> 00:29:02,220
+I'm also involved with, I have gained an understanding and a respect for a lot of people that really
+
+435
+00:29:02,220 --> 00:29:04,840
+love their native language.
+
+436
+00:29:04,840 --> 00:29:07,580
+And for them, it's not like I can't speak English.
+
+437
+00:29:07,580 --> 00:29:10,500
+It is really like they have a passion for their language.
+
+438
+00:29:10,500 --> 00:29:12,700
+They have a passion for their culture.
+
+439
+00:29:12,700 --> 00:29:18,820
+And it's important to them to be able to read the content in their language.
+
+440
+00:29:18,820 --> 00:29:21,740
+And we often forget that.
+
+441
+00:29:21,740 --> 00:29:22,740
+It's in English.
+
+442
+00:29:22,740 --> 00:29:23,740
+Everybody can speak English, right?
+
+443
+00:29:23,740 --> 00:29:24,740
+Yeah.
+
+444
+00:29:24,740 --> 00:29:25,740
+It's not just about that.
+
+445
+00:29:25,740 --> 00:29:26,740
+There's more to it.
+
+446
+00:29:26,740 --> 00:29:27,740
+There's more subtleties about it.
+
+447
+00:29:27,740 --> 00:29:31,300
+So I think it's important to encourage that when you run projects.
+
+448
+00:29:31,300 --> 00:29:32,940
+Absolutely.
+
+449
+00:29:32,940 --> 00:29:34,220
+I couldn't agree more.
+
+450
+00:29:34,220 --> 00:29:42,060
+I think we, yeah, it's the simple things that certainly as a native English speaker,
+
+451
+00:29:42,060 --> 00:29:48,180
+I love going into these frameworks and these tools and looking at this code and finding
+
+452
+00:29:48,180 --> 00:29:50,020
+it in my native language.
+
+453
+00:29:50,020 --> 00:29:59,220
+And yeah, I think there's been a really big, maybe not resurgence, or I think a big push
+
+454
+00:29:59,220 --> 00:30:09,060
+around the world with it really focusing more on making accessibility, not just about can
+
+455
+00:30:09,060 --> 00:30:13,900
+people use this, but also can people use it in a way that they feel the most safe and
+
+456
+00:30:13,900 --> 00:30:14,900
+comfortable.
+
+457
+00:30:14,900 --> 00:30:15,900
+Exactly.
+
+458
+00:30:15,900 --> 00:30:16,900
+Exactly.
+
+459
+00:30:16,900 --> 00:30:19,900
+I think the term accessibility is getting a lot of attention and I'm really, really happy
+
+460
+00:30:19,900 --> 00:30:23,300
+about that because that's one of the things that I'm really passionate about.
+
+461
+00:30:23,300 --> 00:30:27,140
+But I think people have also understood that the umbrella that's covered by accessibility
+
+462
+00:30:27,140 --> 00:30:32,100
+is much larger than what people have thought about in the past.
+
+463
+00:30:32,100 --> 00:30:34,500
+But I am super curious about Battlesnake.
+
+464
+00:30:34,500 --> 00:30:37,020
+And the more you talk about it, the more curious I get.
+
+465
+00:30:37,020 --> 00:30:40,940
+So I'm going to like, please tell us more about Battlesnake.
+
+466
+00:30:40,940 --> 00:30:41,940
+Awesome.
+
+467
+00:30:41,940 --> 00:30:42,940
+Yeah.
+
+468
+00:30:42,940 --> 00:30:53,100
+So Battlesnake is a multiplayer programming game where your code is the controller and
+
+469
+00:30:53,100 --> 00:30:59,740
+you are building, basically, fundamentally, you're building a web server to compete in
+
+470
+00:30:59,740 --> 00:31:02,580
+the classic sort of Nokia phone game Snake.
+
+471
+00:31:02,580 --> 00:31:05,500
+Did you ever play that where you sort of the snake goes up and you try and eat and you
+
+472
+00:31:05,500 --> 00:31:07,780
+get longer and you try not to die?
+
+473
+00:31:07,780 --> 00:31:08,780
+Yep.
+
+474
+00:31:08,780 --> 00:31:09,780
+Yep.
+
+475
+00:31:09,780 --> 00:31:10,780
+Yeah, I played that a lot.
+
+476
+00:31:10,780 --> 00:31:11,780
+Yeah.
+
+477
+00:31:11,780 --> 00:31:12,780
+So it's that.
+
+478
+00:31:12,780 --> 00:31:18,580
+But it's now a programming game where folks build out, I guess, at a core level, they're
+
+479
+00:31:18,580 --> 00:31:25,980
+building out an AI snake that's going to compete against other AI snakes to try and win and
+
+480
+00:31:25,980 --> 00:31:30,660
+survive and win prizes or win points or win bragging rights or whatever you're looking
+
+481
+00:31:30,660 --> 00:31:33,900
+to get out of the platform.
+
+482
+00:31:33,900 --> 00:31:43,020
+And so it started out, I think, in the early aughts of the 2000s as a sort of a recruiting
+
+483
+00:31:43,020 --> 00:31:44,020
+event.
+
+484
+00:31:44,020 --> 00:31:48,980
+So it was run by a startup here in Victoria, and they would invite hundreds and what eventually
+
+485
+00:31:48,980 --> 00:31:54,380
+became thousands of developers to come in and basically do a hackathon, but all focused
+
+486
+00:31:54,380 --> 00:32:00,300
+on one specific problem, which was, can you build a snake that can beat the other snakes?
+
+487
+00:32:00,300 --> 00:32:05,580
+And it's since transformed into a global platform, more than 10,000 developers around the world
+
+488
+00:32:05,580 --> 00:32:14,220
+are playing this game right now and really has shifted from a focus on recruiting to
+
+489
+00:32:14,220 --> 00:32:20,500
+providing a really cool sandbox for professional developers to explore new technologies in
+
+490
+00:32:20,500 --> 00:32:25,780
+a way that isn't having them just sort of build out a project that's kind of boring.
+
+491
+00:32:25,780 --> 00:32:28,820
+Yeah, that's super cool.
+
+492
+00:32:28,820 --> 00:32:32,860
+I wonder, I've been seeing like these, I haven't checked on them yet.
+
+493
+00:32:32,860 --> 00:32:38,300
+I don't know why, but anyway, I've been seeing videos pop up in my YouTube recommendations
+
+494
+00:32:38,300 --> 00:32:43,580
+that's around the Nokia snake thing, and now I'm starting to wonder, is this Battlesnake
+
+495
+00:32:43,580 --> 00:32:44,580
+related?
+
+496
+00:32:44,580 --> 00:32:49,300
+So I'm definitely going to click on one of those just after this chat and see if it's
+
+497
+00:32:49,300 --> 00:32:50,300
+all about this.
+
+498
+00:32:50,300 --> 00:32:53,420
+But I'm also going to look at Battlesnake and try and give it a go.
+
+499
+00:32:53,420 --> 00:32:58,140
+So can you kind of create like a little community and say like, we're going to build the Mycelium
+
+500
+00:32:58,140 --> 00:33:01,220
+network snake and see if it can like beat stuff?
+
+501
+00:33:01,220 --> 00:33:03,060
+Yeah, so this is the cool thing.
+
+502
+00:33:03,060 --> 00:33:07,580
+So this is a feature that's like very sort of early days.
+
+503
+00:33:07,580 --> 00:33:10,820
+It's kind of, we've gone through many iterations, but yeah, so we're in the process of building
+
+504
+00:33:10,820 --> 00:33:14,860
+out features where you would have a team and it would basically be, you would sign up for
+
+505
+00:33:14,860 --> 00:33:20,060
+the Mycelium network team and then your snake would be represented as the Mycelium network
+
+506
+00:33:20,060 --> 00:33:21,060
+there.
+
+507
+00:33:21,060 --> 00:33:24,880
+But already, I think we just launched the feature really recently where you can run
+
+508
+00:33:24,880 --> 00:33:29,640
+sort of a Mycelium network tournament where people will build their own snakes and go
+
+509
+00:33:29,640 --> 00:33:34,820
+and build them and then you'll run sort of a small competition and it auto generates
+
+510
+00:33:34,820 --> 00:33:36,700
+the brackets and the ladders.
+
+511
+00:33:36,700 --> 00:33:41,060
+And so basically you just press a button that says play and it'll have these big, the games
+
+512
+00:33:41,060 --> 00:33:44,900
+will show up and it's super exciting to watch.
+
+513
+00:33:44,900 --> 00:33:54,380
+It's one of these situations that is as close to sort of a sporting event for competitive
+
+514
+00:33:54,380 --> 00:33:58,300
+programming or for collaborative programming as you can possibly get.
+
+515
+00:33:58,300 --> 00:34:04,100
+And it's good if you got to – our CEO, our co-founder has young kids and they love
+
+516
+00:34:04,100 --> 00:34:05,780
+tuning in anytime we have a tournament.
+
+517
+00:34:05,780 --> 00:34:09,920
+Because it's just bright colors and fun designs that are going around on the stage
+
+518
+00:34:09,920 --> 00:34:11,880
+or around the screen.
+
+519
+00:34:11,880 --> 00:34:15,020
+But they love it and they're cheering for their favorite snake and hoping that they
+
+520
+00:34:15,020 --> 00:34:16,020
+win.
+
+521
+00:34:16,020 --> 00:34:17,020
+And yeah, it's pretty amazing.
+
+522
+00:34:17,020 --> 00:34:20,420
+That was very much like BattleBots, right?
+
+523
+00:34:20,420 --> 00:34:21,420
+Exactly.
+
+524
+00:34:21,420 --> 00:34:25,940
+I love watching that, where people like build these bots and then they try and destroy the
+
+525
+00:34:25,940 --> 00:34:26,940
+other bot.
+
+526
+00:34:26,940 --> 00:34:27,940
+Exactly, yeah.
+
+527
+00:34:27,940 --> 00:34:30,140
+It's such a nerdy thing, but it's so fun.
+
+528
+00:34:30,140 --> 00:34:31,140
+Totally.
+
+529
+00:34:31,140 --> 00:34:32,140
+And that's just it.
+
+530
+00:34:32,140 --> 00:34:33,140
+It is.
+
+531
+00:34:33,140 --> 00:34:36,460
+And now, that was always for, right, you had to be an electrical engineer or mechanical
+
+532
+00:34:36,460 --> 00:34:38,620
+engineer to build those bots.
+
+533
+00:34:38,620 --> 00:34:43,220
+Now it's like you can be a software developer with a year of experience or one that has
+
+534
+00:34:43,220 --> 00:34:47,400
+10 years of experience, and you can go and build this really cool thing that teaches
+
+535
+00:34:47,400 --> 00:34:55,060
+you a new language or a new technology stack and really do it in a way that you're not
+
+536
+00:34:55,060 --> 00:34:59,580
+just building a project that's going to sit in a repository somewhere and that nobody's
+
+537
+00:34:59,580 --> 00:35:00,780
+going to care about.
+
+538
+00:35:00,780 --> 00:35:05,620
+You're invested in this code that you've created in a way that it's personified.
+
+539
+00:35:05,620 --> 00:35:11,300
+You can add custom skins to it, so you can have heads and tails that are from a big list
+
+540
+00:35:11,300 --> 00:35:15,060
+of customizations, and you can get points to get more of them.
+
+541
+00:35:15,060 --> 00:35:17,260
+Yeah, it's just so exciting.
+
+542
+00:35:17,260 --> 00:35:22,620
+One of the big reasons that that has been super successful is A, open source.
+
+543
+00:35:22,620 --> 00:35:26,600
+Almost all of the platform, all of the key components of it are open source.
+
+544
+00:35:26,600 --> 00:35:32,340
+We have folks contributing to it all the time, but also community has been a massive, massive
+
+545
+00:35:32,340 --> 00:35:37,620
+part of its success of just enabling the community to get in there and get their hands dirty
+
+546
+00:35:37,620 --> 00:35:38,620
+with code.
+
+547
+00:35:38,620 --> 00:35:39,620
+That's awesome.
+
+548
+00:35:39,620 --> 00:35:42,460
+Yeah, I was about to ask about the open source thing, because I remember you mentioned that,
+
+549
+00:35:42,460 --> 00:35:44,060
+and I was like, oh, wow.
+
+550
+00:35:44,060 --> 00:35:49,940
+I guess there's quite a lot of opportunity for folks to also contribute directly to the
+
+551
+00:35:49,940 --> 00:35:50,940
+project.
+
+552
+00:35:50,940 --> 00:35:51,940
+Yeah.
+
+553
+00:35:51,940 --> 00:35:56,540
+I mean, it's even gotten to the point where... We've had open source, and it's tying
+
+554
+00:35:56,540 --> 00:35:58,420
+this back to the documentation piece.
+
+555
+00:35:58,420 --> 00:36:06,380
+We've had a documentation repository forever that was really only managed by our team.
+
+556
+00:36:06,380 --> 00:36:09,540
+We really always wanted community members to join, but then we had a bunch of community
+
+557
+00:36:09,540 --> 00:36:13,200
+members that were like, I'd really like to see this in there, but I don't want to contribute
+
+558
+00:36:13,200 --> 00:36:18,060
+to the official documentation, so they created a separate documentation that we provided
+
+559
+00:36:18,060 --> 00:36:23,820
+support for, and now that's become our official documentation setup.
+
+560
+00:36:23,820 --> 00:36:26,940
+It's a community-led project that we were like, yes, this is the thing that we really
+
+561
+00:36:26,940 --> 00:36:29,540
+want to adopt.
+
+562
+00:36:29,540 --> 00:36:36,100
+That's at this core level now, this code that is such a core piece of what we do is something
+
+563
+00:36:36,100 --> 00:36:38,660
+that our community said, we can do it better.
+
+564
+00:36:38,660 --> 00:36:39,660
+Yeah.
+
+565
+00:36:39,660 --> 00:36:40,660
+Yeah.
+
+566
+00:36:40,660 --> 00:36:42,780
+I mean, that is where diversity comes in, right?
+
+567
+00:36:42,780 --> 00:36:48,220
+Often times, if you open it up to the world and say, poke at our stuff and tell us if
+
+568
+00:36:48,220 --> 00:36:52,460
+you can think of better ways of doing it, more often than not, it does happen.
+
+569
+00:36:52,460 --> 00:36:57,700
+I love the fact that the company was willing to embrace this, because so often, people
+
+570
+00:36:57,700 --> 00:37:01,660
+are very precious about the things they make, if you know what I mean, and so they're like,
+
+571
+00:37:01,660 --> 00:37:02,660
+no, no, no, no, no.
+
+572
+00:37:02,660 --> 00:37:08,380
+They could not possibly be better than what we did, so kudos to the company for adopting
+
+573
+00:37:08,380 --> 00:37:09,380
+this.
+
+574
+00:37:09,380 --> 00:37:10,380
+I think it's amazing.
+
+575
+00:37:10,380 --> 00:37:15,020
+I've had a little poke at your website and LinkedIn and stuff like that, and I'm curious
+
+576
+00:37:15,020 --> 00:37:16,180
+about this one thing.
+
+577
+00:37:16,180 --> 00:37:25,300
+You've written scholarly documents on quantum computing.
+
+578
+00:37:25,300 --> 00:37:27,260
+Do you want to tell us about some of those?
+
+579
+00:37:27,260 --> 00:37:29,540
+You have linked to these citations.
+
+580
+00:37:29,540 --> 00:37:34,660
+I had a friend that worked at a quantum computing company for a little bit.
+
+581
+00:37:34,660 --> 00:37:38,380
+I've listened to the WIRED thing, where they explain it to me like I'm five.
+
+582
+00:37:38,380 --> 00:37:40,900
+I've listened to that, it's fascinating.
+
+583
+00:37:40,900 --> 00:37:45,060
+I still don't think I quite understand it, but I would love to hear your take on it.
+
+584
+00:37:45,060 --> 00:37:46,060
+Absolutely.
+
+585
+00:37:46,060 --> 00:37:53,780
+Yeah, so when I was working with the team that built out the HITECH-U program at the
+
+586
+00:37:53,780 --> 00:38:00,220
+University of Victoria, one of the co-founders and a huge mentor to me, Ulrika Staiga, she
+
+587
+00:38:00,220 --> 00:38:05,020
+was the chair of the computer science department at the University of Victoria at the time,
+
+588
+00:38:05,020 --> 00:38:11,260
+and her and her husband actually, who's also a professor at the University in Software
+
+589
+00:38:11,260 --> 00:38:19,300
+Engineering, have been the quintessential leaders in the space of quantum computing
+
+590
+00:38:19,300 --> 00:38:23,380
+education at the University of Victoria and actually arguably in British Columbia and
+
+591
+00:38:23,380 --> 00:38:25,660
+Canada and North America.
+
+592
+00:38:25,660 --> 00:38:29,800
+One of the key pieces when they were building out that sort of what quantum computing education
+
+593
+00:38:29,800 --> 00:38:34,940
+looks like, which was at a focus on the post-secondary level, was we want to make this accessible
+
+594
+00:38:34,940 --> 00:38:40,580
+for everybody because it's too late if they're in their postdocs to be learning about quantum
+
+595
+00:38:40,580 --> 00:38:41,700
+computing.
+
+596
+00:38:41,700 --> 00:38:45,220
+This is like a hugely up-and-coming field.
+
+597
+00:38:45,220 --> 00:38:51,260
+So yeah, so the initial iteration was we create a play on words, so we did instead of HITECH-U,
+
+598
+00:38:51,260 --> 00:39:01,060
+we called it HITECH-Q, and really focus just on how can we take the core components of
+
+599
+00:39:01,060 --> 00:39:07,180
+quantum computing and make it accessible to a high school student.
+
+600
+00:39:07,180 --> 00:39:16,260
+And so the first year that we ran the workshop, we had some partners from IBM, and we were
+
+601
+00:39:16,260 --> 00:39:22,500
+able to get access to IBM's quantum computing, their actual quantum computer as well as their
+
+602
+00:39:22,500 --> 00:39:28,660
+simulation software, and gave learners this run through.
+
+603
+00:39:28,660 --> 00:39:32,940
+And what's really cool is the focus there was actually to build out a curriculum that
+
+604
+00:39:32,940 --> 00:39:38,100
+again was open source for people to use, where we were testing the waters to see what this
+
+605
+00:39:38,100 --> 00:39:42,360
+looked like at the high school level, and then we published a few papers to then say
+
+606
+00:39:42,360 --> 00:39:44,580
+here's where you can go and do it yourself.
+
+607
+00:39:44,580 --> 00:39:45,580
+Oh, brilliant.
+
+608
+00:39:45,580 --> 00:39:46,580
+Yeah, that's great.
+
+609
+00:39:46,580 --> 00:39:52,420
+I'll definitely close up, and I'm going to read them myself, that's for sure.
+
+610
+00:39:52,420 --> 00:39:56,660
+Another thing that I found that you wrote on this Battlesnake blog actually is deploying
+
+611
+00:39:56,660 --> 00:39:58,940
+web servers for free in 2022.
+
+612
+00:39:58,940 --> 00:40:04,620
+I think this is a key piece that's often missing.
+
+613
+00:40:04,620 --> 00:40:09,100
+A lot of people are like, okay, cool, I understand HTML and CSS, I think I'm starting to get
+
+614
+00:40:09,100 --> 00:40:15,940
+my pictographs JavaScript, but how the heck do I get this on a website?
+
+615
+00:40:15,940 --> 00:40:20,700
+It's cool, I get up, but I want my own URL and things, you want to talk about that a
+
+616
+00:40:20,700 --> 00:40:21,700
+little bit?
+
+617
+00:40:21,700 --> 00:40:23,300
+Oh yeah, absolutely.
+
+618
+00:40:23,300 --> 00:40:29,260
+This is one of these interesting situations that I run into as the non-developer working
+
+619
+00:40:29,260 --> 00:40:35,220
+for developers and doing things that newbies do.
+
+620
+00:40:35,220 --> 00:40:38,700
+There's a really cool initiative that we run through Battlesnake called our Developer
+
+621
+00:40:38,700 --> 00:40:45,900
+Fellowship, which is a program focused on providing support to women and non-binary
+
+622
+00:40:45,900 --> 00:40:50,780
+developers from across Canada who just don't have access to either people or mentorship
+
+623
+00:40:50,780 --> 00:40:52,820
+or resources.
+
+624
+00:40:52,820 --> 00:40:57,700
+Remember that one of the big pieces, super cool initiative, we do it with a bank here
+
+625
+00:40:57,700 --> 00:41:03,520
+in Canada called RBC who are just this spectacular partner for Battlesnake.
+
+626
+00:41:03,520 --> 00:41:06,100
+One of the pieces of that was educational opportunities.
+
+627
+00:41:06,100 --> 00:41:09,580
+I wanted to be able to go in with these developers that were joining and say, here's a bunch
+
+628
+00:41:09,580 --> 00:41:13,700
+of ways that you can deploy a Battlesnake to learn a new technology.
+
+629
+00:41:13,700 --> 00:41:18,740
+I spent a morning and I just went on all these platforms that I basically Googled, how can
+
+630
+00:41:18,740 --> 00:41:24,180
+I do this really fast and for cheap, and then did a timing and then our CEO Brad was like,
+
+631
+00:41:24,180 --> 00:41:30,980
+hey man, you need to do this as a legitimate blog post that you can share out more widely.
+
+632
+00:41:30,980 --> 00:41:37,660
+That queued up a two month journey of me going and finding even more platforms and trying
+
+633
+00:41:37,660 --> 00:41:38,660
+to build this out.
+
+634
+00:41:38,660 --> 00:41:42,820
+It doesn't necessarily look that way in the final blog post, but we've got more.
+
+635
+00:41:42,820 --> 00:41:47,020
+I deployed on about 12 different services and we were like, we're going to start with
+
+636
+00:41:47,020 --> 00:41:50,060
+the five that we have here and then go from there.
+
+637
+00:41:50,060 --> 00:41:52,340
+I don't know.
+
+638
+00:41:52,340 --> 00:41:58,500
+I fully understand, I heard a famous quote once where a person said, it took me four
+
+639
+00:41:58,500 --> 00:42:02,340
+hours to make a 10 minute video, so I totally understand.
+
+640
+00:42:02,340 --> 00:42:03,340
+Absolutely.
+
+641
+00:42:03,340 --> 00:42:07,860
+Yeah, and I mean the focus with this, for anybody that wants to read it, it's really
+
+642
+00:42:07,860 --> 00:42:11,460
+cool if you go to blog.battlesnake.com, it's kind of linked on there.
+
+643
+00:42:11,460 --> 00:42:16,980
+But basically my focus with this was for folks that are at my level or early stage developers
+
+644
+00:42:16,980 --> 00:42:22,460
+that are not able to log into AWS and figure things out or they look at that and then they
+
+645
+00:42:22,460 --> 00:42:28,100
+run away screaming, was to look and find accessible, and I know we're using that word a lot, but
+
+646
+00:42:28,100 --> 00:42:34,780
+I mean accessible for the lay person or the new person to go in and within five minutes
+
+647
+00:42:34,780 --> 00:42:40,820
+ideally get a functional web server out there from an open source GitHub template.
+
+648
+00:42:40,820 --> 00:42:47,780
+And it's funny, so despite the fact that AWS and Azure and GCP kind of have the market
+
+649
+00:42:47,780 --> 00:42:53,460
+share for like large companies that are doing it, there's a lot of these smaller companies
+
+650
+00:42:53,460 --> 00:42:58,380
+that are coming out, especially now that Heroku has decided to remove their free plan in sort
+
+651
+00:42:58,380 --> 00:43:01,020
+of September, October.
+
+652
+00:43:01,020 --> 00:43:04,580
+There's more of these companies that are sort of releasing better free plans for people
+
+653
+00:43:04,580 --> 00:43:06,820
+to get there.
+
+654
+00:43:06,820 --> 00:43:12,220
+And so I got to do like massive shout out, there's a platform that is actually based
+
+655
+00:43:12,220 --> 00:43:16,940
+here in Canada as well, actually here on the West Coast, that is I think fundamentally
+
+656
+00:43:16,940 --> 00:43:21,820
+is a game changer in the open source deployment space called Railway.
+
+657
+00:43:21,820 --> 00:43:27,260
+And it's the most beautiful and smoothest platform that I've ever used.
+
+658
+00:43:27,260 --> 00:43:33,180
+They also include in their, when you're starting a new project with them, you can choose from
+
+659
+00:43:33,180 --> 00:43:38,300
+a bunch of open source projects and when you click deploy, it goes through and reads everything,
+
+660
+00:43:38,300 --> 00:43:44,500
+but it'll deploy the database, it'll deploy your server, it'll give you a public domain.
+
+661
+00:43:44,500 --> 00:43:46,780
+It's all free for like 500 hours a month.
+
+662
+00:43:46,780 --> 00:43:48,980
+So just like super, super cool.
+
+663
+00:43:48,980 --> 00:43:49,980
+Wow.
+
+664
+00:43:49,980 --> 00:43:50,980
+That is really impressive.
+
+665
+00:43:50,980 --> 00:43:52,900
+Yeah, I'll definitely check that out.
+
+666
+00:43:52,900 --> 00:43:58,820
+It's incredible the tooling that's becoming available, honestly, like the ability to just
+
+667
+00:43:58,820 --> 00:44:02,900
+open your browser and like do everything.
+
+668
+00:44:02,900 --> 00:44:05,580
+Like you don't have to even leave your browser.
+
+669
+00:44:05,580 --> 00:44:06,580
+It's super amazing.
+
+670
+00:44:06,580 --> 00:44:13,540
+I don't know if you know about the browser company, they make this browser called Arc.
+
+671
+00:44:13,540 --> 00:44:14,540
+It's pretty new.
+
+672
+00:44:14,540 --> 00:44:21,460
+It's pretty new and it's based on Chromium, but the experience is completely different.
+
+673
+00:44:21,460 --> 00:44:24,220
+Like they're re-envisioning what a browser can be.
+
+674
+00:44:24,220 --> 00:44:27,320
+And I actually had a talk from the CEO the other day about some of the dreams they have
+
+675
+00:44:27,320 --> 00:44:33,740
+for Arc and he sees this is essentially this future where what he calls internet machines
+
+676
+00:44:33,740 --> 00:44:35,300
+are going to become the thing.
+
+677
+00:44:35,300 --> 00:44:38,340
+And it's very Chromebook-y in nature.
+
+678
+00:44:38,340 --> 00:44:45,520
+It's this idea that Arc can be not just your browser, but it's your computer.
+
+679
+00:44:45,520 --> 00:44:51,340
+Because if so many things that you think is application is actually just a web app that's
+
+680
+00:44:51,340 --> 00:44:56,300
+running in Electron or something like that, where it's in the end of the day, it's actually
+
+681
+00:44:56,300 --> 00:44:59,260
+just a browser.
+
+682
+00:44:59,260 --> 00:45:05,980
+And so the idea is that Arc will open up those possibilities and make it like this thing
+
+683
+00:45:05,980 --> 00:45:08,380
+that you just open up and you're like, okay, cool.
+
+684
+00:45:08,380 --> 00:45:10,620
+Open up Arc and the rest of the day you're just marked.
+
+685
+00:45:10,620 --> 00:45:14,580
+And like GitHub has done so much to do this, like getting around GitHub with their command
+
+686
+00:45:14,580 --> 00:45:15,580
+palette.
+
+687
+00:45:15,580 --> 00:45:19,540
+You just need command key on a Mac and it pops open and you're just like, okay, I want
+
+688
+00:45:19,540 --> 00:45:22,940
+to go to this repo, boop, boop, I want to go to that one, command key.
+
+689
+00:45:22,940 --> 00:45:23,940
+You don't even have to click.
+
+690
+00:45:23,940 --> 00:45:25,660
+You can just use the keyboard to get around.
+
+691
+00:45:25,660 --> 00:45:28,900
+You can move files, you can rename files.
+
+692
+00:45:28,900 --> 00:45:34,780
+And then if you really want to do some intricate work, you just open a code space.
+
+693
+00:45:34,780 --> 00:45:39,340
+Now you've got the entire VS code running in your browser with all it's synced with
+
+694
+00:45:39,340 --> 00:45:43,260
+your local VS code so it brings in all your extensions and everything's there.
+
+695
+00:45:43,260 --> 00:45:46,500
+And then you have services like Railway you talked about where you can just say, okay,
+
+696
+00:45:46,500 --> 00:45:51,900
+cool, Railway, take all the stuff I just did and deploy it all, database and all.
+
+697
+00:45:51,900 --> 00:45:52,900
+It's amazing.
+
+698
+00:45:52,900 --> 00:45:58,140
+It is, and you know, there's another one similar to the code spaces.
+
+699
+00:45:58,140 --> 00:46:01,420
+I don't know if you've heard of Gitpod, have you heard of them?
+
+700
+00:46:01,420 --> 00:46:02,420
+I've heard about it.
+
+701
+00:46:02,420 --> 00:46:03,420
+Yeah.
+
+702
+00:46:03,420 --> 00:46:04,420
+Somebody mentioned it to me.
+
+703
+00:46:04,420 --> 00:46:05,420
+I'm still alive.
+
+704
+00:46:05,420 --> 00:46:06,420
+Look at that.
+
+705
+00:46:06,420 --> 00:46:07,420
+Yeah.
+
+706
+00:46:07,420 --> 00:46:10,900
+So it's the same idea as code spaces, but the entire platform, that's all they do is
+
+707
+00:46:10,900 --> 00:46:12,580
+basically just do code spaces.
+
+708
+00:46:12,580 --> 00:46:22,100
+But I've used both when I was setting up during that sort of blog post process, it literally
+
+709
+00:46:22,100 --> 00:46:29,060
+like runs up a full, a full setup for you, including your in web browser in like, I don't
+
+710
+00:46:29,060 --> 00:46:30,860
+know, it was like 20 seconds.
+
+711
+00:46:30,860 --> 00:46:33,720
+It was ridiculously fast.
+
+712
+00:46:33,720 --> 00:46:36,620
+And I was like, I don't know how you're doing this, especially when you're, this is free
+
+713
+00:46:36,620 --> 00:46:41,020
+for a lot of the time, but also it's just so incredible.
+
+714
+00:46:41,020 --> 00:46:45,620
+And it's funny because I've moved, I purchased a secondary device, it was a Chromebook and
+
+715
+00:46:45,620 --> 00:46:50,200
+I've tried to set up local device or set up things on my local device and like use the
+
+716
+00:46:50,200 --> 00:46:53,420
+backend sort of like Linux environment that it gives you.
+
+717
+00:46:53,420 --> 00:46:56,740
+And yeah, I like, I ended up like, you run into so many issues that you're like, can
+
+718
+00:46:56,740 --> 00:46:58,620
+I do this in the browser?
+
+719
+00:46:58,620 --> 00:47:00,580
+And you can, and it's so much easier.
+
+720
+00:47:00,580 --> 00:47:04,100
+You don't need to worry about where, where were your most recent commits if you didn't
+
+721
+00:47:04,100 --> 00:47:08,260
+actually push it up to the, push it up to where you should have pushed it up at the
+
+722
+00:47:08,260 --> 00:47:09,700
+time.
+
+723
+00:47:09,700 --> 00:47:11,940
+It's just all there for you.
+
+724
+00:47:11,940 --> 00:47:17,180
+And I think that's actually, that's a big, for new web developers, folks that are getting
+
+725
+00:47:17,180 --> 00:47:20,540
+into the space, I think that's a game changer.
+
+726
+00:47:20,540 --> 00:47:27,700
+This whole browser based setup, I have a, I have a colleague, I have a colleague that
+
+727
+00:47:27,700 --> 00:47:29,660
+has been a software developer for years.
+
+728
+00:47:29,660 --> 00:47:34,340
+And they, they said to me recently, you know, one of the biggest things that I do with folks
+
+729
+00:47:34,340 --> 00:47:40,060
+that are getting involved in sort of a technology role, or they want to get in there is I will
+
+730
+00:47:40,060 --> 00:47:44,220
+sit down with them for two to three hours and I will just like spend all that time to
+
+731
+00:47:44,220 --> 00:47:47,300
+get them set up with the perfect development environment.
+
+732
+00:47:47,300 --> 00:47:50,900
+Because if they have a terrible experience with getting their dev environment set up,
+
+733
+00:47:50,900 --> 00:47:52,740
+they're going to walk away.
+
+734
+00:47:52,740 --> 00:47:59,740
+And so making that process and getting rid of the, the, the, the barriers that exist
+
+735
+00:47:59,740 --> 00:48:02,500
+there, I think is a huge game changer.
+
+736
+00:48:02,500 --> 00:48:03,500
+Yeah.
+
+737
+00:48:03,500 --> 00:48:08,000
+I'm finding with the people that I have in the community, I'm finding that people on
+
+738
+00:48:08,000 --> 00:48:12,140
+windows machines are especially struggling with this.
+
+739
+00:48:12,140 --> 00:48:18,220
+I mean, kudos to Microsoft for adding like windows subsystem for Linux and making that
+
+740
+00:48:18,220 --> 00:48:20,380
+be more and more seamless.
+
+741
+00:48:20,380 --> 00:48:23,300
+But even with that, it's still really hard.
+
+742
+00:48:23,300 --> 00:48:30,180
+Like if you're not on a Mac or if you're not on Linux, Linux is still tricky, but much,
+
+743
+00:48:30,180 --> 00:48:32,500
+much easier than windows.
+
+744
+00:48:32,500 --> 00:48:36,660
+That's oftentimes what you end up doing most of your day is fighting with your tools.
+
+745
+00:48:36,660 --> 00:48:39,160
+And that's the last thing you want to do.
+
+746
+00:48:39,160 --> 00:48:43,420
+Even as a professional being in the industry for 10 years, 15 years, the last thing you
+
+747
+00:48:43,420 --> 00:48:45,620
+want to do is wake up and fight with your tools.
+
+748
+00:48:45,620 --> 00:48:46,940
+You want to solve problems.
+
+749
+00:48:46,940 --> 00:48:48,900
+You want to be, you know, productive.
+
+750
+00:48:48,900 --> 00:48:52,420
+You don't want to like, ah, I just can't do this thing because VS code is being weird
+
+751
+00:48:52,420 --> 00:48:57,060
+or because for some reason, like MongoDB has just disappeared.
+
+752
+00:48:57,060 --> 00:49:00,480
+Like suddenly I don't have MongoDB anymore.
+
+753
+00:49:00,480 --> 00:49:04,340
+So I think these in browser things that also gives you this ability to create like these
+
+754
+00:49:04,340 --> 00:49:09,020
+dev containers, like you can do in code spaces where basically you open it up and it's like,
+
+755
+00:49:09,020 --> 00:49:12,700
+I'm just going to get everything ready for you because the creator of this code space
+
+756
+00:49:12,700 --> 00:49:14,820
+has already told me what you will need.
+
+757
+00:49:14,820 --> 00:49:16,700
+So I'm going to download all these extensions.
+
+758
+00:49:16,700 --> 00:49:20,860
+I'm going to do all these configurations and you just open a file and start writing code.
+
+759
+00:49:20,860 --> 00:49:25,940
+I think it's, it's definitely like you say, it's, it's a complete game changer.
+
+760
+00:49:25,940 --> 00:49:26,940
+It's funny.
+
+761
+00:49:26,940 --> 00:49:30,660
+So for the, for, for anybody that that's out there that is on windows, I'm a windows developer.
+
+762
+00:49:30,660 --> 00:49:31,660
+I do it there.
+
+763
+00:49:31,660 --> 00:49:33,820
+I struggled for years with this same thing.
+
+764
+00:49:33,820 --> 00:49:40,620
+I found this brilliant piece of software, open source software again called Laragon.
+
+765
+00:49:40,620 --> 00:49:47,800
+And so this is a kind of like a watered down or maybe not watered down based on my understanding
+
+766
+00:49:47,800 --> 00:49:52,260
+of like a local Docker instance, but it's not that it's just an app that runs the web
+
+767
+00:49:52,260 --> 00:49:53,260
+server.
+
+768
+00:49:53,260 --> 00:49:59,900
+It's like a lamp or like WAMP, like those old, those old systems that you had set up,
+
+769
+00:49:59,900 --> 00:50:02,940
+but but it's much more modern.
+
+770
+00:50:02,940 --> 00:50:08,660
+You can, with the click of a button, you can install anything that you want to, even to
+
+771
+00:50:08,660 --> 00:50:14,140
+the point of like publishing or, or getting your app up on ngrok, whereas normally you'd
+
+772
+00:50:14,140 --> 00:50:16,060
+have to go through a bunch of steps in the command line.
+
+773
+00:50:16,060 --> 00:50:19,940
+It's literally just like you right click on the app and then click deploy to the internet
+
+774
+00:50:19,940 --> 00:50:25,660
+and then it'll just like spin up an ngrok URL for you that you're able to use.
+
+775
+00:50:25,660 --> 00:50:28,940
+Just like it was a game changer for me when I discovered it.
+
+776
+00:50:28,940 --> 00:50:30,500
+Oh, that's brilliant.
+
+777
+00:50:30,500 --> 00:50:34,300
+Yeah, I'm definitely going to share that like with everybody.
+
+778
+00:50:34,300 --> 00:50:38,340
+It almost feels like it's almost like, I don't know if you know set up, set up is this thing
+
+779
+00:50:38,340 --> 00:50:44,780
+you get on, on Macs where you pay like $10 a month and then it's got all like these applications
+
+780
+00:50:44,780 --> 00:50:47,060
+that solves all these little problems for you.
+
+781
+00:50:47,060 --> 00:50:51,140
+It's often like indie developers and they've created like this little app that does this
+
+782
+00:50:51,140 --> 00:50:53,460
+one thing really, really well.
+
+783
+00:50:53,460 --> 00:50:57,060
+But there's also like big apps on there that you wouldn't even expect to be on there seeing
+
+784
+00:50:57,060 --> 00:51:01,740
+that you only have $10 a month, but it almost feels like a set up, but for developers.
+
+785
+00:51:01,740 --> 00:51:05,260
+And I think that would actually be super awesome if somebody can create something like that.
+
+786
+00:51:05,260 --> 00:51:11,180
+That's cross platform where you literally say, well, I need a server that can run PHP.
+
+787
+00:51:11,180 --> 00:51:15,100
+I need a MySQL database and I need a VS code thing and I need that.
+
+788
+00:51:15,100 --> 00:51:16,100
+And it just goes cool.
+
+789
+00:51:16,100 --> 00:51:18,940
+Here I go and there's everything for you.
+
+790
+00:51:18,940 --> 00:51:20,740
+That would be amazing.
+
+791
+00:51:20,740 --> 00:51:23,660
+So there's project ideas.
+
+792
+00:51:23,660 --> 00:51:24,660
+I love that.
+
+793
+00:51:24,660 --> 00:51:25,660
+Yeah, yeah.
+
+794
+00:51:25,660 --> 00:51:29,700
+I mean, I totally feel the pain of all those Windows developers out there.
+
+795
+00:51:29,700 --> 00:51:35,860
+And yeah, well, you're talking about having these, again, going back to the browser piece.
+
+796
+00:51:35,860 --> 00:51:42,100
+Say what you want about folks that are not able to set up a local development environment
+
+797
+00:51:42,100 --> 00:51:48,420
+and that may cause challenges for them later on in their career, but especially for early
+
+798
+00:51:48,420 --> 00:51:53,700
+stage folks that are really just needing to get into the code and not fight and not know
+
+799
+00:51:53,700 --> 00:51:56,260
+how to troubleshoot these things.
+
+800
+00:51:56,260 --> 00:52:02,340
+I think there's going to be a big shift in certainly for junior devs especially.
+
+801
+00:52:02,340 --> 00:52:06,940
+Yeah, I completely agree with that.
+
+802
+00:52:06,940 --> 00:52:10,100
+So I want to cycle back into something different that's very, very different to what we've
+
+803
+00:52:10,100 --> 00:52:14,260
+been talking about, but I think it's something to touch on.
+
+804
+00:52:14,260 --> 00:52:17,620
+Seeing that you are kind of, and it's interesting because you're kind of like both sides of
+
+805
+00:52:17,620 --> 00:52:18,620
+the coin.
+
+806
+00:52:18,620 --> 00:52:23,140
+You've been involved with education, but you're also like a web developer still learning the
+
+807
+00:52:23,140 --> 00:52:28,980
+craft and going through interviews and all that kind of good stuff.
+
+808
+00:52:28,980 --> 00:52:32,380
+What are your thoughts around interviews, especially related to the tech industry?
+
+809
+00:52:32,380 --> 00:52:37,780
+I think interviews are generally a challenging thing no matter what the industry, but I want
+
+810
+00:52:37,780 --> 00:52:40,140
+us to kind of focus in on the tech industry.
+
+811
+00:52:40,140 --> 00:52:41,500
+Do you have any thoughts around this topic?
+
+812
+00:52:41,500 --> 00:52:45,380
+I know it's a bit of a hard topic, but anything you want to say?
+
+813
+00:52:45,380 --> 00:52:50,820
+Yeah, so I mean, I guess I come to this from an interesting angle just because even the
+
+814
+00:52:50,820 --> 00:52:57,060
+position that I have with Battlesnake, it wasn't necessarily an interview per se in
+
+815
+00:52:57,060 --> 00:52:58,660
+the traditional way.
+
+816
+00:52:58,660 --> 00:53:04,100
+So the interview that I actually had that kind of got me in there, and I think there's
+
+817
+00:53:04,100 --> 00:53:10,420
+probably some piece of that that people can take away, was the work that I did with HiTechU.
+
+818
+00:53:10,420 --> 00:53:16,460
+So the founder of Battlesnake, which is the company that I work for now, when we were
+
+819
+00:53:16,460 --> 00:53:19,900
+first building up the program, we went and met with I think 30 different tech companies
+
+820
+00:53:19,900 --> 00:53:22,820
+and said, hey, we've got this idea, what do you think about this?
+
+821
+00:53:22,820 --> 00:53:26,060
+And it was generally just a fact-finding mission.
+
+822
+00:53:26,060 --> 00:53:29,780
+And we went and met with this one company and they said, we love this idea, it's fantastic.
+
+823
+00:53:29,780 --> 00:53:32,260
+How much money do you need to make it successful?
+
+824
+00:53:32,260 --> 00:53:37,620
+And we threw out a number that was way too small and he said, add another zero and we'll
+
+825
+00:53:37,620 --> 00:53:39,520
+make that happen.
+
+826
+00:53:39,520 --> 00:53:43,180
+And so through that process, it was a lot of sort of them being really involved and
+
+827
+00:53:43,180 --> 00:53:47,520
+seeing how I worked and the things that I was able to accomplish and to get an idea
+
+828
+00:53:47,520 --> 00:53:52,060
+of who I was as sort of a worker and just a person.
+
+829
+00:53:52,060 --> 00:53:55,340
+And then when the opportunity came that this position became open, it was sort of more
+
+830
+00:53:55,340 --> 00:53:57,060
+of a conversation.
+
+831
+00:53:57,060 --> 00:54:02,100
+So I think while this doesn't tie necessarily directly into the interview, one of the things
+
+832
+00:54:02,100 --> 00:54:07,860
+that I will say is you never know where a job is going to come from, and you never know
+
+833
+00:54:07,860 --> 00:54:11,660
+what is actually an interview that you don't realize.
+
+834
+00:54:11,660 --> 00:54:19,260
+So anytime you're interacting with somebody in the technology industry, I would say from
+
+835
+00:54:19,260 --> 00:54:24,860
+step one, from that cold email that you're sending them to the coffee that you're having
+
+836
+00:54:24,860 --> 00:54:28,300
+with them, all of that is an interview process.
+
+837
+00:54:28,300 --> 00:54:33,060
+And as somebody who has hired a lot of people that are in the technology space, I will also
+
+838
+00:54:33,060 --> 00:54:36,520
+say, interviewing sucks for the interviewer.
+
+839
+00:54:36,520 --> 00:54:44,900
+Interviewing is time consuming, interviewing is stressful, interviewing is oftentimes just
+
+840
+00:54:44,900 --> 00:54:46,960
+not an area of focus for people.
+
+841
+00:54:46,960 --> 00:54:51,000
+So employers really want you to be successful.
+
+842
+00:54:51,000 --> 00:54:55,580
+They're not going into it like, despite the old view of sort of three people sitting on
+
+843
+00:54:55,580 --> 00:55:01,220
+a panel across from you and them sort of challenging you to show that you're worth there.
+
+844
+00:55:01,220 --> 00:55:02,540
+They want you to be successful.
+
+845
+00:55:02,540 --> 00:55:06,300
+By the time you get into the interview, they already like you.
+
+846
+00:55:06,300 --> 00:55:11,500
+It's your job just to sort of show them why and to demonstrate that.
+
+847
+00:55:11,500 --> 00:55:14,740
+Yeah, does that kind of answer that question?
+
+848
+00:55:14,740 --> 00:55:15,740
+Yeah, yeah.
+
+849
+00:55:15,740 --> 00:55:21,620
+And I spoke to somebody during the week for a different recording, a different episode,
+
+850
+00:55:21,620 --> 00:55:26,220
+and they said an interesting thing, which I kind of knew, but I forgot about the fact
+
+851
+00:55:26,220 --> 00:55:28,220
+that that is actually the most important thing.
+
+852
+00:55:28,220 --> 00:55:31,820
+The most important thing almost when you're in an interview is, yeah, sure, your tech
+
+853
+00:55:31,820 --> 00:55:32,940
+skills is important.
+
+854
+00:55:32,940 --> 00:55:37,460
+And some companies focus too heavily on that, especially when they have like all these crazy
+
+855
+00:55:37,460 --> 00:55:43,980
+algorithms and stuff like that and the dreaded whiteboard challenges.
+
+856
+00:55:43,980 --> 00:55:48,460
+But companies that take a different approach to this, a more healthier approach, generally
+
+857
+00:55:48,460 --> 00:55:53,340
+what they want to understand is what value do you bring to the company?
+
+858
+00:55:53,340 --> 00:55:55,360
+And that is what you have to focus on.
+
+859
+00:55:55,360 --> 00:56:00,500
+If they hire you, how will it make their company better?
+
+860
+00:56:00,500 --> 00:56:02,460
+I think that is what they really want, right?
+
+861
+00:56:02,460 --> 00:56:07,460
+Like sure, they know they need another developer because there's a lot of work to do, but what
+
+862
+00:56:07,460 --> 00:56:09,700
+is the value you bring?
+
+863
+00:56:09,700 --> 00:56:13,140
+Is there like something in your background that's really unique?
+
+864
+00:56:13,140 --> 00:56:15,380
+Do you have a unique perspective on the thing?
+
+865
+00:56:15,380 --> 00:56:20,640
+And I think researching the company and therefore not just doing the thing where you just send
+
+866
+00:56:20,640 --> 00:56:25,500
+out resumes to 200 companies and hoping somebody comes back to you, I think you have to instead
+
+867
+00:56:25,500 --> 00:56:29,400
+like really go and do some research about companies that you would be interested in
+
+868
+00:56:29,400 --> 00:56:35,780
+working for and find out what they're talking about, what they're blogging about.
+
+869
+00:56:35,780 --> 00:56:39,020
+And if you have a unique idea, this is the time to bring it up.
+
+870
+00:56:39,020 --> 00:56:40,020
+It's in that interview.
+
+871
+00:56:40,020 --> 00:56:44,620
+Like, so I read this thing that you wrote and I really liked the idea, but I was thinking
+
+872
+00:56:44,620 --> 00:56:46,060
+and I think blah, blah, blah.
+
+873
+00:56:46,060 --> 00:56:50,780
+I think that is the conversations that's going to get you in the door more than just your
+
+874
+00:56:50,780 --> 00:56:53,020
+technical skills by itself.
+
+875
+00:56:53,020 --> 00:56:54,460
+Absolutely.
+
+876
+00:56:54,460 --> 00:56:58,980
+I would say like it's always that last question that is asked by every interviewer everywhere
+
+877
+00:56:58,980 --> 00:57:04,500
+in the world, which is, do you have any questions for us, which is actually like the one that's
+
+878
+00:57:04,500 --> 00:57:10,220
+going to like land you in that job or could just be a thing that you miss out on?
+
+879
+00:57:10,220 --> 00:57:14,860
+It's such a huge opportunity, especially if you're going in and your questions are only
+
+880
+00:57:14,860 --> 00:57:24,860
+around what's the salary like or like what's the like some very low level or just surface
+
+881
+00:57:24,860 --> 00:57:25,860
+level piece.
+
+882
+00:57:25,860 --> 00:57:30,380
+You're actually digging in and being like, so yeah, I saw this post and like, how did
+
+883
+00:57:30,380 --> 00:57:33,460
+you decide that that was the way that you were going to pursue?
+
+884
+00:57:33,460 --> 00:57:35,260
+Like opening the conversation, right?
+
+885
+00:57:35,260 --> 00:57:37,740
+It shows that you're interested in what they're doing.
+
+886
+00:57:37,740 --> 00:57:38,820
+I couldn't agree more.
+
+887
+00:57:38,820 --> 00:57:43,540
+I think there's huge power in a question that seems like it's just a filler.
+
+888
+00:57:43,540 --> 00:57:44,780
+Yeah, for sure.
+
+889
+00:57:44,780 --> 00:57:49,820
+I think that's super important and I think people have the wrong perception of that question.
+
+890
+00:57:49,820 --> 00:57:53,160
+That question isn't just asked.
+
+891
+00:57:53,160 --> 00:58:00,700
+I think that question is asked deliberately to see if you have the confidence to ask questions
+
+892
+00:58:00,700 --> 00:58:03,780
+because I think a lot of people are like, oh, I don't want to waste their time.
+
+893
+00:58:03,780 --> 00:58:05,700
+No, people actually want you.
+
+894
+00:58:05,700 --> 00:58:06,700
+That's critical.
+
+895
+00:58:06,700 --> 00:58:14,380
+I know I've interviewed people for positions and I've almost always had a much better feeling
+
+896
+00:58:14,380 --> 00:58:24,540
+about candidates that had insightful questions and not about how much money or working hours,
+
+897
+00:58:24,540 --> 00:58:28,020
+but more stuff about the culture of the company.
+
+898
+00:58:28,020 --> 00:58:30,740
+How do you work together as a team?
+
+899
+00:58:30,740 --> 00:58:35,380
+What are the goals for the company in the next six months?
+
+900
+00:58:35,380 --> 00:58:41,100
+And then when you tell them the things you can about all these things to have follow-ups,
+
+901
+00:58:41,100 --> 00:58:47,260
+to actually actively listen and then have follow-up questions in the moment.
+
+902
+00:58:47,260 --> 00:58:50,420
+What we're talking now, a lot of this is not rehearsed.
+
+903
+00:58:50,420 --> 00:58:54,500
+I say a thing, you teal from that, I teal from that.
+
+904
+00:58:54,500 --> 00:59:00,920
+I think that is what really gets you in because that creates a human connection with the interviewer.
+
+905
+00:59:00,920 --> 00:59:05,900
+So it becomes less of an interviewer-interviewee and it becomes a conversation between two
+
+906
+00:59:05,900 --> 00:59:08,580
+people that just want to make the company succeed.
+
+907
+00:59:08,580 --> 00:59:11,380
+I think that is something that people forget.
+
+908
+00:59:11,380 --> 00:59:12,380
+Absolutely.
+
+909
+00:59:12,380 --> 00:59:13,380
+Right?
+
+910
+00:59:13,380 --> 00:59:16,060
+I mean, at the end of the day, people that are interviewing, they're interviewing to
+
+911
+00:59:16,060 --> 00:59:18,100
+see if you're a good fit with the team.
+
+912
+00:59:18,100 --> 00:59:21,860
+While that causes, I think, some challenges because in a lot of cases, that means that
+
+913
+00:59:21,860 --> 00:59:28,500
+you end up hiring a lot of people that look the same or think the same way.
+
+914
+00:59:28,500 --> 00:59:32,820
+Going into it, recognizing that really people are wanting to know who you are as a person
+
+915
+00:59:32,820 --> 00:59:35,720
+and not necessarily the things that you've done in the past.
+
+916
+00:59:35,720 --> 00:59:38,500
+It's more about who you are and traits, right?
+
+917
+00:59:38,500 --> 00:59:44,620
+I think, I mean, we talked about problem solving, but things like coachability and teachability
+
+918
+00:59:44,620 --> 00:59:56,060
+and passion for curiosity, if somebody sparks within their conversation that they love learning,
+
+919
+00:59:56,060 --> 01:00:00,180
+that is more powerful to me than if they can solve the most complex problem because there
+
+920
+01:00:00,180 --> 01:00:03,660
+will always be a more complex problem.
+
+921
+01:00:03,660 --> 01:00:09,460
+If you're only worried about being able to demonstrate you can solve it, that's only
+
+922
+01:00:09,460 --> 01:00:10,940
+going to get you so far.
+
+923
+01:00:10,940 --> 01:00:11,940
+Yeah.
+
+924
+01:00:11,940 --> 01:00:12,940
+That's for sure.
+
+925
+01:00:12,940 --> 01:00:13,940
+That's for sure.
+
+926
+01:00:13,940 --> 01:00:14,940
+Yeah.
+
+927
+01:00:14,940 --> 01:00:15,940
+I agree.
+
+928
+01:00:15,940 --> 01:00:19,100
+I think we're an hour in.
+
+929
+01:00:19,100 --> 01:00:20,100
+Wow.
+
+930
+01:00:20,100 --> 01:00:21,100
+I can't believe it.
+
+931
+01:00:21,100 --> 01:00:27,100
+I think I just have maybe one or two more things and then if you have anything also.
+
+932
+01:00:27,100 --> 01:00:33,980
+Talking about when you're not making awesome battle snakes or writing blog posts, what
+
+933
+01:00:33,980 --> 01:00:38,260
+are the things that interest you in this world outside of maybe even outside of tech?
+
+934
+01:00:38,260 --> 01:00:42,380
+I know for a lot of people when you ask that question, they're like, I still do tech stuff
+
+935
+01:00:42,380 --> 01:00:43,700
+for my free time.
+
+936
+01:00:43,700 --> 01:00:44,700
+And that's totally fine.
+
+937
+01:00:44,700 --> 01:00:48,580
+What do you like to do when you're not on the job?
+
+938
+01:00:48,580 --> 01:00:50,060
+Yeah.
+
+939
+01:00:50,060 --> 01:00:51,260
+So I'm kind of there.
+
+940
+01:00:51,260 --> 01:00:52,580
+I'm trying to get away from it.
+
+941
+01:00:52,580 --> 01:01:00,180
+So I guess I've come to the tech industry through a lot of like windy, wavy processes
+
+942
+01:01:00,180 --> 01:01:02,180
+and experiences.
+
+943
+01:01:02,180 --> 01:01:07,340
+So what's interesting is I really only within the past sort of I would say five years have
+
+944
+01:01:07,340 --> 01:01:09,340
+I really been in the technology space.
+
+945
+01:01:09,340 --> 01:01:16,460
+So much of my time up until then was the thing I would do in my spare time was tech stuff.
+
+946
+01:01:16,460 --> 01:01:19,600
+And now I'm kind of getting paid for doing tech related things.
+
+947
+01:01:19,600 --> 01:01:22,760
+And so I still do tech stuff in my spare time.
+
+948
+01:01:22,760 --> 01:01:27,420
+But thankfully, my lovely wife is definitely not that person.
+
+949
+01:01:27,420 --> 01:01:32,660
+She is definitely the outdoor person who enjoys like experience in the world where we live
+
+950
+01:01:32,660 --> 01:01:38,700
+in British Columbia and on Vancouver Island specifically is absolutely gorgeous.
+
+951
+01:01:38,700 --> 01:01:42,580
+So we are one of the things that's a big thing for us is hiking.
+
+952
+01:01:42,580 --> 01:01:48,340
+So we hike and I say this and may regret it, but we hike religiously.
+
+953
+01:01:48,340 --> 01:01:50,140
+And it's just because it happens on Sundays.
+
+954
+01:01:50,140 --> 01:01:51,140
+We do it every Sunday.
+
+955
+01:01:51,140 --> 01:01:52,140
+We'll drive.
+
+956
+01:01:52,140 --> 01:01:54,420
+We'll hike for a couple of hours.
+
+957
+01:01:54,420 --> 01:02:00,460
+And it's such a getting back to like grounding yourself on a weekly basis, especially when
+
+958
+01:02:00,460 --> 01:02:05,640
+you're sitting and staring at a computer screen for many, many hours a day is such a such a
+
+959
+01:02:05,640 --> 01:02:08,640
+powerful thing.
+
+960
+01:02:08,640 --> 01:02:10,540
+And then, yeah, right.
+
+961
+01:02:10,540 --> 01:02:11,540
+And like, what about you?
+
+962
+01:02:11,540 --> 01:02:12,540
+What about you?
+
+963
+01:02:12,540 --> 01:02:16,340
+What do you do in the non in the non tech related time shelf?
+
+964
+01:02:16,340 --> 01:02:21,300
+Pretty much a lot of the same, to be honest, we don't have a ton of hiking things we used
+
+965
+01:02:21,300 --> 01:02:24,220
+to do it and then we kind of like fellow with COVID and stuff like that.
+
+966
+01:02:24,220 --> 01:02:27,420
+We kind of like lost that but we're trying to get back.
+
+967
+01:02:27,420 --> 01:02:30,220
+The problem is we have pets that we'd like to take on a hike.
+
+968
+01:02:30,220 --> 01:02:34,220
+And in South Africa, it's kind of hard to find places that's bed friendly, like if you
+
+969
+01:02:34,220 --> 01:02:36,820
+have a dog that you want to take with stuff like that.
+
+970
+01:02:36,820 --> 01:02:42,220
+So we're currently like actually researching and trying to find places that is dog friendly
+
+971
+01:02:42,220 --> 01:02:44,240
+because we do enjoy that as a family.
+
+972
+01:02:44,240 --> 01:02:46,460
+So that's something that we'd like to do again.
+
+973
+01:02:46,460 --> 01:02:49,060
+But we have a golf course close to us.
+
+974
+01:02:49,060 --> 01:02:51,800
+And they kind of have a walking path there.
+
+975
+01:02:51,800 --> 01:02:52,840
+And that's dog friendly.
+
+976
+01:02:52,840 --> 01:02:55,920
+So that's something that we do like in the week, like maybe you just feel like I need
+
+977
+01:02:55,920 --> 01:03:00,420
+an hour's break and just the kids we take the dogs and we just could take a walk.
+
+978
+01:03:00,420 --> 01:03:03,840
+And it's it's it's amazing what it does to your mental health.
+
+979
+01:03:03,840 --> 01:03:05,820
+Just taking that break.
+
+980
+01:03:05,820 --> 01:03:06,820
+Absolutely.
+
+981
+01:03:06,820 --> 01:03:07,820
+Yeah.
+
+982
+01:03:07,820 --> 01:03:13,520
+And then I guess the other the other thing that the tech the tech fun thing that I do.
+
+983
+01:03:13,520 --> 01:03:19,340
+So so when I was going through teachers college and I did my master's in education as well,
+
+984
+01:03:19,340 --> 01:03:24,380
+and it was specifically focused on sort of like alternative educational assessment of
+
+985
+01:03:24,380 --> 01:03:28,660
+sort of like reimagining what the report card is and how it can help learners.
+
+986
+01:03:28,660 --> 01:03:32,820
+And so when I initially developed it, it was sort of a it was like a form.
+
+987
+01:03:32,820 --> 01:03:34,620
+It was like a rubric.
+
+988
+01:03:34,620 --> 01:03:39,500
+And then I built as part of my my thesis, I ended up building sort of a Google Google
+
+989
+01:03:39,500 --> 01:03:43,940
+Apps app, like basically using the Google Sheets and just sort of building a pseudo
+
+990
+01:03:43,940 --> 01:03:46,220
+database in the background.
+
+991
+01:03:46,220 --> 01:03:50,100
+And then when I was done, I went and pitched it to the school that I'd been working with.
+
+992
+01:03:50,100 --> 01:03:51,860
+And they said, could it have this function?
+
+993
+01:03:51,860 --> 01:03:53,540
+Could you turn it into a web app?
+
+994
+01:03:53,540 --> 01:03:58,100
+And that was a dangerous thing to say, because while I said no, initially, then I was like,
+
+995
+01:03:58,100 --> 01:03:59,100
+could I?
+
+996
+01:03:59,100 --> 01:04:01,580
+I don't know how to do this, but could I?
+
+997
+01:04:01,580 --> 01:04:07,140
+And and and now like a year later, I'm still actively working on it, like in every spare
+
+998
+01:04:07,140 --> 01:04:08,900
+moment that I have.
+
+999
+01:04:08,900 --> 01:04:10,540
+I have that exact same problem.
+
+1000
+01:04:10,540 --> 01:04:16,180
+I constantly maybe I start working at one thing and then I'm like, what if I can do
+
+1001
+01:04:16,180 --> 01:04:17,180
+that?
+
+1002
+01:04:17,180 --> 01:04:18,180
+I can't.
+
+1003
+01:04:18,180 --> 01:04:19,180
+Oh, cool.
+
+1004
+01:04:19,180 --> 01:04:22,020
+And then, oh, but if I can do that, I wonder if I can do that.
+
+1005
+01:04:22,020 --> 01:04:25,540
+And before you know it, it's like three hours later.
+
+1006
+01:04:25,540 --> 01:04:29,620
+And there's like, thing that maybe was at one purpose can now do all these different
+
+1007
+01:04:29,620 --> 01:04:30,620
+things.
+
+1008
+01:04:30,620 --> 01:04:36,620
+And I think that is just that's just the natural curiosity that that is part of the industry.
+
+1009
+01:04:36,620 --> 01:04:37,620
+I so agree.
+
+1010
+01:04:37,620 --> 01:04:41,060
+I feel like that I was talking to somebody yesterday who's a professional software developer
+
+1011
+01:04:41,060 --> 01:04:45,220
+and they were saying the same thing of like, you can do anything like what?
+
+1012
+01:04:45,220 --> 01:04:49,540
+That's the very cool thing about tech is almost anything you can imagine you can do.
+
+1013
+01:04:49,540 --> 01:04:53,340
+The question is, should you should you do it?
+
+1014
+01:04:53,340 --> 01:04:56,260
+But also, like being able to like time box yourself, right?
+
+1015
+01:04:56,260 --> 01:04:57,780
+Put yourself in this time period.
+
+1016
+01:04:57,780 --> 01:05:01,460
+But yeah, like this app, this app started out very simple.
+
+1017
+01:05:01,460 --> 01:05:05,040
+And then as I learn, as you learn more and you discover the features and you actually
+
+1018
+01:05:05,040 --> 01:05:08,540
+start to understand how things work, you're like, OK, I can do this.
+
+1019
+01:05:08,540 --> 01:05:12,300
+But you're just like you said, it's like you're like, I'm going to do this in a half an hour.
+
+1020
+01:05:12,300 --> 01:05:16,300
+Four hours later, as you're like sweating because your problem solving is like not getting
+
+1021
+01:05:16,300 --> 01:05:18,100
+you to the place you need to go.
+
+1022
+01:05:18,100 --> 01:05:24,780
+Again, I'm very glad I have a non sort of tech wife like my partner is just like enjoys
+
+1023
+01:05:24,780 --> 01:05:26,820
+can use computers very well, but is not the developer.
+
+1024
+01:05:26,820 --> 01:05:29,140
+And she's like, you need to walk away from this.
+
+1025
+01:05:29,140 --> 01:05:30,480
+You need to go.
+
+1026
+01:05:30,480 --> 01:05:31,480
+And we need to go for that.
+
+1027
+01:05:31,480 --> 01:05:36,380
+Like, no, for sure, that's super important to have that balance.
+
+1028
+01:05:36,380 --> 01:05:39,780
+It's good if you have somebody that can like literally drag you away from the left and
+
+1029
+01:05:39,780 --> 01:05:41,780
+say, that's enough now.
+
+1030
+01:05:41,780 --> 01:05:43,000
+It's brilliant.
+
+1031
+01:05:43,000 --> 01:05:46,700
+So in closing, is there anything else you'd like to share with us?
+
+1032
+01:05:46,700 --> 01:05:51,420
+Any like putting words, words of wisdom, anything that you'd like to share?
+
+1033
+01:05:51,420 --> 01:05:58,620
+Yeah, so I think my my only words of wisdom that I can provide and this comes from experience
+
+1034
+01:05:58,620 --> 01:06:06,780
+and from talking to a lot of people, be curious, be focused on learning and growing a growth
+
+1035
+01:06:06,780 --> 01:06:12,980
+mindset will bring you farther in not only the technology industry, but any industry.
+
+1036
+01:06:12,980 --> 01:06:17,820
+It's going to make you a massively valuable asset that keeps growing.
+
+1037
+01:06:17,820 --> 01:06:22,620
+And it's going to help you to discover things that you didn't even know about yourself.
+
+1038
+01:06:22,620 --> 01:06:27,020
+And in terms of that growth mindset, don't just let it be about things that you can do.
+
+1039
+01:06:27,020 --> 01:06:31,180
+Let it be about internal growth as well and discovering who you are and things that you
+
+1040
+01:06:31,180 --> 01:06:32,820
+enjoy.
+
+1041
+01:06:32,820 --> 01:06:36,820
+Technology is spectacular, and it can help you do a lot of things for others.
+
+1042
+01:06:36,820 --> 01:06:42,620
+But really take time to focus on yourself and discover, learn more about yourself and
+
+1043
+01:06:42,620 --> 01:06:43,780
+take time there as well.
+
+1044
+01:06:43,780 --> 01:06:47,620
+So grow outwards and also grow inwards.
+
+1045
+01:06:47,620 --> 01:06:49,140
+That is super valuable advice.
+
+1046
+01:06:49,140 --> 01:06:50,140
+Thanks for sharing that.
+
+1047
+01:06:50,140 --> 01:06:51,780
+Well, thank you, Andrew.
+
+1048
+01:06:51,780 --> 01:06:53,460
+This was this was really great.
+
+1049
+01:06:53,460 --> 01:06:58,260
+I mean, it's been added for over an hour and it surely doesn't feel like it.
+
+1050
+01:06:58,260 --> 01:07:02,700
+Thanks so much for taking time on your Friday to speak with me and share all this wonderful
+
+1051
+01:07:02,700 --> 01:07:04,100
+information with our community.
+
+1052
+01:07:04,100 --> 01:07:06,540
+I really, really appreciate it.
+
+1053
+01:07:06,540 --> 01:07:07,540
+Amazing.
+
+1054
+01:07:07,540 --> 01:07:09,460
+And thank you so much for having me.
+
+1055
+01:07:09,460 --> 01:07:15,500
+And thank you to Polywork for having a place that makes these opportunities available.
+
+1056
+01:07:15,500 --> 01:07:20,860
+I think the work that you're doing at Mycelium Network and the community you're building,
+
+1057
+01:07:20,860 --> 01:07:25,340
+this is exactly what the world needs right now, making technology accessible for everybody.
+
+1058
+01:07:25,340 --> 01:07:26,940
+And so thank you so much for having me.
+
+1059
+01:07:26,940 --> 01:07:29,020
+I cannot tell you how much I appreciate it.
+
+1060
+01:07:29,020 --> 01:07:30,020
+You're so welcome.
+
+1061
+01:07:30,020 --> 01:07:31,020
+And thanks for the kind words.
+
+1062
+01:07:31,020 --> 01:07:32,020
+I really appreciate it.
+
+1063
+01:07:32,020 --> 01:07:33,020
+Have a good day, man.
+
+1064
+01:07:33,020 --> 01:07:34,020
+Cheers.
+
+1065
+01:07:34,020 --> 01:07:35,020
+All right, you too.
+
+1066
+01:07:35,020 --> 01:07:36,020
+Bye bye.
+
+1067
+01:07:36,020 --> 01:07:41,020
+Thank you for listening to this episode of the Mycelium Network podcast.
+
+1068
+01:07:41,020 --> 01:07:46,700
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+
+1069
+01:07:46,700 --> 01:07:48,240
+of choice.
+
+1070
+01:07:48,240 --> 01:07:54,020
+This helps others find us and helps us make a better podcast for you on this course.
+
+1071
+01:07:54,020 --> 01:07:59,020
+You can also find and follow us on Twitter at networkmycelium and join the community
+
+1072
+01:07:59,020 --> 01:08:00,020
+on Discord.
+
+1073
+01:08:00,020 --> 01:08:20,540
+All the links are available in the show notes.
+

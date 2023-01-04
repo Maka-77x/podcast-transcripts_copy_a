@@ -1,0 +1,562 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Vinyl.
+Welcome to the Mycelium Network Podcast.
+Thanks so much for joining me.
+Thank you very much for having me.
+It's a pleasure.
+So in the past, I'm learning podcasting as I make these.
+I think it's kind of like how code works, right?
+You learn it as you make things.
+And so in the beginning, I used to always kind of read people's bio out.
+And I thought, nah, that's so been done a million times.
+I want to do something else.
+So what I basically want to do is keep quiet and let you talk.
+So you can go as far back as you want.
+But basically tell us about your story, like who is Vinyl and how did you get to where
+you are today?
+Where are you today?
+And maybe even some things that you are looking forward to in the future?
+Yeah, certainly.
+Oh, gosh, where to start, though?
+Well, I guess I'll start with my name.
+Hi, my name is Vinyl Daigu.
+I am a web developer and web documentation writer for MDN Web Docs as well as Open Web
+Docs.
+Fun fact, I actually started off with a multimedia background not a lot of people know.
+Actually never really got my coding experience from college or any traditional education.
+It was mostly just me playing around my own time with a wonderful private coding tutor.
+And well, here I am now.
+So my background started with doing mostly After Effects type stuff, so film color grading,
+doing animation for big film industries and stuff.
+Not like 3D, more of the 2D visual effects, like adding particles to some sort of wizardry
+show or something like that.
+Also started with doing music as well, like writing soundtracks and orchestral type stuff.
+Oh, wow.
+That is amazing.
+Thank you.
+Is any of that stuff available online?
+Yeah, I've got all of the music that I have written is available on my SoundCloud at soundcloud.com
+slash Queen Guborg.
+It is also available on my YouTube, including my animation works at youtube.com slash Queen
+Guborg, or you can search up my name, Vinyl Daigyu Kazutetsu, and you will find me.
+Oh, awesome.
+I'll share these links.
+I'm really curious about this.
+I'd love to listen to it.
+So talking about that, you do have a very unique name.
+Like I said, it kind of makes me think of artists like Grimes and people like that.
+What is the story behind the name?
+So the first part about it, the vinyl part, mostly comes from the musical experience,
+as I mentioned.
+Most people think that I'm referring to me being like a disc jockey or a DJ, but that's
+not really the same thing as somebody that writes music.
+A DJ is somebody that's mixing existing songs together.
+But I thought about it and the name kind of stuck, so I'm like, eh, vinyl, let's keep
+it.
+That's a very cool name.
+I really like it.
+In preparation for the conversation, I dug through some of your tweets, and I looked
+at some of the websites that you've made and the things you've written, and we've worked
+together.
+Truth be told, we work together almost on a daily basis on MDN and related projects.
+So I also know some things about how you work and the things you do through that, and there's
+some stuff there that I'd like to ask you about a bit later on.
+But before we get to that, I saw a retweet of yours that kind of struck me as well, and
+I know you retweeted it because it struck a chord with you as well.
+The tweet features a graphic, and there's these words that say, the reason why some
+people are so kind is because the world has been so unkind to them, that they don't want
+other people to feel the way they did.
+And for me, I do wish there was more kindness in the world.
+And I think in the last two, three years, everything that's happened in the world and
+continues to happen, there's a feeling of cynicism that is set into a lot of people.
+And it's sad.
+It's hard.
+I mean, I sometimes go through that myself, which I guess is human, but sometimes more
+than I'd like, to always try to find something to make me not give up, essentially.
+But I'd like to hear why that phrase, why that tweet had an impact on you.
+It definitely struck a chord with me, that particular image, and going through the...
+I guess trying to do so many different things, as I have done in the past with the music,
+the animation, trying to get my fingers into so many different things, I've learned all
+about these different communities, how they work, how they operate, the good, and unfortunately,
+the bad as well.
+And I've had a lot of negative experiences in the past with others who have different
+ideas, different mindsets, and quite frankly, different ideas about how to behave towards
+others as well.
+I've been the center of a lot of hate for many different things, one, being a furry,
+two, being transgender, three, just for having my own ideas.
+So I want to be one of those individuals in the world that is not like that.
+I want to be one of the good souls in this world, because I believe that the more that
+we give to help others, the more good we will receive ourselves, and the better the world
+will be.
+Yeah.
+And you're doing a good job at that, by the way.
+I can acknowledge that for one, having worked with you closely.
+So going down the same path and getting a bit more specific maybe, maybe a bit broader,
+I think we can all acknowledge that there are problems in the tech industry.
+Some have gotten better, but it's also maybe not entirely unique to the tech industry.
+Maybe it's more of just the way we work problem, but I personally can only speak to what I've
+experienced, so that is tech, and that is kind of the topic of the podcast and the audience.
+So why do you see as some of the biggest problems in technology, and do you feel free to be
+as broad or narrow as you want?
+I think probably one of the biggest issues that I face on a daily basis is educating
+those to what is available out there for them in terms of technology.
+One of the things I do on the side is computer repair, and as a part of that, a lot of my
+job ends up being teaching others how to use their computer in the first place, or what
+the difference between Google Chrome and Microsoft Edge is, or heck, even the difference between
+left and right mouse click.
+I think that there needs to be more programs out there to teach individuals how to use
+a computer, what a computer is, how it works, also how to avoid scams that are on the computer,
+because the people that don't know how to use a computer as much are the ones that get
+targeted the most, because they don't understand these differences, and I think it would be
+pretty great to see some more government-funded programs and stuff to educate their citizens
+on the 21st century, basically.
+It's kind of strange that if you think about it from a narrow perspective, like somebody
+that's in the tech industry, you completely forget about the fact that there are a lot
+of people that don't know how to use the basic things about a computer.
+One often hears that if you ask somebody, like, what is the internet, they'll tell
+you Facebook, or they'll tell you Google, and that's their concept, that's their understanding
+of what the internet is.
+They don't understand that there's so much more to it than just those two service providers
+or big corporate companies, and then of course, just like you said, the very, very basics
+of, okay, I keep my computers on, now what do I do with this thing?
+A lot of people don't know.
+I think with early-stage web developers, that is the same thing.
+I think once you get to a certain point, you can kind of figure stuff out yourself, and
+you kind of get to know where to find the answers that you're looking for.
+But if you're completely new, I'm not sure we're doing a really good job there of onboarding
+folks.
+I agree with that, and it's quite a challenge to figure out how to write these guides for
+these beginners as well, because us being so experienced with technology and the different
+technologies that are available to us, like being an expert in the field, there are things
+that we just know instinctively at this point, and we kind of forget what people need to
+be taught in that same sense, what they need to learn before they get to the more advanced
+levels.
+Yeah, for sure.
+Like the Massey network, part of, well, I guess the core function or the core reason
+that exists is basically to try and solve this by talking to exactly those people and
+asking them, like, what are your pain points?
+Why?
+Where do you get frustrated?
+And so it's not just understanding why you're getting into tech, but okay, now that you're
+trying to get into it, what is the roadblocks you're facing?
+And oftentimes you think it might be stuff like work experience, and that is definitely
+a problem, or like interviews, or how do I find a job?
+But oftentimes it's more like, no, it's not that, it's, I don't know where to begin, or
+I've started, but now I'm kind of stuck at this point and there's so much information
+and I don't know where to go from here.
+And I kind of end up spinning my wheels and getting a bit demotivated.
+So yeah, I do think there's room here for curation.
+That is what I've learned.
+Not so much creating new content necessarily.
+I think places like MDN and that do a great job of it, but the curation is maybe with
+the missing piece.
+I agree.
+So staying with tweets, another one that caught my eyes is this meme that you tweeted where
+you said like, when explaining to non-developers what you do, this is like a meme that you
+use.
+I found that very interesting.
+Can you maybe, seeing this as a podcast, people can't see the visual, I'll link to it, of
+course, but can you maybe explain the tweet a little bit and like how you use that to
+explain to people what it is you do?
+Yeah, certainly.
+So I always had thought about the big brain, bigger brain, biggest brain meme that you're
+referring to.
+And a lot of times in the past when I tried to explain what I do to others, they wouldn't
+really understand the difference between doing the web development itself versus documenting
+how to write websites and what are the technologies available in these browsers.
+So I always like referred to that meme whenever I would talk about it and say like, it is
+web development related, but what we are doing here at MDN Web Docs is a step beyond that
+because we are teaching others how to write websites, not necessarily writing our own
+websites.
+And I mean, I do do web development still, like I have my own personal website, I have
+the one for my company, I do contract web development for other companies as well.
+But when it comes to what I am contracted to do for MDN Web Docs and Open Web Docs,
+it's not really much to do with the web development itself, more so the teaching others how to
+do it.
+Okay, that's cool.
+Yeah, I think that that is that could be a tricky subject to explain and to really get
+across.
+But I think you did a good job of doing that just now.
+So thank you.
+I still have one one of my family members still thinks that when I say browser compatibility
+data, and I'm talking about the MDN BCD project, they still think to this day, that I am referring
+to writing cross browser compatible websites, and every single time I have to explain, no,
+I'm documenting what web browsers support what features so others are able to do that.
+Yeah.
+So I had this question phrased a little differently in the doc, but now having talked, I'm thinking
+about the phrase a little different.
+You've mentioned that, that, like, you didn't do the traditional like on ramp to getting
+into tech and you come from like a music slash art slash animation background, which I mean,
+if I had a penny for the number of people who've come to take from musicianship, I'd
+be a very rich man at this point.
+Because I myself was a classical guitarist before I got into tech.
+But at some point, you decided that, you know what, I think I'm going to switch to software
+documentation as a career, which is also interesting because not directly web development necessary
+as a career, but documenting the web as you just explained.
+What was it about this stuff?
+Why documentation?
+Why did that get you really excited and make you change careers?
+So I think one of the biggest things, it's kind of in different stages, if I had to say.
+The first stage was attempting to pursue a traditional education for music production
+and music composition and stuff.
+I took college courses for it.
+Honestly speaking, I think that was one of the biggest mistakes that I have made in my
+life, particularly because I don't know if other colleges do this, but for the one that
+I was doing and the classes that I was attending, they were pushing more for quantity and really
+trying to push you to write song after song after song after song.
+That led to pretty much burning me out permanently.
+I was putting so many ideas down in such a short amount of time, it was like two months,
+three months, and I had written maybe 20, maybe 30 different pieces.
+At that point, I was just burnt out and I couldn't think about any other ideas for my
+own projects, for anyone else's projects.
+So after that, I kind of put that to halt and started focusing more on the animation
+side of things, so the music visualizers, the light shows type stuff.
+That was pretty fun, but I was quickly getting frustrated with my computer crashing a bunch
+on me and the software crashing and taking so long to render because I was doing all
+this complicated stuff, the computer was like, whoa, there, I got to process this.
+Really considering the fact I was rendering out 4K videos and 4K at 60 frames a second
+before anybody else on YouTube did.
+Most people were still doing the standard full HD 1080p at 30 frames a second.
+Me, I wanted to get a head start on the future of videos and stuff, especially because I
+noticed that rendering it out in 4K, there's a lot more information for the computer to
+downscale to 1080p and the images would look a lot crisper, they'd look a lot smoother
+and stuff.
+But after a while, I was doing that and I was doing the visualizers for a EDM promotional
+channel on YouTube, which that was going pretty good for quite some time.
+But unfortunately, as I started to get more and more of a bigger role in that, turns out
+my interests in music don't really align with the majority of EDM listeners' preferences,
+so it ended up causing the channel to lose subscriptions and stuff and then people started
+hating me for that and eventually I was like, okay, you know what?
+I give up on this, I'm done, I'm gonna go ahead and move on to something that's probably
+a little bad for my skillset.
+So I was looking around for software development stuff, for web development things.
+I stumbled across the BCD project and saw that I was looking for some help, so I started
+to do some pull requests for it, really get into that.
+Eventually I started enjoying it more and more until that became like my full-time project,
+like I was working on that almost 24-7.
+In the end, I grew in a heavy appreciation for documenting the World Wide Web and creating
+resources for others to learn upon, and something clicked in me at that time.
+I thought, hey, this is really awesome, being able to provide resources for others to improve
+their stuff.
+This is really amazing and a wonderful goal and I want to be a part of that.
+I want to help improve the world for the better.
+Yeah, those are all great missions to have.
+I share the same thing, that's for sure.
+So that is super interesting.
+So how do you counteract or try and prevent burnout in this new career?
+The reason I asked that is because working with you, you're super productive.
+You get things done really fast and really well.
+So is this just pure enthusiasm, or do you have specific techniques you can share with
+everybody?
+And then how do you ensure that you don't burn out in this new career?
+First of all, it means a lot to me to hear those words.
+I really appreciate hearing that.
+I would say probably one of the most helpful things is not just working on a single project
+all the time.
+Because if you're doing the exact same thing over and over and over again, eventually it's
+going to wear you out, you're going to get tired of it, you're going to get sick of it,
+and if you continue, you're eventually going to get completely burnt out.
+So for me, what I do is I switch between different projects a lot.
+I'm still sticking with mostly the projects within the MDN Web Docs repositories and stuff,
+but I'm working on the BCD project, I'm working on some content eventually, then I'm working
+on the core engine for MDN Web Docs, and then I'm working on one of the aspects for the
+interactive examples that you see, and then switching back and forth between them, then
+spending some time on my own personal projects like my company website.
+So I think probably the most helpful thing is not sticking to just one thing at a time,
+but switching between them and trying different things.
+So that way you're always switching to something new, something fresh, and keeping the cycle
+of fresh content.
+Yeah, makes sense.
+I also think that's one of the reasons I like the idea of open source.
+One of many is this freedom to move between projects and also your own stuff, scratching
+your own itch and all that.
+Because I did do the corporate thing in the beginning of my career, and that was not a
+good fit for me at all.
+Getting up every day to build some back-end administrative console for some big mobile
+company was just like, there's nothing here that means anything to me.
+And then the working environment, like the company culture, was not great, so that doesn't
+help.
+You don't even have the people that you stay for.
+So yeah, when I got into open source and when I started contracting with Mozilla about 11
+years ago, I saw a whole new world for sure, and I can't see myself moving out of that
+world ever, ever again.
+So I get that.
+I think of what they say, variety is the spice of life.
+So I guess it's very true when it comes to coding as well and preventing burnout.
+So that leads me to one question, and I'm going to push that one down the road a little
+bit and just step back a little.
+You gave some advice that I think is very good, where it's like, don't spend all your
+time on a single thing, try different things because that keeps things interesting.
+But beyond that, is there any advice you can share for early-stage web developers that's
+starting their journey?
+In this, to be honest, fast-paced industry, I'm sorry, I'm going a little bit over the
+place with my brain keeps thinking things that you said that I wanted to get back to.
+Because the stuff that you talked about with the music industry, I think that industry
+is rough.
+I think it's very, very, very demanding.
+And I think it's because it's become like a kind of sausage factory.
+It just has to keep pumping out more and more and more, and the faster the better, the more
+money there is to do.
+And I think that's one of the things I like more about open source versus corporate environments,
+is that because there's more meaning to the work, I think people take a little bit more
+time to consider how they do things and whether they should do things.
+But yeah, coming back to what I wanted to ask you is, what advice do you have for early-stage
+web developers that's just getting into this industry?
+That's a really good question.
+I would have to say one of the most impactful statements of advice that I would give to
+an early web developer is don't give up.
+As an early programmer, as an early software developer or web developer, you're going to
+run into issues left and right.
+There's always going to be some problem that's going to arise and you're going to have to
+solve it.
+I believe that failure is not the end, but rather a path to success and a learning experience.
+So if something's got you stumped, don't give up, maybe take a step back for a little
+bit and then come back to it with fresh eyes.
+Or if you're really stumped, there's so many great resources online, like Stack Overflow,
+for example.
+You can ask basically any software development question and there are so many people who
+will jump right onto the question and answer it for you.
+Or most likely, if you're having an issue, your question has already been answered and
+there are existing Stack Overflow or Reddit posts that answer the question with so many
+different users giving really wonderful advice on those platforms.
+So don't get discouraged, don't give up, keep pushing forward and you will reach your
+goals eventually.
+So interesting you mentioned Reddit, I'm slowly using it again.
+How do you find Reddit as a platform?
+Do you find it like being inviting and good for tech in general, but then also maybe new
+folks?
+I would say it depends on which communities on Reddit you go to.
+There are some pretty amazing communities that are on Reddit that are actually really
+inviting and welcoming.
+And then there's the ones that are kind of like, oh, you're a person, well, screw you,
+you're a crap stain on society.
+I think just like anywhere on the internet, I would say, it depends on where you go.
+There are going to be the bad apples out there, but there's also a lot of good apples if you
+look in the right places.
+Yeah, do you have any subreddits that you can recommend?
+That's a good question, r slash JavaScript, I guess, would be one.
+I don't really go on Reddit that much myself, but most of the time that I go on Reddit is
+when I'm Google searching something and that's what comes up in the Google search results.
+Yeah, it shows you how different our search results are tailored based on our usage, because
+I always never get Reddit in my search results when I search for stuff.
+So I think r slash Python, so yeah, r slash Python.
+Hot topic, like or dislike TypeScript and how early do you think web developer should start
+paying attention to it?
+Oh, this is a definitely a hot take.
+I personally despise JavaScript, not JavaScript.
+I personally despise TypeScript.
+I like the concept behind it of having type checking for all of your variables to make
+sure that you're sending nothing but exactly the types of inputs that you want and preparing
+for those.
+However, I think that there is a lot with TypeScript that really needs to be overhauled
+and fixed and seeing the development stages for TypeScript or really any of the Microsoft
+owned projects, I highly doubt that they're ever really going to get fixed.
+What I would personally like to see is a TypeScript alternative, like a new project that introduces
+the same things that TypeScript does, but in a much better developer friendly way.
+Yeah, so I don't know if I dreamt this or if this is a thing, but I've mentioned it
+to somebody else as well.
+I heard that Microsoft made a proposal to bring types to JavaScript.
+Does that ring a bell?
+I have not heard about this.
+The tricky thing, of course, with anything you want to do to JavaScript is you have to
+always make sure it's backwards compatible.
+You can't just turn JavaScript into a typed language because 90% of the internet will
+break.
+I don't know if they want to do this in the form of annotations or exactly what, and maybe
+this is something I thought I heard and I didn't, but I'm pretty sure that there was
+this talk that Microsoft has proposed this to TC39 and that it's in discussion about
+whether that's a good idea.
+I spoke to somebody earlier today and it'll have to be really well thought out.
+Maybe this is the opportunity that you're mentioning to rethink how it's done and do
+it better.
+I do worry about if this would present a barrier to people new to the web because currently
+while making a website isn't the most complicated thing, it's not easy either, especially if
+you want to do it well.
+I think all the technologies are really approachable and you can get quite far even if you don't
+know all the ins and outs of it.
+I don't know if bringing typing to JavaScript would cause a bigger barrier to entry.
+I see that there is a Microsoft dev blog post about this proposal from March 9th and what
+I'm seeing here, if I'm reading this correctly, is that it would be bringing type definitions
+to JavaScript but not necessarily require the type definitions.
+If that's the case, then I would be for this because I think that one of the biggest barriers
+with TypeScript itself is the fact that you have to go all or nothing with TypeScript.
+You either do all type checking or you don't bother with TypeScript at all.
+If JavaScript is kept backwards compatible in this sense where you can specify types
+as you desire rather than having to specify all of the different types, then I think that
+this proposal would actually be pretty helpful for the future of the World Wide Web.
+That's cool.
+That's an interesting take.
+Like I said, I think maybe this is that opportunity where they can do it, they can improve and
+take all the learnings that they've had with TypeScript because I have a love-age relationship
+with it.
+When you don't have to fight it, it's super useful, but I do find that oftentimes I feel
+like I could have done something much, much faster if I didn't have to fight TypeScript.
+That is especially true when it comes to DOM elements.
+TypeScript don't seem to play very well with these things.
+If you have an event and it's like it could be a button but it could also have come from
+a link or it could have come from this, then typing starts to get pretty tricky.
+Sometimes it throws up the weirdest errors about stuff like, oh, this thing could potentially
+be null, but it's like, yeah, I guess, but I know that it never will be or this piece
+of code wouldn't have run at all.
+I definitely have a love-age relationship with it.
+My personal opinion around that always has been I can see the value of it when you're
+writing an API.
+I'm not so sold on it when you just use it for good old front-end development.
+I'm not sure how much value it adds there.
+I agree.
+This was the exact same response that I had given to one of my old contracts when they
+had asked if they should migrate over to TypeScript for their front-end.
+They were asking me what I thought the upsides and downsides would be for it.
+My response was pretty much exactly the same.
+There's no real reason to migrate your front-end to TypeScript.
+The back-end, yeah, totally.
+It actually does provide some benefits for the back-end, but the front-end, just leave
+it as pure JavaScript.
+Yeah.
+I think we're talking the same language there for sure.
+You've alluded to this before, but I want to bring it up.
+You are the founder of Guborg Studios, and when I looked into it a little more, I learned
+about Gufont and GooIcons, and the GooIcons are really cool.
+I really like them a lot.
+Can you tell us a little bit more about Guborg Studios and then these other two tangentially
+related projects?
+Yeah, certainly.
+Guborg Studios had basically been my dream company for probably over a decade, maybe
+a decade and a half, and I wanted to create this company that brings a bunch of different
+kinds of artists, software developers, translators, et cetera, together under one roof so that
+we can create these amazing projects together.
+It actually started off as an idea for this one anime series that I wanted to do, which
+later turned into the idea for a video game, which later turned into, well, just sitting
+on my old MacBook back at home.
+I really like that idea, because I myself am building a company, and the thing that
+I didn't want it to be is yet another agency, and it's by some way or shape or form, it's
+going to turn into that, and I'm not happy with it, and I want to now reevaluate everything
+and change the direction, but I really like the idea of this multi-disciplinary kind of
+approach where you're doing all these different creative things and you bring it together,
+because I can just imagine the amazing things that can come out of that.
+Are there any specific projects that the studio has built that you'd like to call out and
+talk about?
+Yeah, certainly.
+I guess two of the big ones would be actually the two that you had mentioned, the goo font
+and the goo icons.
+Those projects started off as a project for our internal design and our outward appearance
+and such, because as the name implies, the goo theme is our biggest thing.
+That's the base of the entire company.
+Making a font that's based upon this and then web icons that are based upon this is primarily
+directed at improving the look and the feel of our own website, but of course, why make
+something that's just for ourselves when we can make it available to others?
+I decided the goo icons themselves, I would make a free accessible web font that anybody
+can download and use on their own websites with, of course, the ability to request new
+icons to be added.
+Then the goo font and other related fonts would be available for just $15 for both commercial
+and non-commercial with continuous implementation of new Unicode blocks for additional language
+support.
+We're currently working on Chinese and Japanese as our next ones, which I found to be...
+You immediately know what I'm talking about.
+I was severely underestimating the number of characters and how big of a dent my wallet
+would have.
+That is very interesting.
+I've toyed with the idea of creating a typeface because I find typography fascinating myself
+also, but having looked into it, it's like I really need to set some time aside to really
+understand this whole artistry of creating typefaces.
+It's fascinating.
+For now, I'll just enjoy the beautiful ones that exist and try and make something useful
+with them.
+Maybe one day I'll explore making my own.
+I know you're heavily involved in open source in general, from what I can tell anyway.
+What do you see the role of open source in education, but then also in making a better
+web?
+I think having open technologies and open standards means that everyone is able to utilize
+these to improve their own projects.
+If they're improving their own projects, it's providing resources to help others improve
+their own projects and so on and so forth, eventually improving the entire world as we
+know it.
+I think it's a very powerful community and just helps improve the world overall.
+There are problems inherent in open source, but they are being talked about much more
+now.
+There's accessibility, where for the longest time, it was something that was tacked on
+at the end and it's become front and center now and it's really great to see that.
+I think in the same fashion, open source has had inherent problems that everybody acknowledged,
+but not in the open.
+If you had a bunch of maintainers in the room, it would be clear that there's a problem.
+If you looked at it from the outside, you would not see the problem necessarily.
+It's multifaceted.
+Some of it has to do with people feeling entitled to demand certain things from people who run
+open source projects and it's like, are you being serious?
+This thing is for free, even contribute, chill out.
+And just the mere fact that the whole thing of giving away everything for free, while
+it's wonderful and all of that, it can only go so far until you really need to understand
+that these are actual human beings with real lives trying to make great software products
+and sustain themselves and it's not very scalable, as they say, to do this for free.
+There needs to be some kind of model that gives you the ability to also have a life.
+Even if you write the greatest open source project in the world, if you have to pay your
+mortgage, they're not going to care about that if you don't have money to pay.
+Exactly.
+I think that's one of the biggest benefits of platforms like the Open Collective, for
+example, allowing donors or sorry, donators like individuals and big companies to contribute
+financially to these projects to sustain their development and to sustain those behind the
+development as well.
+And I think it's an amazing thing to see all of these users and big companies as well
+that are so willing to drop huge amounts either individually or collectively to sustain the
+development of these open source projects.
+It goes to show that they really enjoy these projects and they want to see them continue.
+Yeah.
+I mean, I can't think of one massive web service, whatever you want to call it, website that
+does not heavily rely on open source and who can honestly not say that their success is
+because of open source.
+Like a lot of the things that seem to come overnight, the ability to build things so
+fast is because there's so many building blocks you just have to compose together that are
+open and free.
+I actually just had one more thing in closing and that is just like, what do you enjoy doing
+when the internet doesn't work so well?
+It's kind of hard to say, honestly.
+I guess there is one thing that I do enjoy doing offline and that would actually have
+to be geocaching.
+I think that geocaching is a great way to explore different cities or even different
+countries or different locations altogether to experience its most beautiful locations,
+I would say.
+I enjoy going out and hunting for different geocaches and such.
+There's also the geocaching puzzles and we're a really big puzzle fan.
+So typically speaking, whenever I'm going out on vacation or really just traveling to
+anywhere else, I'll pop up in the geocaching app, look for some that are in my area, and
+go and find them.
+That is super interesting and I'm going to be honest inside and have a clue what geocaching
+is.
+What is that?
+It sounds super interesting.
+Yeah, so geocaching is, in a nutshell, it's a worldwide treasure hunt.
+There are so many different users on the geocaching platform that will hide different containers
+that contain a couple of little trinkets, a little bit of toys or coins or different
+trackable tokens that you can take with you, and then a paper logbook.
+The paper logbook is for different hunters, finders, to sign when they have found the
+container.
+So to say, I have been here, I have found this hidden geocache, and then move on to
+the next one.
+One of the biggest things with geocaching is it's all about the hunt.
+It's all about finding these different containers, which can be hidden in pretty easy locations
+like inside of a telephone pole or maybe at the trunk of a tree.
+Some of them can have very intricate hiding spots like this, one of my favorite ones,
+like a gnome statue that it was hidden in.
+Wow, that is super interesting.
+Yeah, I had no idea.
+I'm definitely going to search a bit more about this and learn more about it.
+I wonder if that's going on here in South Africa as well.
+It'd be interesting to see.
+What's going on in the United States, Canada, Europe, Japan, South Africa as well.
+You can pretty much find a geocache anywhere that you are.
+You can learn more at geocaching.com as well, not sponsored.
+Thanks so much, Vinyl, for joining me for this chat.
+It was really good.
+I learned so much more about you that I had no idea about, and that's always great.
+Thank you for joining.
+Have a lovely rest of your day and a great weekend, and I'll speak to you soon.
+Yeah, thank you very much for having me.
+This was a pleasure.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star, and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter, at NetworkMySenior, and join the community
+on Discord.
+All the links are available in the show notes.

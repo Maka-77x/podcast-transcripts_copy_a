@@ -1,0 +1,1523 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+
+00:06.640 --> 00:09.840
+and the mentors and teachers that help them along the way.
+
+00:09.840 --> 00:13.520
+Hey Pamela, welcome to the Mycelium Network Podcast.
+
+00:14.160 --> 00:16.480
+Hi, thank you so much for inviting me.
+
+00:16.480 --> 00:19.760
+It's a pleasure. How's your day been so far?
+
+00:20.560 --> 00:25.920
+Pretty good. Still short because I'm on Pacific time, so the day hasn't been that long.
+
+00:25.920 --> 00:29.520
+Oh, that's right. That's very true. That's very true.
+
+00:29.520 --> 00:33.120
+For me, it's like 9 p.m. so I'm completely thinking differently.
+
+00:34.960 --> 00:41.440
+So I found you when I reached out on Polywork and asked for people that are interested in
+
+00:41.440 --> 00:44.880
+talking on this podcast. When this podcast was still just an idea in my head,
+
+00:45.600 --> 00:51.280
+now we've like released five episodes. But your story was really interesting and I thought,
+
+00:51.280 --> 00:56.000
+yeah, I definitely need to get you on the podcast. We need like back and forth a little bit and now
+
+00:56.000 --> 01:01.520
+eventually we've made it. What I'd like to start off with is if you can tell us a bit about your
+
+01:01.520 --> 01:07.920
+journey. Where did you start? How did you get to be on today? Yeah, it still goes far back in history
+
+01:07.920 --> 01:14.720
+as you'd like. Sure. Well, I've always been technologically inclined, if you want to call
+
+01:14.720 --> 01:20.880
+it that way, because I'm from the generation that when I was born, there was no computers.
+
+01:20.880 --> 01:29.920
+And then when I was a teenager, there was this big boom of computers, but you could not get anything
+
+01:29.920 --> 01:36.240
+on the web unless you knew how to code because it was still the time of the angel fire websites.
+
+01:37.120 --> 01:46.080
+So I got through there when I was 14 and that sort of got me started and got me to know what I was
+
+01:46.080 --> 01:51.360
+going to do with my life in general, because I was so interested in that part of the new world.
+
+01:53.200 --> 02:00.000
+I went into engineering, of course, but I hadn't considered mentoring until late in my career. Well,
+
+02:00.000 --> 02:07.680
+not in my career, but in my college education, reaching out and needing credits to graduate.
+
+02:07.680 --> 02:14.000
+They said it was easy to get credits if you taught adults how to use computers. It was not easy at
+
+02:14.000 --> 02:23.040
+all because I had to explain a lot of terminology that I had given for granted. You could not tell
+
+02:23.040 --> 02:29.200
+these people click on the icon because you were speaking Japanese to them. It taught me patience
+
+02:29.200 --> 02:37.200
+and it taught me to look at things always from different points of view, not just my own. So that
+
+02:37.200 --> 02:43.200
+helped me a lot to graduate, not just with my technical skills, but thinking about the people
+
+02:43.200 --> 02:49.280
+that I was interacting with because the fact that someone doesn't know something doesn't make them
+
+02:49.280 --> 02:54.400
+stupid. It just makes them different to you with a different background, a very different background
+
+02:54.400 --> 03:02.880
+sometimes. And I really enjoyed that part, like helping people because going, actually going into
+
+03:02.880 --> 03:09.600
+work, I found out that's not the case. A lot of people don't want to help you, just want to
+
+03:09.600 --> 03:16.080
+advance their own careers. And I think that's a very important thing for everyone to consider
+
+03:16.080 --> 03:23.920
+when they start any career, like helping around you. So I know that you've been involved with
+
+03:23.920 --> 03:32.800
+a whole bunch of, let's say, community building and community involvement, especially with
+
+03:32.800 --> 03:38.320
+female coders. Do you want to tell us a little bit about some of these initiatives that you've
+
+03:38.320 --> 03:48.320
+started, joined and are currently involved with? Sure. It started a bit personally for me because
+
+03:48.320 --> 03:54.720
+a lot of people tried to dissuade me from studying engineering. A lot of people around me were like,
+
+03:54.720 --> 04:01.440
+but it's for men. And at the time I didn't find it offensive or anything. I was genuinely scared.
+
+04:01.440 --> 04:06.480
+I was genuinely scared about it, but my parents were very supportive. That's why I
+
+04:06.480 --> 04:12.080
+still went into engineering. But I didn't think about that until I graduated. I mean,
+
+04:12.080 --> 04:18.320
+when I was studying, because I was one of two women in my generation of 30 people,
+
+04:19.040 --> 04:24.640
+but after I graduated, it really started manifesting itself because in college,
+
+04:24.640 --> 04:31.840
+no one was really mean to me because of me being a woman. But after college, that's when the
+
+04:32.560 --> 04:40.320
+hard stuff actually started coming. And I started wondering how I could do something about it, like
+
+04:40.960 --> 04:46.400
+not change things per se, because that's a difficult thing to do on the get-go,
+
+04:46.960 --> 04:53.760
+but actually helping people like me just not feel alone because me being the only one of two women
+
+04:53.760 --> 05:01.200
+in college started repeating itself in all of my jobs afterwards. Like I was the only woman in the
+
+05:01.200 --> 05:07.520
+team. I was the only woman in management and stuff like that. And I was like, I cannot be the only
+
+05:07.520 --> 05:18.480
+woman all around, but we are all feeling that way. So I was first invited to another event that had
+
+05:18.480 --> 05:25.360
+nothing to do with women in tech specifically, but was organized by the chapter of women who called
+
+05:26.240 --> 05:32.800
+in the state that invited me. And I was like, oh, this is a great idea. Like women who called,
+
+05:32.800 --> 05:39.280
+I'm going to join the one back home. I thought there was one back home because my city was so
+
+05:39.280 --> 05:45.760
+much bigger than theirs, but there wasn't. And I was like, this is embarrassing. We're one of the
+
+05:45.760 --> 05:54.400
+biggest cities in Mexico and we don't have what this little city in the coast has. So I said to
+
+05:54.400 --> 06:01.360
+doing it myself because I had to correct that. And that's how I started looking for women that
+
+06:01.360 --> 06:08.640
+were interested in doing this because I couldn't do it alone. And that's how we started the
+
+06:08.640 --> 06:15.920
+community. And it's now been, I think, like seven years and it's still growing, even though I moved
+
+06:15.920 --> 06:24.000
+out of Mexico, but I gave it to someone else and they are still going strong, which I'm glad about
+
+06:24.000 --> 06:30.240
+because in the first two or three years, if me or my co-director just got out of it, it would have
+
+06:30.240 --> 06:38.960
+died. But now it's so strong that it's self-standing and it's a good thing. And the main thing, we
+
+06:38.960 --> 06:45.200
+thought we were going to be teaching new stuff to women, but the main thing was just giving
+
+06:45.200 --> 06:51.520
+visibility to the women that were actually working. They all had the same story. I'm the only one
+
+06:51.520 --> 06:56.960
+where I am, but I see that you are all the only ones, so we're not alone.
+
+06:56.960 --> 07:07.120
+Yeah. That's interesting. I've heard about this. Interestingly, I've spoken to a couple of people
+
+07:07.120 --> 07:13.760
+before in one of the other podcasts and they had a very pleasant experience. And I was surprised by
+
+07:13.760 --> 07:20.720
+that because it was also a female because I've heard about this under-representation and about
+
+07:20.720 --> 07:27.520
+Twitter, for example, being very toxic for women in tech and that kind of thing. So I'm not
+
+07:27.520 --> 07:36.080
+surprised by what you said, but I am sad about it. Do you? So I think I want to dig into that a
+
+07:36.080 --> 07:44.240
+little bit. So for one thing, and answer this in any order that you feel is appropriate. So for one
+
+07:44.240 --> 07:50.800
+thing, why do you think there was this idea that tech was mainly for men and not really meant for
+
+07:50.800 --> 07:57.360
+women? And then since those days, and with some of these initiatives that you've joined or started,
+
+07:58.160 --> 08:00.720
+do you feel that it's changed significantly?
+
+08:02.160 --> 08:08.480
+I think where this idea comes from has been a mystery for me for a long time. And I've been
+
+08:08.480 --> 08:14.880
+looking into the answer of that. And a lot of the recently surfaced history has told us a lot about
+
+08:14.880 --> 08:21.040
+that. Because if you go back in time, in history, you'll see that when computers started, it was
+
+08:21.040 --> 08:32.400
+such a repetitive job, boring job, not a job that would give you status. So it started off as being
+
+08:32.400 --> 08:39.600
+a woman's job. That's why the first coder was Ada Lovelace. And so much of the history of computers
+
+08:39.600 --> 08:46.640
+is represented by women, like that very famous movie that came out of the women that were behind
+
+08:46.640 --> 08:57.360
+the moon launch. But as computers started gaining traction in our everyday life, the jobs started
+
+08:57.360 --> 09:04.320
+becoming important. And this is the important part. It's not only engineering. It's not only
+
+09:04.320 --> 09:11.280
+computing. If you look around all of the careers, even design, the most representative people are
+
+09:11.280 --> 09:22.560
+men. So once jobs become important, women start being pushed back from them. And this becomes
+
+09:22.560 --> 09:28.720
+more relevant in third world countries. Because I think it's easier for you to talk to someone in
+
+09:28.720 --> 09:34.480
+the US, for example, that has a very positive experience. Because there's a lot of laws behind
+
+09:34.480 --> 09:41.520
+harassment and, you know, in general, being discriminating to women. But in my country,
+
+09:41.520 --> 09:49.200
+in Mexico, there are almost no laws that protect you for anything. So for example, when I was in
+
+09:49.200 --> 09:54.880
+Women Who Code, I talked to someone in law about this because we wanted to sort of inform people
+
+09:54.880 --> 10:02.480
+of what they could do if they were experiencing this. And this girl, this lawyer, told us that
+
+10:02.480 --> 10:10.320
+there wasn't really anything that they could do in the courts on just representing themselves as
+
+10:10.320 --> 10:19.440
+a labor in the labor court. I don't know how to say sorry. But yeah, because, for example, for
+
+10:19.440 --> 10:27.040
+harassment, they had to have, I believe it was three months of evidence of this happening for
+
+10:27.040 --> 10:33.680
+sexual harassment. So we're like, wait, three months? First, you have to endure that three
+
+10:33.680 --> 10:40.640
+months. And second, yeah, and second, evidence. Like the worst harassment that you can face,
+
+10:40.640 --> 10:46.720
+you probably don't have evidence because not all of your peers are as stupid as to send you
+
+10:46.720 --> 10:53.360
+messages, like physical evidence of it. It's probably physical, or it's probably verbal,
+
+10:53.360 --> 10:57.760
+and you don't have any evidence of that happening, even though you have endured probably more than
+
+10:57.760 --> 11:02.960
+three months because you need that job and you cannot just ask for it. And then you have to
+
+11:02.960 --> 11:12.320
+not just outright acquit. So she told us that the best bet was to either go to human rights
+
+11:12.320 --> 11:18.320
+courts, which was very difficult to win, or to directly go to a CEO of the company and say,
+
+11:18.320 --> 11:22.720
+this is happening, and I'm going to go public unless you help me get through it,
+
+11:22.720 --> 11:29.360
+like sort of threatening the company. And I found it weird that that was the only defense that we
+
+11:29.360 --> 11:37.520
+had. Yeah, that's scary, right? I mean, you said the reason people would endure this is because
+
+11:37.520 --> 11:45.760
+they can't afford to lose the job. So you really, I don't know what the right words are, but you
+
+11:45.760 --> 11:53.440
+really need some confidence to walk up to the CEO and be threatening in that way. I mean, obviously
+
+11:53.440 --> 11:58.720
+there's different ways you can approach this and be less threatening about it, but when it comes
+
+11:58.720 --> 12:05.360
+down to it, in order for anything to change, you do have, at some point you have to make some kind
+
+12:05.360 --> 12:12.080
+of threat. I kind of see it almost in the same boat as, I think it's still the case to some extent,
+
+12:12.080 --> 12:17.520
+but it's gotten better, but how accessibility on the web has always been addressed. People didn't
+
+12:17.520 --> 12:23.680
+really talk about it's the right thing to do, or people didn't say, but it helps other users.
+
+12:23.680 --> 12:28.960
+People always ran first to the thing, oh, but do you remember the court case against Walmart and
+
+12:28.960 --> 12:34.640
+how much money they were? So, you know, it's always like this legal thing, how you had, it's like,
+
+12:34.640 --> 12:41.520
+oh, really, is that, that's what humanity has come down to? If you want. That's what has to happen.
+
+12:41.520 --> 12:47.920
+Yeah. If you want anything like to just be normal, then you have to kind of go to court about it and
+
+12:47.920 --> 12:52.640
+make a big, and also I guess it's financially straining, right? Also it's not free. I mean,
+
+12:52.640 --> 12:56.720
+sure you do get lawyers who are willing to do some of these things pro bono, but
+
+12:57.760 --> 13:01.520
+that's not everybody. So first of all, now you have to find the person who's willing to do it
+
+13:01.520 --> 13:08.960
+like that. Otherwise you have to spend your money to take on somebody who then might lead to you
+
+13:08.960 --> 13:17.200
+losing your job and not winning the court case. So now you're two for naught. So that is really,
+
+13:17.200 --> 13:23.360
+really challenging. And I wanted to leave this question for later, but I think it makes it to
+
+13:23.360 --> 13:32.880
+bring it up in this context. Like for you as a woman and as somebody in tech, what do you think
+
+13:32.880 --> 13:39.040
+is the biggest problems in tech? Do you think it is this or do you think there's a broader problem
+
+13:39.040 --> 13:44.720
+or is there two, more than one problem and this is only one of them? Yeah, I think this is only one
+
+13:44.720 --> 13:51.840
+of them. This is the one that is gender focused and I'm sure there's a lot of other problems in
+
+13:52.880 --> 13:59.520
+diversity, like sexual orientation in general, but I should not speak to that because I'm not involved.
+
+14:00.080 --> 14:08.000
+But I think if we go to problems specifically with the tech industry, one thing that I've
+
+14:08.000 --> 14:16.240
+learned, sort of the hard way throughout the years, is that you should never, and this goes
+
+14:16.240 --> 14:23.120
+with the mentoring part, you should never aspire to be the expert in anything because I think it's
+
+14:23.120 --> 14:30.160
+just not possible. You can be very good at something, but technology changes so fast
+
+14:30.160 --> 14:34.800
+that if you are an expert in something, you're probably just sitting there and being condescending
+
+14:34.800 --> 14:43.440
+to people. I've found that a lot with people that call themselves experts. They're like,
+
+14:44.160 --> 14:54.000
+everything should go through me, but you should focus on mentoring, on teaching or helping,
+
+14:54.000 --> 15:00.080
+just helping people around you because if you focus in just building your knowledge in this one thing
+
+15:00.080 --> 15:09.920
+that might not be useful tomorrow, you're just going over, glossing over a lot of very important
+
+15:09.920 --> 15:19.120
+parts of working in tech, which I don't think, as much as we like to joke about us being introverts,
+
+15:19.120 --> 15:25.600
+I don't think tech is that selfish of a job. You cannot really isolate yourself,
+
+15:25.600 --> 15:31.520
+even working remotely. You have to always work in a team because you can't do everything.
+
+15:31.520 --> 15:38.880
+There's so much to do in just one single project. That is very true. Yeah, for sure. I don't know
+
+15:38.880 --> 15:44.960
+how much you've thought about this, but I'm assuming you did quite a bit as you are so involved
+
+15:44.960 --> 15:51.920
+in all of these different causes. With these problems that we now acknowledge openly here
+
+15:51.920 --> 16:01.200
+in this podcast, at least, what can we do to make this better? I think it goes down to something
+
+16:01.200 --> 16:08.480
+very basic, which is that you get what you put out into the world. A lot of people don't think about
+
+16:09.280 --> 16:16.240
+what they would have wanted when they started their careers. I see not only in tech, in a lot
+
+16:16.240 --> 16:22.160
+of careers, my sister is a doctor and she sees that a lot, that if you went through a very hard
+
+16:22.160 --> 16:27.200
+time when you started, then you're like, I'm going to make this guy, this new guy, go through a very
+
+16:27.200 --> 16:34.720
+hard time as well because that's what's going to shape him. That's just not true. Let's break
+
+16:34.720 --> 16:42.720
+those toxic environments. Yeah, probably no one helped you when you started, but it would
+
+16:42.720 --> 16:51.600
+have been easier if someone had. What would you have liked to have when you started? Give that
+
+16:51.600 --> 16:57.120
+to the people that are starting now because that makes better teams and that makes them more
+
+16:57.120 --> 17:05.920
+confident in working with you. That's towards the new people, but also always think when you
+
+17:05.920 --> 17:14.320
+find someone that is evidently more experienced and more intelligent than you, think about it
+
+17:14.320 --> 17:22.080
+as a privilege, not as a threat. You can learn so much from this person. There's people that I
+
+17:22.080 --> 17:29.440
+haven't reached yet in my development. I know I'm still not there. This person is so good at what
+
+17:29.440 --> 17:34.160
+they do, but I'm so glad that they're in my life because I have learned so much from them.
+
+17:34.160 --> 17:40.000
+Yeah. I think if you have a job where you don't find someone like that,
+
+17:40.880 --> 17:46.400
+you probably need to move because you can't be the sole authority. You need to find people to
+
+17:46.400 --> 17:55.440
+learn from as well. Yeah. To that point, what role do you see open source play in this? For one,
+
+17:55.440 --> 18:04.320
+with regards to being more diverse and inclusive, but also to expose you to these people that are
+
+18:05.120 --> 18:11.440
+a step above you. Because within a company, even in tech, there is this thing that if you say you
+
+18:11.440 --> 18:15.280
+were at a company for three years, you'll be like, whoa, for three years, that's a long time.
+
+18:15.280 --> 18:21.760
+Whereas in the olden days, if you want to call it that, it was common to join a company after
+
+18:21.760 --> 18:28.560
+you left university and then be there until you're like 65, and then you would go on a pension.
+
+18:29.920 --> 18:35.520
+In the tech world, that is like what? No, you move every two years or something like that.
+
+18:37.920 --> 18:45.920
+But I think for some people, it's easier than for others, clearly. I wonder if you're not stuck,
+
+18:45.920 --> 18:50.080
+but if you're at a company, and maybe you're happy at that company and you don't want to leave,
+
+18:50.080 --> 18:57.760
+but if you have reached a certain level of seniority where you're basically the senior
+
+18:57.760 --> 19:03.840
+of this or the senior of that of whichever team you're working on, do you feel like open source
+
+19:03.840 --> 19:09.280
+can play a role there in taking you out of your comfort zone and exposing you to people that are
+
+19:09.280 --> 19:14.480
+maybe more experienced than you, essentially, so you can again learn from them?
+
+19:14.480 --> 19:22.640
+Yes, of course. I think the role of open source has always been crucial in the development of
+
+19:23.760 --> 19:31.040
+technology because there's so much work that goes into it just for everyone to learn more and to
+
+19:31.040 --> 19:37.680
+build up on it. And it brings you closer to a whole other community that you don't have access
+
+19:37.680 --> 19:45.360
+at work. And it's definitely a way to look for different challenges outside of your job if you
+
+19:45.360 --> 19:53.680
+don't want to move. Because like you said, it's hard for people that really love a job and don't
+
+19:53.680 --> 20:00.560
+want to leave. And the culture of, well, it's been three years I have to move. It's hard on those
+
+20:00.560 --> 20:07.920
+people. But yeah, starting your own thing is a very good way to deal with that. Because actually,
+
+20:07.920 --> 20:13.200
+when I was starting Women Who Code, I was in a company that I was very comfortable with.
+
+20:13.840 --> 20:18.160
+So I wasn't thinking about my job as something unstable or something that I had to change.
+
+20:19.200 --> 20:25.840
+I could go do my job and then get out of my job at five or six and fully devote myself to
+
+20:25.840 --> 20:32.960
+Women Who Code. It's the best possible moment to go into something open source or into some
+
+20:33.680 --> 20:39.600
+volunteering work when you are very happy with your day job. Because then that's not something
+
+20:39.600 --> 20:44.160
+you need to worry about after you leave. Yeah, because I guess also if you're in a
+
+20:44.160 --> 20:51.120
+job where you're not happy and I think by the time you leave, you're so drained. The last thing on
+
+20:51.120 --> 20:56.880
+your mind is, oh, I'm going to work on this open source thing now. You kind of just want to get on
+
+20:56.880 --> 21:02.800
+the couch and just turn on the TV and forget about everything. And more so if you are doing
+
+21:02.800 --> 21:09.280
+interviews, because interviewing is like a second job to be studying and doing other things.
+
+21:10.320 --> 21:14.400
+Yeah, that's a good topic to bring up. I've asked this of previous people.
+
+21:15.600 --> 21:20.560
+And I wonder for you, how have you found the interview process for yourself or maybe for
+
+21:20.560 --> 21:30.880
+people you know? Well, it has been hard on my little family specifically. Right now, my husband
+
+21:30.880 --> 21:36.960
+has a job on Facebook, but he's so good at what he does. But it was so hard for him to get that
+
+21:36.960 --> 21:41.920
+kind of job because he's not very good. Well, he wasn't at the beginning. He's practicing now
+
+21:41.920 --> 21:48.640
+a lot more. He wasn't good at speaking English. And then I think it's something that the interviewers
+
+21:48.640 --> 21:57.280
+don't really value enough that people need to learn a second language to actually get into
+
+21:57.280 --> 22:04.640
+tech jobs now. And it's not so easy. People in the US or people in English speaking countries
+
+22:05.440 --> 22:10.720
+don't value the learning of languages. They already know the one that is most used in tech.
+
+22:10.720 --> 22:20.720
+So that's not like a plus for them. And then in my case, when I came here to the US,
+
+22:22.720 --> 22:29.680
+I wasn't as technical as I was at the beginning of my career because I went a lot into mentoring
+
+22:29.680 --> 22:37.040
+and management. And that sort of job is not easy to get when you don't have a work visa.
+
+22:37.040 --> 22:47.120
+Yeah. Most of my previous experience is not as valued here. It's a weird balance. It's been weird
+
+22:47.120 --> 22:55.120
+to get used to it. And it's also very hard when you come from a context like mine. In the city
+
+22:55.120 --> 22:59.360
+where I was from, because I was the director of Women Who Go, everyone knew who I was.
+
+22:59.360 --> 23:07.200
+It's so very different to be here and be nobody. But it has been interesting,
+
+23:07.200 --> 23:13.120
+an interesting challenge that I can tell you for sure. Though it has given me a lot of more time
+
+23:13.120 --> 23:22.400
+to do volunteering jobs like the Wheel Project or keeping just with Women Who Go at a distance,
+
+23:22.400 --> 23:29.200
+which COVID has made easier because now everyone went online even for volunteering stuff.
+
+23:30.560 --> 23:34.880
+Exactly. The Wheel Project, I had a quick look at it. Do you want to tell us a little bit more
+
+23:34.880 --> 23:46.480
+about that? Sure. I met this woman when I was starting Women Who Go, Elena Olazcuaga. And she
+
+23:46.480 --> 23:52.400
+hadn't yet started this project, but she has always been very involved, not specifically with tech,
+
+23:52.400 --> 24:00.320
+but with empowering women. Because like I said before, women are pushed backwards in all of
+
+24:00.320 --> 24:06.800
+the industries, not just tech. And she was baffled by the fact that even though there were a lot of
+
+24:06.800 --> 24:15.840
+projects that were initiated by women, these women would not speak up about being the main person
+
+24:15.840 --> 24:21.200
+behind them. A lot of these projects, they just existed and people didn't know that a woman was
+
+24:21.200 --> 24:30.080
+behind them. Sometimes because women are taught to be more demure and that it's not nice for you
+
+24:30.080 --> 24:38.160
+to go around and say, I did this and I did that. And that's why they were invisible. And she did
+
+24:38.160 --> 24:44.160
+a whole documentary about this. And then she started getting involved more in the tech side
+
+24:44.160 --> 24:51.520
+because, well, those jobs are getting a lot of importance in our lives now. And that's how she
+
+24:51.520 --> 24:58.560
+started this Will project because there's a lot of women that go into science careers, but drop out
+
+24:59.440 --> 25:06.960
+at the middle. So the objective of this program was to pair you with someone that was studying
+
+25:06.960 --> 25:12.160
+so that they could see someone that already went through it and that could tell you that it was
+
+25:12.160 --> 25:21.360
+possible and just hear you out and hear your concerns about the industry. And yeah, basically
+
+25:21.360 --> 25:29.440
+just sort of cheer you on while you were studying. And it was a very interesting point of view because
+
+25:31.040 --> 25:38.880
+it wasn't necessarily someone that was in your specific career, but it was still science and
+
+25:38.880 --> 25:48.560
+tech and you shared a lot of the common worries. Yeah. It sounds like a really, really good
+
+25:48.560 --> 25:55.760
+initiative. I'm just glad to read about it. That brings me to a point that's a little more
+
+25:57.760 --> 26:04.800
+positive or happy. What do you enjoy about tech? What do you find interesting? What is
+
+26:04.800 --> 26:12.160
+your passions? What do you like to do? Well, I especially enjoy the fact that
+
+26:15.040 --> 26:20.160
+I feel like you know that you're in the right career when you look around you and a lot of
+
+26:20.160 --> 26:26.240
+the people are just like you. Because I think that most of the people that are in tech now,
+
+26:26.240 --> 26:32.160
+like working in tech, when they were back in school, they were the weird kid. But then you
+
+26:32.160 --> 26:38.160
+go into college and you're like, oh, there's more people like me. Even me that I was like
+
+26:38.160 --> 26:43.920
+just one woman and just one of two women and the rest were men, but they were very much like me.
+
+26:44.640 --> 26:51.760
+They enjoyed the same things. They were very open about speaking about what they liked.
+
+26:54.000 --> 27:01.520
+You find this very similar mindset and just finding those teams is very rewarding.
+
+27:01.520 --> 27:05.920
+I've been talking a lot about the people that go over you and that just advance their careers,
+
+27:05.920 --> 27:13.360
+but I can actually count those people with my hand. They become like stones in your shoe.
+
+27:13.360 --> 27:23.520
+Don't get me wrong. The rest of your team always makes it rewarding. I have stayed in jobs that
+
+27:24.160 --> 27:30.720
+I find hard to get through the day because my boss suddenly becomes one of these people that
+
+27:30.720 --> 27:38.080
+just want to step over you. But the rest of my team is so good that I find it hard to just leave
+
+27:38.080 --> 27:44.720
+the job because I have built something so great there. That's what I find so rewarding of
+
+27:44.720 --> 27:51.600
+technology. Once you find your team, you build a good team. That team is something you want to
+
+27:51.600 --> 28:01.040
+work with for as long as you can. Most of them share a lot of your same interests outside of work.
+
+28:01.040 --> 28:06.000
+Just in general, that's how you find your... I don't know, not status quo.
+
+28:06.000 --> 28:06.640
+Your tribe?
+
+28:06.640 --> 28:09.200
+Yeah, your tribe, basically.
+
+28:11.600 --> 28:16.960
+I've definitely felt that as well. I think it's interesting. I listened to a talk the other day.
+
+28:16.960 --> 28:23.520
+The person talked about social media, and I don't know if you know the person, Yaron Lanier.
+
+28:24.640 --> 28:28.320
+He talks quite a lot about... He wrote the book about 10 reasons why you should delete
+
+28:28.320 --> 28:38.240
+your social media today. He's involved in artificial intelligence and virtual reality.
+
+28:38.240 --> 28:44.880
+He's the father of virtual reality, but he is critical of social media. The one thing that he
+
+28:44.880 --> 28:50.960
+mentioned that he found particularly interesting is the fact that somehow, Github is getting it
+
+28:50.960 --> 28:59.520
+right. Because Github, if you think about it, is a social network in a sense, but it's a social
+
+28:59.520 --> 29:06.560
+network where there's... What he mentions is there's a sense of ownership, and there's a sense
+
+29:06.560 --> 29:16.000
+and there's a sense of shared responsibility. It's as if those two things is what's missing
+
+29:16.000 --> 29:22.080
+from all these other social networks. Because you have this sense of ownership, this sense of
+
+29:22.080 --> 29:29.360
+shared responsibility with these things that you build, it drives out a lot of the negativity and
+
+29:29.360 --> 29:35.600
+the toxicity that you find on a lot of social networks. I wonder what you think about that
+
+29:35.600 --> 29:44.320
+take. I understand that part because I think the bad part about social media, any social media,
+
+29:44.320 --> 29:52.240
+is that people feel not responsible for what they are posting online, what they're telling you,
+
+29:53.360 --> 30:00.800
+how they are attacking you. I've also wondered about the value in it. Of course, when social
+
+30:00.800 --> 30:08.480
+media first came out, it was just like the shiny new thing. But now that it's become what it's
+
+30:08.480 --> 30:18.320
+become, it does beg the question, is it worth it? Yeah, because even though I don't use it much for
+
+30:18.320 --> 30:28.240
+personal reasons, but a very good friend of mine and I have a podcast about books, and just
+
+30:28.240 --> 30:36.800
+getting people to listen to that is very hard because you have to really put yourself out there
+
+30:36.800 --> 30:45.840
+and that's something that especially people in tech are not very good at. But it takes a toll
+
+30:47.360 --> 30:54.960
+on your mental health if you really get into it. So I do think there's a value in accountability,
+
+30:54.960 --> 31:02.000
+which most social media doesn't make you face, the accountability of what you post.
+
+31:03.280 --> 31:11.520
+Yeah, no, for sure. It definitely creates the opposite. It creates a veneer of perfection
+
+31:11.520 --> 31:19.040
+over people's lives that's pretentious and untrue. Unfortunately, a lot of people
+
+31:19.040 --> 31:24.880
+don't realize that, and then they measure themselves against this unrealistic expectations.
+
+31:25.360 --> 31:32.160
+And then if they can't measure up, then they blame themselves for that instead of understanding that
+
+31:32.160 --> 31:40.800
+no, the example that you're looking at is just unrealistic. It's simply not true.
+
+31:43.360 --> 31:48.240
+I spoke to somebody the other day where I said this thing about, like he was talking about
+
+31:48.240 --> 31:55.280
+showing your weakness and how important that is for mentors, for example, because oftentimes
+
+31:56.320 --> 32:02.480
+exactly this thing is being put forth that people do these amazing things and just one
+
+32:02.480 --> 32:07.520
+off to the other and you never see the things that don't work. You never see that 20 times
+
+32:07.520 --> 32:12.160
+they try to make this thing and didn't get it right. So for mentors, it's important to
+
+32:12.160 --> 32:19.360
+show your vulnerabilities, to show your failures, your weaknesses. And I was like,
+
+32:19.360 --> 32:24.480
+yeah, I totally agree that that's very important and that is definitely part of mentorship.
+
+32:26.400 --> 32:32.560
+The problem is even though people talk so much about failure and about failing and trying again,
+
+32:33.760 --> 32:38.160
+the context is always the people talking about that are the people that's already made it.
+
+32:38.160 --> 32:43.840
+The people who's already running the billion dollar company or the million dollar company
+
+32:44.400 --> 32:53.600
+and you don't often hear people who are still building their careers, building their knowledge
+
+32:53.600 --> 32:58.560
+talk about the same things. For them, I think the message is different. The message is
+
+32:58.560 --> 33:05.760
+hide your failures, hide your weaknesses. Yes, and that's part of like sort of what
+
+33:05.760 --> 33:13.200
+come to the real world of the social media, I think. But it's easy to forget that when you're
+
+33:13.200 --> 33:18.560
+trying to help someone that you're being a mentor to someone, you need to also talk about your
+
+33:18.560 --> 33:24.560
+background. Like, yes, you made a mistake right now. And I know it's a mistake because I've made
+
+33:24.560 --> 33:30.480
+it before. I went through this and something similar happened. So let me tell you so that you
+
+33:30.480 --> 33:37.280
+don't need to go through it again. But it's very important to be humble about the way that you
+
+33:37.280 --> 33:43.120
+learn the things. I wasn't born knowing that I should not have said what you just said right now.
+
+33:46.640 --> 33:51.520
+I also had to navigate, but I'm glad that you don't have to navigate this alone.
+
+33:53.040 --> 33:58.640
+Like you said, sometimes it has more value coming from someone that's not Elon Musk,
+
+33:58.640 --> 34:08.320
+basically. So touching on that point of people who are insanely successful,
+
+34:09.600 --> 34:17.760
+has there been any people or moments or events in your life? And you can have multiple. There
+
+34:17.760 --> 34:23.120
+doesn't just have to be one. You can talk about multiple of these that you feel has been pivotal
+
+34:23.120 --> 34:31.040
+or particularly impactful in your life up to now. Yeah, it's probably going to sound like
+
+34:31.040 --> 34:38.240
+really small things. At the time, I didn't see it as small, but now thinking back to it,
+
+34:38.240 --> 34:49.120
+it's probably a small thing. The first time I was in charge, for example, of a meeting at a job
+
+34:49.120 --> 34:55.280
+of travel, that we had to travel somewhere else to see a client. And I was in charge of the meeting
+
+34:55.280 --> 35:04.160
+of selling this new product. And I was there with a senior architect, and he would just be there to
+
+35:04.160 --> 35:10.880
+advise me. He would not participate in the meeting. So after we had this meeting, this whole day of
+
+35:10.880 --> 35:16.480
+meetings and presentations that I was a lead for, at the end of it, we were just having dinner
+
+35:16.480 --> 35:23.760
+somewhere. And he started just going over feedback for me. And I immediately got out something to
+
+35:23.760 --> 35:31.760
+write on and I started to take notes. And after he was done, he was like, I'm sorry if I offended
+
+35:31.760 --> 35:38.160
+you. And I was like, what? You were giving me feedback. He's like, yeah, but I have done the
+
+35:38.160 --> 35:45.680
+same thing for people before. And sometimes I've made people cry or just really angry. And I was
+
+35:45.680 --> 35:52.480
+like, but you were not disrespectful. You didn't say, oh, you idiot, or something like that.
+
+35:52.480 --> 36:00.080
+He was really specific about what I had done that I could improve on. And I realized that
+
+36:00.720 --> 36:05.760
+not only was he good at taking feedback, but I was good at receiving it. And receiving feedback
+
+36:05.760 --> 36:15.920
+is a really hard thing to do. I hadn't thought about that before. I thought back on myself just
+
+36:15.920 --> 36:22.880
+10 years before that moment. And I thought, well, probably 10 years ago, I would have gotten mad
+
+36:22.880 --> 36:29.600
+that he didn't just say good job or something positive. But I was already experienced enough
+
+36:29.600 --> 36:36.240
+to know that it was valuable to listen to him. And that's something that stayed with me since then,
+
+36:37.200 --> 36:42.320
+that you need not only to be good at giving feedback, but at receiving it.
+
+36:43.440 --> 36:49.200
+Because receiving feedback always can feel like they are attacking you when they are actually
+
+36:49.200 --> 36:56.240
+trying to help you. And I think that's probably one of the things that's tricky with open source.
+
+36:56.240 --> 37:02.640
+And I think that is why a lot of new people maybe are a little bit scared. I mean, that's
+
+37:02.640 --> 37:10.320
+my experience from having spoken to a couple of people very new to development, is they really
+
+37:10.320 --> 37:14.960
+want to contribute to open source. But beyond the tools and all these things that they still
+
+37:14.960 --> 37:27.360
+don't know exactly how to use, it's more afraid of looking stupid, afraid of asking something that
+
+37:27.360 --> 37:31.760
+for them is not obvious, but they're scared the other person might think like,
+
+37:32.400 --> 37:36.400
+oh, you're wasting my time. Why are you, you know?
+
+37:37.280 --> 37:43.280
+Yeah. And that's where the social media mentality comes into play because a lot of people feel
+
+37:43.280 --> 37:51.440
+entitled to answer that way, to just be like, that's a silly question. Or the other way around,
+
+37:51.440 --> 37:57.840
+when you're the owner of the open source project, there's a lot of people that actually think they're
+
+37:57.840 --> 38:06.000
+entitled to telling you, why didn't you do it this way? This was a better way. And it's hard
+
+38:06.000 --> 38:15.120
+to navigate that sort of mentality, but you need to take it one at a time, I think, and not lose
+
+38:15.120 --> 38:21.120
+sight of what's important because there's always going to be people that react that way. Also in
+
+38:21.120 --> 38:27.440
+feedback in your job, because there's always going to be someone that is going to give you
+
+38:27.440 --> 38:35.440
+the wrong feedback or just not know how to politely tell you the feedback. And again,
+
+38:35.440 --> 38:44.480
+this is because I am coming from the context of Mexico, but I once had one colleague that's now
+
+38:44.480 --> 38:50.080
+a very good friend of mine, called me out to ask for feedback and I gave her feedback.
+
+38:50.080 --> 38:54.880
+And she was like, well, this is not what I was expecting because the feedback that I got
+
+38:55.440 --> 39:02.240
+was that I didn't smile enough. And I was just so mad about that. Like,
+
+39:02.240 --> 39:08.560
+yes, there's feedback that everyone has feedback, that we're not perfect about what we're doing,
+
+39:08.560 --> 39:15.360
+but we need to be very careful about what we choose to tell people when we're giving feedback.
+
+39:17.360 --> 39:22.640
+Do you have any tips for people around that? Like how to construct good feedback?
+
+39:22.640 --> 39:32.080
+Good feedback. Sure. I think it's probably something that sounds obvious, but it's not
+
+39:32.080 --> 39:38.480
+that obvious when you're putting it into practice. You need to always focus on their job performance
+
+39:39.520 --> 39:44.160
+because there's stuff that you want to probably say that you don't like about someone.
+
+39:45.200 --> 39:50.080
+There's always something that you're not going to like about someone, but that is not important.
+
+39:50.080 --> 40:01.520
+And if this particular trait is affecting how they are portraying their work, then go ahead,
+
+40:01.520 --> 40:09.360
+but it's very important to take it one step at a time. Like I have this coworker that would find
+
+40:09.360 --> 40:15.200
+it very hard to conceal his facial expressions. So whenever a client said something that he
+
+40:15.200 --> 40:22.640
+considered stupid, it would show on his face, which is something that you find really funny
+
+40:22.640 --> 40:30.640
+in a friend, but not in a colleague. So I had to be very careful on how I was going to tell him
+
+40:30.640 --> 40:37.040
+that because it's not like I don't like how your face looks and you need to control your facial
+
+40:37.040 --> 40:42.960
+expressions more because you may be getting yourself into trouble with the clients that way.
+
+40:42.960 --> 40:50.320
+Like we know you, we know that's how you are. The client doesn't. And so if you're getting into
+
+40:50.320 --> 40:56.000
+something so personal, you need to be very specific about why that is affecting their job
+
+40:56.400 --> 41:03.600
+and not why you don't like it. So I have a question that I ask like mentors and teachers
+
+41:03.600 --> 41:09.600
+and stuff, but I'm going to change how I ask this one a little bit. I would normally ask like
+
+41:09.600 --> 41:14.000
+as a mentor or teacher, what advice do you have for people near to the industry? But I want to
+
+41:14.000 --> 41:23.600
+change it up a little bit. And I'm thinking, why would you tell somebody, irrespective of background
+
+41:23.600 --> 41:29.760
+or gender or any of those things, just in general, why should somebody get into tech?
+
+41:29.760 --> 41:39.920
+First, I think the best reason for getting into tech and that's, this is something that
+
+41:40.960 --> 41:47.680
+my parents and people that were trying to cheer me on when I was first starting to, was first going
+
+41:47.680 --> 41:54.480
+to choose a career for college. They told it to me a lot of times. Going into an engineering,
+
+41:54.480 --> 42:01.920
+a tech career doesn't mean you need to end up doing exactly what you studied because it opens
+
+42:01.920 --> 42:09.200
+your mind to so much. You can end up somewhere entirely different, but the fact that you have
+
+42:09.200 --> 42:17.840
+that base study makes it easier. For example, I really liked writing when I was in high school
+
+42:17.840 --> 42:25.120
+and a lot of people told me that I should go into that sort of career, like creative writing. Why
+
+42:25.120 --> 42:34.560
+waste my time in science if I was good at writing? And what people cheering me on told me was like,
+
+42:34.560 --> 42:40.080
+you will always be able to write if you go into tech, but if you go into writing,
+
+42:40.080 --> 42:45.680
+you will not be able to do tech because you did not go into math. You didn't take all of
+
+42:45.680 --> 42:53.840
+these other classes because it's more specific, it's science and writing is easier to take on
+
+42:53.840 --> 43:04.480
+your own. I was able to continue writing and for a long time I wrote articles for blogs and stuff.
+
+43:05.680 --> 43:12.160
+I haven't dropped anything that I liked to do before tech, but I would have probably dropped
+
+43:12.160 --> 43:16.640
+tech altogether if I had gone into any of those other things.
+
+43:20.640 --> 43:28.400
+There are so many things one can talk about, about all these different challenges, but also
+
+43:28.400 --> 43:35.840
+the joys of being in tech. I think for me, one of the things that's really enjoyable is solving
+
+43:35.840 --> 43:47.280
+problems. I think if you don't like to constantly have to face problems and solve them, then getting
+
+43:47.280 --> 43:54.320
+into the engineering tech industry is probably not for you because that is a constant. Whether
+
+43:54.320 --> 44:00.640
+you're a designer or whether you're a coder or whether you're a blend of the two, that is
+
+44:00.640 --> 44:05.280
+constantly what you're doing is you're constantly solving problems, whether it is solving a user
+
+44:05.280 --> 44:11.040
+interface problem, whether you're solving a business problem, or whether you're solving
+
+44:11.040 --> 44:17.920
+something really engineering. How do we ensure that this system will scale if tomorrow a million
+
+44:17.920 --> 44:25.200
+people start visiting our website? Do we need a database? If we do, which is the appropriate
+
+44:25.200 --> 44:30.560
+one? There's constant problem solving. There's constantly taking a thing, unpacking it, breaking
+
+44:30.560 --> 44:36.640
+it down into pieces, and then putting it all back together again with a solution. Another
+
+44:36.640 --> 44:43.680
+thing that's a big part of being in tech and being a coder and working with others is planning,
+
+44:45.760 --> 44:51.440
+and that's hard. I find that extremely hard. I find it not so hard to plan. I find it hard
+
+44:51.440 --> 45:00.320
+to estimate. I know I'm not alone in that, but it's still a reality for me. After, I don't know,
+
+45:00.320 --> 45:07.200
+15 years of doing this, every sprint, I would think that I'll get a certain thing done,
+
+45:07.200 --> 45:10.880
+and by the end of the sprint, I'm like, I guess I underestimated again.
+
+45:12.320 --> 45:19.600
+Yes, I think there's the incorrect notion that you don't need creativity to be a coder,
+
+45:20.160 --> 45:23.360
+but there's so much of that. Oh, that's completely wrong.
+
+45:24.240 --> 45:29.760
+Because they think, oh, you're such squares and you're not creative. There's so much
+
+45:29.760 --> 45:38.240
+creativity and planning that goes into actually having scalable code and code that can be
+
+45:38.880 --> 45:49.040
+maintained by others and can grow. I think the fact that we are so behind mathematics and
+
+45:49.680 --> 45:55.600
+diagrams and stuff that it might put people off and give them the wrong idea,
+
+45:55.600 --> 46:02.560
+but it not only needs a lot of creativity, but it also helps people. Like I said before,
+
+46:02.560 --> 46:10.640
+most of us have this profile that we're not good with people, but even if that's the case,
+
+46:11.600 --> 46:18.480
+tech helps you be good with people because you need to understand them at a data level
+
+46:18.480 --> 46:26.400
+to actually build something that makes sense. So it makes you become better with people,
+
+46:26.960 --> 46:31.680
+even if you weren't at the beginning. That's something that I found really interesting
+
+46:32.400 --> 46:38.160
+because you start seeing everything as a problem to solve and dealing with people is also that
+
+46:39.440 --> 46:48.320
+at its basis. It is. Yeah, no, definitely. I was thinking of some places where I was
+
+46:48.320 --> 46:55.200
+thinking and it slipped my mind now. Yeah, I'll probably remember in a second. Are there any
+
+46:56.000 --> 47:03.520
+projects or side projects, big personal projects, something that has nothing to do with tech
+
+47:04.080 --> 47:09.280
+that you're particularly proud of and would like to share a bit more about?
+
+47:10.320 --> 47:16.000
+Well, I've always been proud of Women Who Code, but that's entirely in tech.
+
+47:16.000 --> 47:28.000
+Like I said, we were trying to start a podcast about books because I've started off being
+
+47:28.000 --> 47:35.600
+pushed into writing because I wrote a lot and I still read a whole lot. I have this
+
+47:35.600 --> 47:43.840
+literature part of my personality that I just like analyzing whatever I read.
+
+47:43.840 --> 47:51.040
+And that's what we were starting me and another friend. And I think the main reason it's been
+
+47:51.040 --> 47:56.160
+hard is because it's entirely in Spanish and it gains less traction if it's not in English.
+
+47:56.160 --> 48:04.080
+But we wanted to still make it in Spanish for our community because there's also something that
+
+48:04.080 --> 48:10.240
+makes you a bit sad about that tendency of making everything in English. Like you want to give
+
+48:10.240 --> 48:15.520
+you want to give something back in your own language. And that's why we have stuck to
+
+48:15.520 --> 48:25.280
+making it in Spanish and feeling more free that way. We're a very small podcast, but I'm still
+
+48:25.280 --> 48:31.040
+very proud of the work that we do of reading books and analyzing them and summarizing them
+
+48:31.040 --> 48:40.720
+and talking about how certain characters portray things from our society today or in history.
+
+48:40.720 --> 48:47.120
+And that's, like I said, is something I don't want to stop doing because it's very different
+
+48:47.120 --> 48:55.120
+from tech and connects me to another artistic world. Yeah, that's very important to do that.
+
+48:55.120 --> 49:00.480
+I used to, before I got into tech, I used to be a professional musician.
+
+49:01.200 --> 49:10.800
+And I kind of, I've let that go for a while and I picked it up again. But then the other day,
+
+49:10.800 --> 49:18.800
+I was listening to a podcast of Lex Friedman. And he also talked about how if you've been at
+
+49:18.800 --> 49:25.840
+a certain level with, it doesn't matter what, in my case, it's with a musical instrument, and
+
+49:26.480 --> 49:31.600
+you then stop for a long period of time and you pick it up. It's literally painful,
+
+49:32.400 --> 49:41.440
+the emotional pain you go through of realizing how much you've lost. And it's hard. It's almost,
+
+49:41.440 --> 49:47.360
+no, not almost. It is harder than when you first started. Because when you first started,
+
+49:47.360 --> 49:52.480
+you had nothing to compare yourself against other than other people. You can compare yourself against
+
+49:52.480 --> 49:58.880
+like a great guitarist, but that's cool. That's inspirational. But now you compare yourself against
+
+49:58.880 --> 50:04.880
+who you used to be able to, how you used to be able to play. And that is really painful because
+
+50:04.880 --> 50:09.520
+you pick up this piece of music and you're like, okay, I'm going to try this. And you just cannot.
+
+50:09.520 --> 50:13.840
+It's just too difficult. Your hands doesn't want to do it. Your brain doesn't want to play along.
+
+50:13.840 --> 50:21.280
+And you have all of these mixed emotions that happens in your body and you just put it down
+
+50:21.280 --> 50:27.440
+because it's just too painful. So I do think that it's important to not let go of our hobbies,
+
+50:27.440 --> 50:37.280
+not let any one thing consume you entirely. Because balance is important in life and
+
+50:37.280 --> 50:44.880
+you need different ways of giving expression to your emotions that you feel. And I mean,
+
+50:44.880 --> 50:50.560
+for some people, tech can fill all of those roles and that's great. But I think if you do
+
+50:50.560 --> 50:56.320
+have other things, you shouldn't put them on the side just because now you're in tech. So that's
+
+50:56.320 --> 51:02.080
+where all your attention should be and all your free time should also be spent on side projects
+
+51:02.080 --> 51:07.200
+and stuff like that. I think if that is your thing and it works for you and it makes you happy,
+
+51:07.200 --> 51:12.880
+then great. But if there are other things that you're interested in, you should continue to
+
+51:12.880 --> 51:24.880
+pursue them. Yes. And it's very easy to get sucked into that mentality because I think part of what
+
+51:24.880 --> 51:32.480
+social media has done is that it sort of portrays people in tech as always being consumed by tech.
+
+51:32.480 --> 51:39.120
+And you feel like you have to go that way. When I was fresh out of college,
+
+51:39.760 --> 51:48.080
+I had a blog and that's what I was doing 24-7, reading about tech and writing about tech and
+
+51:49.200 --> 51:54.560
+even outside of my job. And I stopped reading, I stopped drawing, which I also liked,
+
+51:55.200 --> 52:00.080
+which is why I understand your pain because I was very good at digital drawing. And when I
+
+52:00.080 --> 52:06.960
+picked it up again, I was so, so frustrated just looking back on what I had been able to do before.
+
+52:07.760 --> 52:14.720
+And like I said, if you go that way of consuming yourself entirely in tech,
+
+52:15.360 --> 52:19.840
+it has to be because you want to, not because you feel like that's what you have to do.
+
+52:20.480 --> 52:28.640
+Yeah. Yeah, I agree. Well, this was a really, really good conversation. It was so wide,
+
+52:28.640 --> 52:33.200
+but it was really interesting and I think it will be a good one for people to listen to.
+
+52:34.000 --> 52:37.200
+I probably had a different thing that I was going to ask you at the end,
+
+52:37.200 --> 52:40.320
+but I'm going to change that again because of something that you said.
+
+52:42.080 --> 52:51.440
+As an avid reader and somebody who loves books clearly, what is your top three favorite books?
+
+52:52.640 --> 52:55.760
+It doesn't matter language. It doesn't matter the language.
+
+52:55.760 --> 53:03.680
+That is so hard. It sort of changes with the years because like just to give you a perspective,
+
+53:04.240 --> 53:11.840
+this year I have read 93 books. So it's hard for me to just outright give you just three.
+
+53:15.120 --> 53:21.120
+What is three books you've recently read that has really had an impact on you?
+
+53:21.120 --> 53:29.680
+Yes, that's easier to answer. There's this book because I also, apart from literature,
+
+53:29.680 --> 53:35.600
+I really like non-fiction. There's this book called No Man's Land that plays very well into
+
+53:35.600 --> 53:43.200
+what we were talking about right now, but more in the context of medicine and the First World War,
+
+53:43.200 --> 53:51.200
+how women were not even allowed to study medicine. And then suddenly there were no men because they
+
+53:51.200 --> 53:58.240
+were all fighting and they needed women to get into these roles and how this was the first rise
+
+53:58.240 --> 54:07.600
+of women in professional medicine, not confined to gynecology or to pediatricians. And it's a very,
+
+54:07.600 --> 54:14.400
+it's a very, very interesting read. Not just because of that breakthrough in professional
+
+54:15.120 --> 54:19.600
+medicine for women, but because of what happened afterwards that they were again pushed out.
+
+54:20.160 --> 54:27.360
+All of their hospitals closed and given to men and how the fight didn't end there.
+
+54:27.360 --> 54:37.440
+Or that's one very good book, No Man's Land. For just general literature, there's this other book,
+
+54:37.440 --> 54:43.280
+it's fiction. It's called The Invisible Life of Adi Larue. You're probably seeing
+
+54:46.640 --> 54:53.280
+how I look for strong women characters, but it was a long time in my life where I
+
+54:53.280 --> 55:01.920
+didn't have access to that because everyone wants a man. And I didn't realize it until now.
+
+55:02.800 --> 55:09.040
+It's this woman that suddenly is granted immortality and how she navigates life that
+
+55:09.040 --> 55:16.880
+way, like fighting against this demon that gave her immortality. And he keeps telling her that
+
+55:16.880 --> 55:22.800
+he'll take it all away if she just surrenders. But she's so stubborn that she prefers to suffer
+
+55:22.800 --> 55:29.200
+through immortality than to say, okay, I give up. And I relate to that so much.
+
+55:33.360 --> 55:39.520
+And then just for anyone that has children, like I don't have children, but I'm about to.
+
+55:39.520 --> 55:50.400
+There's this very nice series of books called A Catawitch by an African American author.
+
+55:51.120 --> 55:59.840
+It's a black girl from Nigeria who has albinism and has always had this identity crisis because
+
+55:59.840 --> 56:06.960
+they called her the white girl, but she's not technically white. She has albinism. And then
+
+56:06.960 --> 56:14.160
+she discovers that her disadvantage actually in another world gives her magical powers.
+
+56:14.880 --> 56:20.400
+And it's the same for her friends that one has dyslexia and that means he's very good at
+
+56:20.400 --> 56:26.320
+spells in this other world. I found it very uplifting that the fact that they have dyslexia
+
+56:26.320 --> 56:33.040
+or ADHD or albinism makes them better somewhere else. So if you have kids that are suffering
+
+56:33.040 --> 56:38.800
+through that, these are very good books for that. That sounds incredible. And I mean,
+
+56:38.800 --> 56:47.760
+I think that ties into reality, right? I think a lot of people, sometimes, I don't want to say
+
+56:47.760 --> 56:58.640
+disability. What's the word I'm looking for? I don't know, something that makes you disadvantaged
+
+56:58.640 --> 57:08.160
+maybe in one area can actually be a strength somewhere else. And I think it leads to this
+
+57:08.160 --> 57:15.040
+idea of there is something for all of us in this world. It's just finding that tribe, like what
+
+57:15.040 --> 57:22.640
+you talked about, finding that tribe, finding that passion, finding that field that just makes you
+
+57:22.640 --> 57:31.760
+happy. And I think then all these other things that goes around it, having albinism or being ADHD
+
+57:31.760 --> 57:40.160
+or any of these things, they can actually become strengths. Also sometimes when you don't see them
+
+57:40.160 --> 57:46.800
+as disadvantages, because I think oftentimes we see things as disadvantages and we kind of
+
+57:46.800 --> 57:53.040
+break ourselves down. And sometimes we have to ask the question of, but why does this give me,
+
+57:53.040 --> 57:57.360
+how does this give me a unique perspective on life that somebody who doesn't have to deal with this
+
+57:57.360 --> 58:08.160
+thing doesn't have? And what about that can I use to give myself an advantage in life? It's like
+
+58:08.160 --> 58:12.320
+looking at your disadvantages and asking yourself, what has that taught me about life? And how can I
+
+58:12.320 --> 58:17.040
+use those lessons to have an advantage over somebody that didn't have that challenge? I think
+
+58:17.040 --> 58:22.400
+you've kind of hinted at that in the beginning as well with a lot of this, especially you having
+
+58:22.400 --> 58:28.640
+like a really hard time coming up as an engineer and in the engineering and science field in Mexico,
+
+58:28.640 --> 58:33.920
+in third world country. Whereas if you speak to somebody in the US, they might have a completely
+
+58:33.920 --> 58:40.640
+different experience because there's a bigger support system. It's more visible. Other people
+
+58:40.640 --> 58:47.280
+that are similar to you. And I think these books that you also find that you feel so close to,
+
+58:47.280 --> 58:53.760
+I think they're filling a void that's been there before, where there wasn't this representation
+
+58:53.760 --> 59:01.920
+of these strong females that has taken on the world, taken on a demon and won. So yeah,
+
+59:01.920 --> 59:06.080
+I think it's really, really interesting. I can keep talking and talking and talking,
+
+59:06.080 --> 59:11.040
+but at some point, I guess we have to stop. So thanks so much for joining, Pamela. I really,
+
+59:11.040 --> 59:16.800
+really enjoyed it. All of the best with everything you do. Thanks so much for all the things you do.
+
+59:16.800 --> 59:23.600
+I think it's really, really important work. And I hope that this small little podcast that I run
+
+59:23.600 --> 59:30.000
+gives you a bit of a, makes people a little bit more aware of the stuff you do and gets you a
+
+59:30.000 --> 59:36.080
+little bit more recognition and helps other people join in. So thank you so much.
+
+59:36.080 --> 01:00:04.160
+Thank you for inviting me. It was a great conversation.
+
+01:00:06.080 --> 01:00:08.160
+in the show notes.
+

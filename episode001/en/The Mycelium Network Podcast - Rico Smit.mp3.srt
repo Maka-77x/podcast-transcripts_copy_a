@@ -1,0 +1,1632 @@
+1
+00:00:00,000 --> 00:00:05,600
+Welcome to the Mycelium Network Podcast. A podcast all about early stage web developers
+
+2
+00:00:05,600 --> 00:00:11,760
+and the mentors and teachers that help them along the way. Today we are going to have a chat with
+
+3
+00:00:11,760 --> 00:00:16,880
+Riku Smed. He is some of the people that joined the Mycelium Network very early on and has been
+
+4
+00:00:16,880 --> 00:00:21,680
+pretty active on the community. So I thought it only appropriate to have him as one of the first
+
+5
+00:00:21,680 --> 00:00:32,320
+guests. Hey Riku, welcome to the podcast. Thanks for having me. It's a pleasure. So I've seen some
+
+6
+00:00:32,320 --> 00:00:36,720
+of these questions to you before and just so you can be a little bit more prepared but we'll
+
+7
+00:00:36,720 --> 00:00:42,160
+off the cuff some things here and there. No pressure, it's just an informal chat to just
+
+8
+00:00:42,160 --> 00:00:47,120
+learn what works, what doesn't work, what's the challenges you're facing and how the mentors that
+
+9
+00:00:47,120 --> 00:00:55,120
+I speak with can potentially help. So to get us off to a start, tell us a bit about your background.
+
+10
+00:00:55,680 --> 00:01:01,200
+What did you do up to now and what made you look into getting into software or web development
+
+11
+00:01:01,200 --> 00:01:09,280
+specifically? Well, since I was born and raised here in Pretoria, my uncle has been very heavy
+
+12
+00:01:09,280 --> 00:01:15,280
+into technology. So ever since I was little, I remember standing by him, seeing what he's doing
+
+13
+00:01:15,280 --> 00:01:20,960
+and that intrigued me from a young age. And then throughout high school, I had the opportunity to
+
+14
+00:01:20,960 --> 00:01:28,800
+take IT and actually discover the love for coding and I had a chance to get all of the fundamentals
+
+15
+00:01:28,800 --> 00:01:38,000
+down. But as soon as that all ended, I had to basically walk out into a job. I worked in
+
+16
+00:01:38,000 --> 00:01:47,360
+retail for a hardware shop. I did what I had to to survive, but it's not what I want to do. I always
+
+17
+00:01:47,360 --> 00:01:53,200
+had this feeling like I want to do something else. The first course I had with you actually,
+
+18
+00:01:54,000 --> 00:01:58,880
+I actually realized how much I love web development above stuff like app development or
+
+19
+00:01:59,680 --> 00:02:05,120
+server working or security stuff like that. I actually realized I really love working with all
+
+20
+00:02:05,120 --> 00:02:12,640
+that. I actually realized I really love working with web, creating pages, designing new things.
+
+21
+00:02:12,640 --> 00:02:21,440
+I just fall in love with it. That's great. So yeah, I'm looking to study now. At the end of the day,
+
+22
+00:02:21,440 --> 00:02:25,120
+I would like to be a full stack developer, being able to do everything and anything that is
+
+23
+00:02:25,120 --> 00:02:33,360
+necessary. That's good too. I think it's good to have that as a goal. But what I do find is like
+
+24
+00:02:33,360 --> 00:02:42,320
+they talk about being T-shaped in terms of your skills. So you have a broad knowledge base,
+
+25
+00:02:42,320 --> 00:02:48,320
+but then you have something that you focus in. For myself personally, I do know about back end
+
+26
+00:02:48,320 --> 00:02:53,440
+development and I've done stuff and I keep doing stuff in that region like Python a little bit.
+
+27
+00:02:53,440 --> 00:02:58,560
+And even databases still like the old relational kind of stuff. I say old, but people definitely
+
+28
+00:02:58,560 --> 00:03:05,440
+still use traditional databases today. But I definitely have the T of my T-shape is definitely
+
+29
+00:03:05,440 --> 00:03:10,800
+focused on front end development and like, as they say, front of the front. So I like the design
+
+30
+00:03:10,800 --> 00:03:17,760
+aspects and I like the CSS and making things look good and work well and performance accessibility.
+
+31
+00:03:17,760 --> 00:03:22,800
+Those things are really important to me. So I think it's good to have that broader perspective
+
+32
+00:03:22,800 --> 00:03:30,000
+of what happens in the industry, but it's always nice to have something that's more your focus area.
+
+33
+00:03:30,000 --> 00:03:35,440
+You really go deep as they say. So you have this breadth and then you have depth in a certain area.
+
+34
+00:03:35,440 --> 00:03:42,240
+But that's great. Yeah. I know for myself also, I also got into web development from
+
+35
+00:03:42,240 --> 00:03:46,560
+a music background. For me, the nice thing about web in the early days with Flash and that was
+
+36
+00:03:46,560 --> 00:03:52,000
+still around was that it had this thing where I could take the musical aspect and the design
+
+37
+00:03:52,000 --> 00:03:57,120
+aspect and take a little bit of programming and mix them all in. Because we used to make these
+
+38
+00:03:57,120 --> 00:04:01,520
+Flash intros, which are like little movies that used to play before you'd actually go into the
+
+39
+00:04:01,520 --> 00:04:07,440
+website. We had a little movie with text and animation and whatnot, and then it would say,
+
+40
+00:04:07,440 --> 00:04:14,240
+click to enter. That used to be a huge thing back in the day. So I understand starting something
+
+41
+00:04:14,240 --> 00:04:21,600
+and then being bitten by this web thing and really digging into it. So is there something you wanted
+
+42
+00:04:21,600 --> 00:04:28,080
+to expand on? I must say I'm more interested in the front end side of things. It feels like I
+
+43
+00:04:28,080 --> 00:04:34,560
+would like to know the back end part to make things simpler if you do get stuck. But I must
+
+44
+00:04:34,560 --> 00:04:39,120
+definitely say I'm more interested in front end development. I don't really find PHP interesting.
+
+45
+00:04:39,920 --> 00:04:47,440
+I hate SQL. We had to do some in high school. I absolutely hate it. Yeah. No, it's a journey.
+
+46
+00:04:47,440 --> 00:04:55,040
+It is for sure. So now we know you about your background and how you came to where you are
+
+47
+00:04:55,040 --> 00:04:58,880
+and what you're looking to do for your future. Like you mentioned, one of the main things you
+
+48
+00:04:58,880 --> 00:05:07,280
+need to do is learn. So as you're learning, which resources have you really come to depend on?
+
+49
+00:05:09,600 --> 00:05:15,920
+I've got three, actually four now. I really like the input I usually get from you.
+
+50
+00:05:15,920 --> 00:05:21,120
+If we get together, I have a chat about things that's going on and places to find things to
+
+51
+00:05:21,840 --> 00:05:29,840
+help the development further. VS Code has gotten very essential for me. It is, I try it, sublime
+
+52
+00:05:29,840 --> 00:05:36,640
+text. It is very bare-boned and feels like amazing if you have a laptop and traveling around
+
+53
+00:05:37,440 --> 00:05:42,640
+and you have a moment to quickly open up and edit something. It's also very, very,
+
+54
+00:05:42,640 --> 00:05:47,120
+it's a lot smaller than VS Code. So it's easier for me to carry around on a flash drive.
+
+55
+00:05:48,640 --> 00:05:55,520
+So having Git actually is amazing. Just using GitHub in general, because where I am,
+
+56
+00:05:55,520 --> 00:06:00,160
+I would be able to download my current project. I'd be able to open it in sublime and work on it.
+
+57
+00:06:01,520 --> 00:06:06,080
+But when I'm home, I prefer to use GitHub to download my updates and everything
+
+58
+00:06:06,080 --> 00:06:11,280
+and then work through VS Code. And funny enough, YouTube is very essential to me.
+
+59
+00:06:12,400 --> 00:06:18,960
+I struggle to sit and read through a document of pages and pages. I just can't. So for me,
+
+60
+00:06:18,960 --> 00:06:22,480
+I like YouTube, someone telling you do this, this and this, and then they type it out.
+
+61
+00:06:23,200 --> 00:06:27,040
+So you can actually pause and go and do it yourself and then rinse and repeat until you
+
+62
+00:06:27,040 --> 00:06:32,400
+get the hang of whatever you're doing. Yeah, yeah, yeah. Yeah, no, I agree. There's
+
+63
+00:06:32,400 --> 00:06:39,440
+definitely different modalities that work better for some people. That is why with the 150 days
+
+64
+00:06:39,440 --> 00:06:45,280
+of HTML thingy that I'm putting together, I have incorporated video into the pages now so that if
+
+65
+00:06:45,280 --> 00:06:51,360
+you're more of a video person, you can listen to me talk through the content, but you have the
+
+66
+00:06:51,360 --> 00:06:57,520
+content just below you as a reference. I think that for me is something that I have understood
+
+67
+00:06:57,520 --> 00:07:02,960
+more and more is giving people different ways to consume the same content because not everybody
+
+68
+00:07:02,960 --> 00:07:08,960
+learns the same way. Is there anybody specifically on YouTube that you want to give a shout out to
+
+69
+00:07:08,960 --> 00:07:15,920
+that you find is particularly good? Now you're asking me a question half. I do know his name.
+
+70
+00:07:15,920 --> 00:07:24,320
+I just want to retrieve it. If I remember correctly, it's Mosh and he has a lot of coding
+
+71
+00:07:24,320 --> 00:07:31,200
+tutorials online. His entire teaching style, the way he talks, explains, all of the little
+
+72
+00:07:31,200 --> 00:07:37,840
+graphs and things he uses is amazing. I just really like learning this from this guy in particular.
+
+73
+00:07:39,200 --> 00:07:44,320
+I'm trying to just get his name right now. If I remember correctly, it's Mosh.
+
+74
+00:07:45,440 --> 00:07:47,760
+Sounds familiar. I think you've mentioned him to me as well.
+
+75
+00:07:47,760 --> 00:07:54,000
+The one big problem I'm actually running into as a new developer is finding the information I need.
+
+76
+00:07:56,080 --> 00:08:03,040
+Yeah. Yeah. So more often than not, I'd find myself asking what's next. I don't know what to learn
+
+77
+00:08:03,760 --> 00:08:10,400
+from here on out. Unfortunately, I do rely on free resources at the moment
+
+78
+00:08:10,400 --> 00:08:17,360
+because currently it's running from paycheck to paycheck. So I simply do not have the means to
+
+79
+00:08:18,080 --> 00:08:23,440
+pay for courses quite yet, especially the online stuff gets really expensive really quickly.
+
+80
+00:08:24,320 --> 00:08:25,840
+Yes, that's true.
+
+81
+00:08:27,120 --> 00:08:31,040
+There we go. I found his name, Mosh Hamadani.
+
+82
+00:08:32,320 --> 00:08:34,560
+All right. Cool. We should link him up in the
+
+83
+00:08:34,560 --> 00:08:39,840
+send me the link afterwards and I'll put it in the show notes. And I'll probably reach out to him
+
+84
+00:08:39,840 --> 00:08:45,520
+and see if I can do an interview with him on the podcast. Yeah, no, all of those things are very
+
+85
+00:08:45,520 --> 00:08:50,880
+true. And I think what's kind of nice is something that's starting to get a little more traction is
+
+86
+00:08:50,880 --> 00:08:58,640
+the idea of purchasing power parity pricing. It's always a hard one to say with the idea being that
+
+87
+00:08:58,640 --> 00:09:06,480
+depending on where you live, they will geofence the content, but you will pay a smaller and lower
+
+88
+00:09:06,480 --> 00:09:11,680
+amount based on where you live. Somebody that's really great with this is somebody like Ken C.
+
+89
+00:09:11,680 --> 00:09:18,560
+Dodds. He's got all those courses about react and testing and all that kind of stuff. And if I,
+
+90
+00:09:18,560 --> 00:09:25,280
+living in South Africa, purchase one of these courses, I get a 60% discount on that. So that's
+
+91
+00:09:25,280 --> 00:09:32,080
+like a purchase is one of these courses. I get a 60% discount immediately just because of purchase
+
+92
+00:09:32,080 --> 00:09:38,080
+parity pricing. So I think that's something that the industry as a whole should consider more
+
+93
+00:09:38,080 --> 00:09:43,760
+widely because then they can make it because I understand why people ask money for courses.
+
+94
+00:09:43,760 --> 00:09:49,040
+It's a heck of a lot of work. And if you want to do it well, it's especially a lot of work. And
+
+95
+00:09:49,040 --> 00:09:57,760
+for some people, this is how they make a living. But it is tough when you come from a third world
+
+96
+00:09:57,760 --> 00:10:02,240
+country or you're just starting out and you're still finding your feet and you don't have a bunch
+
+97
+00:10:02,240 --> 00:10:07,360
+of money to invest yet. It is hard. There's all kinds of other interesting things developing
+
+98
+00:10:07,360 --> 00:10:12,480
+around that idea as well. There's some academies and stuff in the United States exploring a different
+
+99
+00:10:12,480 --> 00:10:19,600
+way of paying for your courses. But that is definitely, I think the thing that I get from you is that
+
+100
+00:10:19,600 --> 00:10:25,840
+one big thing that's missing is a roadmap that you can look at, which points you at specific
+
+101
+00:10:25,840 --> 00:10:33,040
+learning material based on where you are along your path and also which path you're on. Are you
+
+102
+00:10:33,040 --> 00:10:38,240
+on a backend path? Are you on a full stack path or you're more on a front end path? Because you'll
+
+103
+00:10:38,240 --> 00:10:44,240
+have different milestones and different learning material needs there. So I think that is something
+
+104
+00:10:44,240 --> 00:10:50,880
+that we should look into, see if there are some resources to help there. Yeah, no, definitely.
+
+105
+00:10:50,880 --> 00:10:57,040
+Because being in the front end developer, I've been working, learning, and then I reach a point
+
+106
+00:10:57,040 --> 00:11:05,840
+and I just look at everything online. What now? Do I just invest my time into CSS? Do I just continue
+
+107
+00:11:05,840 --> 00:11:12,240
+HTML, Java? What next? What do I need to do? What do I need to find? So I end up spending two to three
+
+108
+00:11:12,240 --> 00:11:17,360
+hours searching for stuff to learn, running out of steam, learning for an hour or two, and then
+
+109
+00:11:17,360 --> 00:11:24,320
+continuing with my day. Rather than having to go somewhere and spend those hours more, an hour
+
+110
+00:11:24,320 --> 00:11:29,520
+finding this and this and this is what I need. And then two to three hours of learning whatever
+
+111
+00:11:29,520 --> 00:11:38,720
+needs to come next. Yeah. I think communities such as the Mycelium Network can also help there,
+
+112
+00:11:38,720 --> 00:11:45,600
+especially if we can get some more mentors to join our Discord server. And then where we're
+
+113
+00:11:45,600 --> 00:11:51,440
+talking about the idea of having some meetups virtually and in person where possible. I think
+
+114
+00:11:51,440 --> 00:11:57,600
+that'll help because there you can pose these kinds of questions and talk with other people.
+
+115
+00:11:57,600 --> 00:12:04,160
+And often, more often than not, somebody else is being where you are and they can say,
+
+116
+00:12:04,160 --> 00:12:08,640
+oh, I actually found this thing and it can kind of help you on your way. So I think
+
+117
+00:12:09,520 --> 00:12:15,120
+investing in community and joining in on these communities and being active I think is one of
+
+118
+00:12:15,120 --> 00:12:19,840
+the ways we can start solving this roadmap problem. But we have to get people from
+
+119
+00:12:19,840 --> 00:12:26,880
+data learning and people who are teaching in the same place. A nice mix of two. So you don't have
+
+120
+00:12:26,880 --> 00:12:34,080
+too many mentors and too little. So yeah, definitely. And it's quite a shy guy. It's
+
+121
+00:12:34,080 --> 00:12:39,920
+very difficult for me to enter the community. I don't know why I've always had this thing about
+
+122
+00:12:39,920 --> 00:12:46,960
+online communities. Even during my leisurely hours when I have gaming and stuff, I would not
+
+123
+00:12:46,960 --> 00:12:53,280
+communicate with both people on the server. I just find it strange, you can say. So that was quite
+
+124
+00:12:53,280 --> 00:12:59,040
+different for me. But what I found is you just jump in, find one thing you like, just drop a
+
+125
+00:12:59,040 --> 00:13:04,640
+comment and see what happens. Because after that first comment, you find it's actually not that
+
+126
+00:13:04,640 --> 00:13:11,120
+intimidating or scary. You can just go. Yeah, that's very true. And a lot of that comes down
+
+127
+00:13:11,120 --> 00:13:19,520
+to also the people running the community. If you are focused and you start off with good
+
+128
+00:13:19,520 --> 00:13:25,200
+community guidelines and you clearly enforce them, it helps a lot. Because there are
+
+129
+00:13:26,160 --> 00:13:34,240
+bundles out there that just want to come and sour the pot. But as long as there's people that
+
+130
+00:13:34,800 --> 00:13:38,800
+have their finger on the pulse and can quickly pick that up and make sure that those people are
+
+131
+00:13:38,800 --> 00:13:44,880
+either kicked or reprimanded in a way that they understand that that kind of behavior is not
+
+132
+00:13:44,880 --> 00:13:51,040
+welcome and their continued participation is going to hinge very heavily on them changing their
+
+133
+00:13:51,040 --> 00:13:56,880
+attitude. I think that is important. And it's something that unfortunately has been a little
+
+134
+00:13:56,880 --> 00:14:03,680
+rough on the internet, to put it mildly. Places got very toxic very quickly. And for me and you,
+
+135
+00:14:03,680 --> 00:14:10,160
+it might be a little bit easier than for some genders and people of different races and
+
+136
+00:14:10,160 --> 00:14:18,160
+ethnicities. For them, it's even harder to really feel comfortable in these groups. So big challenges
+
+137
+00:14:18,160 --> 00:14:22,160
+that we have, but as long as we acknowledge them, then at least we're in the right direction.
+
+138
+00:14:22,160 --> 00:14:27,520
+I think you've touched on a lot of the stuff from the next question I had in mind,
+
+139
+00:14:27,520 --> 00:14:32,480
+but I'm going to pose it anyway, just in case there's anything else. So having talked about
+
+140
+00:14:32,480 --> 00:14:37,280
+all of these resources and stuff. So clearly there's a bunch of things that don't work,
+
+141
+00:14:37,280 --> 00:14:41,600
+but there are things that work. But if there's anything else that you feel on that doesn't work
+
+142
+00:14:41,600 --> 00:14:49,440
+so great side that you want to highlight. The work that not works so great is a bit difficult.
+
+143
+00:14:50,400 --> 00:14:56,320
+It does not work so great. The only thing I'm personally really stuck on is feeling lost.
+
+144
+00:14:56,320 --> 00:15:01,280
+You're this drop that falls into an ocean, just kind of told swim. You don't know where you're
+
+145
+00:15:01,280 --> 00:15:05,440
+going. You don't know which way. You don't know if you should swim down or up or what's going on.
+
+146
+00:15:06,400 --> 00:15:10,800
+That's the only thing that's really missing for me. But that said, I do have you as a mentor as well.
+
+147
+00:15:11,440 --> 00:15:16,320
+So I don't feel that lost. If I get stuck, you can meet up and just say,
+
+148
+00:15:16,320 --> 00:15:19,200
+hey, listen, this is going on. How can we resolve this?
+
+149
+00:15:19,200 --> 00:15:26,160
+How can we resolve this? That's the important thing to have
+
+150
+00:15:26,160 --> 00:15:32,080
+and to nurture is this whole mental relationship. Because I do think that there's a lot of value
+
+151
+00:15:32,080 --> 00:15:37,600
+there that I think a lot of people miss. Yeah, that's what I'm about to say. That's
+
+152
+00:15:37,600 --> 00:15:42,400
+definitely something that's missing is finding someone you can ask a question to.
+
+153
+00:15:42,400 --> 00:15:48,880
+To just ask, how do you had a heading in HTML? And not him having you laugh at you and just saying,
+
+154
+00:15:48,880 --> 00:15:56,400
+oh, okay, let's help you. This is how we do it. This is why we do it. But I did not feel that
+
+155
+00:15:56,400 --> 00:16:01,440
+personally, because I did start my journey with you. So I had that from the get go, but I can
+
+156
+00:16:01,440 --> 00:16:07,360
+really see that being missing in a lot of people's startup, you can often have same.
+
+157
+00:16:07,360 --> 00:16:17,040
+Yeah, for sure. That's true. I've been there also. And I know that I actually searched widely to try
+
+158
+00:16:17,040 --> 00:16:23,840
+and find, is there any networks or mentorship programs or anything like that, that you can join?
+
+159
+00:16:23,840 --> 00:16:30,400
+And there are some now, to be honest, that I should probably mention. I'll put some of the
+
+160
+00:16:30,400 --> 00:16:35,280
+links to some of them in the show notes. Some stuff like Outreachy is really, really great.
+
+161
+00:16:35,280 --> 00:16:43,360
+And they also focus on being very intrusive. Outreachy does some amazing work. And there are
+
+162
+00:16:43,360 --> 00:16:49,920
+some other mentorship programs as well. But unfortunately, some of the mentorship things
+
+163
+00:16:49,920 --> 00:16:56,640
+again, comes with a cost, which is understandable. But again, if you're not in a position to be able
+
+164
+00:16:56,640 --> 00:17:04,400
+to pay, it is just another roadblock you have to face. And even though, you know, it's not
+
+165
+00:17:04,400 --> 00:17:10,640
+easy, even though web development specifically, that's what I can talk to mostly, I've come a
+
+166
+00:17:10,640 --> 00:17:16,000
+heck of a long way since the day was when I started. And a lot of things that used to be
+
+167
+00:17:16,000 --> 00:17:22,880
+super hard are now trivially simple. It's still not easy. There's still a lot of questions that
+
+168
+00:17:22,880 --> 00:17:26,320
+one has. So, you know, the need for that still exists very much.
+
+169
+00:17:26,320 --> 00:17:33,760
+No, it definitely does. As for the roadblock of the payment is, I have looked into teaching myself,
+
+170
+00:17:34,320 --> 00:17:44,240
+IT in general. So startup courses for old people or women, especially in my area, don't really know
+
+171
+00:17:44,240 --> 00:17:49,600
+how computers work. That was a big thing for me. A lot of female older women don't know in the area.
+
+172
+00:17:49,600 --> 00:17:54,320
+So I was looking to make something for them to teach them how computers work. And I completely
+
+173
+00:17:54,320 --> 00:18:03,040
+understand why you charge so much for a course. It's a lot of hard work. It's a lot of information
+
+174
+00:18:03,040 --> 00:18:08,240
+gathering and this and that. And you need to remember this. And even once I was ready to
+
+175
+00:18:08,240 --> 00:18:12,880
+start, I still felt like I still have to go through a couple of things and make sure.
+
+176
+00:18:14,720 --> 00:18:20,640
+I can totally understand why, but not having the funds necessarily available to
+
+177
+00:18:20,640 --> 00:18:27,760
+you by let's say $60 for advanced courses will help you. It's quite a hindrance because now I
+
+178
+00:18:27,760 --> 00:18:35,600
+have to go search. How can I get this information for free? Yeah. No, for sure. I completely get
+
+179
+00:18:35,600 --> 00:18:41,200
+that. And the other thing with courses, of course, is that you have to, especially if you're asking
+
+180
+00:18:41,200 --> 00:18:47,360
+money, is you have to keep it up to date. It's not something you make and then forget about because
+
+181
+00:18:47,360 --> 00:18:56,000
+the tech industry evolves and moves quite fast. So that's the other part is if you want to keep it,
+
+182
+00:18:56,000 --> 00:18:59,600
+if you want it to be useful, you have to keep it up to date.
+
+183
+00:19:01,120 --> 00:19:06,880
+That is something as well, because I was following books from Microsoft. I was lucky enough to get
+
+184
+00:19:06,880 --> 00:19:13,920
+access to those books and they fell into that trap. I would learn and learn and learn and learn it
+
+185
+00:19:13,920 --> 00:19:20,000
+to some point and I'll hit a roadblock. It's been, what's this? It's not working. What's going on?
+
+186
+00:19:20,000 --> 00:19:24,960
+And I have to go search for hours and hours and hours just to find out this phrase is no longer
+
+187
+00:19:24,960 --> 00:19:34,400
+valid. Simply change X to Y and it works. Yeah. So that is definitely a pitfall. I can see some
+
+188
+00:19:34,400 --> 00:19:41,040
+people falling into not keeping everything up to date. And it is frustrating for us who's new at
+
+189
+00:19:41,040 --> 00:19:47,200
+learning these things because now where you would know this or know where to look for it, I need to
+
+190
+00:19:47,200 --> 00:19:52,320
+spend two or three hours trying to find out why it's not working. What's going on? What's this error?
+
+191
+00:19:52,320 --> 00:19:58,960
+Yeah. Yeah, for sure. But teeing off the thing where you said you were looking at creating some
+
+192
+00:19:58,960 --> 00:20:04,000
+courses to teach people other skills that you already have, I think in general, that is a good
+
+193
+00:20:04,000 --> 00:20:09,600
+idea. And that's something that a lot of people knew to development. This doesn't matter what
+
+194
+00:20:09,600 --> 00:20:15,440
+industry it is, are a little bit scared of, but that I would personally encourage is to write about
+
+195
+00:20:15,440 --> 00:20:23,120
+the stuff that you learn because teaching is one of the best ways of learning. So if you've
+
+196
+00:20:23,120 --> 00:20:30,560
+built something, anything, like write about how you made it. It doesn't necessarily have to tell
+
+197
+00:20:30,560 --> 00:20:36,960
+a story per se about the struggles you had. It can literally just be you writing down how to make a
+
+198
+00:20:36,960 --> 00:20:44,880
+responsive euro with HTML and CSS. Because by doing that, you are thinking through the process
+
+199
+00:20:44,880 --> 00:20:48,960
+of having done that. Oftentimes you find ways that you can do it even better than what you've
+
+200
+00:20:48,960 --> 00:20:54,480
+already done it. So you automatically improve your existing code base. And at the end of the day,
+
+201
+00:20:54,480 --> 00:20:59,920
+you have a piece of writing that can also be useful for whether you start a business or whether
+
+202
+00:20:59,920 --> 00:21:04,480
+you're looking for employment. You have something to point people to, to say, not only did I make
+
+203
+00:21:04,480 --> 00:21:08,000
+this thing, but I wrote about how I did it. Because there's not a lot of people that can do
+
+204
+00:21:08,000 --> 00:21:11,840
+both of those things. A lot of people are really good at writing the software, but they're not so
+
+205
+00:21:11,840 --> 00:21:16,640
+great at teaching it. And more often than not, it's not that they don't have the skills. They
+
+206
+00:21:16,640 --> 00:21:22,240
+just never exercise that skill. So as they exercise their coding skills, they don't exercise
+
+207
+00:21:22,240 --> 00:21:27,520
+writing about their coding. And so that kind of never develops. So you have this amazing
+
+208
+00:21:27,520 --> 00:21:32,400
+software engineer, but if he tries to explain something to you, it's like right over your head,
+
+209
+00:21:32,400 --> 00:21:39,280
+because they'd never go back and think about how did I, what did I do before I knew how to do this?
+
+210
+00:21:39,280 --> 00:21:46,480
+How did I get to that point? What was the things that I, what were the things I did wrong? And how
+
+211
+00:21:46,480 --> 00:21:51,920
+did I find a better way and stuff like that. So I think while you're learning writing about the stuff
+
+212
+00:21:51,920 --> 00:21:59,280
+that you make is incredibly important. You just gave me a great idea to maybe branch off of my
+
+213
+00:21:59,280 --> 00:22:08,640
+existing URL to start something to score RWS journey. Just a place we can write. I made a
+
+214
+00:22:08,640 --> 00:22:15,040
+navigation bar today by using this, this, and this. I hit this roadblock, but I found this information
+
+215
+00:22:15,040 --> 00:22:20,640
+there. So if someone does read it, they can say, that's my problem. So I can just go look over there
+
+216
+00:22:20,640 --> 00:22:28,400
+to go fix it. Because something I hit a hard roadblock with is including JSON. So I can just
+
+217
+00:22:28,400 --> 00:22:34,400
+add JSON into my project. So everyone was just like, no, just add it, just install it, just do it.
+
+218
+00:22:34,960 --> 00:22:41,120
+Like, yeah, how, how do I do this? And after like two or three hours, I was like, oh, I just make a
+
+219
+00:22:41,120 --> 00:22:47,040
+text file, change the name and paste the stuff in and include it into my job and bam, Bob's your uncle.
+
+220
+00:22:48,480 --> 00:22:53,360
+Then again, just that little bit of knowledge I couldn't find for about two to three hours,
+
+221
+00:22:53,360 --> 00:23:00,960
+because everyone just explains how to use it, not how to implement it. Gotcha. And it's literally
+
+222
+00:23:00,960 --> 00:23:07,360
+because people just don't think that far back anymore. For them using JSON is just a thing you
+
+223
+00:23:07,360 --> 00:23:13,120
+do. Like it's just text. What are you talking about? But it's like, no, but if you don't know,
+
+224
+00:23:14,080 --> 00:23:19,600
+if you don't know what JSON is and how it fits into the larger framework of building a,
+
+225
+00:23:19,600 --> 00:23:24,880
+let's take for example, the one tool that I built developer tool chest. All that is in the end of
+
+226
+00:23:24,880 --> 00:23:32,880
+the day is a website that loads some JSON that has a specific structure and it loops through them.
+
+227
+00:23:32,880 --> 00:23:38,880
+And for each entry, it makes little block based on the search filter that you typed in. But if you
+
+228
+00:23:38,880 --> 00:23:46,240
+don't know how JSON fits into that whole thing, it can be like, wait, what is this JSON now? Is it a
+
+229
+00:23:46,240 --> 00:23:53,200
+database? It's like kind of, not really. So it's understanding that no, JSON is just a flight text
+
+230
+00:23:53,200 --> 00:24:02,400
+file that has certain limitations placed upon it. And JSON in the end is data. So this is like the
+
+231
+00:24:02,400 --> 00:24:08,560
+data part of your project. You describe data inside your JSON document and then you can consume
+
+232
+00:24:08,560 --> 00:24:14,560
+it as if it's like a database, kind of. Just a very, very loose database. I don't know if you've
+
+233
+00:24:14,560 --> 00:24:23,840
+ever looked up SQLite, but if you haven't, it doesn't matter. Just maybe after the podcast,
+
+234
+00:24:23,840 --> 00:24:28,960
+just have a search for SQLite. And SQLite is essentially just a flat text file on your hard
+
+235
+00:24:28,960 --> 00:24:37,760
+drive that acts as a database. But you can query the data as if it's SQL. That's why SQLite. And
+
+236
+00:24:37,760 --> 00:24:42,800
+like it's in everything. It's in everything. Like your mobile phone, your everything. It's
+
+237
+00:24:42,800 --> 00:24:49,840
+everywhere. SQLite is like everywhere. Okay. I already opened a tab of VF after we're done. So
+
+238
+00:24:49,840 --> 00:24:55,600
+that's one of those great reads. And that also reminded me, that's something I see a lot of
+
+239
+00:24:55,600 --> 00:25:01,840
+mentors fall, I want to say fall short, but I don't know if that's the right word. That's why
+
+240
+00:25:01,840 --> 00:25:09,520
+I like following Mosh. He says, use an H1 tag to add a title. And a lot of people just move on.
+
+241
+00:25:09,520 --> 00:25:14,560
+But for me personally, I want to know why. What does it do? How does it work? And what he does
+
+242
+00:25:14,560 --> 00:25:19,600
+is he pulls up the graph and tells you, H1 does this. It adds a title. It does this. This is how
+
+243
+00:25:19,600 --> 00:25:25,040
+you use it. This is how you can use it. So that is something I've been struggling with as well.
+
+244
+00:25:25,760 --> 00:25:30,480
+Because I've been following someone doing a text adventure game, because that was interesting to
+
+245
+00:25:30,480 --> 00:25:37,040
+me. This guy would just type, no, use this, this, this, enter, and go to the next thing. I'm like,
+
+246
+00:25:37,040 --> 00:25:43,280
+wait, why? Why did you do this? How does this work? You didn't explain to me anything. You just wrote
+
+247
+00:25:43,280 --> 00:25:48,240
+code on a little pad and moved on. So you didn't actually teach me anything. You just showed me
+
+248
+00:25:48,240 --> 00:25:57,040
+what you can do. Yeah. Yeah. Yeah. And I guess there's a place for that. But I think more often
+
+249
+00:25:57,040 --> 00:26:01,280
+than not, you find that a lot on Twitch, like a lot of people on Twitch would stream them working.
+
+250
+00:26:01,280 --> 00:26:07,520
+And the idea is not to, you might pick up some stuff by watching, but that's not their intent.
+
+251
+00:26:07,520 --> 00:26:13,200
+Their intent is just like, I'm doing some stuff and maybe I want to be held accountable. And
+
+252
+00:26:13,200 --> 00:26:17,760
+therefore I will stream every day between five and seven, and I'll work on this specific project.
+
+253
+00:26:18,400 --> 00:26:23,200
+It's more a way of keeping themselves accountable. And if somebody learned something out of it,
+
+254
+00:26:23,200 --> 00:26:28,640
+then great, but that's not the intent. But yeah, that's, that's all good stuff. So I'm wondering,
+
+255
+00:26:28,640 --> 00:26:34,800
+so looking towards the future, Sam, I'm going to, I'm going to, it was two separate questions,
+
+256
+00:26:34,800 --> 00:26:42,240
+but I think I'm going to throw it into one question. Okay. So you can do one or two things.
+
+257
+00:26:42,240 --> 00:26:48,160
+Like you can learn and learn and learn and eventually apply for a job and work for somebody
+
+258
+00:26:48,160 --> 00:26:53,520
+else. Or you can do the other thing, which is create your own opportunity by starting your own
+
+259
+00:26:53,520 --> 00:26:59,600
+business, whether that is building a product or starting an agency where you create websites and
+
+260
+00:26:59,600 --> 00:27:05,920
+design for other people. But I think in both of those areas, it doesn't really matter which one
+
+261
+00:27:05,920 --> 00:27:13,360
+you choose. This idea of an interview is part of both. The difference being on the one hand,
+
+262
+00:27:13,360 --> 00:27:18,320
+you're interviewing for a specific position at a specific company. The other one you're being
+
+263
+00:27:18,320 --> 00:27:24,000
+interviewed by a client who wants to know that if I give you money, I'll get a website and return.
+
+264
+00:27:24,000 --> 00:27:28,800
+So therefore I need to, you know, I'm just not blindly going to give you money. I want to speak
+
+265
+00:27:28,800 --> 00:27:34,880
+to you a little bit. And it's also a kind of an interview. So my question is, which one of the two
+
+266
+00:27:34,880 --> 00:27:42,000
+is of most interest to you, like starting a business or working for somebody. And based on
+
+267
+00:27:42,000 --> 00:27:49,920
+that, what is the things about these interviews that perhaps scare you a little bit? Okay.
+
+268
+00:27:49,920 --> 00:27:54,800
+Personally, I'd like to start my own business. I walked out of high school into my permanent job
+
+269
+00:27:55,600 --> 00:28:02,640
+working for about three years as a retail salesperson. And after that, I got the
+
+270
+00:28:02,640 --> 00:28:09,840
+opportunity for better hours, more pay doing school photos. So I've been working for a while
+
+271
+00:28:09,840 --> 00:28:14,720
+now. So I've been working there for three years now as well. So I've been basically working
+
+272
+00:28:14,720 --> 00:28:19,920
+since I got out of high school and I've reached a point where I've had enough of making someone
+
+273
+00:28:19,920 --> 00:28:24,240
+else rich. I've got a lot of knowledge. I've got a lot of experience with a lot of things.
+
+274
+00:28:24,240 --> 00:28:28,640
+I do feel like I want to start my own thing and I want to get away from working for someone else.
+
+275
+00:28:29,680 --> 00:28:34,480
+I want to start my own business. I'm starting my own thing, which I already have started.
+
+276
+00:28:34,480 --> 00:28:39,280
+I'm still looking for clients now. I've got one client pending. We still need to do this
+
+277
+00:28:39,280 --> 00:28:46,640
+interview you're talking about. But having about three years worth of sales experience,
+
+278
+00:28:46,640 --> 00:28:50,240
+the interviews are a fun part for me. I look forward to it and it's exciting.
+
+279
+00:28:54,320 --> 00:28:59,840
+I can definitely see the scary bits of it, having to explain to someone why to use you.
+
+280
+00:29:00,720 --> 00:29:06,560
+But what I always found in sales is if you use the term faker to make it, you can sell a pen
+
+281
+00:29:06,560 --> 00:29:12,960
+to a pen factory. If you stand there with a smile and they ask you, can you do back-end
+
+282
+00:29:12,960 --> 00:29:17,840
+developments and do this whole database thing? And tell them, yeah, sure. I do have to do some
+
+283
+00:29:17,840 --> 00:29:23,600
+research. I do need to freshen up on a couple of things, but let's talk. Let's see what you can do.
+
+284
+00:29:23,600 --> 00:29:29,760
+And I'll tell you yes or no, I can or cannot assist you. Then a client's more likely to use you,
+
+285
+00:29:29,760 --> 00:29:33,120
+if you're honest about things like that. Because they don't feel you're trying to
+
+286
+00:29:33,120 --> 00:29:38,560
+scam them out of money. They do feel like, okay, yeah, I do know what I'm doing. I just need to
+
+287
+00:29:38,560 --> 00:29:44,560
+sharpen up. So then already feel like, oh, okay. So you're not just someone looking for a quick
+
+288
+00:29:44,560 --> 00:29:49,760
+buck. You're actually interested in the work. Yeah, honesty goes a long way in business.
+
+289
+00:29:49,760 --> 00:29:55,120
+That's for sure. And I mean, I say that knowing full well that the business industry can be a
+
+290
+00:29:55,120 --> 00:30:00,960
+bit of a cutthroat industry as well. But I think you have to have morals for yourself and for your
+
+291
+00:30:00,960 --> 00:30:09,760
+business. And like me personally, for me as well, I have very fine lines of the type of clients I'd
+
+292
+00:30:09,760 --> 00:30:13,920
+be willing to work with and ones I wouldn't be willing to work with. And I think there I
+
+293
+00:30:13,920 --> 00:30:19,520
+shield myself a little bit from this cutthroat, like it's all about the money kind of thing.
+
+294
+00:30:19,520 --> 00:30:24,240
+Yeah, I think it's great. I think it's great to be honest and open that, sure, I can do this.
+
+295
+00:30:24,240 --> 00:30:27,920
+This specific part of the project might be a little bit more challenging, but
+
+296
+00:30:27,920 --> 00:30:34,560
+you know, I have enough experience in how to find answers. That's what I do is I find solutions to
+
+297
+00:30:34,560 --> 00:30:41,760
+problem. The technology is almost kind of the easy part. Mentally finding a solution is
+
+298
+00:30:42,960 --> 00:30:47,680
+lots of times harder than actually writing the code. It's understanding what is the problem
+
+299
+00:30:47,680 --> 00:30:54,880
+that the client's facing. How do I best solve this? And then what technology do I need to employ in
+
+300
+00:30:54,880 --> 00:31:00,320
+order to solve this? Because oftentimes people will come to you with a preconceived idea in their
+
+301
+00:31:00,320 --> 00:31:05,040
+head, because they've heard it from a friend, but it might not necessarily be the best solution for
+
+302
+00:31:05,040 --> 00:31:10,240
+them. There might be something better that's come along since they've framed it their thing.
+
+303
+00:31:10,240 --> 00:31:16,080
+Their friend might actually also benefit from your services. And because they might not know
+
+304
+00:31:16,080 --> 00:31:20,000
+that there's a better way to do this now, that could actually save them money or, you know,
+
+305
+00:31:20,000 --> 00:31:26,000
+help them grow their business faster. I'm always excited when I hear people wanting to start their
+
+306
+00:31:26,000 --> 00:31:32,800
+own businesses, because if we look at unemployment in the world, the need for jobs is massive. And
+
+307
+00:31:32,800 --> 00:31:39,360
+it is for each of us that starts our own little business and start networking with each other.
+
+308
+00:31:39,360 --> 00:31:43,680
+We're creating opportunities for ourselves, but down the line, we're creating opportunities for
+
+309
+00:31:43,680 --> 00:31:50,400
+others. And the nice thing about somebody like yourself, for example, sorting a business is,
+
+310
+00:31:50,400 --> 00:31:56,240
+you know, the pain of having to learn this stuff and having to find a job where people say,
+
+311
+00:31:56,240 --> 00:32:02,400
+oh, how much experience do you have? While working experience, not yet, but I've done all these.
+
+312
+00:32:02,400 --> 00:32:06,880
+Oh, no, no, no, we're looking for something five years experience, sorry. So you'll be more open
+
+313
+00:32:06,880 --> 00:32:12,720
+to listening to somebody and giving them a chance and telling them, you know what, come work. I'll
+
+314
+00:32:12,720 --> 00:32:17,760
+pay you a full salary for a month and let's see how it goes. If by the end of the month,
+
+315
+00:32:17,760 --> 00:32:25,200
+I can see that you could do the job, well, let's just keep going. But if I find that after a month
+
+316
+00:32:25,200 --> 00:32:31,120
+that you can even struggle, but if you're willing to learn and you're willing to do what's necessary
+
+317
+00:32:31,120 --> 00:32:37,120
+to get the work done, I'm happy to employ you. I think the more that we can get that kind of
+
+318
+00:32:37,120 --> 00:32:44,000
+thing going, the better. Yeah. And that sense that is something I find very difficult. I've been on
+
+319
+00:32:44,000 --> 00:32:49,520
+a lot of platforms like Upwork and so on, looking for jobs and I find stuff and I look at them like,
+
+320
+00:32:49,520 --> 00:32:55,440
+I can do this. I can do everything you need. I have all the requirements. I've got the technology.
+
+321
+00:32:55,440 --> 00:32:59,840
+I've got the background. I've got an internet connection. I've got all of this. The only thing
+
+322
+00:32:59,840 --> 00:33:05,440
+I'm lacking is the three years of experience I must have you're looking for. Yeah. And finding
+
+323
+00:33:05,440 --> 00:33:12,160
+that one person that says, Hey, listen, this is your opportunity. Just try, let's see what you can
+
+324
+00:33:12,160 --> 00:33:18,800
+do. That's all you need. That's all you need. That one guy that just says, I'm willing to give you
+
+325
+00:33:18,800 --> 00:33:22,800
+a month's worth of work. Let's see what you're doing. How are you doing? How are you handling
+
+326
+00:33:22,800 --> 00:33:28,640
+this? On a little bit of a side tangent, the interview, just circling back to the interviews,
+
+327
+00:33:28,640 --> 00:33:37,760
+I do have some advice for people. I turn it around. If I have a client comes to me, they can just find
+
+328
+00:33:37,760 --> 00:33:44,480
+my wording. I am interviewing them. I get them to tell me what they need. I get to tell them what
+
+329
+00:33:44,480 --> 00:33:49,600
+they get them to tell me what they are looking for, what they are looking to do. So they'll come to
+
+330
+00:33:49,600 --> 00:33:54,000
+me on three pages. I want this done. I want that done. I want this there. They'll be like, okay,
+
+331
+00:33:54,000 --> 00:33:59,360
+they'll be like, okay, well, this I can do for you. This I can do for you. It's very difficult. It
+
+332
+00:33:59,360 --> 00:34:04,640
+takes long. So you are going to be charged more for this because instead of just a quick, quick
+
+333
+00:34:04,640 --> 00:34:09,520
+hours with the work, this can take me about three or four hours, but I can do it another way for you.
+
+334
+00:34:10,960 --> 00:34:15,840
+So instead of sitting there and wondering, like, I'm, I'm being interviewed. I turn it around.
+
+335
+00:34:15,840 --> 00:34:21,360
+I ask them, what are you looking for? What do you want? What do you want out of this website?
+
+336
+00:34:21,360 --> 00:34:26,880
+Because obviously I can say whatever I want. And I might just go off in a site engine for an hour,
+
+337
+00:34:26,880 --> 00:34:32,160
+just speaking about myself and what I did, not answering any questions. Where if I tell the
+
+338
+00:34:32,160 --> 00:34:38,480
+client, what's your question? Then I answer, what's your next question? And I answer. And you ask a
+
+339
+00:34:38,480 --> 00:34:43,120
+question, I say something like, wait a second, this is not how it works. We can't do it this way.
+
+340
+00:34:43,120 --> 00:34:49,920
+We can do it this way, this way, or this way. Clients love having options. Yeah. So it's,
+
+341
+00:34:49,920 --> 00:34:55,520
+you pretty much flipped the interview around and you're interviewing them now. Because at the end
+
+342
+00:34:55,520 --> 00:35:01,520
+of the day, you do need to know from them what you need to do. Oh, yes. And having that person just
+
+343
+00:35:01,520 --> 00:35:06,240
+ask you the entire time, what do you want? What are you looking for? Yes, I can do this for you.
+
+344
+00:35:06,240 --> 00:35:11,680
+No, I cannot do this for you. Feels a lot easier than I sell websites. I make websites, go look
+
+345
+00:35:11,680 --> 00:35:18,480
+over there. I can make a navigation bar. I can. Then you change it all from me, me, me to them.
+
+346
+00:35:18,480 --> 00:35:27,360
+And you change the focus point around on them. And I feel very special if I can state it like that.
+
+347
+00:35:28,240 --> 00:35:32,000
+Yeah, no, for sure. No, that's great advice. Yeah. Thanks for sharing that.
+
+348
+00:35:33,440 --> 00:35:38,720
+This was really cool. I really enjoyed this. I'm looking forward to seeing where you go and
+
+349
+00:35:39,280 --> 00:35:46,960
+what you do with your business. So before we officially wrap it up, is there any projects
+
+350
+00:35:46,960 --> 00:35:51,120
+you're currently working on that you like to tell everybody about? This can be open source,
+
+351
+00:35:51,120 --> 00:35:56,560
+can be side projects, doesn't matter, client projects that you can talk about, or any like
+
+352
+00:35:56,560 --> 00:36:02,160
+links that you'd like people to know about. And of course, we'll have them all also in the
+
+353
+00:36:02,160 --> 00:36:06,560
+show notes. But if you want to give some specific shout outs, then go for it.
+
+354
+00:36:07,760 --> 00:36:13,840
+Not quite at the moment. I do have a client outstanding that is going, everything points
+
+355
+00:36:13,840 --> 00:36:19,040
+are going to use me to create their website. They do work with aluminum and door frames and
+
+356
+00:36:20,160 --> 00:36:28,080
+they install them for different houses all around our area here in Pretoria. So I will
+
+357
+00:36:28,080 --> 00:36:32,720
+love to share that journey. Like you said, I would love to make a blog for a journey
+
+358
+00:36:32,720 --> 00:36:39,520
+of how I will create that. But as of now, I still need all the information. So I haven't started
+
+359
+00:36:39,520 --> 00:36:45,600
+yet, but I have started planning. I have started looking at designs and color schemes and stuff
+
+360
+00:36:45,600 --> 00:36:54,080
+like that. The only current project I do have is my own website, which is rwswebdesign.co.za.
+
+361
+00:36:55,200 --> 00:37:00,240
+It is currently live. I have been communicating with our community, improving some stuff,
+
+362
+00:37:00,240 --> 00:37:06,160
+changing grammar, updating some of my graphics. And I do keep it up to date because this will be
+
+363
+00:37:06,160 --> 00:37:16,160
+my private business website from year on. That's great. Can you just repeat that URL for us?
+
+364
+00:37:16,160 --> 00:37:25,520
+That's rwswebdesign.co.za. Okay. rwswebdesign.co.za. Go check it out, folks.
+
+365
+00:37:26,880 --> 00:37:30,960
+So other than that, the side projects I don't really have at the moment,
+
+366
+00:37:30,960 --> 00:37:37,120
+I would like to give a shout out to FreeCodeCamp.org. You actually gave me this site a bit
+
+367
+00:37:37,120 --> 00:37:44,720
+earlier this week, I think. It's an amazing platform so far for me to learn. They do start
+
+368
+00:37:44,720 --> 00:37:50,000
+from the very basics, which is a bit annoying. They got about four or five exercises in, and
+
+369
+00:37:50,000 --> 00:37:55,840
+they've already taught me something new of the basics. I didn't know. So far, it feels like an
+
+370
+00:37:55,840 --> 00:38:02,080
+amazing tutorial, especially for beginners to start at because they start simple, easy to understand.
+
+371
+00:38:02,720 --> 00:38:05,200
+They've got documentation, all of that good things.
+
+372
+00:38:06,400 --> 00:38:09,680
+Yeah. And the great thing about FreeCodeCamp is, well, it's free, but
+
+373
+00:38:11,280 --> 00:38:18,320
+beyond that, it's built by a community of contributors. So one, it's kept up to date,
+
+374
+00:38:18,320 --> 00:38:24,960
+constantly being improved. And you yourself, like Riku, that's learning, you can contribute back to
+
+375
+00:38:24,960 --> 00:38:29,680
+that project, even if it's just a small thing where you maybe find the wording of something not
+
+376
+00:38:29,680 --> 00:38:34,880
+as understandable as you'd like to be. It's an open source project. You can fork it, open a pull
+
+377
+00:38:34,880 --> 00:38:41,120
+request and propose something that you feel would improve it. So I think it's really great to be
+
+378
+00:38:41,120 --> 00:38:44,640
+involved with projects like that. And as one of the other ones that I'll give a shout out to,
+
+379
+00:38:44,640 --> 00:38:49,280
+because I'm quite involved with them, that is in the same vein. It's an open source project. All
+
+380
+00:38:49,280 --> 00:38:55,760
+the content is right there. It's community written. There are some people paid to work on it, but it's
+
+381
+00:38:55,760 --> 00:39:01,920
+a massive open source project. So I think being involved in these projects is great. And there's
+
+382
+00:39:01,920 --> 00:39:07,760
+a lot of wonderful people behind these projects that would be happy to receive pull requests. So
+
+383
+00:39:07,760 --> 00:39:14,320
+I can personally send an invitation to everybody listening to both go check out FreeCodeCamp and
+
+384
+00:39:14,320 --> 00:39:20,800
+MDN Web Docs on GitHub and on the web and learn, contribute. It's all good. It's all learning
+
+385
+00:39:20,800 --> 00:39:27,840
+experience. So yeah, thanks for sharing that. Yeah. So yeah, no, there is something I would like to
+
+386
+00:39:27,840 --> 00:39:36,080
+go back and actually donate to FreeCodeCamp, not if, when my business takes off. When I become
+
+387
+00:39:36,080 --> 00:39:40,480
+a success, I would love to go back and actually donate to them. And that is something I am very
+
+388
+00:39:40,480 --> 00:39:48,320
+appreciative of them. They don't cap their learning based on paygates. You are busy working and it
+
+389
+00:39:48,320 --> 00:39:53,200
+pops up like, Hey, listen, would you like to donate? I just look ashamed. Like, no, not now.
+
+390
+00:39:54,400 --> 00:39:58,880
+Maybe, maybe once my first site takes off and I've made my first sale, I'll come back and I'll
+
+391
+00:39:58,880 --> 00:40:04,800
+come donate something. I've totally done that. I've totally done that with a couple of open
+
+392
+00:40:04,800 --> 00:40:10,960
+source things where it's been just like, I wouldn't be where I am without it. And so now
+
+393
+00:40:10,960 --> 00:40:16,240
+that I am where I am, I totally just go and do a monthly, like set up a monthly donation
+
+394
+00:40:17,120 --> 00:40:21,360
+because I want it to be around for the next generation and I want it to keep improving.
+
+395
+00:40:21,920 --> 00:40:28,080
+So yeah, I think that's great that you're also already preparing yourself for doing that.
+
+396
+00:40:28,080 --> 00:40:33,120
+It's great stuff. Well, thanks Rico. It was really great. Thanks for being the first guest
+
+397
+00:40:33,120 --> 00:40:38,640
+on the My CD and Metro podcast. I hope this is going to be one of many, many, many, and
+
+398
+00:40:38,640 --> 00:40:43,440
+we'll do one again once, once your business is huge and you've got like hundreds of employees.
+
+399
+00:40:45,360 --> 00:40:49,440
+That's been great. Thank you for having me. It's been quite an experience. Always nice to
+
+400
+00:40:49,440 --> 00:40:53,680
+sit and speak to someone about these kinds of things. Yeah. Not just sitting in your own mind,
+
+401
+00:40:53,680 --> 00:40:59,440
+just thinking about all of this stuff and just feeling stuck. So I would actually recommend it
+
+402
+00:40:59,440 --> 00:41:03,440
+for shy people as well. Get a community, join a community and just start speaking with people.
+
+403
+00:41:04,320 --> 00:41:10,480
+It really lightens the load if you say it like that. Yeah, it's been quite a pleasure.
+
+404
+00:41:12,080 --> 00:41:16,880
+Same for me. Thank you for listening to this episode of the My CD and Metro podcast.
+
+405
+00:41:17,440 --> 00:41:21,520
+If you're not already, please subscribe, store, and leave a review for us in your
+
+406
+00:41:21,520 --> 00:41:29,360
+podcatcher of choice. This helps others find us and helps us make a better podcast for you. You
+
+407
+00:41:29,360 --> 00:41:34,560
+can also find and follow us on Twitter at networkmycindium and join the community on
+
+408
+00:41:34,560 --> 00:41:52,080
+Discord. All the links are available in the show notes.
+

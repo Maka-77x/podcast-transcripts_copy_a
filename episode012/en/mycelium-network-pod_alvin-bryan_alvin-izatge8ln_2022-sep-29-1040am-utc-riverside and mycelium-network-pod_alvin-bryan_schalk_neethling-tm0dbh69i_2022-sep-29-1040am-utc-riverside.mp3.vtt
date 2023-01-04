@@ -1,0 +1,2462 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Marseillean Network Podcast, a podcast all about early-stage web developers
+
+00:06.640 --> 00:09.760
+and the mentors and teachers that help them along the way.
+
+00:09.760 --> 00:11.200
+Hey, Alvin.
+
+00:11.200 --> 00:15.000
+Thank you so much for joining me today on this Thursday.
+
+00:15.000 --> 00:17.880
+I'm always supposed to be on track for time this week.
+
+00:17.880 --> 00:18.880
+Thanks so much for joining me.
+
+00:18.880 --> 00:21.440
+I'm really looking forward to our conversation.
+
+00:21.440 --> 00:22.440
+I am too.
+
+00:22.440 --> 00:23.440
+Thank you so much for having me on.
+
+00:23.440 --> 00:24.440
+Yeah, pleasure.
+
+00:24.440 --> 00:29.640
+So, as I start with all my guests, I'm not going to tell your story.
+
+00:29.640 --> 00:32.000
+I think you can do it better than I can.
+
+00:32.000 --> 00:35.800
+So instead of that, I'm going to give you the floor and take as much time as you need,
+
+00:35.800 --> 00:36.800
+as I always say.
+
+00:36.800 --> 00:40.400
+Go as far back into your history as you'd like and bring us up to the current day and
+
+00:40.400 --> 00:42.760
+just tell us a bit more about you.
+
+00:42.760 --> 00:43.760
+For sure.
+
+00:43.760 --> 00:46.480
+So, hey, I'm Alvin.
+
+00:46.480 --> 00:49.880
+I've been in the industry for a while.
+
+00:49.880 --> 00:53.520
+Primarily, I worked as a front-end type person.
+
+00:53.520 --> 00:57.720
+So I was always driven by the same idea of like, how can I make like things that look
+
+00:57.720 --> 01:04.680
+and feel nice to the user so that whether it's beautiful, fun, entertaining.
+
+01:04.680 --> 01:07.520
+And that took like a few forms, I guess.
+
+01:07.520 --> 01:15.600
+I worked on games, I worked on data visualizations, I worked on most recently designed systems.
+
+01:15.600 --> 01:21.720
+And now, a new sort of turn in my career is I've been, since the month of May this year,
+
+01:21.720 --> 01:26.160
+so about four months, four or five months, a developer advocate at Contentful.
+
+01:26.160 --> 01:27.160
+Cool.
+
+01:27.160 --> 01:28.160
+Yeah.
+
+01:28.160 --> 01:29.160
+I like the design systems angle.
+
+01:29.160 --> 01:32.040
+I wonder if you want to dig into that a little bit, because I know that is something that
+
+01:32.040 --> 01:33.320
+I'm pretty passionate about.
+
+01:33.320 --> 01:38.120
+I had a couple of clients that I was at.
+
+01:38.120 --> 01:43.120
+They were playing very fast and loose with their brand.
+
+01:43.120 --> 01:46.560
+And it's not, you know, it's not their fault if there isn't any structure.
+
+01:46.560 --> 01:52.360
+But then, if you approach them as this idea of a design system, they're a little hesitant
+
+01:52.360 --> 01:54.880
+because they're like, how much time is this going to take?
+
+01:54.880 --> 01:55.880
+I was like...
+
+01:55.880 --> 01:56.880
+Always.
+
+01:56.880 --> 01:57.880
+What's the...
+
+01:57.880 --> 01:58.880
+What's the value of it?
+
+01:58.880 --> 01:59.880
+You know?
+
+01:59.880 --> 02:00.880
+Yeah.
+
+02:00.880 --> 02:01.880
+It's going to take a little bit of time.
+
+02:01.880 --> 02:05.480
+But just let me paint you a picture of the future and what it might be like once you
+
+02:05.480 --> 02:06.480
+have this thing in place.
+
+02:06.480 --> 02:10.880
+Do you want to dig a little bit more into design systems and what they are and maybe
+
+02:10.880 --> 02:13.400
+even try and answer some of those questions?
+
+02:13.400 --> 02:14.960
+Yeah, for sure.
+
+02:14.960 --> 02:22.880
+So for me, I guess what interested me in design systems is that it's the place where developers
+
+02:22.880 --> 02:26.040
+and designers have to collaborate, right?
+
+02:26.040 --> 02:27.040
+It's like...
+
+02:27.040 --> 02:31.680
+And that's always been the sweet spot for me, where the more design-driven something
+
+02:31.680 --> 02:33.760
+is, usually the more I like it.
+
+02:33.760 --> 02:39.840
+And I found that design systems were this, but at the larger scale.
+
+02:39.840 --> 02:45.440
+As much as I was interested in very large, complex front ends that had lots of moving
+
+02:45.440 --> 02:51.320
+parts with 50 people working on something, a design system, on the other hand, is much
+
+02:51.320 --> 02:56.800
+more interesting because you have your designers and your developers working together in making
+
+02:56.800 --> 02:58.800
+something, right?
+
+02:58.800 --> 03:01.400
+And that was always the cool thing for me.
+
+03:01.400 --> 03:08.800
+In terms of, again, application for the brand, when a design system is well put together,
+
+03:08.800 --> 03:14.000
+it's just really satisfying when you can create a sub page or a landing page really quickly
+
+03:14.000 --> 03:17.120
+because you're just putting blocks together and then you're like, okay, I've got the boring
+
+03:17.120 --> 03:25.880
+bits, done, and now I can focus on the more bespoke, interactive, interesting things.
+
+03:25.880 --> 03:31.520
+Otherwise, if you're always trying to find the same nav and the same sub menu or whatever
+
+03:31.520 --> 03:37.400
+and you're having to code that or just lift and shift that in a non-standard way, you
+
+03:37.400 --> 03:41.320
+can just waste a bunch of time recoding the same things.
+
+03:41.320 --> 03:45.360
+Whereas if you have everything that's ready, you could just say, okay, put the blocks together,
+
+03:45.360 --> 03:47.680
+boom, nav, boom, headings.
+
+03:47.680 --> 03:49.680
+Everything has the right font size, the right spacing.
+
+03:49.680 --> 03:54.760
+You don't have to peer into Figma too much or Sketch or whatever, but everything's already
+
+03:54.760 --> 03:55.760
+done for you.
+
+03:55.760 --> 04:00.320
+So everything is neat and tidy very quickly.
+
+04:00.320 --> 04:04.360
+But the bespoke bit that you need, then you have more time for it.
+
+04:04.360 --> 04:06.400
+Did that make any sense?
+
+04:06.400 --> 04:07.400
+100%.
+
+04:07.400 --> 04:08.760
+No, 100% agree.
+
+04:08.760 --> 04:13.840
+I think that is one of the big things about the design system because it's not just the
+
+04:13.840 --> 04:17.640
+design, it's also the components that comes out of the design.
+
+04:17.640 --> 04:23.320
+And those are actual living, breathing pieces of code that you can then compose together.
+
+04:23.320 --> 04:29.000
+And I think maybe React was the framework that really started making friendly people
+
+04:29.000 --> 04:32.200
+think about components, but I mean, now it's in everything.
+
+04:32.200 --> 04:34.080
+It's actually baked into the web platform.
+
+04:34.080 --> 04:37.880
+We have web components, it's in the name.
+
+04:37.880 --> 04:43.040
+So I think the next evolution is, what do they call them?
+
+04:43.040 --> 04:44.040
+Design tokens.
+
+04:44.040 --> 04:47.520
+I think that's the next evolution of design systems.
+
+04:47.520 --> 04:55.440
+And there's this ability to cross-share design tokens between systems like Figma, Benpot,
+
+04:55.440 --> 05:00.480
+and then like your development environment where you literally export like a JSON definition
+
+05:00.480 --> 05:04.500
+and you have these tools that can take that and generate code.
+
+05:04.500 --> 05:08.480
+I used this one from Adobe where basically you have that and then you can tell it like
+
+05:08.480 --> 05:13.520
+generate me the style sheets for, I put it in quotes because it's more than just style
+
+05:13.520 --> 05:20.240
+sheets, for web, iOS, Android, blah, blah, and it's like just root all from the single
+
+05:20.240 --> 05:21.240
+JSON thing.
+
+05:21.240 --> 05:25.560
+And then once the designers make the changes in Figma, say for example, and they export
+
+05:25.560 --> 05:33.080
+the latest version, it like just does like a automatic re-roll and I'm looking forward
+
+05:33.080 --> 05:34.560
+to that being more of a thing.
+
+05:34.560 --> 05:40.320
+It's still early days there, but at this point you have to do quite a bit of hacking to get
+
+05:40.320 --> 05:46.320
+it to work really efficiently, but I'm looking forward to the future of what that can be.
+
+05:46.320 --> 05:52.860
+So I noticed a post that you wrote called, learning to code in a time of crisis.
+
+05:52.860 --> 05:57.400
+I love the title, it intrigues me, so I automatically want to know more.
+
+05:57.400 --> 06:01.280
+And I think that probably ties into one of the other questions I often ask, which is,
+
+06:01.280 --> 06:06.280
+what advice do you have for early stage web developers or developers in general on how
+
+06:06.280 --> 06:08.080
+to stay motivated?
+
+06:08.080 --> 06:09.440
+Right.
+
+06:09.440 --> 06:15.800
+So I'm going to start with like the post, the blog post, learning to code in time of
+
+06:15.800 --> 06:19.920
+crisis first, and then I'll sort of find advice from that.
+
+06:19.920 --> 06:32.480
+So my idea with this post, which was interesting because I started writing it in 2020, in March,
+
+06:32.480 --> 06:39.040
+when the whole world shut down, we know what happened, I had a couple of people ask me
+
+06:39.040 --> 06:44.460
+whether it was easy to find a job as a coder and if it was something they could break into,
+
+06:44.460 --> 06:51.560
+so I started writing it, started outlining it, and then I wasn't super happy with it
+
+06:51.560 --> 06:58.200
+and I sort of shelved it because as you know, in 2021, the economy kicked back again, then
+
+06:58.200 --> 07:03.880
+we had this boom in tech which seemed was going to last forever, but it didn't.
+
+07:03.880 --> 07:07.800
+In 2022, the economy is in a pickle again.
+
+07:07.800 --> 07:12.600
+And I had also another person ask me the same question and I was like, you know what, I'm
+
+07:12.600 --> 07:17.200
+going to finish it, find another angle to it, and that's what I did.
+
+07:17.200 --> 07:20.680
+So the blog post has a couple of things in it.
+
+07:20.680 --> 07:27.600
+The first main point is the job market sucks right now if you're trying to break into it
+
+07:27.600 --> 07:32.800
+as a beginner, but that doesn't mean it's impossible and you just want to be realistic
+
+07:32.800 --> 07:33.800
+with it.
+
+07:33.800 --> 07:37.300
+It's like even if you heard these stories maybe a year ago, two years ago, three years
+
+07:37.300 --> 07:45.000
+ago of people going from zero to great coding job in three, six months, it may happen to
+
+07:45.000 --> 07:47.120
+you again, but it's just less likely.
+
+07:47.120 --> 07:51.440
+So just got to be realistic with the state of the tech market right now.
+
+07:51.440 --> 07:57.340
+That doesn't mean, as I said, it's impossible, but just want to be realistic.
+
+07:57.340 --> 07:58.720
+So that's like with the negatives.
+
+07:58.720 --> 08:04.780
+With the positives though, the great thing is the tech industry is used to people coming
+
+08:04.780 --> 08:12.440
+from a variety of backgrounds and going from the most random jobs to coding.
+
+08:12.440 --> 08:14.920
+I think I have a bunch of examples there.
+
+08:14.920 --> 08:21.320
+But yeah, so it's not a foreign thing to do, it's not to say that there's zero elitism
+
+08:21.320 --> 08:25.640
+in the tech industry, it exists everywhere, but we're used to people jumping from different
+
+08:25.640 --> 08:30.160
+careers so we will not be looked at weirdly or if you think your case is really unusual
+
+08:30.160 --> 08:34.320
+like, oh, but I don't know, I'm coming from this very specific background, it's probably
+
+08:34.320 --> 08:38.120
+someone else who did something similar.
+
+08:38.120 --> 08:47.780
+That's one part and also with developers in particular and designers too, remote work
+
+08:47.780 --> 08:49.960
+is definitely a thing now.
+
+08:49.960 --> 08:54.760
+So if you think about it in a way that if you're looking for a job, you have access
+
+08:54.760 --> 09:00.740
+to companies, of course, you can go as far as you want on the entire planet, some people
+
+09:00.740 --> 09:06.120
+work across multiple time zones and everything, but even within your own country, even if
+
+09:06.120 --> 09:11.240
+you think, okay, just within my own country, I can apply to pretty much any company there,
+
+09:11.240 --> 09:15.520
+not any but like a ton of companies there who do remote work, that's a huge advantage
+
+09:15.520 --> 09:20.720
+compared to whatever job, if you're a nurse or something that needs you to move your life
+
+09:20.720 --> 09:24.560
+around, what about your partner, what about your children?
+
+09:24.560 --> 09:25.560
+And that's amazing.
+
+09:25.560 --> 09:30.040
+I mean, there's tons of companies that work across countries, across time zones, like
+
+09:30.040 --> 09:33.920
+you in South Africa, you're in the same time zone as Germany, for example, so you could
+
+09:33.920 --> 09:37.400
+work with a German company like me, right?
+
+09:37.400 --> 09:40.880
+But even if you think at the smaller scale of like, okay, just my own country, that's
+
+09:40.880 --> 09:49.880
+already a huge advantage and so they're good and there's bad and it's still a good thing
+
+09:49.880 --> 09:55.720
+to learn, but just be realistic that the market is weird at the moment.
+
+09:55.720 --> 10:00.560
+Yeah, what do you think is weird about it?
+
+10:00.560 --> 10:11.400
+Do you think it's that maybe the opportunities that exist require a certain amount of experience
+
+10:11.400 --> 10:16.480
+and that is the problem for early stage folks is they lack that experience and so while
+
+10:16.480 --> 10:23.880
+there might be a shortage of skills, it's more a shortage of skills of experienced developers,
+
+10:23.880 --> 10:32.560
+not so much new developers, or do you think companies are hesitant towards hiring juniors?
+
+10:32.560 --> 10:37.680
+The problem right now is that there were a ton of layoffs, so you have a huge pool of
+
+10:37.680 --> 10:41.440
+experienced coders that are on the market, so that's the problem.
+
+10:41.440 --> 10:46.440
+If you have one opening, you'll probably get the most experience because you can, right?
+
+10:46.440 --> 10:52.680
+Because there was all these layoffs happening, but again, it depends, it doesn't mean it's
+
+10:52.680 --> 10:59.800
+impossible, it's just harder than it used to be when you had more of an equal distribution
+
+10:59.800 --> 11:03.200
+of people of all levels entering the market.
+
+11:03.200 --> 11:08.400
+Now you have this ton of layoffs, you have a ton of people with experience that are being
+
+11:08.400 --> 11:14.120
+dumped into the markets looking for jobs at the same time, so it's harder.
+
+11:14.120 --> 11:22.480
+I just hope it will balance out in the near future, but at least in the summer, just for
+
+11:22.480 --> 11:27.960
+people listening to this in the future, since the spring of 2022, we had basically non-stop
+
+11:27.960 --> 11:35.240
+big layoffs happening all the time, and we're recording this in September, early October,
+
+11:35.240 --> 11:42.160
+so in the past four months, it's been non-stop, company X laid off 1,000 tech workers, company
+
+11:42.160 --> 11:50.080
+B laid off 500, so it's just really hitting it hard, but I hope it will balance out.
+
+11:50.080 --> 11:54.440
+But as you said, there's still a shortage of developers, people are still struggling
+
+11:54.440 --> 12:00.000
+to find them, so that's not going to disappear, and more, as we know, technology is eating
+
+12:00.000 --> 12:06.200
+our lives, so I don't see that stopping, but yeah, the market conditions are a bit weird
+
+12:06.200 --> 12:07.200
+at the moment.
+
+12:07.200 --> 12:11.760
+Yeah, that's a good point, yeah, I don't think about that, that's a very good insight.
+
+12:11.760 --> 12:19.160
+So with that, with that challenge, I think already for early stage developers and people
+
+12:19.160 --> 12:25.720
+switching careers and stuff like that, it's already stressful, a little scary, and now
+
+12:25.720 --> 12:30.760
+you have this added thing that you just mentioned, where it's like, oh, now I'm competing against
+
+12:30.760 --> 12:37.480
+somebody with five years experience, I'm stuffed, how would you, any advice on how to stay motivated
+
+12:37.480 --> 12:41.920
+and just keep going, keep trying, don't give up?
+
+12:41.920 --> 12:51.920
+For sure, yeah, I think keep at it, as you said, and be consistent, even if you'll, so
+
+12:51.920 --> 12:56.840
+it's a bit of a weirdly worded way of saying it, but keep at it, be consistent, even if
+
+12:56.840 --> 13:03.040
+you'll see inconsistency like everything else, because learning everything, your progress
+
+13:03.040 --> 13:09.960
+will not be linear, so it's like learning a musical instrument or anything, sometimes
+
+13:09.960 --> 13:14.000
+you're going to make a ton of progress in a couple of weeks, and then you really struggle
+
+13:14.000 --> 13:20.320
+for like three or four, and then it's going to go up and down like this, and it's not
+
+13:20.320 --> 13:24.960
+easy, and my own personal failure to be any good at any musical instrument can attest
+
+13:24.960 --> 13:28.960
+to that, so yeah, somehow with coding it worked.
+
+13:28.960 --> 13:34.120
+I guess with coding maybe it's easier to see progress, because you can visually see your
+
+13:34.120 --> 13:38.600
+programs becoming more complicated, whereas maybe with a musical instrument you're just
+
+13:38.600 --> 13:43.240
+getting a little bit faster, maybe I'm just making excuses, doesn't matter, but yeah,
+
+13:43.240 --> 13:49.440
+so going back to the word of advice, yeah, keep at it, it will be inconsistent, and keep
+
+13:49.440 --> 13:55.760
+the end goal in mind, and have an achievable end goal, so if you think, okay, I want to
+
+13:55.760 --> 14:02.400
+build up a portfolio of work that includes Project X, make sure you have that in mind,
+
+14:02.400 --> 14:07.520
+and you keep thinking, okay, I'm moving towards that goal, rather than just like have this
+
+14:07.520 --> 14:14.280
+abstract thing like, I'm going to learn Python, you know, like, yes, you know, but it's very
+
+14:14.280 --> 14:19.360
+easy to fizzle out when you have a goal like this, just learn Python, what does that mean,
+
+14:19.360 --> 14:20.360
+you know?
+
+14:20.360 --> 14:27.960
+Yeah, I'm definitely a very goal-oriented person, I've mentioned it in previous episodes
+
+14:27.960 --> 14:31.840
+of the podcast, I find it very difficult to learn something for the sake of learning it,
+
+14:31.840 --> 14:38.320
+I always need an outlet for it, like I need, you know, either something I can contribute
+
+14:38.320 --> 14:43.760
+to that uses the technology I'm learning, so I can like apply what I learn, or just
+
+14:43.760 --> 14:48.400
+scratching on my own itch, or even make up my own little project, even if it's like just
+
+14:48.400 --> 14:56.880
+for me, just as a means of using the skills I'm learning, if I feel I'm just like making
+
+14:56.880 --> 15:01.420
+the little food app that you're doing as part of the course, it doesn't feel as fulfilling
+
+15:01.420 --> 15:10.400
+to me, and because a lot of the courses like feed off each other, which is good, it's like
+
+15:10.400 --> 15:16.680
+music where, you know, the music you make today is influenced by the music from the
+
+15:16.680 --> 15:20.980
+past, and so sometimes you'll hear a band and you'll say, I hear a little bit of Rolling
+
+15:20.980 --> 15:26.320
+Stones in there with weeks with a little bit of Beatles, and it's good, I mean, it's good,
+
+15:26.320 --> 15:31.880
+I heard, I don't know, the artist Grimes, I listened to an interview with her, I'm not
+
+15:31.880 --> 15:36.160
+a fan of her music or anything, but she's a very fascinating person, and she says, music
+
+15:36.160 --> 15:40.080
+is like having a conversation with those who came before you, and I think that was really
+
+15:40.080 --> 15:48.120
+just beautiful, and so yeah, I think the same thing here, I do think it's good that these
+
+15:48.120 --> 15:55.640
+course materials are feeding off each other and improving through that, but maybe they
+
+15:55.640 --> 16:01.680
+should look at expanding the portfolio of examples you build, so it's not like you're
+
+16:01.680 --> 16:08.560
+building just another food app, another to-do app, because that can get tedious.
+
+16:08.560 --> 16:13.600
+I wanted to jump into a different problem, now I'm thinking if I should first flip to
+
+16:13.600 --> 16:19.160
+a different topic or we should just keep going, I think let's just keep going on this road.
+
+16:19.160 --> 16:24.140
+So I think you've highlighted some of these things, but maybe we can dig into it more.
+
+16:24.140 --> 16:27.960
+From your perspective, what do you think are the biggest problems in the tech industry?
+
+16:27.960 --> 16:36.560
+Yeah, so I generally don't like thinking absolute statements like their biggest, but I think
+
+16:36.560 --> 16:44.840
+a big problem we have that is recognized still is diversity, even though we've improved a
+
+16:44.840 --> 16:45.840
+lot.
+
+16:45.840 --> 16:53.080
+Don't get me wrong, the tech workforce of today looks nothing like the tech workforce
+
+16:53.080 --> 17:01.760
+of five, six, seven years ago, really improved a lot in that regard, but it's still a problem.
+
+17:01.760 --> 17:07.640
+We still know we need to have more diverse voices and it kind of feeds off with what
+
+17:07.640 --> 17:12.720
+we were talking about with having people from different backgrounds, right?
+
+17:12.720 --> 17:22.920
+The more we have people that come in with a fresh eye from a random job before, the
+
+17:22.920 --> 17:26.400
+better our product is going to be, right?
+
+17:26.400 --> 17:32.880
+And so this is something that the tech industry knows there's a problem and we're trying to
+
+17:32.880 --> 17:36.320
+fix it, but it's more aware that there's still a problem.
+
+17:36.320 --> 17:39.920
+And then coming back, I guess, to what we were saying, this is also where it's interesting
+
+17:39.920 --> 17:44.520
+where people would hire you because you were talking as a beginner, because when you were
+
+17:44.520 --> 17:49.400
+talking about earlier about how the hell do I compete with someone who has five years,
+
+17:49.400 --> 17:55.800
+maybe even if you don't have as many actual years, maybe there's something about your
+
+17:55.800 --> 18:01.120
+background and about yourself and about the way you see design and accessibility that
+
+18:01.120 --> 18:06.160
+is unique to you and someone who's been working on a very specific thing for five years cannot
+
+18:06.160 --> 18:08.800
+contribute to the company and the product.
+
+18:08.800 --> 18:16.520
+So that also is, I guess, like a beacon of hope, I guess, for people breaking in, trying
+
+18:16.520 --> 18:19.680
+to break into the industry.
+
+18:19.680 --> 18:24.560
+Yeah, I think that leads me to a different topic also, which is interviews.
+
+18:24.560 --> 18:35.080
+And I think there is where we have another problem with tech, and I think this one might
+
+18:35.080 --> 18:37.200
+be very tech specific.
+
+18:37.200 --> 18:41.800
+I think generally the diversity problem is not just a tech problem, it's very visible
+
+18:41.800 --> 18:45.240
+in tech and it's been made very visible and that's good.
+
+18:45.240 --> 18:49.640
+I mean, it needs to be visible before anybody's going to do anything about it.
+
+18:49.640 --> 18:55.080
+It's like we saw with COVID, like it was very visible that we have a problem, like the world
+
+18:55.080 --> 18:56.960
+rallied around it.
+
+18:56.960 --> 18:59.040
+So that's important.
+
+18:59.040 --> 19:07.680
+But I think the other side with the interviews is if you take a junior through the same interview
+
+19:07.680 --> 19:13.560
+process as somebody with five years experience, generally the person with five years experience
+
+19:13.560 --> 19:16.560
+are going to win every time.
+
+19:16.560 --> 19:20.080
+Because if you don't ask those questions, like what you said, like, why do you bring
+
+19:20.080 --> 19:24.080
+to the project that's unique, if you don't dig into that side of it and you just focus
+
+19:24.080 --> 19:30.520
+on the wide-forged algorithm things, the junior is going to lose that interview every time.
+
+19:30.520 --> 19:33.680
+And I can see how that can be demotivational.
+
+19:33.680 --> 19:38.680
+So I think with tech interviews, the one thing that we need to, but I think this is also
+
+19:38.680 --> 19:45.320
+a little bit, I don't want to be the person who always puts the burden on the other person
+
+19:45.320 --> 19:49.280
+and like give the recruiters an out.
+
+19:49.280 --> 19:57.340
+But I do think as an applicant to a job, you need to speak to those things.
+
+19:57.340 --> 20:02.640
+You need to speak to what you can bring, not just from a technical perspective, but from
+
+20:02.640 --> 20:05.320
+how you think about stuff.
+
+20:05.320 --> 20:13.720
+And I think one of the previous folks I spoke to, Adelson Sandoval, he made a point of that,
+
+20:13.720 --> 20:19.800
+like how important it is to understand the company that you're applying to, understanding
+
+20:19.800 --> 20:25.240
+their technology and maybe even coming to the table with some ideas because you've taken
+
+20:25.240 --> 20:28.400
+the time to research what the company does, what their goals are.
+
+20:28.400 --> 20:32.960
+And it's easier, of course, if the company has an open source aspect to them, because
+
+20:32.960 --> 20:35.800
+you can literally see the code, you can literally see what they do.
+
+20:35.800 --> 20:38.480
+And through that, you might see some stuff.
+
+20:38.480 --> 20:42.200
+But I think also just in general, companies should be open to the idea that a junior can
+
+20:42.200 --> 20:47.960
+bring something to the table that a senior might not, even if it's just in the way that
+
+20:47.960 --> 20:54.680
+they're going to ask questions about stuff that other people have stopped thinking about,
+
+20:54.680 --> 20:59.400
+because it feels like it's just part of your DNA now.
+
+20:59.400 --> 21:01.360
+Yeah, absolutely.
+
+21:01.360 --> 21:04.520
+I'm a huge proponent of hiring juniors.
+
+21:04.520 --> 21:08.160
+I think there's lots of values.
+
+21:08.160 --> 21:09.160
+It's someone with fresh eyes.
+
+21:09.160 --> 21:10.160
+That's what it is, really.
+
+21:10.160 --> 21:18.520
+And that has a ton of value, especially if you're a company of the same kind of people
+
+21:18.520 --> 21:21.920
+who have been building the same product for a while.
+
+21:21.920 --> 21:25.240
+It's hard to see what's going on with fresh eyes.
+
+21:25.240 --> 21:30.520
+And coming back to what you said about maybe not liking to always throw the burden to someone
+
+21:30.520 --> 21:31.520
+else.
+
+21:31.520 --> 21:33.440
+But the someone else is us, though.
+
+21:33.440 --> 21:36.000
+It's developers when we're hiring others.
+
+21:36.000 --> 21:38.280
+It's like when you have an opening in your team.
+
+21:38.280 --> 21:42.900
+It's us knowing, do we really want to give them a four-hour take-home test?
+
+21:42.900 --> 21:44.720
+Do we really need that?
+
+21:44.720 --> 21:46.560
+It's us pushing back.
+
+21:46.560 --> 21:52.220
+Or something I'm also a big advocate of is if we do think, because it's a more senior
+
+21:52.220 --> 22:00.400
+position or whatever, that a three-hour take-home test is the way to go, then pay the person.
+
+22:00.400 --> 22:03.080
+So yeah, I feel like it's on us.
+
+22:03.080 --> 22:05.720
+It's on us developers thinking in terms of recruiting.
+
+22:05.720 --> 22:07.960
+It's not just the recruiters.
+
+22:07.960 --> 22:11.760
+It's how we word our job description as well.
+
+22:11.760 --> 22:13.880
+Do we need to have so much like...
+
+22:13.880 --> 22:16.840
+There's even internal jargon sometimes.
+
+22:16.840 --> 22:17.840
+Sometimes I see this.
+
+22:17.840 --> 22:23.440
+And it's like we're part of the Prometheus group within Facebook or whatever.
+
+22:23.440 --> 22:25.320
+And I'm like, what the hell is a Prometheus group?
+
+22:25.320 --> 22:26.320
+Why do I care?
+
+22:26.320 --> 22:27.600
+It's an applicant.
+
+22:27.600 --> 22:29.840
+And it's like sometimes you see things like this.
+
+22:29.840 --> 22:32.420
+And yeah, it's on us to make sure that we're...
+
+22:32.420 --> 22:37.780
+We're always super keen to share our job posting on LinkedIn and whatever and be like, come
+
+22:37.780 --> 22:38.780
+work with me.
+
+22:38.780 --> 22:39.780
+And I do that too.
+
+22:39.780 --> 22:40.780
+Don't get me wrong.
+
+22:40.780 --> 22:44.760
+But it's also on us to make sure that the job description we share makes sense.
+
+22:44.760 --> 22:49.320
+And that we have our hiring process nailed and we're not like, oh, what are we doing?
+
+22:49.320 --> 22:50.320
+I don't know.
+
+22:50.320 --> 22:51.880
+Let's give them a three-hour home test.
+
+22:51.880 --> 22:52.880
+What?
+
+22:52.880 --> 22:53.880
+I don't know.
+
+22:53.880 --> 22:54.880
+Let's do a to-do list as well.
+
+22:54.880 --> 22:55.880
+Yay.
+
+22:55.880 --> 22:59.240
+But then when you're an applicant, if you have three companies giving you that, it starts
+
+22:59.240 --> 23:01.000
+to add up and it's...
+
+23:01.000 --> 23:02.000
+That's it.
+
+23:02.000 --> 23:03.800
+It starts to add up and it starts to be annoying.
+
+23:03.800 --> 23:11.080
+Whereas if it's more like, okay, we're just going to come on Zoom for an hour, have them
+
+23:11.080 --> 23:15.460
+walk through code or just do a simple code example of like, hey, can you fetch something
+
+23:15.460 --> 23:18.080
+from the GitHub API, walk us through it?
+
+23:18.080 --> 23:19.080
+Something like that.
+
+23:19.080 --> 23:20.080
+That's a way...
+
+23:20.080 --> 23:24.440
+In my opinion, that's a way better interview process because you're not requiring a ton
+
+23:24.440 --> 23:25.760
+of commitment.
+
+23:25.760 --> 23:31.820
+You're still looking at how the person is coding, but you're not placing this huge burden
+
+23:31.820 --> 23:37.520
+on them to find three hours spare time and polish an app and do whatever.
+
+23:37.520 --> 23:43.040
+And again, that multiplied by every company you're applying to, right?
+
+23:43.040 --> 23:50.600
+So yeah, I feel like it's on us as developers with a bit of experience who are going to
+
+23:50.600 --> 23:56.920
+be in the position to hire someone else to make sure that our process is as accessible
+
+23:56.920 --> 23:57.920
+as it can be.
+
+23:57.920 --> 23:58.920
+Yeah.
+
+23:58.920 --> 23:59.920
+Yeah.
+
+23:59.920 --> 24:02.240
+That's very good.
+
+24:02.240 --> 24:07.400
+I wonder with that hour long interview where you do something, would you give somebody
+
+24:07.400 --> 24:13.160
+like a hint as to what the question might be?
+
+24:13.160 --> 24:17.800
+You don't necessarily will tell them you're going to be using the GitHub API, but maybe
+
+24:17.800 --> 24:21.760
+you'll tell them we're going to have this hour long conversation and basically as part
+
+24:21.760 --> 24:28.120
+of that, we will have you do a request to an API to get some data and display it on
+
+24:28.120 --> 24:29.120
+a webpage.
+
+24:29.120 --> 24:31.160
+Would you put that in?
+
+24:31.160 --> 24:36.520
+I think it depends on, again, the seniority level, what kind of things you're solving
+
+24:36.520 --> 24:42.520
+because for example, sometimes you're more interested in the presentation, right?
+
+24:42.520 --> 24:48.320
+So you're like, okay, we'll give you like with that same example, right?
+
+24:48.320 --> 24:54.280
+So you can be really interested in how someone writes the tests for this request to the API.
+
+24:54.280 --> 24:59.700
+That could be like a primary focus or it could be, yeah, just get something from this API,
+
+24:59.700 --> 25:03.760
+but what we really want you to focus on is make sure the, I don't know if you have a
+
+25:03.760 --> 25:09.700
+search or something or whatever you're displaying from the API, make sure that it's accessible.
+
+25:09.700 --> 25:15.160
+So it really depends what you're looking for in the role, but yeah, I think you drop hints
+
+25:15.160 --> 25:22.960
+based on what you're trying to have them focus on versus if it's a pure front end and you
+
+25:22.960 --> 25:26.480
+want someone who really knows about accessibility and it's something that they've said in their
+
+25:26.480 --> 25:31.080
+CV as well, you don't want them to spend 20 minutes figuring out there's a missing header
+
+25:31.080 --> 25:32.320
+to that API or whatever.
+
+25:32.320 --> 25:35.720
+You could just help them with that because that's not the primary thing.
+
+25:35.720 --> 25:36.720
+Gotcha.
+
+25:36.720 --> 25:37.720
+Gotcha.
+
+25:37.720 --> 25:38.720
+Yeah, that sounds like a very healthy approach.
+
+25:38.720 --> 25:39.720
+I really like that.
+
+25:39.720 --> 25:43.440
+I'm glad more people did that, more companies.
+
+25:43.440 --> 25:44.440
+That's good.
+
+25:44.440 --> 25:52.040
+I'm glad you've said that and now it's out there for people to listen to and take note.
+
+25:52.040 --> 25:57.800
+This leads us into this next question, which is I noticed a tweet from you about CascadiaJS
+
+25:57.800 --> 26:03.320
+and they mentioned that they post all the recordings of their events because they believe
+
+26:03.320 --> 26:05.240
+in open sourcing knowledge.
+
+26:05.240 --> 26:07.340
+Love that, by the way.
+
+26:07.340 --> 26:13.320
+And so I wonder, what are your thoughts with regards to open source, the open source ecosystem
+
+26:13.320 --> 26:15.880
+and its role in developer education?
+
+26:15.880 --> 26:19.920
+Because especially I think it touches on that topic previously, which we talked about, about
+
+26:19.920 --> 26:23.800
+Junior's lack of experience, lack of working experience.
+
+26:23.800 --> 26:25.840
+Can open source play a role here?
+
+26:25.840 --> 26:29.160
+For sure.
+
+26:29.160 --> 26:34.280
+As you mentioned before, with open source, what's great, you can see real code.
+
+26:34.280 --> 26:37.800
+You can see if someone has a small project, they open source it.
+
+26:37.800 --> 26:41.920
+You can see, okay, this is how this specific app works.
+
+26:41.920 --> 26:47.580
+It allows you to explore and to see a real code in action, which is great.
+
+26:47.580 --> 26:53.140
+Especially now with things like Netlify and Versailles, it's a lot easier to host things
+
+26:53.140 --> 26:58.820
+than it was before because before it was like, oh, I have to do whatever.
+
+26:58.820 --> 27:03.440
+People tend to just have a GitHub and that just automatically publishes to Netlify or
+
+27:03.440 --> 27:07.720
+something and it makes it easier to say, oh, okay, I got this code and it's powering this
+
+27:07.720 --> 27:08.720
+page.
+
+27:08.720 --> 27:10.220
+And you know, there's no in between.
+
+27:10.220 --> 27:12.060
+This is the build step.
+
+27:12.060 --> 27:14.320
+It's all in there and it's all visible.
+
+27:14.320 --> 27:15.320
+So that's great.
+
+27:15.320 --> 27:21.480
+I feel like in terms of developer education, though, we now have more of a curation problem
+
+27:21.480 --> 27:27.440
+than a number of resources problem.
+
+27:27.440 --> 27:30.600
+I feel like there's a ton of knowledge and it's fantastic.
+
+27:30.600 --> 27:35.740
+We're extremely lucky that we have tons of people writing tutorials in their spare time
+
+27:35.740 --> 27:37.000
+on their blogs and stuff.
+
+27:37.000 --> 27:40.160
+So there's a lot of knowledge going around.
+
+27:40.160 --> 27:45.720
+But we might have more of a, as I said, curation problem in that we need to figure out how
+
+27:45.720 --> 27:51.500
+to triage all the tutorials and everything to make sure, okay, this is what I need to
+
+27:51.500 --> 27:54.240
+build a specific thing.
+
+27:54.240 --> 27:56.720
+But yeah, otherwise, I think it's fantastic.
+
+27:56.720 --> 28:00.600
+Yeah, I agree 100% of that.
+
+28:00.600 --> 28:05.000
+I think Riku from the very first podcast said, you feel like you're this little drop that
+
+28:05.000 --> 28:09.320
+fell into this ocean and you don't know if it's some up or down or left or right.
+
+28:09.320 --> 28:12.360
+Because you're like drowning, drowning in information.
+
+28:12.360 --> 28:13.920
+I think we are there.
+
+28:13.920 --> 28:17.800
+And I think one of the projects that we are undertaking as part of the Mycelium Network
+
+28:17.800 --> 28:24.680
+is the web workbook, which is not meant to be, let's try and do a better MDN.
+
+28:24.680 --> 28:26.400
+No, it's the opposite.
+
+28:26.400 --> 28:29.680
+Let's, let's, let's curate content.
+
+28:29.680 --> 28:34.840
+And let's, let's define pathways, topics, technology paths.
+
+28:34.840 --> 28:40.800
+And let's as a, as a community, share things that have helped us and let's try and make
+
+28:40.800 --> 28:46.120
+it easier for people to know, okay, I've finished this part, where do I go from here?
+
+28:46.120 --> 28:48.800
+What are the content that I can trust?
+
+28:48.800 --> 28:55.920
+Who are the people I should be following that shares really good, that has a teaching style
+
+28:55.920 --> 29:01.960
+that works really well, and also finding different ways of learning because not everybody likes
+
+29:01.960 --> 29:06.380
+to read, not everybody likes to watch a video.
+
+29:06.380 --> 29:08.720
+Some people like me are very, very practical.
+
+29:08.720 --> 29:11.520
+So you want something that has a practical aspect to it.
+
+29:11.520 --> 29:18.680
+So kind of trying to curate stuff around topics, technologies and pathways.
+
+29:18.680 --> 29:23.040
+It's a big, it's a big undertaking, but I think I'm hearing it more and more and more
+
+29:23.040 --> 29:25.200
+that this is what is needed.
+
+29:25.200 --> 29:29.560
+Like speaking to, to early stage developers, it's, it's almost, I don't think I've spoken
+
+29:29.560 --> 29:32.320
+to one that has not said this.
+
+29:32.320 --> 29:36.680
+So the fact that you also brought it up is just like, it's clear that that is something
+
+29:36.680 --> 29:37.680
+that's needed.
+
+29:37.680 --> 29:41.240
+And I'm really excited about that project, but you know, it's still early days and there's
+
+29:41.240 --> 29:45.040
+a lot, there's a lot to do, a lot of planning, there's a lot of planning.
+
+29:45.040 --> 29:49.500
+And I think that's one of the things that is interesting about people who are getting
+
+29:49.500 --> 29:55.440
+into code is they don't realize how big a part of the job that is, is planning.
+
+29:55.440 --> 30:00.280
+Sure, you're going to write a lot of code probably, but you're also going to spend a
+
+30:00.280 --> 30:05.320
+lot of time planning before you write all the code.
+
+30:05.320 --> 30:08.600
+Friend of mine, Peter has the famous thing where he says, writing the code is the easy
+
+30:08.600 --> 30:10.280
+part.
+
+30:10.280 --> 30:16.480
+Understanding the problem and finding a solution, that is, that is the hard part.
+
+30:16.480 --> 30:20.680
+And then it's almost like you take your crypt notes and you just turn it into code.
+
+30:20.680 --> 30:25.200
+It's, it's oversimplified, of course, but I like the statement, I like the way he phrases
+
+30:25.200 --> 30:26.200
+it.
+
+30:26.200 --> 30:27.760
+Yeah, that's really cool.
+
+30:27.760 --> 30:33.760
+So I, another thing that I saw about you, and it makes me think that you are somebody
+
+30:33.760 --> 30:40.560
+and I in that same camp that like ethical tech or like are passionate about ethical
+
+30:40.560 --> 30:42.240
+tech.
+
+30:42.240 --> 30:47.920
+You mentioned on the rise of Signal, I use Signal myself.
+
+30:47.920 --> 30:56.720
+I've used it before the web app, the WhatsApp debacle, but I kind of still used WhatsApp
+
+30:56.720 --> 30:59.960
+at that point because some of the family and things were on there, you know, that's the
+
+30:59.960 --> 31:07.120
+common problem, but like I've gotten off all of that stuff.
+
+31:07.120 --> 31:15.080
+I just decided that for me personally, I need to, I need to put my money where my mouth is.
+
+31:15.080 --> 31:19.440
+That's not entirely correct, but you know what I'm trying to say?
+
+31:19.440 --> 31:26.840
+So I like to hear your views on what you think about ethical tech and its role in improving
+
+31:26.840 --> 31:30.320
+the tech world and the world maybe even in general.
+
+31:30.320 --> 31:31.320
+Yeah.
+
+31:31.320 --> 31:36.560
+So this, so you're talking about the blog post that I wrote as well about like, again,
+
+31:36.560 --> 31:44.880
+the rise of Signal and the, again, my thesis there was that when Signal got the spotlight,
+
+31:44.880 --> 31:48.680
+it already had all the ingredients to succeed.
+
+31:48.680 --> 31:52.160
+Basically it had roughly the same features of WhatsApp.
+
+31:52.160 --> 31:58.200
+It was already a polished product because the problem you have with more ethical tech
+
+31:58.200 --> 32:02.600
+in general, and you could think of this as in the broadest sense possible of like it's
+
+32:02.600 --> 32:08.800
+more ethical because it's open source, because it doesn't have like a giant weird company
+
+32:08.800 --> 32:09.800
+behind it or whatever.
+
+32:09.800 --> 32:15.860
+So the problem we have with usually with this type of tech is that it's just not as good.
+
+32:15.860 --> 32:21.160
+Like it doesn't have like the same level of visual flair or whatever than the mainstream
+
+32:21.160 --> 32:22.160
+thing.
+
+32:22.160 --> 32:26.680
+So people are kind of stuck with like the old thing because the usability is not right.
+
+32:26.680 --> 32:31.580
+And when Signal had its moment, it's what I put in the article as well, it had a big
+
+32:31.580 --> 32:37.960
+boost because Elon Musk tweeted just two words, use Signal, right?
+
+32:37.960 --> 32:42.880
+And it's credited with like, suddenly all the newspapers were talking about it and like
+
+32:42.880 --> 32:48.280
+he already has a huge account, but people also like retweeted it to hell.
+
+32:48.280 --> 32:53.280
+But my thesis is that if he had tweeted, use Linux, no one would care.
+
+32:53.280 --> 32:57.160
+Because Linux is not there yet in terms of like, oh, I can just, it's just like, I can
+
+32:57.160 --> 33:03.000
+just flip a button and suddenly my, I have a perfect, you know, I have the same thing,
+
+33:03.000 --> 33:05.360
+I have the same apps, everything looks great.
+
+33:05.360 --> 33:06.760
+And it's very easy to install.
+
+33:06.760 --> 33:10.720
+Like I know I might get some heat from like Linux users from this, but like, it's not
+
+33:10.720 --> 33:15.560
+as easy as, you know, just like a Mac, things are not as intuitive.
+
+33:15.560 --> 33:17.800
+Again, there's lots of progress being made there.
+
+33:17.800 --> 33:21.200
+I don't want to like, you know, undermine that.
+
+33:21.200 --> 33:24.600
+Like this also got a lot more accessible than it was.
+
+33:24.600 --> 33:29.360
+Like, you know, in the, if you're talking about like Linux, even 10 years ago or even
+
+33:29.360 --> 33:33.040
+the worst in the like 2005 ish, it was impossible.
+
+33:33.040 --> 33:38.880
+You had to like go into the command line thing to install whatever, but like, yeah.
+
+33:38.880 --> 33:44.600
+So it's getting better, but we're still, we're still have ways to go.
+
+33:44.600 --> 33:49.640
+And that was the idea of the blog post about ethical tech in general.
+
+33:49.640 --> 33:55.640
+To me, it's usually when like what you want in tech is to as much as possible is for incentives
+
+33:55.640 --> 33:58.000
+to be aligned, right?
+
+33:58.000 --> 34:02.520
+So to give you a counterexample, that's not the case with social media, right?
+
+34:02.520 --> 34:06.240
+They have no incentive to, I don't want not to like, I'm not going to name a specific
+
+34:06.240 --> 34:11.280
+company, but they have no incentive to make media that's actually increase, you know,
+
+34:11.280 --> 34:12.800
+that is social.
+
+34:12.800 --> 34:16.860
+What they want to do is put you on, is for you to stay on the platform for as long as
+
+34:16.860 --> 34:19.800
+possible because you can see more ads, right?
+
+34:19.800 --> 34:28.020
+And they do this with, you know, by creating outrage, fear, whatever, you know, controversy.
+
+34:28.020 --> 34:31.880
+And that's not by making a media that makes people sociable and, you know, people want
+
+34:31.880 --> 34:32.880
+to interact.
+
+34:32.880 --> 34:37.280
+Because if you just see some funny, you know, good vibe things for 10 minutes and you leave,
+
+34:37.280 --> 34:38.280
+that's not what they want.
+
+34:38.280 --> 34:40.080
+You know, it's not in their interest, right?
+
+34:40.080 --> 34:47.960
+So as a result, the incentives are completely misaligned, whereas I'm going to like use
+
+34:47.960 --> 34:50.680
+the example of another company that I like.
+
+34:50.680 --> 34:54.960
+And I think I can start to recommend because they're starting to be as good as the alternative,
+
+34:54.960 --> 35:01.280
+like with ProtonMail, for example, like they're all about like building an email that's private.
+
+35:01.280 --> 35:06.240
+The day they are caught selling ads, everyone of their customer will leave.
+
+35:06.240 --> 35:10.400
+So they have, you know, their interests are aligned with what they're preaching to be,
+
+35:10.400 --> 35:11.400
+right?
+
+35:11.400 --> 35:13.060
+It's like we want to make a private email.
+
+35:13.060 --> 35:17.720
+So as a result, we know they can sell data or they can be hacked because the day that
+
+35:17.720 --> 35:24.120
+happens, they know they're going to lose like 50% of their customers at least.
+
+35:24.120 --> 35:30.020
+And again, like talking, using the example of ProtonMail, like if we had this conversation
+
+35:30.020 --> 35:34.080
+two years ago, I would not be able to recommend ProtonMail to you because they didn't have
+
+35:34.080 --> 35:39.080
+a calendar, like, you know, it didn't have like things like dark mode.
+
+35:39.080 --> 35:40.960
+It still looked a little bit clunky.
+
+35:40.960 --> 35:44.480
+Like if you received, again, a Google Calendar invite, you couldn't do anything with it.
+
+35:44.480 --> 35:47.440
+Now you could just press the same button that you have in Gmail that says, yes, I would
+
+35:47.440 --> 35:48.440
+like to attend.
+
+35:48.440 --> 35:49.920
+Boom, you press that and that's it.
+
+35:49.920 --> 35:56.640
+So it's a similar enough experience that it's an alternative that's ethical and good, right?
+
+35:56.640 --> 36:00.960
+It's like you're not losing too much by like switching to the ethical product.
+
+36:00.960 --> 36:07.440
+Yeah, and I think there's another case happening right now with Penpot and Figma.
+
+36:07.440 --> 36:10.160
+Yeah, yeah, that's exactly right.
+
+36:10.160 --> 36:12.760
+Yeah, Figma was bought by Adobe.
+
+36:12.760 --> 36:26.400
+A lot of people are not happy about that, to say the least, and I mean, I think it's
+
+36:26.400 --> 36:32.500
+a complicated one because it's not like Figma is not a good fit for Adobe as a company.
+
+36:32.500 --> 36:37.520
+It is the history of Adobe and what they've done to products that they've purchased.
+
+36:37.520 --> 36:39.760
+That's the scary part here.
+
+36:39.760 --> 36:44.280
+And even though the CEO, Figma, said that, no, no, no, we're going to operate as an independent
+
+36:44.280 --> 36:50.400
+company and make our own decisions, but we do get access to all of this power of Adobe
+
+36:50.400 --> 36:54.240
+that they've developed over the years.
+
+36:54.240 --> 36:59.440
+It sounds good, but I don't know how true that really is.
+
+36:59.440 --> 37:00.440
+That's what everyone thinks.
+
+37:00.440 --> 37:01.440
+It's like, yeah, sure.
+
+37:01.440 --> 37:03.440
+Yeah, you got 20 billion for sure.
+
+37:03.440 --> 37:04.440
+Sure.
+
+37:04.440 --> 37:05.440
+Yeah.
+
+37:05.440 --> 37:13.840
+And then yesterday I saw Penpot announced they have an $8 million investment seed round,
+
+37:13.840 --> 37:18.320
+which means their blog post literally said, our time has come.
+
+37:18.320 --> 37:20.280
+And I'm really excited about that.
+
+37:20.280 --> 37:27.600
+And I have personally started using the two tools in tandem because like you said, when
+
+37:27.600 --> 37:32.920
+the WhatsApp thing happened, Signal had all the ingredients to just take its place.
+
+37:32.920 --> 37:37.240
+Penpot is close, but not quite there.
+
+37:37.240 --> 37:40.040
+Like I found some bugs which I'm raising.
+
+37:40.040 --> 37:41.040
+Like this is open source.
+
+37:41.040 --> 37:42.040
+It's awesome.
+
+37:42.040 --> 37:46.440
+I can just go and tell them, this is the thing I'm seeing and maybe I can maybe even help
+
+37:46.440 --> 37:47.440
+fix the problem.
+
+37:47.440 --> 37:54.280
+Because currently if I drag an SVG into it and some of the elements has color, all the
+
+37:54.280 --> 38:00.640
+color disappears and they either render them invisible or white or it renders that it's
+
+38:00.640 --> 38:02.160
+all black.
+
+38:02.160 --> 38:04.640
+And then you have to go in and edit it in Penpot.
+
+38:04.640 --> 38:06.040
+So there's a bug there.
+
+38:06.040 --> 38:13.840
+But then the other thing that I miss badly is auto layout.
+
+38:13.840 --> 38:16.840
+That is not in Penpot yet and that is a big feature.
+
+38:16.840 --> 38:21.920
+And then I think the community plug-in stuff that the ecosystem that Figma has built, that's
+
+38:21.920 --> 38:23.720
+something that's missing as well.
+
+38:23.720 --> 38:31.500
+But with them having this $8 million investment and being open source and having a community
+
+38:31.500 --> 38:34.240
+that's now like, yeah, we need to support this project.
+
+38:34.240 --> 38:38.520
+I think all these gaps can be filled very, very quickly.
+
+38:38.520 --> 38:41.080
+And they are going to be filled very, very quickly.
+
+38:41.080 --> 38:45.680
+So I'm really excited about that and I'm definitely following that and seeing how I can help make
+
+38:45.680 --> 38:50.760
+Penpot be the successor of Figma.
+
+38:50.760 --> 38:54.680
+But with ProtonMail, I've been actually toying with that idea because I did see their announcement
+
+38:54.680 --> 38:58.800
+when they're like, now we have a VPN, we have a drive kind of thing, like Google Drive,
+
+38:58.800 --> 39:02.440
+we have calendaring, we have better, our email is better.
+
+39:02.440 --> 39:05.880
+And I tried it for a bit and it looks beautiful.
+
+39:05.880 --> 39:10.600
+And it has some functionality actually that Gmail doesn't.
+
+39:10.600 --> 39:20.280
+And the company I run called Mechanical Ink, I'm in the stage where I'm trying to define
+
+39:20.280 --> 39:24.320
+what the company, what I want the company to be because I don't want it to be another
+
+39:24.320 --> 39:25.320
+agency.
+
+39:25.320 --> 39:26.320
+I don't want that.
+
+39:26.320 --> 39:29.440
+At the moment, it kind of is because it pays the bills, right?
+
+39:29.440 --> 39:32.800
+But that is not the long-term thing.
+
+39:32.800 --> 39:39.160
+What I want it to be is a company that is heavily involved in open source and in ethical
+
+39:39.160 --> 39:40.760
+civic tech.
+
+39:40.760 --> 39:46.240
+And I need to find a way to be able to do that while creating job opportunities and
+
+39:46.240 --> 39:53.520
+being able to sustain my own, me and my family and my children.
+
+39:53.520 --> 39:58.000
+But as part of that, I mean, cause on the table, I use Google Workspace, right?
+
+39:58.000 --> 40:00.320
+For my company stuff.
+
+40:00.320 --> 40:06.440
+And I am considering switching to Proton because with what my future vision for the company
+
+40:06.440 --> 40:15.040
+is, I need to, again, put my money where my words are and say, I'm not going to use Google's
+
+40:15.040 --> 40:16.040
+product for this.
+
+40:16.040 --> 40:21.320
+I'm going to use an alternative, an ethical alternative because one does exist and only
+
+40:21.320 --> 40:27.160
+use tools that don't fit that bill when there really isn't an alternative.
+
+40:27.160 --> 40:32.120
+And then asking the question, is there a way that Mechanical Ink and the communities I
+
+40:32.120 --> 40:39.600
+build can help create this ethical alternative or plant the seeds so that people can come
+
+40:39.600 --> 40:43.120
+together and create these ethical alternatives?
+
+40:43.120 --> 40:49.160
+Wow, that was fun to talk about.
+
+40:49.160 --> 40:55.520
+So in the same kind of vein, has there been any person, book, event, anything like this
+
+40:55.520 --> 41:00.960
+that was impactful in your life just in general or maybe tech specific?
+
+41:00.960 --> 41:07.360
+Yeah, so just to wrap up what we said about like ethical tech, I think an important point
+
+41:07.360 --> 41:12.720
+too is that it doesn't have to be a full culture key switch right now.
+
+41:12.720 --> 41:17.680
+Like what you're talking about, like with Penpot, for example, like right now, Figma
+
+41:17.680 --> 41:23.240
+hasn't changed, but we know that if one year something really bad happens, like what everybody
+
+41:23.240 --> 41:27.800
+is fearing, which is it's being integrated with the Creative Suite, which is what everyone
+
+41:27.800 --> 41:31.120
+is like, please don't make me install Creative Suite, right?
+
+41:31.120 --> 41:37.960
+But if that happens in a year, Penpot had a year from now to get it stuck together.
+
+41:37.960 --> 41:38.960
+And it's kind of the same thing.
+
+41:38.960 --> 41:44.920
+You could say, okay, I'm looking at Proton right now, and maybe in a year I'll switch.
+
+41:44.920 --> 41:47.880
+And it's kind of the same thing for Penpot for all these things.
+
+41:47.880 --> 41:51.760
+So it's important to know that to have them in your radar, to keep checking as opposed
+
+41:51.760 --> 41:55.220
+to go, oh, let me see, can I do a culture key switch today?
+
+41:55.220 --> 41:57.880
+And you download it, and it doesn't work, and you forget about it forever.
+
+41:57.880 --> 41:58.880
+I've done that too.
+
+41:58.880 --> 41:59.880
+Don't get me wrong.
+
+41:59.880 --> 42:02.840
+But sometimes it's a bit of an easy thing to go...
+
+42:02.840 --> 42:03.840
+Because it's easier for your mind.
+
+42:03.840 --> 42:07.000
+You don't want to have this thing lingering of like, maybe I should switch to something
+
+42:07.000 --> 42:08.000
+one day.
+
+42:08.000 --> 42:12.840
+So it's easier to go one day, look at it, and go, okay, right, is this the most optimal
+
+42:12.840 --> 42:13.840
+thing today?
+
+42:13.840 --> 42:16.120
+You look into it, it's like, nope, moving on.
+
+42:16.120 --> 42:23.080
+But you can say, okay, maybe let's check it in six months or a year.
+
+42:23.080 --> 42:27.840
+And also, as you're doing, just sharing something, they shipped something, you were talking about
+
+42:27.840 --> 42:32.960
+your SVG bug, when they fix it, if you share it, that's it, it's a little boost, even if
+
+42:32.960 --> 42:39.360
+you may not be using them already because of what you said, auto layout.
+
+42:39.360 --> 42:43.720
+To go back to your question about was there a person or an event or something that really
+
+42:43.720 --> 42:50.280
+impacted my career, I think I will say all the managers that gave me a chance, even if
+
+42:50.280 --> 42:56.880
+I didn't specifically fit the profile, I did lots of various things.
+
+42:56.880 --> 43:02.320
+And I feel like it also comes back to what we were saying about hiring people with diverse
+
+43:02.320 --> 43:05.900
+skill sets and not necessarily the perfect background.
+
+43:05.900 --> 43:10.120
+It happened to me a few times, I was lucky that someone was like, even if you don't have
+
+43:10.120 --> 43:17.280
+the perfect previous experience, I feel like you'll be a good fit here in the team.
+
+43:17.280 --> 43:22.400
+And that happened more than once, and every time that really just helped me a lot.
+
+43:22.400 --> 43:30.720
+I love that, I love that when people are open to giving you a chance and saying, let's see
+
+43:30.720 --> 43:35.560
+what you do, and then let's check back in a month.
+
+43:35.560 --> 43:41.440
+And if you show that you are a curious person who's willing to learn, let's keep going.
+
+43:41.440 --> 43:45.120
+I think companies need to be more open to that.
+
+43:45.120 --> 43:52.400
+So for, like I mentioned, this web workbook project, it's going to be very content heavy.
+
+43:52.400 --> 44:00.440
+And so we're going to be building it using Hugo as the static site generators aspect
+
+44:00.440 --> 44:01.440
+of it.
+
+44:01.440 --> 44:05.400
+But then we've got a community license from Contentful.
+
+44:05.400 --> 44:11.680
+And so we intend to use Contentful for our CMS.
+
+44:11.680 --> 44:16.440
+So I've read quite a bit about Contentful, and I've used a bunch of other ones like Netlify
+
+44:16.440 --> 44:20.400
+CMS, Forestry, and stuff like that.
+
+44:20.400 --> 44:26.840
+Can you talk to how Contentful is different, like what sets Contentful apart from all these
+
+44:26.840 --> 44:27.840
+other things?
+
+44:27.840 --> 44:31.320
+Because I know there's a lot of these things that's jumped up.
+
+44:31.320 --> 44:32.320
+Yeah.
+
+44:32.320 --> 44:36.560
+So that's the great thing about being a developer advocate and not a salesman, is that I don't
+
+44:36.560 --> 44:38.720
+have to give you a big sales pitch.
+
+44:38.720 --> 44:47.440
+What I'll say is Contentful, as you said, I'm glad you're going to be using us, but
+
+44:47.440 --> 44:49.880
+even if not, that's fine.
+
+44:49.880 --> 44:57.120
+So we're a headless content platform that helps all kinds of clients.
+
+44:57.120 --> 45:04.120
+So I think what I'll say is the great thing about Contentful is we've been at this for
+
+45:04.120 --> 45:05.120
+a while.
+
+45:05.120 --> 45:12.960
+It's one of the first companies in that space in having this idea of having something headless,
+
+45:12.960 --> 45:20.360
+having blocks of content, rather than moving from the old paradigm of this is a page.
+
+45:20.360 --> 45:24.520
+Everything in WordPress, for example, is a page, so you're with that structure, and you're
+
+45:24.520 --> 45:28.560
+hacking around with short codes or whatever.
+
+45:28.560 --> 45:34.200
+With Contentful, we have these entries and content types, which can be anything you want,
+
+45:34.200 --> 45:37.560
+and that gives you the great flexibility.
+
+45:37.560 --> 45:40.600
+So yeah, I'm glad you're using us.
+
+45:40.600 --> 45:43.480
+Yeah, I'm looking forward to it.
+
+45:43.480 --> 45:47.160
+So I'm thinking about which way to go next.
+
+45:47.160 --> 45:54.360
+I think I want to switch on, I noticed that you mentioned your coach also at Codebar.
+
+45:54.360 --> 45:58.280
+I have not heard about Codebar before, strangely enough, and I had a quick look at it and it
+
+45:58.280 --> 46:02.200
+looks interesting, but you know more about it than me, so I'm going to ask you to inform
+
+46:02.200 --> 46:08.840
+me about Codebar, what you do there, and what their mission is, and stuff like that.
+
+46:08.840 --> 46:09.840
+For sure.
+
+46:09.840 --> 46:12.400
+So I'm still a new coach too.
+
+46:12.400 --> 46:18.960
+So I started in about November, December of 2021 as a coach.
+
+46:18.960 --> 46:25.240
+So Codebar is basically a series of meetups that, historically, before COVID, happened
+
+46:25.240 --> 46:27.200
+in specific cities.
+
+46:27.200 --> 46:32.040
+So you have one in London, in Berlin, in New York, in Edinburgh, I think there's one in
+
+46:32.040 --> 46:33.520
+Paris too, anyway.
+
+46:33.520 --> 46:40.240
+So in each of these cities, it's a meetup to help people learn to code.
+
+46:40.240 --> 46:44.920
+So people who are learning to code come in with their problem, which could be anything,
+
+46:44.920 --> 46:46.520
+and they're like, hey, can I get help?
+
+46:46.520 --> 46:51.760
+And someone, a coach, will help them with that problem for two hours.
+
+46:51.760 --> 46:52.760
+And that could be anything.
+
+46:52.760 --> 46:57.080
+It could be, hey, I'm doing the free code camp, I'm stuck on chapter three, I'm trying
+
+46:57.080 --> 47:00.760
+to load an image and it doesn't work, and you're like, okay, sure, we'll fix that.
+
+47:00.760 --> 47:04.600
+Or it could be something, sometimes it's way more involved and like, hey, I already have
+
+47:04.600 --> 47:08.920
+this React app, but when I do this thing, I'm trying to query this thing and everything
+
+47:08.920 --> 47:09.920
+breaks.
+
+47:09.920 --> 47:12.640
+And it's like, okay, cool, let's have a look at this.
+
+47:12.640 --> 47:15.940
+And they try to pair coaches with skills.
+
+47:15.940 --> 47:18.880
+So when people register in advance, they're like, hey, I need help with Python.
+
+47:18.880 --> 47:22.960
+And we're like, well, and Codebar tries to make sure that there's someone who knows Python
+
+47:22.960 --> 47:24.880
+in the room, which is easier.
+
+47:24.880 --> 47:31.480
+Even though you can usually figure it out, because as an experienced coder, especially
+
+47:31.480 --> 47:39.120
+if it's an easier problem, sometimes it works across languages, but they try, Codebar tries
+
+47:39.120 --> 47:45.400
+to optimize the coach's skills with what the student needs.
+
+47:45.400 --> 47:54.560
+And historically, it was very much oriented towards underrepresented people in the industry.
+
+47:54.560 --> 48:03.160
+So yeah, the way I coach is on Discord and on Zoom, so you could just rock on to, I think
+
+48:03.160 --> 48:04.880
+it's pretty much open to any cities now.
+
+48:04.880 --> 48:11.400
+Like I've coached in Berlin, I've coached in London, even though I'm in neither city.
+
+48:11.400 --> 48:17.400
+A bunch more meetups are happening in person now.
+
+48:17.400 --> 48:22.680
+So I've been coaching less, plus also other engagements made it difficult.
+
+48:22.680 --> 48:24.800
+But yes, so that's the idea.
+
+48:24.800 --> 48:25.800
+That's interesting.
+
+48:25.800 --> 48:34.400
+So it's almost like this group of mentors that is just available to you when you get
+
+48:34.400 --> 48:35.400
+stuck.
+
+48:35.400 --> 48:36.400
+Yeah.
+
+48:36.400 --> 48:37.400
+That's really, really cool.
+
+48:37.400 --> 48:41.680
+And sorry, and they try to pair one to one all the time, at least.
+
+48:41.680 --> 48:44.480
+So sometimes you might get two students.
+
+48:44.480 --> 48:48.740
+It happens when there aren't enough coaches, but usually they're really good at making
+
+48:48.740 --> 48:52.240
+sure that if they got 10 students, they'd make sure we have 10 coaches.
+
+48:52.240 --> 48:53.240
+That's really interesting.
+
+48:53.240 --> 48:55.920
+I'm definitely going to have a look at that a bit more.
+
+48:55.920 --> 48:59.720
+That sounds like a good fit for our community, for sure.
+
+48:59.720 --> 49:00.720
+Yeah.
+
+49:00.720 --> 49:01.720
+Okay.
+
+49:01.720 --> 49:06.880
+I want to dig into something different, maybe similar, maybe different.
+
+49:06.880 --> 49:11.880
+So when you announced that you were joining Contentful, you pinned a tweet.
+
+49:11.880 --> 49:17.320
+And part of that tweet is that you mentioned that this was after the long break.
+
+49:17.320 --> 49:24.320
+So it made me curious about what was the reason behind that long break?
+
+49:24.320 --> 49:28.280
+Because let me preface this by why I find that interesting.
+
+49:28.280 --> 49:36.720
+I personally have had many, many struggles and continue to do with mental health in general,
+
+49:36.720 --> 49:39.220
+anxiety, things like this.
+
+49:39.220 --> 49:41.920
+And sometimes it gets to you.
+
+49:41.920 --> 49:42.920
+It drains you.
+
+49:42.920 --> 49:47.920
+It makes you tired and you do feel like you need a break.
+
+49:47.920 --> 49:49.240
+Not always possible.
+
+49:49.240 --> 49:55.040
+Sometimes you have to grin and bear through it, but sometimes you're either going to take
+
+49:55.040 --> 50:00.080
+that break or your body's going to force you to take that break in unpleasant ways.
+
+50:00.080 --> 50:03.720
+So I was curious, and I've spoken to other people also where burnout's been real.
+
+50:03.720 --> 50:07.360
+Like Ian Douglas is somebody I spoke to that almost quit tech because he was so burned
+
+50:07.360 --> 50:08.360
+out.
+
+50:08.360 --> 50:14.880
+So I was curious if maybe there are echoes of that in the story.
+
+50:14.880 --> 50:17.000
+So if you want to dig into that.
+
+50:17.000 --> 50:18.000
+Yeah.
+
+50:18.000 --> 50:19.000
+Yeah.
+
+50:19.000 --> 50:20.000
+I'm lucky.
+
+50:20.000 --> 50:23.320
+It's never been like a forced thing.
+
+50:23.320 --> 50:24.320
+I was getting tired.
+
+50:24.320 --> 50:25.920
+Like, I mean, let's be real.
+
+50:25.920 --> 50:30.040
+Like the world is upside down and has been for two years.
+
+50:30.040 --> 50:33.040
+So that doesn't help.
+
+50:33.040 --> 50:36.080
+But yeah, I was, yeah, I feel like I just wanted to change.
+
+50:36.080 --> 50:44.320
+So before, as I said in the intro, I was like a regular front end developer and I wanted
+
+50:44.320 --> 50:45.980
+to become a developer advocate.
+
+50:45.980 --> 50:53.120
+So I applied to a bunch of places and then luckily Contentful said yes, which was fantastic.
+
+50:53.120 --> 50:59.560
+And yeah, so in between leaving my old job, which was very hard, like I really liked my
+
+50:59.560 --> 51:01.880
+team and everything, but I felt like I needed to change.
+
+51:01.880 --> 51:06.320
+I was getting a little, yeah, a little tired of the whole thing.
+
+51:06.320 --> 51:10.520
+Like, yeah, just like, yeah, like mental health wise, it became harder.
+
+51:10.520 --> 51:16.560
+I feel like they're probably, as you said, just like accumulation of the, you know, the
+
+51:16.560 --> 51:20.080
+last two or three, the last two odd years.
+
+51:20.080 --> 51:21.520
+Yeah.
+
+51:21.520 --> 51:26.680
+So in between, I made sure to have some time off in between my last job at the Wall Street
+
+51:26.680 --> 51:28.940
+Journal and Contentful.
+
+51:28.940 --> 51:38.040
+So yeah, so I had about five weeks ish between, I don't have the dates right, but like about
+
+51:38.040 --> 51:40.040
+five weeks between.
+
+51:40.040 --> 51:41.040
+So it's not that long.
+
+51:41.040 --> 51:45.480
+It's long, especially if you compare it to like in America where they have like two weeks
+
+51:45.480 --> 51:46.480
+and that's it.
+
+51:46.480 --> 51:47.480
+That's it for the year.
+
+51:47.480 --> 51:48.480
+That's all you take off.
+
+51:48.480 --> 51:53.080
+But yeah, so it's long, but it's not extremely long.
+
+51:53.080 --> 52:00.320
+And during those five weeks, four or five weeks again, I went on the big road trip around
+
+52:00.320 --> 52:02.120
+the UK and it was fantastic.
+
+52:02.120 --> 52:07.720
+So yeah, that's how it, there was a really clean, may not be that long a break, but it
+
+52:07.720 --> 52:13.280
+was a very clean break because I didn't basically didn't, almost didn't code for like three
+
+52:13.280 --> 52:17.440
+weeks and it was just a completely, a complete change in that environment as well.
+
+52:17.440 --> 52:18.440
+Okay, cool.
+
+52:18.440 --> 52:20.600
+Thanks for sharing that.
+
+52:20.600 --> 52:27.680
+So I think in closing, and this one leads kind of nicely into it, why do you enjoy doing
+
+52:27.680 --> 52:29.680
+outside of the tech world?
+
+52:29.680 --> 52:33.200
+I know a lot of times the answer is I still do tech.
+
+52:33.200 --> 52:38.760
+If that's the case, that's fine, but I'm curious, like what do you do when you're not doing
+
+52:38.760 --> 52:39.760
+tech?
+
+52:39.760 --> 52:40.760
+Yeah.
+
+52:40.760 --> 52:41.760
+Yeah.
+
+52:41.760 --> 52:48.120
+So there's, like everyone else, I really like like traveling.
+
+52:48.120 --> 52:55.400
+I'm lucky that I get to do a lot more of that now as a developer advocate, which is fantastic.
+
+52:55.400 --> 53:00.360
+I like things to do with music, as I alluded to earlier with like my failure to be good
+
+53:00.360 --> 53:06.680
+at any musical instruments, so like playing it, listening to it, attending concerts.
+
+53:06.680 --> 53:10.800
+Another thing is, I guess, kind of like your answer a little bit is that I just like learning
+
+53:10.800 --> 53:13.120
+about things on the internet in general.
+
+53:13.120 --> 53:14.480
+So it's not necessarily coding.
+
+53:14.480 --> 53:21.080
+Like I have a side project like everyone else, let's not be, let's not lie there.
+
+53:21.080 --> 53:23.440
+Sometimes I have multiple and you know, it happens.
+
+53:23.440 --> 53:29.240
+But yeah, I just like getting into like random topics, like in like I think for about like
+
+53:29.240 --> 53:36.160
+maybe about a year now, I've got really into like musical theater and I just learned everything
+
+53:36.160 --> 53:40.560
+as much as I could about it and like learning the history of it, how different like composers
+
+53:40.560 --> 53:47.680
+like relate to each other and like just musically also was just extremely rich discovery.
+
+53:47.680 --> 53:51.640
+So like stuff like that, I also really like, which is kind of like doing tech a little
+
+53:51.640 --> 53:53.120
+bit, but not exactly.
+
+53:53.120 --> 53:54.120
+Yeah.
+
+53:54.120 --> 53:55.120
+Yeah.
+
+53:55.120 --> 53:58.120
+What is it about travel that you enjoy?
+
+53:58.120 --> 54:03.800
+I mean, it's a pretty, I guess, standard answer is like you're, well, it takes you out of
+
+54:03.800 --> 54:09.560
+your environment, which is great also for like, you know, it's for your mind and everything
+
+54:09.560 --> 54:10.560
+else.
+
+54:10.560 --> 54:15.240
+Like that's really good to, you know, to see other things and it's just, you know, learning
+
+54:15.240 --> 54:22.440
+about like and seeing just how other cultures work, how, you know, every, you know, every
+
+54:22.440 --> 54:23.440
+country works.
+
+54:23.440 --> 54:28.080
+You can, you also see a lot of blind spots, which is interesting of like stuff you didn't
+
+54:28.080 --> 54:30.960
+think about when you come to another country, you're like, oh my God, they totally fixed
+
+54:30.960 --> 54:31.960
+it.
+
+54:31.960 --> 54:35.080
+Or like, oh my God, this thing is absolutely terrible in this country.
+
+54:35.080 --> 54:38.520
+How did like, we figured this, we figured this out 10 years ago.
+
+54:38.520 --> 54:43.440
+How come this country hasn't, but like, it goes both ways.
+
+54:43.440 --> 54:47.840
+And yeah, it's just, it's just really good for, you know, just your mind and also just
+
+54:47.840 --> 54:53.280
+seeing different things, like, you know, in like seeing completely different nature and
+
+54:53.280 --> 54:56.800
+like different people, customs, it's just so interesting.
+
+54:56.800 --> 54:57.800
+Yeah.
+
+54:57.800 --> 54:58.800
+I agree.
+
+54:58.800 --> 55:04.280
+I wish I didn't have as much of an impact on our carbon footprint as it does.
+
+55:04.280 --> 55:11.200
+And I mean, sometimes, sometimes you can find beauty and uniqueness within your own country
+
+55:11.200 --> 55:17.400
+and you don't have to necessarily get on a plane, not, not unless you're driving an electric
+
+55:17.400 --> 55:18.400
+car.
+
+55:18.400 --> 55:22.760
+It's not like cars don't have an impact on, but I think they have less of an impact, less
+
+55:22.760 --> 55:26.520
+of a carbon footprint than a, than a big ass airplane.
+
+55:26.520 --> 55:29.560
+Oh, thank you so much, Alvin.
+
+55:29.560 --> 55:31.240
+This has been really a good conversation.
+
+55:31.240 --> 55:37.440
+I enjoyed it and I'm kind of sad to be, you have to end it a little early, probably, probably
+
+55:37.440 --> 55:45.480
+get going for a while, but yeah, I am going to die without electricity and internet for
+
+55:45.480 --> 55:46.480
+a while.
+
+55:46.480 --> 55:49.400
+So there's a problem that we haven't solved that a lot of other countries have solved.
+
+55:49.400 --> 55:50.400
+Yep.
+
+55:50.400 --> 55:56.160
+But yeah, thank you so much for, for taking some time out of your day to speak with me.
+
+55:56.160 --> 55:57.960
+I really appreciate it.
+
+55:57.960 --> 56:01.860
+And I'm going to look into a lot of these things that you've mentioned and I'll be following
+
+56:01.860 --> 56:05.520
+all your work on Twitter and Polywork and everywhere where you are.
+
+56:05.520 --> 56:06.520
+Thanks so much.
+
+56:06.520 --> 56:07.520
+No, thank you.
+
+56:07.520 --> 56:13.400
+And I'm happy to be on again, you know, to have another, another chat for sure.
+
+56:13.400 --> 56:14.400
+Thank you so much for having me.
+
+56:14.400 --> 56:15.400
+For sure.
+
+56:15.400 --> 56:16.400
+It's a huge pleasure.
+
+56:16.400 --> 56:17.400
+Thanks, Alvin.
+
+56:17.400 --> 56:22.400
+Thank you for listening to this episode of the My Senior Network Podcast.
+
+56:22.400 --> 56:27.280
+If you're not already, please subscribe, star, and leave a review for us in your podcast
+
+56:27.280 --> 56:28.880
+feature of choice.
+
+56:28.880 --> 56:34.640
+This helps others find us and helps us make a better podcast for you on this course.
+
+56:34.640 --> 56:39.680
+You can also find and follow us on Twitter at networdmysindium and join the community
+
+56:39.680 --> 56:40.680
+on Discord.
+
+56:40.680 --> 56:57.680
+All the links are available in the show notes.
+

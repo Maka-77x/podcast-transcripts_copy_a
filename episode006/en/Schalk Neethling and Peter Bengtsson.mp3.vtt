@@ -1,0 +1,1643 @@
+WEBVTT
+
+00:00.000 --> 00:06.680
+Welcome to the Mycelian Network Podcast, a podcast all about early stage web developers
+
+00:06.680 --> 00:09.840
+and the mentors and teachers that helped them along the way.
+
+00:09.840 --> 00:11.640
+Hey, welcome Peter.
+
+00:11.640 --> 00:14.680
+Welcome to the Mycelian Network Podcast.
+
+00:14.680 --> 00:15.680
+Thank you so much.
+
+00:15.680 --> 00:16.680
+It's a pleasure.
+
+00:16.680 --> 00:22.040
+So, I've taught many approaches to doing this in the beginning.
+
+00:22.040 --> 00:24.480
+It's now my sixth recording.
+
+00:24.480 --> 00:30.560
+So I think what I'm going to try with this one is instead of me asking a bunch of questions
+
+00:30.560 --> 00:36.480
+in the beginning, I'm going to kind of give you the floor and say that what I do know
+
+00:36.480 --> 00:40.040
+is that you've been in the industry for a long time.
+
+00:40.040 --> 00:41.880
+You've done a whole bunch of things.
+
+00:41.880 --> 00:46.480
+We worked together for a long time as well.
+
+00:46.480 --> 00:52.840
+But what I think would be interesting is if you could just tell us your journey from when
+
+00:52.840 --> 00:58.160
+you started getting into this or actually go as far back as you like, but kind of leading
+
+00:58.160 --> 00:59.880
+us up to today.
+
+00:59.880 --> 01:05.320
+Yeah, so I don't know what you said about me in the introduction, but I've been doing
+
+01:05.320 --> 01:11.920
+web development for 25 years and I don't know if that's a good thing or a bad thing.
+
+01:11.920 --> 01:14.040
+Some people have been doing it for 25 years.
+
+01:14.040 --> 01:19.400
+They move on to become directors of dev rel something.
+
+01:19.400 --> 01:20.400
+I don't know.
+
+01:20.400 --> 01:21.600
+I just love it.
+
+01:21.600 --> 01:29.960
+I started when basically I found out you can make an HTML page and you put them online.
+
+01:29.960 --> 01:35.740
+Me and my friends, when we were teenager, we made a webpage about poop and we uploaded
+
+01:35.740 --> 01:43.960
+it to a website, like the telecom ISP's website.
+
+01:43.960 --> 01:51.960
+And this was back in the day when people would read magazines about the interlift and the
+
+01:51.960 --> 01:56.800
+magazines would often have links to web pages that now suddenly exists and you can actually
+
+01:56.800 --> 01:59.160
+go to and serve them.
+
+01:59.160 --> 02:07.000
+And I had the smart idea of writing a angry letter to this magazine, complaining, pretending
+
+02:07.000 --> 02:14.080
+to be someone else, pretending to be angry that this ISP have a webpage at this certain
+
+02:14.080 --> 02:20.160
+URL that talks about poop, hoping that that would be some sort of controversial thing
+
+02:20.160 --> 02:23.400
+that people say, what is this horrible thing?
+
+02:23.400 --> 02:25.760
+I need to check it out.
+
+02:25.760 --> 02:28.600
+So maybe it did drive more traffic.
+
+02:28.600 --> 02:32.280
+Maybe we had like three more people visit the site or something.
+
+02:32.280 --> 02:33.600
+I don't remember.
+
+02:33.600 --> 02:42.000
+Yeah, so I started making HTML and CSS, that kind of stuff back in before the millennia,
+
+02:42.000 --> 02:46.600
+but in fact, when I lived in Sweden where I grew up and I actually managed to do a little
+
+02:46.600 --> 02:52.680
+bit of work there, like consulting work and we're two companies that needed webpages and
+
+02:52.680 --> 02:59.760
+I would do the webpage part of it and then hand it over to the Unix programmers who would
+
+02:59.760 --> 03:07.080
+then add CGI to these pretty pages to make them into apps or websites.
+
+03:07.080 --> 03:12.040
+And I kept doing that for a few years when I lived in England too, and those were the
+
+03:12.040 --> 03:19.760
+days when you'd have designers who make something pretty in Photoshop and then hand them over
+
+03:19.760 --> 03:28.200
+to web developers who would then slowly cut them up into webpages by extracting little
+
+03:28.200 --> 03:32.560
+gifs, spacer gifs and things like that.
+
+03:32.560 --> 03:36.880
+And then I took a little break from web development and went to school.
+
+03:36.880 --> 03:43.160
+I did mathematics and throughout my summer breaks and winter breaks, I ended up working
+
+03:43.160 --> 03:49.320
+for a little couple of guys at the university who made webpages and as soon as I graduated,
+
+03:49.320 --> 03:55.680
+I joined them to become the first employee and together we started a consulting business
+
+03:55.680 --> 04:01.640
+doing webpages and web apps and databases and yeah.
+
+04:01.640 --> 04:07.920
+And then I did that for 10 years and then I moved to America to work with Mozilla doing
+
+04:07.920 --> 04:15.160
+internal web properties where together with you Skulk as you know, that was all sorts
+
+04:15.160 --> 04:22.560
+of internal and some external apps by heavy on webpage and then together with you again
+
+04:22.560 --> 04:30.080
+Skulk the last couple of years and Mozilla I've worked on the MDN WebDogs page is usually
+
+04:30.080 --> 04:38.240
+popular and I'm proud to say that I took a huge fart in rewriting that site from scratch
+
+04:38.240 --> 04:48.760
+become a modern kind of a gen stack website and what could say and now I'm at GitHub where
+
+04:48.760 --> 04:55.280
+I work on their documentation website maintaining that, that it functioned out and provided.
+
+04:55.280 --> 04:58.600
+So that's quick whirlwind on my background.
+
+04:58.600 --> 05:06.520
+I'm now based in the East Coast in South Carolina and so that's a little bit about my background.
+
+05:06.520 --> 05:12.940
+I'm also and always have been a very early Python coder.
+
+05:12.940 --> 05:22.960
+So I started back in 1999 and actually making some commercial Python book which was great
+
+05:22.960 --> 05:29.480
+fun and it's kind of cool because I feel in a sense statistically I've been there from
+
+05:29.480 --> 05:35.920
+the beginning and it's always fun to look back at that over the years and I swear I
+
+05:35.920 --> 05:41.260
+have not seen anything as pretty as Python since I have been missing out the last couple
+
+05:41.260 --> 05:47.760
+of years maybe there's been some recent development and Julia and Rust and so on and it always
+
+05:47.760 --> 05:54.000
+been a big Python fanboy and I think what drew me into Python was another early interest
+
+05:54.000 --> 05:59.680
+which I had when I started the web developer like people find a niche something that they
+
+05:59.680 --> 06:01.920
+can attach themselves to.
+
+06:01.920 --> 06:07.660
+Some people like aesthetics so they really like the idea of my pretty colors and having
+
+06:07.660 --> 06:09.460
+something pleasant for them.
+
+06:09.460 --> 06:17.080
+Some people come from types they like pretty fonts the right alignment like a newspaper
+
+06:17.080 --> 06:22.840
+kind of that thing and they have many different interests and mine was that of usability like
+
+06:22.840 --> 06:27.840
+a little nerd I would read everything I could get my hands on every blog post in the early
+
+06:27.840 --> 06:35.160
+2000s but I would always I would always mop that concept of usability it felt like hey
+
+06:35.160 --> 06:41.320
+that's something I can maybe become good at I seem to have an interest in it I like it
+
+06:41.320 --> 06:46.440
+and it's something I like this burning sort of gut passion for fire for I really that's
+
+06:46.440 --> 06:51.120
+something I can contribute with there are other people who really who just have different
+
+06:51.120 --> 06:57.660
+passions and it's good like Ryan said and I think that's sort of was my love a little
+
+06:57.660 --> 07:03.120
+bit with Python it felt like they made the programming language so you don't have to
+
+07:03.120 --> 07:09.360
+think much like it didn't put a barriers it's almost like pave the path for you like a red
+
+07:09.360 --> 07:15.840
+carpet and it's famously so that some people say that Python is written down English that
+
+07:15.840 --> 07:22.680
+you can run because it reads so well and so that's always stuck with me I think over the
+
+07:22.680 --> 07:28.840
+years maybe my interests have come and gone in different topics but the whole usability
+
+07:28.840 --> 07:36.240
+piece the Jacob Nielsen research early on was super interesting and you can kind of
+
+07:36.240 --> 07:46.840
+walk away with that keeping two simple axioms in mind and it says Steve Krupp he said don't
+
+07:46.840 --> 07:53.280
+make me think and so there is so much more to that statement than just web interfaces
+
+07:53.280 --> 08:01.200
+or UIs there's also don't make me think to your fellow code reader a fellow colleague
+
+08:01.200 --> 08:07.680
+or even yourself so when you write a piece of code people often talk about the either
+
+08:07.680 --> 08:14.080
+some other engineers can have to work on this code or it's also you yourself so write it
+
+08:14.080 --> 08:21.920
+in a way that it can read as plain English make it almost too simple to be for what you
+
+08:21.920 --> 08:27.360
+know put effort into making it super simple and I think that's a very very important ingredient
+
+08:27.360 --> 08:34.240
+to multiple things and it's not just about how you make your UI and it's not just about
+
+08:34.240 --> 08:41.680
+you type your programming code but there is a huge element of this in your system design
+
+08:41.680 --> 08:50.280
+too like you need to always keep that in mind like if you hand this system over to someone
+
+08:50.280 --> 08:57.880
+will they scratch their head and have to sort of worry about understanding why I don't think
+
+08:57.880 --> 09:04.920
+people have a problem understanding oh this is Postgres oh this is memtest oh this is
+
+09:04.920 --> 09:11.800
+PHP whatever they don't struggle with that but they might be wondering why is there a
+
+09:11.800 --> 09:19.000
+extra Redis server sitting on the side and why does it have a cryptic name that I don't
+
+09:19.000 --> 09:26.280
+understand and I think over the years I think it's become kind of my strain and some of
+
+09:26.280 --> 09:34.120
+that might come from a bit of confidence that I don't feel like I need to show off because
+
+09:34.120 --> 09:41.400
+if you don't need to show off you are less prone to take out the weirdnesses people sometimes
+
+09:41.400 --> 09:46.600
+call out weirdnesses just to show off somehow it's strange I mean we're all a little bit
+
+09:46.600 --> 09:53.080
+guilty of it we want to show to our friends that hey look I'm using this latest reactive
+
+09:53.080 --> 10:00.120
+CSS framework something that you know that you don't use so I'm cool we all have that
+
+10:00.120 --> 10:07.160
+in us there's no denying even people who call themselves masters of simplicity they sometimes
+
+10:07.160 --> 10:11.640
+over complicate and kind of thrive a little bit in it I think we're all a little bit guilty
+
+10:11.640 --> 10:17.320
+of it yeah that's really true you know I mean that way you said like even for yourself I think
+
+10:18.040 --> 10:23.240
+where I learned a little bit about that and it's something that I'm starting to do again
+
+10:23.240 --> 10:29.560
+is when I used to do music stall my guitar teacher told me always write the fingering
+
+10:29.560 --> 10:34.520
+that you use for your left hand and your right hand write it on the sheet music because this
+
+10:34.520 --> 10:40.440
+is not just important for now so that you can see and understand what you're doing but if you pick
+
+10:40.440 --> 10:45.000
+up this piece of music again in five years from now you're going to thank yourself that you did
+
+10:45.000 --> 10:50.840
+that because you're not going to remember oh in this part I decided to re-finger it like this
+
+10:50.840 --> 10:57.320
+because it played easier or it sounded better or whatever the case is so I think leaving the same
+
+10:57.320 --> 11:03.160
+kind of hints to yourself and therefore other developers in your code either by writing your
+
+11:03.160 --> 11:09.320
+code in a clear and concise way that's easily understandable or when it's a little harder
+
+11:09.320 --> 11:15.640
+because just it needs to be leaving comments to explain why it is the way it is so that if you
+
+11:15.640 --> 11:22.440
+or somebody else picks it up then you're like oh I see that's why this is specifically like this and
+
+11:23.000 --> 11:28.680
+it ties back to this thing and this other component that and that's the reason why this
+
+11:28.680 --> 11:34.840
+is decoupled or that's the reason it's not decoupled I think it I think there is a
+
+11:34.840 --> 11:43.160
+a lot of people say that mantra write a comment that explains why and that's almost easier too
+
+11:43.160 --> 11:49.960
+easy to say and I have another perspective on that is when I used to study for my exams
+
+11:50.520 --> 11:57.480
+one of the things I used to do was pretend to write cheat notes I even would write on a piece
+
+11:57.480 --> 12:03.240
+of paper would write the text little with a sharp pen I would write the little formulas that I
+
+12:03.240 --> 12:09.960
+had to memorize or the little important names or whatever it was I would write them in a small hold
+
+12:09.960 --> 12:16.440
+just to make the whole exercise a little bit more special a little bit more mnemonic and I would
+
+12:16.440 --> 12:23.640
+write them down the night before or the the days before whatever it was and then obviously leave
+
+12:23.640 --> 12:30.440
+the cheat notes at home and so you don't get caught and the whole exercise there it's like
+
+12:30.440 --> 12:36.200
+it's cognitive science it forces the brain to think about the things that you don't know
+
+12:36.200 --> 12:42.520
+and it kind of goes like that with your code trail and your comment trail you don't
+
+12:43.480 --> 12:51.560
+you don't necessarily need to explain everything the why but ask yourself like whoa this is a
+
+12:51.560 --> 12:56.840
+little bit surprising I find it a little bit surprising I'm sure someone else is going to find
+
+12:56.840 --> 13:05.720
+surprising so work from that don't look at every statement and think of a why comment for it but
+
+13:05.720 --> 13:12.440
+look at it like hmm is this gonna be hard to understand for me would I need if this was my
+
+13:12.440 --> 13:21.320
+old test would I need cheat notes to remember why this component is different from this or why have
+
+13:21.320 --> 13:28.280
+I allowed to repeat some code or something there's got to be like a store and so deep there ask
+
+13:28.280 --> 13:33.880
+yourself those questions I think that helps yeah yeah for sure I agree yeah that's super interesting
+
+13:33.880 --> 13:39.080
+stuff I was thinking about something now but that slipped my mind so we'll cycle back to that oh
+
+13:39.080 --> 13:45.800
+yeah no what it was is so you talked about usability and how that is like a burning passion for you and
+
+13:45.800 --> 13:52.120
+I mean I've experienced that with some of the meetings we've had on while we were together
+
+13:52.120 --> 13:58.280
+working on MDN where you've asked like really important questions during some of these
+
+13:58.280 --> 14:03.720
+brainstorming meetings we had or where we talked about an interface that other people didn't ask
+
+14:04.280 --> 14:12.520
+so like how do you is this just experience that that's leading to this or is there any like
+
+14:12.520 --> 14:18.920
+material you can point out that you found that really helped you improve the way you think
+
+14:19.720 --> 14:26.600
+about how to make good software right so there's there's two factors to that and that what
+
+14:26.600 --> 14:35.320
+makes it almost impossible to explain but there's one factor is confidence like you need to feel
+
+14:35.320 --> 14:40.920
+somewhat happy in your mind that you can take a punch in the face for looking like an idiot
+
+14:40.920 --> 14:47.160
+because if you can't do that you don't want another instance of looking like a fool at work
+
+14:47.160 --> 14:52.760
+and then maybe looking like a fool in your day-to-day life so confidence is one part
+
+14:53.240 --> 15:00.600
+but the other part is something that stuck with me when I was a young young adult I did a lot of
+
+15:00.600 --> 15:09.480
+martial arts and our instructor would insist like come on ask questions you'll only be an idiot once
+
+15:09.480 --> 15:15.320
+that's the statement that I think about that too so you're in a work meeting
+
+15:16.280 --> 15:22.600
+and as long as you're not completely wasting a bunch of people's time there's a great chance
+
+15:23.400 --> 15:31.400
+that you can remove this idiocracy once and for all and then you've got to keep in mind too
+
+15:31.400 --> 15:38.840
+that there's a big chance that everyone else is thinking the same so that maybe if you talk about
+
+15:38.840 --> 15:48.200
+a tool if you find it a little bit nerve-wracking to kind of admit that you don't understand
+
+15:48.200 --> 15:55.080
+you can at least boost your morale internally by thinking it's very possible that right now
+
+15:55.080 --> 16:02.760
+I'm going to do a favor for her and him and him by asking this question and oh god forbid
+
+16:02.760 --> 16:08.360
+I'm wasting his time and her time because they've already understood that so they were at the other
+
+16:08.360 --> 16:16.760
+meeting but maybe if that helps to always think that you know what I'll take this one for the
+
+16:16.760 --> 16:23.880
+team because it can multiply so I'll ask this hard question or almost embarrassing question
+
+16:24.840 --> 16:31.080
+and so that those other people can also benefit so we can all benefit I think that's a tool that
+
+16:31.080 --> 16:39.640
+can help and then you try to like do that with all sorts of other aspects um for example because
+
+16:39.640 --> 16:47.240
+the truth is what we do as professional engineers working on computers is we write a lot of emails
+
+16:47.240 --> 16:55.800
+slack comments you know relation tracker comments and stuff like that keep that in there too for
+
+16:55.800 --> 17:03.240
+example if you see an acronym you don't understand or something you say what does p h p mean I've
+
+17:03.240 --> 17:12.840
+never heard this before and you're doing that because a you google it but b now you might be
+
+17:12.840 --> 17:18.440
+able to help the other people who are going to come and see this acronym and don't know what it
+
+17:18.440 --> 17:23.480
+means now you're maybe saving that googling time for a bunch of other people so I think that's a
+
+17:23.480 --> 17:31.320
+great little tool to justify that dip that you need to take by asking those questions because
+
+17:31.320 --> 17:40.440
+it is a little dip so they can come out as a winner and I think um I think I so confidence I'm
+
+17:40.440 --> 17:46.200
+I'm I'm a moderately confident person I might not have great self-esteem I feel just as much
+
+17:46.200 --> 17:53.720
+formal as everyone else in the world but another thing too that I think is very important and you
+
+17:53.720 --> 18:00.920
+mentioned meetings is to kind of jump at the elephants in the world the hard questions
+
+18:02.120 --> 18:09.160
+because I've learned almost too late that the academic way of the almost the best way of
+
+18:09.160 --> 18:14.680
+learning is to like attack the really hard problems maybe you don't know the answers today
+
+18:14.680 --> 18:22.200
+but if you jump to the to the last page of your math exercise book and work on those work you're
+
+18:22.200 --> 18:28.680
+going to get stuck but your little brain is going to be chugging away at it maybe after the meeting
+
+18:28.680 --> 18:34.760
+or the over the night or throughout the day so you're slowly like gather little fragments and
+
+18:34.760 --> 18:41.960
+it's the same when you sit down in a corporate world and you're up against some sort of challenge
+
+18:41.960 --> 18:48.120
+I think everyone in the room is kind of eager to to find a low-hanging fruit or something that they
+
+18:48.120 --> 18:55.800
+can say hey uh I can do the uh the new signup button and then you feel sort of fulfillment like
+
+18:55.800 --> 19:02.280
+hey I'm taking something away something that I can do but maybe what you should do is say
+
+19:03.400 --> 19:11.320
+why are we building this or who's the user going to be for this or hang on why didn't we
+
+19:11.320 --> 19:17.480
+install that other you know like really almost controversial questions and they can be asked in
+
+19:17.480 --> 19:24.040
+a way that they don't annoy like like attack those because once you start chewing on those
+
+19:24.840 --> 19:30.040
+whilst you may be working on that signup button rather than I'm just going to worry about the
+
+19:30.040 --> 19:36.600
+signup button now this easy thing and then you're leaving procrastinating the big problems they're
+
+19:36.600 --> 19:42.520
+going away they're just different ways or maybe rearranging them and some of them again maybe
+
+19:42.520 --> 19:49.400
+they take a little bit of confidence to be them almost a little bit controversial by asking a
+
+19:49.400 --> 19:56.440
+little bit weird questions but I think it really works especially if you mix it up a little bit so
+
+19:56.440 --> 20:03.240
+you go some high and some some lows so you chat about like the big tickets that are almost there's
+
+20:03.240 --> 20:07.720
+almost an energy in the room or a lack of energy where people don't talk about this
+
+20:09.800 --> 20:14.600
+and then you mix that up with some of the easy stuff some of the low-hanging fruits
+
+20:14.600 --> 20:19.880
+so that you feel a certain momentum going forward. I heard somebody say the other day
+
+20:21.000 --> 20:27.560
+ignoring something doesn't make it go away doing it makes it done so I think that's
+
+20:27.560 --> 20:34.280
+same for everyone to remember. Something that you've said a lot and that has an impact on me
+
+20:34.280 --> 20:43.000
+personally is you tend to always say writing the code is the easy part understanding the problem
+
+20:43.000 --> 20:49.800
+is the hard part do you want to dig into that a little bit? Yeah I remember there was a famous
+
+20:49.800 --> 20:57.240
+blog post I forget the name of the author and he talked about planning the importance of planning
+
+20:58.440 --> 21:05.320
+and the truth is that planning is awesome like thinking through the problem first
+
+21:06.360 --> 21:15.640
+it really helps. The honest truth though just like buy low sell high it's not easy to plan
+
+21:15.640 --> 21:21.800
+so sometimes what you need to do is you need to sort of immerse yourself with the challenge
+
+21:21.800 --> 21:29.880
+jumping in and I don't know do whatever it takes to like get yourself disgusted by the
+
+21:29.880 --> 21:35.960
+problem make it really really difficult and like get that all over yourself and in your brain so
+
+21:35.960 --> 21:43.000
+it's all corners of your brain is working with this hard one and do whatever that takes like
+
+21:43.000 --> 21:50.520
+some people like to jump into some crazy prototype some people like to write a document a google doc
+
+21:50.520 --> 21:57.000
+a word doc where they're all pen and paper writing styles and like that can like jump into it because
+
+21:57.000 --> 22:06.120
+once those things start to come out we start to sort of slowly develop a picture and then you're
+
+22:06.120 --> 22:14.840
+and then you're like okay shoot we don't need that other database what we do need is the password
+
+22:14.840 --> 22:23.240
+thing widget and now I've thought about it I've prototyped about it maybe that code has been
+
+22:23.240 --> 22:29.400
+thrown away I have chatted to my friends and colleagues about it all right the work is done
+
+22:29.400 --> 22:34.200
+now we just need to type it up so sit down with your JavaScript editor and write it down
+
+22:34.200 --> 22:43.560
+and it's almost like taking notes or writing a reflective summary report and so I think
+
+22:43.560 --> 22:51.480
+that ties into that topic that writing the code can be easy if you've thought about the hard parts
+
+22:51.480 --> 23:00.360
+of it and I don't that's not necessarily an answer but the statement I still stand by that often
+
+23:00.360 --> 23:05.480
+writing the code is in there's also the certain element and we're all very very familiar with
+
+23:05.480 --> 23:14.040
+that is that you're up against a big challenge and it's usually a very complex challenge in that it's
+
+23:14.040 --> 23:22.520
+so much more than just the style sheet it's also getting approval from design and secure database
+
+23:22.520 --> 23:29.640
+security folks and you need to have discussion with the product managers or something like that
+
+23:29.640 --> 23:36.840
+those are and so there comes a time when you just need to put your headphones down and listen to
+
+23:36.840 --> 23:44.920
+some music and just work on something so there is an element of sort of self-peace and happiness
+
+23:45.720 --> 23:52.360
+that you take all those challenges which are so energetically draining because they can be
+
+23:52.360 --> 23:58.680
+controversial and they force you so you kind of want to save yourself this afternoon I'm just
+
+23:58.680 --> 24:04.440
+going to write the code I'm not going to get it right the first time but I'll listen to some music
+
+24:04.440 --> 24:10.040
+and I'll type the code and and it gives you like a moment of meditation I think that's important
+
+24:10.920 --> 24:18.360
+you need that and also the truth be told if you've been going through the challenges upfront so you
+
+24:18.360 --> 24:24.600
+can sit down and relax your brain will still continue to work on those hard problems there
+
+24:24.600 --> 24:34.760
+yeah very true so this podcast is a combination so it's a two sides of a coin it's one I speak to
+
+24:34.760 --> 24:42.120
+people who are new to web development specifically or software engineering it tends to be that I've
+
+24:42.120 --> 24:47.320
+mostly talked to like other web developers and these are people sometimes that young folks that
+
+24:47.320 --> 24:54.600
+are literally like starting their career their life but sometimes it's also people that is
+
+24:54.600 --> 25:02.280
+switching over from one career to becoming a web developer and so I think one of the things
+
+25:02.280 --> 25:10.280
+I'm curious about is for people joining the industry now what do you think what advice
+
+25:10.280 --> 25:15.320
+do you have for people like you talk about confidence and I think that's very important
+
+25:15.320 --> 25:21.720
+but when you're new and you have this kind of imposter syndrome thing because you see a lot
+
+25:21.720 --> 25:29.480
+of these like as they call them the programming ninjas then you kind of feel like I'll never be
+
+25:29.480 --> 25:35.560
+able to meet up to those people what are what are some tips you can give people to like build up
+
+25:35.560 --> 25:41.480
+their confidence and feel a bit more sure about themselves so that they have the confidence to
+
+25:41.480 --> 25:48.680
+step into this world that's a great question and I think I have a very good answer I attribute
+
+25:49.400 --> 25:58.280
+a lot of this to shared experience of being a mentor I've been a mentor for many young interns
+
+25:59.000 --> 26:07.720
+who come like engineering interns but also maybe the most rewarding mentorship experience that
+
+26:07.720 --> 26:16.360
+I've gone through was the outreach program which started in 2015 something like that maybe earlier
+
+26:17.240 --> 26:24.840
+which was originally exclusively for women who wanted to gain to tech and non-asserted college
+
+26:24.840 --> 26:32.680
+strategies so I was mentoring there and I learned a lot I think there's a huge difference between that
+
+26:32.680 --> 26:39.720
+mentoring path compared to young interns especially as you know Skulk a lot of interns we've come
+
+26:39.720 --> 26:48.120
+across they are from the top universities in the U.S. and France and Canada and the kind of a reason
+
+26:48.120 --> 26:53.880
+why they from the top universities and that's because they're freaking clever cookies who got
+
+26:53.880 --> 26:59.000
+into those universities they're the go-getters so they there's a different type of mentoring for
+
+26:59.000 --> 27:10.520
+them whereas the more shall we say adult mentees it's 99% of our confidence 1% I'll name it let's
+
+27:10.520 --> 27:22.280
+say 90% confidence 9% direction and sort of that and maybe 1% a little bit of coding or some
+
+27:22.280 --> 27:31.800
+engineering and I think I can conclude this is like my opinion but maybe one of the best things
+
+27:31.800 --> 27:41.480
+you can do is to have a very good mix of professionalism and weaknesses particularly
+
+27:41.480 --> 27:50.600
+showing weaknesses there is almost nothing better to give someone a massive boost of confidence
+
+27:50.600 --> 27:59.000
+when they can see I'm putting up quotation marks when they can see that someone who's professional
+
+27:59.000 --> 28:08.520
+and good at something fails and that you show that and you talk about them and try to be a little
+
+28:08.520 --> 28:18.120
+bit more than just this one time I accidentally leaked the password but you know drive on this
+
+28:18.120 --> 28:27.400
+point a little bit show that look I am good at A B and C but I am terrible at D I don't understand
+
+28:27.400 --> 28:33.400
+it it's so frustrating I get tired I can't believe it I feel like tearing in my hair sometimes and
+
+28:33.960 --> 28:38.760
+you know that kind of stuff and also maybe mix in some of those little failure stories that
+
+28:38.760 --> 28:48.440
+we all have and they don't always have to be about oh I took down production sir and you dig the
+
+28:48.440 --> 28:57.240
+there are many other failure stores and I often sometimes say stores like I wanted to sit down
+
+28:57.240 --> 29:05.640
+and learn this new programming language and I just couldn't it didn't work for me my brain
+
+29:05.640 --> 29:11.240
+couldn't kick in like I couldn't get it like nothing is more motivating for someone learning
+
+29:11.240 --> 29:23.880
+and new in tech so and the other two tips that I have are more guidance and I think your role as a
+
+29:23.880 --> 29:35.880
+mentor is to not teach anything but to maybe help the person find their passions their strengths and
+
+29:35.880 --> 29:44.840
+like what their heart and their gut goes and and be there for that you know you like tease it out
+
+29:44.840 --> 29:51.640
+like hey you seem hmm I get you starting to maybe see you seem like the kind of person you are
+
+29:51.640 --> 30:00.120
+maybe see you seem like the kind of person who thrives in speaking to a crowd hmm maybe that
+
+30:00.120 --> 30:06.600
+could be your thing you could do talks oh and something like that or or hey you seem like the
+
+30:06.600 --> 30:12.840
+kind of person who likes to I don't know get all the ducks lined up like an organizer someone who
+
+30:12.840 --> 30:22.200
+likes to finish all the bunk tickets and there's one last hugely powerful tip for people who are
+
+30:22.200 --> 30:27.880
+new in the industry and I think in all fairness in terms of wanting to become a better engineer
+
+30:27.880 --> 30:35.800
+there is nothing better than making stuff and I think what we all need to do is we need to cool it
+
+30:35.800 --> 30:43.800
+with our side projects it's so easy to say for a mentor to a mentee or junior person yeah build
+
+30:43.800 --> 30:52.200
+more side projects but it's not that simple people have lives they have passions they have
+
+30:52.200 --> 31:00.120
+personalities but here's the thing may can be many different things if you come across someone
+
+31:00.120 --> 31:07.640
+who might not be that kind of a side project kind of a gal or guy maybe you can say hey do you know
+
+31:07.640 --> 31:14.120
+what you should maybe do write the blog post and they say oh I'm not very good and then you insist
+
+31:14.120 --> 31:20.600
+on that like yeah I know it's a hard in the beginning but you know get started you can maybe
+
+31:20.600 --> 31:26.120
+write a blog post that shows it just to me and maybe we can edit that if that's your passion
+
+31:26.120 --> 31:31.800
+you know like you have to try to find something that they can make because reading will never get
+
+31:31.800 --> 31:43.240
+make someone good I mean it will help but making is the true north for everyone that they need to
+
+31:43.240 --> 31:50.600
+to do to upgrade their skill set but here's the thing you've got to help them understand what mate
+
+31:50.600 --> 32:01.320
+means I've come across mentees who seem to they seem to have a knack for live audience speaking
+
+32:01.320 --> 32:08.200
+and they thrive there and so my job as a mentor is to kind of say look there's a conference
+
+32:08.200 --> 32:16.200
+this one here's the url maybe you propose a presentation for that and I know it's a small
+
+32:16.200 --> 32:21.480
+one and we have to travel and I know you're not an expert of this topic but hey let's figure
+
+32:21.480 --> 32:29.480
+something out maybe you can come up with a slightly adjacent topic there they can yeah those are my
+
+32:29.480 --> 32:38.600
+my three tips on mentoring or show your own weaknesses and help someone guide them towards
+
+32:38.600 --> 32:46.200
+where their heart wants to go and then trigger will force them almost to make things whatever
+
+32:46.200 --> 32:56.360
+that means coding and writing presenting so yeah I think it's huge and I think it's an important
+
+32:56.360 --> 33:00.920
+thing to to highlight the whole thing about being willing to show your weakness because I think the
+
+33:00.920 --> 33:05.960
+world has gotten to that point where people have been actually kind of told the opposite thing
+
+33:05.960 --> 33:11.560
+they've always been told to hide your weaknesses and only show the wins don't show the failures
+
+33:11.560 --> 33:18.600
+only show the wins until you are some super famous person and then you can talk about your failures
+
+33:18.600 --> 33:24.840
+but while you're still coming up hide them hide them and I don't think that that that is a good
+
+33:24.840 --> 33:30.760
+approach because you know the first time you fail you're going to feel so alone in that failure
+
+33:30.760 --> 33:36.680
+you're going to feel so alone in that failure because you have nobody else that is said me too
+
+33:36.680 --> 33:45.240
+I also find it hard I think that is why I still come across people constantly who don't know how
+
+33:45.240 --> 33:52.040
+to use get or even get hub and they're too afraid to say that so that they'd rather just not
+
+33:52.040 --> 33:58.040
+contribute to a project they'd not contribute to open source because they're too ashamed to say
+
+33:58.040 --> 34:04.120
+you know what I can solve this problem but I'm not sure how to use get and get hub to get my
+
+34:04.120 --> 34:11.480
+solution to this project but it feels so silly for me to not know that so I'm just going to not do it
+
+34:12.360 --> 34:20.760
+yeah it's horribly true it is very much so and now that's the perspective of the particularly
+
+34:20.760 --> 34:27.000
+where you started the conversation was like more of junior person and and that is a harsh reality
+
+34:27.000 --> 34:32.680
+and that they had to contend with it's easy for a mentor to say show your weaknesses we're talking
+
+34:32.680 --> 34:39.640
+about the mentors weakness and but it is and it is a very very difficult thing to be up against
+
+34:39.640 --> 34:47.160
+especially when these start to add up like there you have the junior person who realizes oh I still
+
+34:47.160 --> 34:52.840
+don't understand get and I don't know how to use it actually that's just one of them you know I'm
+
+34:52.840 --> 34:59.400
+also struggling to understand flexbox and I'm also struggling to understand compilation I don't
+
+34:59.400 --> 35:05.320
+understand what the difference is between a binary and a plain text or something you know they could
+
+35:05.320 --> 35:12.120
+be many of them and but there's not a lot you can do about that we can't know everything and
+
+35:12.120 --> 35:19.160
+we can't know everything and this is not necessarily about showing your weaknesses so you need different
+
+35:19.160 --> 35:26.040
+mechanisms when you're in that situation when there's too many things and I've always thought
+
+35:26.040 --> 35:33.240
+that if I was in I mean it's easy to say no that I'm more experienced but the only really thing you
+
+35:33.240 --> 35:41.400
+can do when you're up against that is to try to clear the table so that you can focus on one
+
+35:41.400 --> 35:50.120
+little thing at a time and nothing these may be breaking it down into absolute constituents because
+
+35:50.840 --> 35:58.200
+you know this and you've come across junior engineers too who honestly they don't necessarily
+
+35:58.200 --> 36:05.160
+understand everything and neither do you skull for me but what they do is they go to like the top of
+
+36:05.160 --> 36:12.200
+the framework and try to use it and then they get stuck because they don't really understand
+
+36:12.200 --> 36:19.080
+the fundamentals and we've all seen shall we say stack overflow posts where they copy and paste
+
+36:19.080 --> 36:26.120
+all of their code and it's full of full of their like their business logic and stuff and they're
+
+36:26.120 --> 36:33.240
+saying it doesn't work and that kind of stuff and the only way that they can get out of that rut
+
+36:33.240 --> 36:40.520
+is to break it down a little scale away and I think the truth be told too here's the thing
+
+36:41.880 --> 36:48.600
+there is only one way to solve that and that is to peel it down and that absolutely differentiator
+
+36:48.600 --> 36:54.600
+of an experienced engineer and a junior engineer is that the experienced engineer goes there
+
+36:54.600 --> 37:02.920
+himself he like oh I don't understand how github desktop works support what they do is they
+
+37:02.920 --> 37:09.160
+peel away okay all right let me go back to get the command line tool or I still don't get it
+
+37:09.960 --> 37:13.880
+all right maybe they peel away a little bit further they go down to absolute basic commands
+
+37:13.880 --> 37:19.640
+then maybe they open up the files or maybe they seek out some documentation about they like the
+
+37:19.640 --> 37:26.920
+core of it and they start whereas maybe a junior engineer they don't naturally go to the lower
+
+37:26.920 --> 37:34.360
+levels the lower layers themselves they're maybe throwing their hands and so maybe that's it's
+
+37:34.360 --> 37:41.960
+something to keep in mind that hey you're a junior the probably the reason why you get stuck is
+
+37:41.960 --> 37:49.720
+because you don't naturally go deeper to break it down into add a molecules and then you break down
+
+37:49.720 --> 37:55.960
+the molecules into atoms because that is what the seniors do they they don't know it either
+
+37:55.960 --> 38:02.200
+but that's what they do and I mean there's a reason why hello world is popular it's because
+
+38:03.000 --> 38:09.960
+and that's how the brain can learn you start with something like that print hello world and
+
+38:09.960 --> 38:16.280
+we'll work our way up I mean it's easy to sit here and say all of this because there's another
+
+38:16.280 --> 38:24.520
+element too that if you're in a junior position and you want to level up it's not particularly
+
+38:24.520 --> 38:32.680
+fun to go down to assembly language and learn what a bite is and what you want to do is you
+
+38:32.680 --> 38:39.400
+probably want to ship something there are a few things that is rewarding is that you want to like
+
+38:39.400 --> 38:46.360
+make something to show your mom and you want to like you want to just download this framework
+
+38:46.360 --> 38:52.760
+and put some cool stuff together make a web page or an app for something like that that is what
+
+38:52.760 --> 38:59.800
+you want to do right and I don't think there's anything that can be done to solve that other
+
+38:59.800 --> 39:10.040
+than maybe try to do both like you start with an objective you say I want to make a whole iOS app
+
+39:11.800 --> 39:18.440
+and you come at it a little bit some like the basic tutorials on there but then you're like
+
+39:18.440 --> 39:24.600
+all right now I'm starting to get stuck here I need to figure out how do I do a form loop in
+
+39:26.360 --> 39:34.040
+potlin wait that's android but anyway that you you can like come at it from the top like the
+
+39:34.040 --> 39:39.400
+application and then you can take little breaks and go to the very very smaller components and
+
+39:39.400 --> 39:45.160
+just tinker away and I don't know how many times I've done this in the past but it's been an
+
+39:45.160 --> 39:50.920
+absolute godsend you're up against a big challenge big system big framework something like that
+
+39:52.280 --> 39:59.080
+and it's so confusing there's so many compilers and transformers and transpilers and everything
+
+39:59.080 --> 40:04.600
+it's like it's all big blur but you know you've got to ship by next credit and but there's few
+
+40:04.600 --> 40:14.520
+things that are as powerful as learning as to like open a new window maybe go down like download the
+
+40:14.520 --> 40:24.920
+raw babel like just down or if it's next.js you create a fresh new next.js installation
+
+40:24.920 --> 40:29.560
+and you just have this one little thing that you want to do and you can do it maybe your temp
+
+40:29.560 --> 40:36.840
+directory or a new computer but you're like just test it out like ah now I understand how lazy
+
+40:36.840 --> 40:42.200
+loading css will and like that and then you're like scrap that away kind of like your cheat
+
+40:42.200 --> 40:50.440
+notes and then you can go back to the to the beast and to work but that has helped me so many times
+
+40:50.440 --> 40:56.280
+and the only thing stopping me from doing it again and again is just sort of human in persia
+
+40:56.280 --> 41:04.040
+and laziness but you know that it's what you need to do here is you need to sort of maybe
+
+41:04.680 --> 41:11.720
+start a fresh new install of maybe create a brand new database or what a table or something like
+
+41:11.720 --> 41:18.760
+that just so you can understand there's one tiny little thing and then jump back at all it's funny
+
+41:18.760 --> 41:24.040
+that you mentioned that um the other day on the i listened to shop talk show and they were speaking
+
+41:24.040 --> 41:28.680
+to some folks in the agency and they do a lot of wordpress stuff and even though they do a lot of
+
+41:28.680 --> 41:34.440
+wordpress it's not really their strong suit so oftentimes what they would do is when they will
+
+41:34.440 --> 41:41.240
+want to build a new like component they open up a code pin and like build a component inside code pin
+
+41:41.240 --> 41:46.600
+then take that and stick it in into wordpress because now they know they have a version of it
+
+41:46.600 --> 41:54.680
+that works so if anything breaks it's something to do with wordpress so now you need to just figure
+
+41:54.680 --> 42:00.200
+out what is it in this new environment that's clashing with what i'm trying to do because i
+
+42:00.200 --> 42:06.120
+know if i take it out of this situation i put it by itself it works and i bring it into the scenario
+
+42:06.120 --> 42:11.560
+it doesn't work so what is different about these two environments and then start teasing it apart
+
+42:11.560 --> 42:17.240
+until you find oh it's because it has this extension that does this weird thing and i did
+
+42:17.240 --> 42:23.080
+happen to use the same id and it's it's grabbing my element and doing funny stuff with it for sure
+
+42:23.800 --> 42:33.480
+i love those tools code pen code sandbox yeah also um when you and i sculpt worked we did a lot of
+
+42:33.480 --> 42:43.480
+a lot of complex stuff with the aws system and i got a lot of learning from i used like my private
+
+42:43.480 --> 42:49.240
+accounts for that and if there was something i didn't understand i want to create a brand new one
+
+42:50.440 --> 42:58.280
+just to test something and then throw it away and so there are lots of tools and they're all
+
+42:58.280 --> 43:03.400
+they're really good to have they're good to have and to not be intimidated i think it's an amazing
+
+43:04.120 --> 43:09.720
+thing that's happening in the last couple of years now especially in web development where
+
+43:11.160 --> 43:19.000
+you file a bug and so saying it doesn't work they say hey can you copy and paste it into a
+
+43:19.000 --> 43:26.360
+code sandbox and give us the url and you put it in there and eve what's so amazing too is you
+
+43:26.360 --> 43:32.280
+don't necessarily have a perfect story to tell there in your bug that you're going to file or
+
+43:32.280 --> 43:39.400
+the rubber duck debugging is simply breaking it down for the sake of maybe putting it into code
+
+43:39.400 --> 43:45.240
+pen can help you understand what the hell is wrong so for people who don't know what a rubber duck
+
+43:45.240 --> 43:52.360
+debugging means it's uh it's this idea that you are struggling you're stuck something doesn't work
+
+43:52.360 --> 43:58.520
+and you ask your colleague over a friend hey can you help me debug what the hell is going on
+
+43:59.320 --> 44:05.240
+and so your friend comes over and stand over your shoulder or on zoom as we do these days
+
+44:05.240 --> 44:11.880
+that you say all right so i took this fall i tried to copy this i tried to compile this function i
+
+44:11.880 --> 44:18.440
+tried to write this style as well i said what the hell no i see what i've done there's my mistake
+
+44:18.440 --> 44:23.880
+and you say to your friend like never mind i figured it out as i was breaking it up i figured
+
+44:23.880 --> 44:29.960
+it out you can go back to your desk so your friend was just standing there like a rubber duck not
+
+44:29.960 --> 44:39.400
+doing anything and so it's quite a famous sort of strategy or anecdotal strategy and hey use that
+
+44:39.400 --> 44:44.200
+to your advantage you don't need to disturb a colleague every time what you can sometimes do
+
+44:44.200 --> 44:52.200
+is i don't know what's going on i'm going to start a a tiny little atom in say the typescript
+
+44:52.200 --> 44:59.080
+playground just the tiniest little function a little type definition and almost as if you prepare
+
+44:59.080 --> 45:06.120
+yourself to post the stack of posts or something or show that code pen to your colleagues and
+
+45:07.160 --> 45:12.920
+there's big chance that that will inspire your brain to understand it maybe or that you spot
+
+45:12.920 --> 45:21.320
+your little mistake on a type or whatever it might be yeah and i think then this ties back to
+
+45:21.320 --> 45:27.880
+something you said way back um then writing about this whole thought process you went through
+
+45:27.880 --> 45:34.040
+because this can help somebody else again and this ties into your blog which especially when
+
+45:34.040 --> 45:38.920
+i search for stuff related to python or something like that more often than not i will land on your
+
+45:38.920 --> 45:44.760
+blog and find the answer there so i think blogging is extremely important it's something i've been
+
+45:44.760 --> 45:51.160
+neglecting but i'm trying to pick up again but you you do a really good job of running a very
+
+45:51.160 --> 45:57.400
+active very there's just so much useful information in that blog what is your approach to to that like
+
+45:57.960 --> 46:07.160
+any tips for people want to start blogging i i my approach i mean i wish i could um and i'm jealous
+
+46:07.160 --> 46:12.200
+of the people who can pick up a new topic they have observed it and then they almost rewrite it
+
+46:12.200 --> 46:20.600
+again in their own words and for example they're the people who keep an eye on say the tc39 spec
+
+46:20.600 --> 46:27.240
+discussion so something as it goes through and then they uh they're able to just rewrite it one
+
+46:27.240 --> 46:33.640
+more time in a different set of words uh maybe uh less technical and a little bit more of a story
+
+46:33.640 --> 46:40.040
+and that's great readership and maybe the truth maybe they do it to get traffic or maybe they're
+
+46:40.040 --> 46:48.360
+just as human as anybody else in that maybe if i write it all over again in my words i'll understand
+
+46:49.480 --> 46:56.600
+and uh someone else said that if you write an opinion you'll get a lot of negative feedback
+
+46:56.600 --> 47:05.640
+but if you write an experience you can never be real and now it's almost maybe a better quality
+
+47:05.640 --> 47:11.480
+product uh article if it is an opinion and because it can stir the mind a little bit but hey we're
+
+47:11.480 --> 47:19.400
+all the humans so go a little bit for writing your experience and my approach is um a kind of
+
+47:19.400 --> 47:27.640
+imagining almost in my head that there was a stack hold for question and let me uh then explain
+
+47:27.640 --> 47:35.800
+an answer so you write like all right this is the problem i encountered and it was not easy
+
+47:35.800 --> 47:41.880
+eventually i found i can use this function and by the way this function you can read more about on
+
+47:41.880 --> 47:47.560
+this page and here's an example of doing it with unicode characters and that's what i did and then
+
+47:47.560 --> 47:56.280
+i found that so you write a little bit uh an executive summary about what you just went
+
+47:56.280 --> 48:01.160
+through what you learned there like one tiny little micro step that you took in it but you
+
+48:01.160 --> 48:07.560
+maybe spruce up the words so that it can be consumable consumable by someone else in my google
+
+48:07.560 --> 48:17.880
+across it and i tell you um so my blog is just a loud note taking from my perspective that's what it is and it's
+
+48:17.880 --> 48:25.560
+the stack overflow answers that no one asked or something but it is so rewarding uh when someone
+
+48:25.560 --> 48:35.400
+posts a column saying hey that really helped me and uh i would encourage everyone to go for that
+
+48:35.400 --> 48:41.480
+because in a world where we count likes and hearts and sort of increments like that
+
+48:42.520 --> 48:48.520
+there is nothing as rewarding as that feeling of having touched someone's actual progress
+
+48:49.560 --> 48:56.120
+so if you can turn around and look at it from that perspective like what can i do to make
+
+48:56.120 --> 49:01.480
+someone's life a little bit easier like to make them move on it is so much more rewarding than
+
+49:01.480 --> 49:09.560
+getting 20 likes on something keep that in mind that you might touch someone's life by lining
+
+49:09.560 --> 49:18.200
+down these loops and it probably doesn't take that long but it's it's hard and everyone struggles
+
+49:18.200 --> 49:25.400
+with it because we're all guilty of once this thing your challenge got solved you kind of want
+
+49:25.400 --> 49:31.960
+to move on with your life oh that was a stressful thing to figure that out and and i kind of felt
+
+49:31.960 --> 49:37.400
+guilty the way i solved it because i i did trial and error i didn't read the spec or something so
+
+49:37.400 --> 49:44.760
+it felt sort of like i wouldn't move on but that dirty experience behind me i try in the last while
+
+49:44.760 --> 49:50.440
+because like i said look because i want to get back into blogging again well i have been but um
+
+49:50.440 --> 49:57.720
+i try and keep like a notion thing open and then when i hit a problem and i start unraveling it
+
+49:57.720 --> 50:03.960
+i start just putting little notes in the document like as i go through the process just like maybe
+
+50:03.960 --> 50:09.640
+a screenshot of something maybe just a line that kind of can trigger a memory for me later on
+
+50:09.640 --> 50:14.600
+and then i work through the problem i solve it and i move on but then maybe over the weekend or
+
+50:14.600 --> 50:20.440
+something i'd go back to those notes and i try and flesh them out into an article that explains
+
+50:21.320 --> 50:25.880
+properly like this is the issue i hit and these are the steps that i went through so i've got
+
+50:25.880 --> 50:30.200
+the basics there and i've got any screenshots that might be helpful in demonstrating how i
+
+50:30.200 --> 50:34.840
+went through this little bash outputs like this is what you should probably see in bash after
+
+50:34.840 --> 50:40.920
+running this command so i put all of that in and then i run it up sometimes if it's something that
+
+50:40.920 --> 50:48.360
+i can do again i'd literally like do it again and this time take the time to actually write down
+
+50:48.360 --> 50:53.320
+each and every little step but you don't you don't have that time always so that's why sometimes i
+
+50:53.320 --> 50:59.880
+just throw stuff into a notepad thing if you want to call um just i have a reference to go back to
+
+50:59.880 --> 51:05.240
+later and say okay let me break this down into an actual readable thing because at this point nobody
+
+51:05.240 --> 51:11.080
+understands what the exist yeah i often wonder and so you touched on another interesting excuse
+
+51:11.080 --> 51:17.720
+and that is have time and it is an honest uh thing like you it's hard to have time
+
+51:18.600 --> 51:24.600
+um i often wonder so that's one excuse the other excuse was the thing i touched on was that when
+
+51:24.600 --> 51:30.840
+you did go through this experience was it a bit dirty like did you actually not read the manual
+
+51:30.840 --> 51:38.920
+like you should have and which one is the biggest blocker for you taking the time to write down is
+
+51:38.920 --> 51:46.680
+it that you don't have time or that you're a little bit guilty feeling for your journey and
+
+51:47.720 --> 51:54.040
+so it's i think it's worth keeping that sometimes it's a bit of both or sometimes it's one sometimes
+
+51:54.040 --> 51:59.160
+it's the other yeah i guess it also plays into that weakness thing if you had to admit that
+
+51:59.160 --> 52:04.280
+that honestly if i just read the docs i probably would have fixed this in a much shorter time but
+
+52:04.280 --> 52:08.920
+i was too lazy and you kind of don't want to admit that and then if you look back at it you might
+
+52:08.920 --> 52:14.040
+say to yourself that was a stupid thing to do if i just read the docs i could have saved myself
+
+52:14.040 --> 52:19.960
+20 minutes now i've gone through a yucky experience and i'm too embarrassed to write about it it's
+
+52:19.960 --> 52:25.800
+just double uh double there's another element too which is very very important and so one of
+
+52:25.800 --> 52:31.480
+the reasons why we blog is to become a more professional and better engineer than build
+
+52:31.480 --> 52:38.040
+better stuff build better more successful businesses so if that is the goal does it matter
+
+52:38.040 --> 52:42.760
+if you get punched in the face a little bit here and there i have many a times blogged about
+
+52:42.760 --> 52:50.280
+something only to find someone posts a comment where they say hang on did you know that there's
+
+52:50.280 --> 53:00.280
+this library or why didn't you just divide by six oh shoot like whoa and now you're confronted
+
+53:00.280 --> 53:07.320
+with an almost embarrassing blog post plus comment that kind of makes you look a fool but hey
+
+53:08.040 --> 53:13.960
+they wouldn't have mentioned that library in your comment they wouldn't have if you hadn't written
+
+53:13.960 --> 53:20.680
+it you would have been completely oblivious about that amazing other thing that is available
+
+53:22.680 --> 53:29.960
+and okay maybe you could stumble upon it further all right but you didn't so it was thanks to you
+
+53:29.960 --> 53:37.320
+showing your weakness that you stumbled on a new strength now you're like equipped with something
+
+53:37.320 --> 53:44.360
+you didn't have before this is amazing library and the internet's too big to spot everything
+
+53:44.360 --> 53:51.400
+they give you this and now you can copy and paste that or take that and you can put it back into
+
+53:51.400 --> 53:58.040
+your work and you can succeed even better you can now make a better web app that you would have
+
+53:58.040 --> 54:05.160
+otherwise you will earn more dollars thanks to this because had they not mentioned it
+
+54:05.160 --> 54:11.400
+that no had you not shown what you did they mentioned a comment that makes you look a fool
+
+54:11.400 --> 54:18.600
+a little bit you will put more food on the table and that's kind of worth it and things tend to be
+
+54:18.600 --> 54:26.600
+forgotten but successes tend to kind of they can live on longer so that is another motivator i think
+
+54:27.240 --> 54:31.880
+now for sure and there's there's the other side of it that also happens which kind of happened to me
+
+54:31.880 --> 54:38.040
+the other day that's not exactly the same thing but it's it's it's similar in nature so i recorded
+
+54:38.040 --> 54:45.160
+a little uh video of using this library that automatically generates all your pwa assets i
+
+54:45.160 --> 54:50.440
+think it's even called pwa generator or something like that um so i made a little video of how it
+
+54:50.440 --> 54:54.600
+does that and why it's really cool and helpful and saves you a bunch of time and i stuck it on
+
+54:54.600 --> 55:00.600
+youtube and the first comment i got was from a person who said you shouldn't use web technologies
+
+55:00.600 --> 55:05.560
+to write mobile apps you should just write mobile apps and then i like replied to them i said you
+
+55:05.560 --> 55:11.160
+know fair point but the thing is sometimes we don't all have massive teams of developers that
+
+55:11.160 --> 55:16.600
+have experience in writing ios apps writing android apps and then this web team sometimes all you have
+
+55:16.600 --> 55:21.320
+is a little web team or all you have is yourself and you know web technologies and this is a way
+
+55:21.320 --> 55:29.400
+for you to be able to write your write an app for ios or for android or both using your existing
+
+55:29.400 --> 55:37.000
+skills and so the person didn't come back and then about two weeks later the author of the package
+
+55:37.000 --> 55:42.840
+pwa generator came on to mine and said oh thanks so much for your insightful answer and thank you
+
+55:42.840 --> 55:47.880
+so much for writing recording this video about my package i really appreciate it and i was like
+
+55:47.880 --> 55:56.600
+ah awesome so yes i got a little pushback i i like i told the person that you know thank
+
+55:56.600 --> 56:02.920
+you for your opinion here's why i'm saying this and then i kind of got validation from the author
+
+56:02.920 --> 56:09.240
+saying yeah that person was online so these things are also going to happen but it shouldn't stop you
+
+56:09.240 --> 56:13.720
+from putting the thing out there because people have different opinions and you're going to have
+
+56:13.720 --> 56:19.320
+people indeed we're just going to like say there's a little bit of yin and yang to everything yeah of
+
+56:19.320 --> 56:27.480
+course i also think um a lot of people they might look a fool when they're dancing on the dance floor
+
+56:27.480 --> 56:35.240
+they go to the i don't know a club or whatever and they do look a fool and it's embarrassing
+
+56:35.240 --> 56:40.520
+to dance but that's how they met their husband or their wife had they not gone to look a fool they
+
+56:40.520 --> 56:47.240
+wouldn't have met that person and had a wonderful life together so keep that in mind too sometimes
+
+56:47.240 --> 56:53.480
+you got a dance uh and it's gonna hurt and then someone's gonna snicker but just wait there's
+
+56:53.480 --> 57:00.120
+some gems yeah that's very good uh yeah this has been an awesome chat i only have one thing as a
+
+57:00.120 --> 57:05.320
+closing out and i think your comment just now kind of ties into that very nicely which is what do you
+
+57:05.320 --> 57:18.840
+do when you are not coding or mentoring or working um i'm an avid swimmer and i swim almost every
+
+57:18.840 --> 57:25.080
+morning early i wake up at five o'clock and i know that sounds like annoying to some people who are
+
+57:25.080 --> 57:30.440
+not morning people and i'm sorry about that but that's the nature of that sport it's something
+
+57:30.440 --> 57:35.720
+you do early in the morning and and i take a lot of fulfillment out of that because it's one of
+
+57:35.720 --> 57:43.880
+those things that you can do for your health that isn't too disruptive to family lives and and it's
+
+57:45.400 --> 57:51.000
+you don't bang into things like you do with other sport or rip your knees out in certain sports
+
+57:51.000 --> 58:00.840
+and then you can't really fall down like you can with a bicycle that's my other thing i think i
+
+58:00.840 --> 58:06.920
+think i would have answered side projects as my hobby when i'm not coding but it's too boring of
+
+58:06.920 --> 58:14.760
+an answer but it is true it is i mean honest to goodness i look around and i have friends you know
+
+58:14.760 --> 58:23.000
+you know they do uh woodwork or they do um they're playing the piano or something like that and
+
+58:23.640 --> 58:30.360
+i'm jealous almost like hey look they have a hobby um or what i do with my free time oh i code
+
+58:31.320 --> 58:38.840
+side projects but um yeah yeah i remember um forgot his name now same as entrepreneur
+
+58:38.840 --> 58:46.040
+uh started linkedin and many other things um and listen to podcast like he does so many things and
+
+58:46.040 --> 58:51.240
+they ask how can you be in so many things all at the same time it's easy i don't have any hobbies
+
+58:52.280 --> 58:59.080
+and they're like shit man if he can say something like that maybe it's not such an embarrassing fact
+
+58:59.640 --> 59:07.480
+to say that i sit in my vs code editor on a sunday they've messed up the end of the world
+
+59:07.480 --> 59:16.600
+at all no i don't think so i think as long as you get true god-honest joy out of it then there's
+
+59:16.600 --> 59:23.720
+nothing wrong with it yeah and the other truth is that uh why do you swim and are you like smiling
+
+59:23.720 --> 59:30.200
+as you're taking your strokes no uh there might be um i don't know there are some exercise moments
+
+59:30.200 --> 59:38.120
+where you're actually smiling uh but the truth that we do it for is it's honestly to live a
+
+59:38.120 --> 59:44.120
+healthier life over it's like an investment right that's what we love smiling whilst we're doing your
+
+59:44.120 --> 59:50.680
+peloton bikes and so why are you working so hard on these side projects are you like sitting there
+
+59:50.680 --> 01:00:01.160
+on a sunday afternoon smiling away having fun like no you're almost me you're grinding away so that
+
+01:00:01.160 --> 01:00:08.280
+you can have a more sort of a happier years ahead of you because if you're working away on those
+
+01:00:08.280 --> 01:00:15.320
+side projects and you might not earn many dollars on it through much fame but hey now you actually
+
+01:00:15.320 --> 01:00:21.240
+understand this new css framework you didn't do that before and it can put little smiles thousands
+
+01:00:21.240 --> 01:00:27.240
+of little smiles on on your face they barely even move your lips like i actually feel like i
+
+01:00:27.240 --> 01:00:33.880
+understand this little piece and it's thanks to what i did last last last last sunday and so that's
+
+01:00:33.880 --> 01:00:40.360
+happiness because we all like to make things and we all like to look good doing what we do for a
+
+01:00:40.360 --> 01:00:49.480
+living so that's another thing like keep that in mind especially i mentioned earlier that you're
+
+01:00:49.480 --> 01:00:56.680
+going to make tomorrow keep that in mind that it might not be all like happiness and fun and stuff
+
+01:00:56.680 --> 01:01:03.800
+you might be frustrated in your free time and and it's hard work and there might not be a big amazing
+
+01:01:03.800 --> 01:01:14.600
+uh financial success but there will be like spread thin butter on a massive piece of bread like you
+
+01:01:14.600 --> 01:01:19.800
+won't get a little bit happier trying a little bit every day by the sheer fact that you know
+
+01:01:20.280 --> 01:01:28.280
+something a little bit better is it's rewarding thanks for that i think is a good place to to end
+
+01:01:28.280 --> 01:01:35.080
+it thanks again for joining me and uh yeah it was really awesome and thank you so much colt
+
+01:01:36.600 --> 01:01:41.640
+thank you for listening to this episode of the my senior network podcast if you're not already
+
+01:01:41.640 --> 01:01:47.560
+please subscribe store and leave a review for us in your podcatcher of choice this helps others
+
+01:01:47.560 --> 01:01:54.120
+find us and helps us make a better podcast for you on this course you can also find and follow us on
+
+01:01:54.120 --> 01:02:01.880
+twitter at meet word mysyndium enjoy the community on tesco all the links are available in the show
+

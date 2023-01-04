@@ -1,0 +1,701 @@
+Welcome to the Moxilion Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Today we are joined by Ian.
+He's a developer advocate at Postman, the world's leading API platform.
+And according to his getup profile, Ian also considers himself a maker, teacher, lifelong
+learner and family man.
+Welcome, Ian, and thanks so much for joining me on the podcast today.
+Yeah, thanks for having me today.
+It's a pleasure.
+So I gave a brief introduction there, but I've looked up a little bit of all the things
+you've done.
+So there's quite a lot to tell.
+Can you give us a bit about your background and who you are?
+Sure.
+I've been in the tech industry for about 26 years.
+I studied computer engineering in Canada, and I moved to the United States in the year
+2000, mostly to get into more professional web development work and moved to Southern
+California.
+I lived there for a number of years, moved out to Colorado about almost a decade ago
+and really love Colorado, it's pretty great out here.
+But I've spent most of my career as a backend developer, but I've transitioned through various
+kinds of stages as a developer.
+I've done DevOps duties, I've done QA testing, I've done everything from racking
+servers, actually putting them in the server racks, all the way up to front end development.
+So when people talk about full stack development, I envision I can literally do everything from
+running the network lines into the servers, system administration on the servers, installing
+all the software all the way up through JavaScript in the browser and everything in between.
+I ran a web hosting business for a number of years for small startups that really got
+my interest in working at startups.
+So a lot of my career has been small early stage companies.
+But for the last, gosh, eight or nine years now, I've been doing career coaching for people
+and just helping them understand how to get into the tech industry and how to find jobs
+in the tech industry and focusing a lot on mentorship and education.
+So over the last eight years or so, I've really pivoted a lot of my role into more of the
+developer advocacy and developer education side of things and working on a lot of technical
+curriculum.
+Nice.
+That fits perfectly for our audience, both the people we speak to and the people who
+listen to the podcast.
+So I had a look at your GitHub profile and through that and your LinkedIn, I discovered
+that you are behind the website, takeinterview.guide.
+And this looks like an exceptionally good resource for our audience.
+So for those who do not know about it, which includes me, can you please tell us more about
+this resource?
+So about eight years ago, when I started kind of down the journey of becoming kind of like
+the idea of a career coach, I was mentoring for a code school in Colorado called the Turing
+School of Software and Design.
+And I mentored for them for about three years.
+We'll see just career development, how to build a resume, how to get an interview, how
+to really stand out to a company.
+Throughout my career, I kind of progressed from senior engineer into the management side
+and then back again.
+So I've gone back and forth between management and hands-on contributor, all the way up to
+like director of engineering type of roles.
+And so I had a lot of perspective on how to really stand out to a hiring manager, what
+I look for in resumes and things like that.
+So I was turning around and teaching that to other people.
+And then the school turned around and offered me a job as an instructor.
+And so I was actually teaching their backend software program for almost four years, but
+also still helping with a lot of career development.
+But by then they had hired a whole team of people to do the career development side.
+And when I left there about a year ago, I wanted to still do a lot more around just
+the scalability of making this information known to a wider audience.
+So I put together the website tech interview guide.
+It's been up for quite a few years now, but I've been gradually adding content to it.
+And a year ago I decided, you know what, I'm going to try live streaming.
+So I live stream twice a week and you can find all that information on the website as
+far as when I live stream.
+But I live stream just career advice.
+We do resume reviews.
+We talk about what kinds of projects you should build, how to really stand out to companies,
+you know, what goes into a good resume or CV, what should you leave out, stuff like
+that.
+And how to evaluate job postings, all kinds of fun stuff on the live stream.
+And so yeah, so the website is kind of an, it's a start of that information base.
+And then I kind of branch out from there into an email newsletter, YouTube channel with
+lots of archive videos, as well as information to the live stream.
+So however you want to consume content.
+If you're a reader, there's lots to read.
+If you just want audio, there's an audio podcast.
+If you want videos, you can go to YouTube.
+And if you want to interact live, you can come over to live stream.
+So I want to try to cater to everybody's learning style for however you want or need to consume
+that content.
+I try to make that available for you.
+I think that's actually critical.
+Like for me, as I slowly start pivoting toward the education areas, that is something that
+I definitely have top of mind is that there are so many different ways that people like
+to learn.
+And oftentimes you find a platform would focus on only one specific thing.
+So then you kind of have to supplement the one resource with another resource with another
+resource.
+And then it becomes a little overwhelming.
+I find when I speak to people, that's often a thing that I mentioned is one, I find it
+hard to find a resource that caters to how I like to learn.
+And two, there's so much that I don't know where to begin.
+And once I started, I quickly get lost in the forest and I don't know, I lose my way.
+So that is really interesting.
+I love that you do that.
+I also noticed on your Linktree page that you have got a interview.
+I think maybe it's you that's running it or not sure, but it's an interview prep discord
+server.
+Yeah, that's part of the techinterview.guide website as well.
+So the discord server is really for the community to hang out, talk about projects.
+I do resume reviews through the discord server as well.
+But also I tell people, if you want to ask a question anonymously, you can DM me on all
+these platforms, LinkedIn, Twitter, you know, discord and so on.
+And I put those questions in an anonymized way into a particular channel in that discord
+server that I can draw from during a live stream.
+Sometimes I can say, hey, things got a little quiet, people aren't chatting, or sometimes
+I'll start the stream while people are joining the stream and I'll just go grab a random
+question out of that anonymous questions channel and I'll answer that live on the stream.
+And then I go back and I like clip those sections out and make smaller YouTube videos out of
+just the question and the answer and things like that.
+So the discord server is really just a place to support one another in the job hunt.
+It's still a pretty small community, but at least on the discord side, we have about a
+thousand people following on Twitch and we've got several hundred on YouTube.
+And so more people are interacting kind of live on the live stream than, than they do
+on the discord server, but that's okay.
+Again, I just want to make it available for people that want that avenue of, of extra
+help.
+Hmm.
+Yeah, that's awesome.
+That's really great.
+I think it will be a great place for the community that I'm also fostering to go for sure.
+Because on the Mycelium Network one, we don't have specific like support for that part of
+the getting into tech thing.
+So I think it would be great for people to join that.
+So we'll provide links to all these things in the show notes.
+So as a mentor, as a teacher, what advice would you give to folks new to the industry?
+Like for early stage web developers, maybe how they can, you know, what they should,
+shouldn't do and how to keep themselves motivated because I find that people start off being
+super excited and then they kind of, it's like they hit molasses and they slow down.
+What do you do when you hit those, those, those moments where it just feels like you're
+getting nowhere?
+I think it's important to understand when you're becoming unproductive in that struggle.
+And when I taught, we would talk about productive struggle and unproductive struggle.
+Productive struggle is where you're trying different things and you're gradually making
+progress on a solution to something.
+Unproductive struggle is where you find yourself kind of working in circles where you, you
+find yourself trying something over and over again that you've already tried and you're
+hoping for a different outcome this time, or you're trying to change too many things
+and now it broke and you don't know why and you don't know which change made it.
+So I think it's important to be patient with yourself.
+You're still learning.
+It's important to be patient.
+It's important to give yourself, you know, kind of grace and flexibility of I'm still
+learning.
+It's okay that this is not working, but when you start facing that unproductive struggle,
+that's the time to reach out to someone for help.
+That's where you need to come to a realization that trying this, the way that I'm doing it
+and the direction that I'm going, I'm not making progress.
+I really need to ask somebody for help and have a community that you can reach out to
+where you can ask for advice and say, I've tried this and I've tried this.
+I've tried this.
+None of this has worked.
+What else can I do?
+And I think that that's the important differentiation because especially with a lot of people that
+are trying to learn remotely right now, they feel very alone and it's easy to give up when
+you feel alone and that's why it's important to have a community of people around you that
+can help you and support you in your learning goals and what you're trying to learn and
+what you're trying to do and having that community be people who are also going through what
+you're going through.
+So not just a community of people that can just hand you the answers, but people that
+can work with you through the answer to try to understand why that's the answer.
+That's the important part.
+As an instructor, I had to be careful not to just give my students the answer.
+I had to sort of coach them to find the answer themselves and say, well, what if you tried
+this or what if you tried, you know, this and just kind of like point them in the right
+direction and kind of give them a bit of a push.
+Self-motivation is hard though, especially when you're learning online and you're learning
+by yourself, it can feel very hard to stay motivated because programming is hard.
+The initial learning curve is, it can be difficult if you pick up those concepts quickly, it
+starts to feel easy, but everybody's going to hit a struggle at some point.
+I still struggle.
+I've been doing this for 26 years and I still run into problems and I'm still Googling answers
+and looking at documentation on how do I do that date format thing again in this language
+or that language or, you know, we all do, we all do, you know, nobody's got everything
+memorized all the time.
+And I think just understanding that things are constantly going to change in tech.
+And so what you learned this year could change next year.
+It could change five years from now.
+Like the way that I did programming 25, 26, you know, even 30 years ago when I started
+college is completely different now.
+We did a lot of low level programming, a lot of C and assembly and I haven't touched C
+or assembly in many, many years.
+I've dabbled in it a little bit when it comes to internet of things for controlling things
+like the lights and stuff behind me or little motor circuits and things like that.
+But I don't have to program at such a low level anymore and especially with a lot of
+high level languages like Python and JavaScript and C sharp and so on that are out.
+It makes it a lot easier to get into coding and see some really quick progress because
+of the high level languages and what they offer.
+But it's also very easy to get stuck if you don't understand the fundamentals.
+So stick with it.
+Know when to reach out for help and then find a good community that can, that can help guide
+you to an answer, not just handy the answer.
+Yeah.
+Yeah.
+That's good advice.
+I have to constantly stop myself.
+When people struggle with something, it's almost as if you feel their pain and you just wanted
+to go away.
+So you're just like, you just want to give them the answer, but you know that in the
+long term that doesn't, that's actually worse than kind of guiding them into answering the
+question themselves.
+And I think that for me, I had somebody that's not a very good friend of mine who, when I
+started about 11 years ago or so, would do that.
+If I went to him for advice, he would kind of hint at what the possible answer could
+be, but vaguely enough that I'd have to figure it out.
+But at the same time, he would back that up with, I know you can do this.
+Just think about it a little more and then if you still get stuck, come back to me.
+But usually just that little morsel and that encouragement, that belief in me, you can
+do this.
+Just think about it for a second.
+Those two things combined really made a difference.
+And then when you find the answer, it's that moment when you just want to jump up and show
+everybody, look, it works.
+For sure.
+For sure.
+Yeah, that's great.
+And then you want to tell everybody about how you did it.
+And I think those moments, I used to do that a lot more than I do these days, and I want
+to get back to that is when you're in that moment where you're excited about this thing
+you struggled with and then figured out, write about that, put all that excitement and all
+that knowledge down somewhere, even if it's really, really rough, because then you can
+go back and once you've calmed down and everything, you can read over it and format it nicely
+and put a blog post.
+Because I promise you, this is going to help a bunch of other people that run into the
+same problem.
+Talk through how you thought about this, your thinking process.
+I think that's what a lot of instructional information misses for me is talking through
+the thinking process.
+Not just, this is the code you need to type out to make this thing happen, but how did
+I come up with this code that makes this thing happen?
+How did I reason about it?
+What was I thinking?
+What did I try that didn't work?
+That is also important.
+So yeah, I think it's great to don't give the answer.
+Another good point about that, about writing up your experience, those make really good
+blog posts on Medium or Dev2, all those kinds of platforms where other people are also trying
+to learn and being able to document your journey also shows a good progression of your skill
+over time as well.
+Sometimes that can be the self-encouragement of, look how far I've gotten in the past year.
+Look at all the things that I've done or even the past several months.
+Look at the progress that I've made.
+I think that that's important to do.
+But from an employer's point of view, it's also nice for us to be able to see your progress
+and how you've learned and what you've learned and so on.
+But here's another tip.
+If you really want to stand out to employers, take those blog posts, make a five minute
+lightning talk about it and go to a local meetup and say, this is my experience with
+such and such.
+If you go to that meetup and you give a talk that says, here's how to use technology, whatever,
+you're going to get a hundred people telling you why you're wrong.
+If you go to that meetup and say, this was my experience learning this and this is how
+I applied it, nobody can argue with experience.
+At best they can come and say, next time try this, next time you could maybe try this or
+try that.
+And they're going to give you encouragement and they're going to give you other ideas
+to kind of take that to the next sort of level and next steps.
+But that also makes really good exposure for what we call discoverability of you as someone
+in technology.
+That's what employers are going to be looking for.
+They want to find a way to find you.
+And if they have an employee go back and say, hey, you know what, I heard this guy, Ian,
+talking to this meetup, they're learning this and that.
+They seem kind of clever and they worked on a pretty interesting project.
+Now you've got people talking about you within a company or people are going to come up and
+introduce you.
+And if you end that lightning talk with like, by the way, I'm looking for a job.
+People are going to approach you and say like, hey, we've got openings, right?
+And now you've got people introducing you who have a potential opening at a company
+who can maybe submit your application and so on.
+And so it makes for very good networking as well to try to get those jobs intact.
+Yeah, I totally agree.
+And that is definitely a good way to get into it because I think in the beginning, your
+CV is just going to drown in the pool of CVs.
+I know it's some of the clients that I've worked with when they've advertised a position.
+I mean, they get in the order of three, 400 applications.
+It's so hard to stand out in such a large cohort.
+But if somebody comes and says, by the way, so-and-so has applied and I've personally
+seen them do some really good stuff on GitHub, I would really be sure to interview that person.
+That helps you a lot.
+And I think that's where contributing to open source is also can really be impactful.
+I've had people contact me and say, I saw this and that contribution you made on this
+and that open source project.
+And it was really cool to see that.
+Are you open to changing roles?
+Because I currently see you here.
+So that happens just naturally.
+I didn't even have to go look for an opportunity.
+The opportunity came my way and that is rare in this world.
+Yeah.
+Another good point about CVs and resumes, the way that you build your CV and resume
+to stand out is to find out what that company cares about and customize your resume for
+them.
+So a common piece of advice that I give on my live stream is make a CV, like make a really,
+really big CV.
+Put every project, every technology, give me lots of bullet points about all the things
+that you've done, all the things that you learned in that project.
+Now you're not going to submit this big giant CV to anybody, but you're going to document
+everything.
+And this is going to kind of grow over time.
+And so as you find work or you work on new projects, you're going to continue to add
+to this.
+There's a riddle that I learned as a child that basically says, how do you make a sculpture
+of an elephant?
+You start with a giant block of stone and you chip away everything that doesn't look
+like an elephant.
+And you can take the same approach with a CV where how do you look like the best candidate
+for a job?
+You start with an enormous CV of all of this information and you chip away everything that
+doesn't make you look like the best candidate.
+And so you take away the projects that that company doesn't care about.
+You take away the technologies that that company doesn't care about.
+You take away, you know, bullet points of previous jobs and so on so that you it's a
+lot easier to just go in and delete things.
+And so you make a copy of that big resume and you start taking away everything that
+that company is not going to be impressed about, or it's not going to stand out to them
+as much.
+If they're looking for a Python developer who knows JavaScript and you know both of
+those technologies, but they're looking for a Python developer who maybe also knows JavaScript,
+then you're going to promote more Python projects and you're going to list Python as a primary
+skill.
+You also know JavaScript.
+And so you might include one JavaScript project to kind of back that up if you've got that
+range of technology.
+Now, if you're new in tech, you're not going to have that breadth of knowledge and that's
+okay too, but you can focus on the primary skills that they want and highly tailor that
+CV to the kinds of projects that that company is going to care about.
+And then, you know, you can bring that back down to like a one page, maybe at most a two
+page CV and submit that because companies want to see in a hurry, are you going to provide
+value and what kind of impact are you going to have at my company?
+You want them to see that impact in a way that says, oh, I want that person on my team.
+I want them to come here and do that too.
+And so you have to be careful when you're writing up those bullet points of not just
+saying, I did this, I did this, I did this.
+It's like, okay, but what impact did that have?
+Tell me what the result of doing that was.
+Like I wrote, you know, certain number of software tests.
+It's like, okay, but how did that help?
+Well, that increased our test coverage by 15%.
+I did, you know, I refactored a bunch of code and that made it 5% faster.
+Tell me the impact of what you did because that kind of stuff is going to stand out a
+lot more to recruiters and hiring managers as well as seeing that impact.
+But that highly tailored resume is going to stand out much more than people who are just
+putting together a single CV and sending that to everybody hoping that, you know, it's like
+casting the net and hoping you catch a fish, right?
+You want to be very targeted with, I want to apply at this company.
+This is what they care about.
+Let me take all the stuff out of the CV, make a customized CV for them and submit that.
+You're way more likely to get a phone call, especially then if you can also get people
+in the company to say, Hey, I heard them talk at a meetup or I saw some open source by them
+and get them to say your name.
+They're far more likely to call you and get you into that interview.
+And then it's up to you to actually pass the interview.
+Yeah.
+Yeah.
+Yeah, for sure.
+I remember when I applied for a job at Mozilla, I went as far as using their branding, like
+their color scheme and the fonts and stuff they used.
+I made sure that I used the same color scheme and stuff like that.
+And they called it out.
+Like when they said, they said your cover letter was what made us look at you.
+And then the rest followed on from there.
+But that it was like in this sea of CVs, there was this one that was like, Oh, wait, that
+looks like something we made.
+It's like, Oh, wow, this guy actually looked at us and did the branding and everything.
+Yeah.
+I saw someone do that.
+Just this past week, somebody submitted a resume to look at and it was gray with light
+green accents and so on.
+Like it was kind of a medium gray with a little bit of white, but a lot of like green accents.
+They were applying to Spotify and those are the colors that they use in their app.
+Oh, perfect.
+And so it like stood out perfectly because it looked like the Spotify, like they didn't
+lay it out to look like the Spotify app, of course, but they were using the same color
+scheme.
+Those kinds of things really stand out and let a company know, like I did this on purpose
+because I care about your company.
+Another tip that I often give people, if you're unsure what kinds of projects to build to
+put on your CV, if you can find those companies where you want to apply, go see if they have
+a technology or an API or something like that, that you can build into your project and put
+that project on your resume because it looks a lot more impressive to say, Hey, I built
+this with your tool or something.
+It can also change that introduction a little bit from I'm Ian and I have these technical
+skills to I'm Ian, I'm a user of your software and I like it so much.
+I want to come work at your company and be a part of that.
+It changes that introduction.
+Now as an entry level developer, you don't often have like a, you know, a huge amount
+of projects or a huge amount of time to just build dozens and dozens of projects.
+But if you can find these little bits of technologies or libraries or something that a company
+builds and uses themselves, something that they've open sourced, see if you can add that
+to an existing project or you know, a couple of existing projects and put those projects
+on your resume for it or CV for that company.
+It'll really stand out to them to let them see like, Oh, you built like the three projects
+that you put on your CV all incorporate our different technologies.
+That's great.
+Clearly you want to work at this company because you're targeting that kind of stuff for us
+to see.
+Yeah, that's great advice.
+So like you said, you've been in the tech industry for a very, very long time.
+What keeps you motivated?
+What keeps you in this industry?
+I almost left tech, honestly, back in 2010, I burned out pretty hard.
+I was working at a startup where I was working a lot of hours and I was talking to management
+at the time about, you know, like, Hey, I'm working on this really critical piece.
+I'm the only one that knows it.
+I need help on this so that I can like take time off and, you know, like stay recharged
+and whatever.
+And I just wasn't getting the help.
+And so I burned out really hard.
+I almost left tech, but I think what keeps me going is just my curiosity of how does
+that work?
+I want to know how that works.
+I want to go build that myself.
+And like even these, you know, I've, for those that are just listening, I've got a lot of
+internet of things, lights kind of on a wall behind me.
+And I've been learning how to program those through different APIs.
+And part of it is just diving in on like, how does that work?
+Can I do that too?
+Like, what would it take?
+And just having that kind of curiosity of, you know what, even if I can't figure out
+how to control these lights over a Bluetooth kind of thing, because the Bluetooth library
+doesn't exist for this particular light, I would have to like go write my own Bluetooth
+libraries.
+Like that's a lot of low level code that I'm not sure I'm very well equipped to get into.
+But it's going to be fun just exploring the process a little bit just to find out like,
+can I turn them on or off with Bluetooth?
+Like that would be enough to satisfy that curiosity and then I'll move on to the next
+thing.
+But in tech, there's so much change.
+Like there's always going to be new, new languages, new frameworks, new libraries, new ways of
+doing things, everything from, you know, what's, you know, what's been happening over the past
+few years with web three and blockchain, you know, like things are drastically changing
+around the tech industry and there's so much to learn all the time.
+Now it doesn't necessarily mean that every technology that comes out is going to be great
+and fantastic.
+And you, you know, you go what we say, you go all in learning a particular thing, but
+you can dabble in it just to see, do I like this or, you know, do I want to understand
+it just enough?
+An example with this is I've been primarily a backend developer.
+I do consider myself full stack.
+I'm not great at JavaScript on the front end.
+So I wanted to take a course to learn react, not because I want to become a react developer,
+but I wanted to understand how does react work?
+Like what is a component?
+Like when I hear people talk about react, I wanted to educate myself a little bit on
+what is this technology and what are these words that they're saying.
+And so I took a small react course just to learn about it and, and do a couple of small
+projects and like, I'm not going to put react on my resume because I don't want to react
+job and I can't speak enough to it in depth to go get a job doing react development.
+But now I understand some of the technologies and some of the mechanisms of how it passes
+data around and uses these components.
+And so for me, what motivates me is knowing there's always something new right around
+the corner.
+And so in six months time, there's going to be something new in another six months time.
+There's going to be something new that I can go explore just to learn a little bit, just
+to see if I like that.
+And over the course of my career, I've actually pivoted my career a little bit based on the
+things that I wanted to go learn.
+I'll dive in and I'll go explore that topic.
+And then I might go find a job doing that.
+I might go find a company doing that thing and explore what would it take to get a job
+at that company, build out some projects that will stand out to that company.
+And then I go get a job at that company and I'll work there for a year or two until that
+curiosity is completely satisfied.
+And then think about, okay, what else do I want to do?
+What do I want to do next?
+And that's what I love about technology.
+It's a giant choose your own adventure where you get to choose what you do next.
+And you don't have to feel like you have to stay in any particular area.
+I hear from a lot of people like, well, should I get a QA job just to get into a company?
+And then how do I transition into a programmer's job from there?
+Because some people think that once you're in QA, you can only do QA.
+It's like, no.
+What you do is you start in a QA role and then when you go apply for that software role,
+you make it sound like I did that on purpose because now I can write better software.
+I understand now how all of these systems talk and communicate and how to test things
+thoroughly.
+I did that on purpose to make me a better developer and now I'm ready for a full-time
+developer job.
+And you obviously need to still be programming and stuff like that to show those skills,
+but you can pivot from one thing to another.
+You just have to have a story to tell about why you did that with intention to make you
+better for this next role and why that's going to help bring value to that company in that
+role.
+Talking about career change and trajectories and all that kind of stuff, in your career,
+maybe it was early on, maybe it was a key moment later on in your career.
+Can you perhaps call out a person or event that happened that changed the trajectory
+that your career was going in?
+I think the one piece of advice that stood out to me most, and it didn't really change
+the trajectory of what I did, but it did to some degree and really got me into doing more
+mentorship.
+When I was working at a company called SendGrid, which is now owned by Twilio, one of the founders
+of the company is named Isaac Saldana, amazing guy, really, really friendly, really fantastic
+person.
+Gave me a piece of advice because he saw that I was taking on too much work because I was
+so curious and I was so willing to jump in and dive in on different things.
+He sat me down one day and said, Ian, humans are not scalable.
+We built systems to be scalable.
+We do automation to be scalable.
+Computers are scalable, but humans are not.
+You need to be careful with your time and you need to teach other people what you know.
+This is basically what I learned from the conversation.
+He didn't tell me go mentor people and go teach people, but he's saying you as a person
+you have finite amount of hours in a day to get your work done.
+You need to find a way of balancing what you do.
+I realized from that what I needed to do was replicate what I know in other people so that
+they can help and learning to trust that when I teach someone else to do something that
+I need to be okay with just trusting that they're going to do the best job they can.
+If something happens and needs to be cleaned up or whatever needs to be fixed or optimized
+or something, then I can help optimize it beyond that, but I need to at least give them
+the space and what we call agency to actually go do that.
+That really kickstarted this whole idea of becoming a mentor.
+It changed a lot of the trajectory of what I was doing at SendGrid at the time, which
+then got me interested in becoming a manager, so I started exploring the management track
+more.
+I had been a manager previously, but this really got me into like, okay, I want to go
+explore full-time management so that I can help coach other people's career direction
+and so on from within a company of this is how you're applying your knowledge, but we
+also need your knowledge in this or that area and really helping people kind of define and
+refine what they wanted to do.
+It really sent me on this journey about taking what I know and sharing it with other people
+and then finding joy in their success because as a manager, you don't have that hands-on
+contribution anymore of like, look what I did.
+Your hands-on contribution is now, look what my team did.
+You have to motivate them and learn what it takes to motivate other people and that inherent
+motivation is very tricky sometimes.
+Being a people manager is a very different skill set than being a hands-on programmer,
+and so I went back and forth.
+As I would do management, I would miss programming, so I got back into programming, then I missed
+doing management, so I got back into management, and so I went back and forth.
+Then when I got into education, I'm like, okay, this is the best of both worlds because
+now I'm managing a room of junior developers and I also get to coach them, but I also get
+to do programming and teach them the programming concepts and how to shape that career.
+That's what really set me on this track of like, okay, this is who I am.
+I'm an educator.
+This is who I am now and really helped to find that in myself.
+Yeah, that's great.
+I think that's a very healthy description of a manager's role.
+I think a lot of people have the idea of what it means to be a manager completely wrong.
+They kind of see it more as almost like a status thing like, oh, I'm manager, so I get
+to boss people around.
+It's like, no, no, no, no.
+A true manager empowers others to be the best they can be.
+You're not trying to be the hero.
+I think that's also a thing that I've sometimes run into where people have a hard time handing
+over something or bringing somebody else in because they want to be the one that made
+the thing happen.
+In sports, oftentimes the person who assists is way more important than the one who put
+the ball through the hoop.
+It's important to work as a team to reach that angle.
+I think that's a very healthy approach and I wish more managers would have that approach.
+Sort of in line with that, somebody said this and it's not 100% true, but they say don't
+make people who want to be a manager a manager.
+Look at what they do and if they inherently have managerial skills, offer them the opportunity
+to explore the position.
+So I think sometimes people who want to manage do it from a place of good like what you said,
+but sometimes you do get people who think getting into a managerial is a way to control
+people.
+It's like just more control, so you have to be careful because that quickly creates unhealthy
+working relationships.
+Awesome.
+So when you're not writing code, solving problems, what do you like to do in your spare slash
+free time?
+My free time right now, I'm spending a lot of time honestly on the techinterview.guide
+website and rebuilding some of the content there.
+I'm splitting a current newsletter that explores common questions that you'll face in an interview,
+but explaining them from a hiring manager's point of view of why we ask those kinds of
+questions.
+I'm teaching you how to answer it perfectly, but it does let you understand why that question
+is important to us.
+There's a lot of content out there already on how to answer those things perfectly, but
+I wanted to explore it from the perspective of this is why we ask these kinds of questions.
+But I've had so many questions over the past year of live streaming around like how do
+I prepare for interviews, how do I stand out in interviews, and just what is the interview
+process that I decided I was going to split the one newsletter into four different newsletters.
+So currently my free time is mostly encompassing, rebuilding a lot of that content.
+But I also love video gaming.
+I'm a big fan of exploratory kind of RPGs where you can just wander around the world
+and so on.
+I love video gaming with my kids.
+I've got a Labrador Retriever that I like to get outside with and play with, but it's
+a lot of family time, water parks, and there's lots to do in Colorado, lots of trips up to
+the mountains and things like that.
+Yeah.
+Yeah, that's for sure.
+I have a friend that also lives in Colorado, and I constantly see his stuff on Twitter
+and Instagram, and I'm like, holy cow, it's like you have all the things.
+In summer you have these beautiful hikes, and winter you like ice climbing, and canoeing,
+and all these kinds of things.
+It's like an amazing place to live.
+A cousin of mine also lived in Denver, Colorado for a while.
+She's in Hawaii now, which is like, oh, in Hawaii?
+That's where you live now?
+That's great.
+But yeah, she as well, she was like, it's such a nice place to live.
+The people are super nice, and there's just so much variety.
+You can't get bored really.
+Yeah.
+Yeah.
+It's really great here.
+There's so much to do.
+So yeah, whether we're going out for family bike rides or just a trip up to the mountains
+or go on a road trip or something, there's lots to see and do around here.
+Yeah, for sure.
+Well, thanks so much, Ian, for joining me today.
+This was really great to talk to you.
+I think in closing, I'd like to know a little more about Postman.
+I know what Postman is in essence, but I've never had anybody really explain to me exactly
+what is Postman and how do developers use Postman?
+Great question.
+So Postman started as a way to test APIs, and specifically for RESTful APIs.
+It started as a client of, let me put in this URL, let me go call that API and see the response
+and so on.
+Just as a way of understanding how do I then go implement this in my code.
+So it was a way to sort of test that out.
+But over the years, we've expanded it quite a bit.
+We're up to version nine of the software now, and it does so much more now.
+So we still have that testing component.
+That's what we're most well known for, but we're actually a whole API platform where
+you can go design and develop your API inside of the platform where you can go in and say,
+I want to build a RESTful API that looks like this, and you can define all those endpoints.
+And then it'll go build all those collections of requests that even if you haven't developed
+the actual API yet, you can still plan and design what you want that developer experience
+or the user experience to be.
+Build out your documentation, build out all that test code.
+And now you can use all of that as a test-driven approach or behavior-driven approach to actually
+then go build the software yourself.
+Some of what the application will now do is actually generate some scaffold code for you
+for like Python, Go, Java, and JavaScript backends where it'll get you started on how
+to go build that code.
+But on the client side, when you build out all the documentation, it'll also build out
+client snippets of lots of different languages, lots of different frameworks.
+Like there's three or four different ways of how to call this in JavaScript if you want
+to use fetch, or if you want to use jQuery, and so on.
+Or if you want to use Python, you want to use the request library, and so on.
+And so it'll also generate client-side code if you want to go build like an SDK or something.
+Now you've got snippets of code to actually go call those endpoints.
+And so the platform does quite a lot for both the consumer of the API, but also the producer
+of the API.
+And so a lot of what I'm doing is curriculum development, is teaching workshops about how
+to do these deeper concepts within Postman and how to do these things.
+So we have a whole program called Postman Space Camp, where we dive into these more
+advanced topics of how to use the software at these deeper levels and how to understand
+what is contract validation testing within an API.
+Well, to start with that, you have to know what an API contract is.
+But we've also done a lot of things around OpenAPI, which is the newer version of Swagger.
+People are more familiar with the term Swagger.
+OpenAPI is now the new version of Swagger, basically.
+And so just a lot of education around what is OpenAPI?
+What does it mean to be an API-first company?
+So we're doing a lot of education around that.
+So we've got lots of blog content, lots of video content.
+We also live stream as a team almost every week as a developer relations team just to
+help educate people on, here's a problem that we want to solve.
+How can we solve that in Postman?
+And we explore different APIs or we'll explore a technology like, what are webhooks?
+Let's go explore what webhooks are and how we can use that inside of Postman.
+And so we often do a lot of partnership kinds of things with different companies on the
+live stream just to kind of hear about their APIs as well.
+But as an application, we have both a desktop app and a web app that you can use.
+And they all do the exact same thing as far as like building out the collections and so
+on.
+There are different limitations on both.
+That's why we have both.
+And yeah, we have quite a growing group of folks using it.
+We just passed 20 million users on the platform a couple of months ago, so we're pretty excited
+about how many people are using Postman on a regular basis now, almost to the point where
+I'm actually starting to see it show up on resumes as a skill of, you know, I use Postman
+for API consumption or API production and starting to see that showing up now as a skill
+on our resume.
+That's very cool.
+Yeah, I'm glad I asked because I had no idea about the production side.
+I thought it was just like, oh, it's a mock API thing.
+It's like, no, no, it's more truth than that.
+That's awesome.
+Yep.
+Thanks so much for sharing this.
+This is really useful.
+I will spread the word about Postman and that it's more than just a way to mock APIs.
+And thanks so much again, Ian, for joining me on your Saturday.
+I really appreciate it.
+I think you've shared a whole ton of great information that our listeners will really
+appreciate.
+And I will tell everybody, please go to techinterview.guide.
+There's a lot of really great stuff there.
+And we'll have links to everything in the show notes.
+Thanks so much, Ian.
+Have a great rest of your day.
+Yeah, I appreciate the opportunity.
+Thanks for letting me share some thoughts and enjoy your weekend as well.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star, and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at networdmysyndium and join the community
+on Discord.
+All the links are available in the show notes.

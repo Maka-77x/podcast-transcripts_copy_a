@@ -1,0 +1,1142 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Chelsea.
+Welcome to the Mycelium Network Podcast.
+Yeah.
+Thank you for having me.
+Thanks so much for joining.
+I really appreciate it.
+So you were one of the many people that reached out over polywork when I did my initial, like,
+are people interested in this kind of thing?
+And I'm still blinded by how many people were interested.
+So you were one of the folks, and then I started doing it, and I got so caught up in the whole
+process and all the other things that I do.
+But then eventually, I was able to get back to you, and we were able to set this up.
+So I'm so glad that we were able to do this.
+I think this is going to be a really interesting conversation.
+I've done some research about you and found some really interesting things that I'd like
+to dig into.
+So I'm looking forward to the conversation.
+Yeah.
+Yeah.
+Yeah.
+Thanks for reaching out.
+I've been having fun making some connections on polywork, and I saw that.
+And I was just very interested in your project and what you're doing.
+So that's kind of what prompted me to respond.
+It sounded like you were doing some really interesting work yourself.
+Oh, that's good to hear.
+Glad to be here.
+Yeah.
+So I normally ask people to write a little bio in the document, but that's more for me
+to use when I post it.
+In the beginning, I read it out, but I thought, oh, it's so been done, I want to do it differently.
+So what I decided to do is I'm going to let you tell your story instead of me giving a
+summary of your life story.
+So take as long as you want, go as far back as you'd like, bring us up to the current
+day.
+Yeah.
+So just in general, I'm a software engineer and creator, I guess, generally speaking.
+I do a whole bunch of different work in my day to day, but I got my start really when
+I was a kid.
+My dad started a software company when he was just out of college, so I grew up with
+computers and the internet and being around all that stuff and developed an interest in
+it pretty early in my life.
+And so I went to college for, well, the degree was in liberal arts.
+It's a background in philosophy and mathematics and science and music, everything.
+It was a pretty interesting program, unique as far as I could tell at the time.
+I was at St. John's College in Annapolis, Maryland.
+So that's where I got my undergraduate degree.
+I went on to get a master's in philosophy and education from Teachers College at Columbia
+University, and you can see that none of this has anything to do with technology yet.
+So that's my formal background.
+Yeah, that's my formal educational background.
+And then I'm mostly self-taught with everything that I've done over the years with the tech
+side of things.
+But I did grow up around it.
+It's been ever present in my life.
+So I've had a lot of exposure to tech and just lots of tinkering over the years.
+And so I started out, I kind of wandered around a little bit after grad school and I hadn't
+really found a way yet, but I just started teaching myself how to build websites.
+And I went from there and now I do all kinds of things, write software and still make websites.
+And I run a podcast and I just do a little bit of whatever I can do.
+I like to craft my own career around whatever keeps me learning the most.
+So I'm likely to get bored if I'm working on something for a really long time and not
+changing it up.
+So that's kind of how I've built my professional life so far.
+Yeah, I can totally, I know what you're saying.
+Me too.
+I need different things, otherwise it just gets, and I want to keep learning.
+That's the big thing.
+And I'm naturally curious.
+And so I was in the corporate world for a while and it just didn't fit at all.
+I was so frustrated and it was so meaningless that I just felt like, no, no, no, this is
+not it.
+This is not it for me.
+So yeah, the whole polywork philosophy really clicked with me, especially when I heard the
+founder express what it means, because at first I was just like, oh, it's another shining
+little social network.
+Let me go see what it's about.
+And then when he explained it, I was like, oh, right.
+That is exactly what I was looking for.
+So it's great.
+Yeah.
+So I've spoken to a couple of early stage folks so far on the podcast and also just
+in general, I have some folks around me and I've mentored some people in the past.
+And the one thing that's, I don't think it's something I could really go away ever, but
+I do understand tech has become, I don't know what the right words are, but it's become
+this profession that is almost a little bit elitist in a way.
+I think we want to change it.
+I think we acknowledge there's a problem there and it shouldn't be like everybody's welcome
+and anybody can do this, you know, if you put your mind to it.
+But maybe it's the nature of the work, maybe it is the environment you work in.
+I'm not sure exactly what is leading to this, but the one thing that I've heard from everybody
+is even more so than finding like good education material or finding good mentors or anything
+like that, the one thing that they find is imposter syndrome hitting them from day one
+almost.
+And sometimes, yeah, and sometimes just feeling like they're not sure if they made the right
+choice, like especially people that are changing careers.
+And I was looking at your blog and you recently posted one called Coming Home.
+And in that, you mentioned the sense of unbelonging amongst peers and leaders and how it relates
+to how we measure ourselves.
+And so I'd like for you to dig into that a little bit if you don't mind.
+Yeah.
+Yeah, I went to my 10-year college reunion, which is always weird.
+I think college reunions are just going to be weird no matter what because it's just
+awkward.
+You don't remember people, blah, blah, blah.
+But it was a really good time.
+It was really neat to see everyone and hear about everybody's professional progress and
+meet their kids and all of these things.
+But I went with my partner and we were talking about it afterwards and she was like, everyone
+who was sitting around in that circle talking, almost everyone at least, it seemed like everyone
+had taken these almost taken years to kind of meander around and end up, they almost
+kind of had this delay, this like six or so year delay post-college where they were wandering
+trying to figure out what it is they really wanted to do with themselves.
+And some people are still wandering, so that's fair too.
+It takes longer sometimes.
+But there's this delay in kind of kicking in with what many of us probably would consider
+real professional progress that she observed from that group that I thought was very interesting.
+And I think imposter syndrome probably, I mean, in my case, it definitely does have something
+to do with it and probably did with these peers too.
+But the idea that I was thinking about was just sort of like, well, everything that everyone's
+saying here, we're all comparing ourselves to an ideal, to that person that we idolize,
+to whomever it may be.
+We're comparing ourselves to a standard that we don't think we've reached yet.
+That's kind of natural to do.
+But when you do that, you don't often remember to look on the other side of the spectrum
+of your own progress because it's impolite to do so usually.
+You don't want to be like, oh, I'm better than that person.
+So you don't usually allow yourself to do that kind of reflective thinking.
+It's just like a bad habit.
+It's considered impolite, whatever it might be.
+So it's not something that we are prompted to do very often.
+We're not prompted to look either at others or even just measure against our own progress
+and look back and say, wow, I'm much better than that.
+I have at least the skills to know that I have moved from point A to point B along my
+journey of progress.
+So even just having a moment to self-reflect can be useful sometimes and we often don't
+make that time for ourselves in our professional lives.
+But yeah, that was the thought with that post, it was just like I definitely have struggled
+with unbelonging and imposter syndrome, but I have, I guess I would say I've recently
+started to become more comfortable just knowing what I used to not be able to do and can do
+now.
+Yeah, so that kind of was the reason for that post was that social occasion where that feeling
+seemed to be felt by people my age and people with whom I graduated and things like that.
+Yeah, yeah.
+Do you think, it's interesting to say that you've recently started to be able to deal
+with it better.
+Do you think this is something that comes with experience or age or is it a combination
+of it?
+Because for me, I think, I'm still ice and struggle with it heavily, but I am better.
+If I'm honest with myself, I am doing better with it.
+And I do think age for me plays a role in that.
+I'm at a point now where I feel like I don't have to prove myself so much anymore.
+I don't have that need so much anymore.
+Yeah, I think it must have something to do with it.
+I think you can't really get that reflective quality until you've done some things that
+you can reflect on, so you're really not going to have that backward looking experience.
+But yeah, I think it's just important to give yourself time to establish that you care about
+something professionally, first of all, because before you do that, you don't have a standard
+against which to measure your own, I don't know, your own chunk of your career, whatever
+it is, in the general world, the general professional world, until you've had a little bit of time
+to establish yourself, learn what you like and don't like, until you've had some time
+to try and fail a couple of times.
+It's hard to form that perspective.
+But I think that it's possible to work on it, certainly, if you're a little impatient
+without waiting.
+There are things you can do, like even polywork you mentioned has been good for me to address
+some of these things.
+I think finding accountability to put yourself out there a little more aggressively than
+you might be comfortable with doing, so having professional peers publish that blog post
+before you're really ready and have them review it, things like that.
+Stop getting in your own way a little bit is the way I would describe it.
+It's just like, okay, I'm holding on to this so tightly because I want to be a perfectionist
+about it, but do I really need to be in the way of this right now because I'm the one
+who has to push the publish button.
+I can worry about it being perfect all day long, but I still haven't pushed the publish
+button.
+That for me was what was getting in my way.
+I was my own worst enemy there.
+Yeah, I think that's common.
+I know my daughter, for example, she's got in between a couple of ideas of what she wants
+to do, but I know that she has a real passion for writing.
+I think her work is really good, and I've told her that, but I don't think she believes
+it.
+I think it's because there's this fear, and I'd like to ask you this because it leads
+into this second topic that I've had in the dark.
+I think social media plays a big role here, right?
+It's created this idea of perfection that does not really exist.
+People are so scared of being wrong, and I don't understand when that switch flipped
+over and we went to this thing where it's such a bad thing to sometimes be wrong, where
+it's such a terrible thing to sometimes fail, and where people always want to show or pinpoint
+the things that you didn't do well, instead of just celebrating the humanity of that and
+celebrating, having an idea and putting it out there.
+I ran into this with a... I found a guy on LinkedIn that made a little glove that has
+these sensors on it, and so if he moves it around, it can turn silent and get into audio,
+but he's also put NFT chips on each finger.
+If you program it, then if they get near to an object, like a blind person, it can tell
+them what the object is, and I thought, that is so cool.
+That is such a great idea, and I shared it in one of the Slack servers that I used to
+be on, and wow, did people poo over that, all over that.
+They did not say, this is a great idea, but it has some flaws.
+It was just all out, this is like, oh, not that terrible idea, and I was like, I'm leaving
+because this is super toxic, I don't want to be in a place where you criticize ideas,
+because I think ideas is what's going to move us forward as humanity, and if you're going
+to start just killing people's initiative, then I don't know where we're going.
+I rambled a little bit there, but I'd like your...
+No, no, not at all.
+I think that social media definitely plays a role.
+I also think it's much easier to respond with negative criticism than it is to offer suggestions
+for how to improve things, especially in online communities where anonymity doesn't kick in
+and say that it's not that little voice in the back, you don't have that little voice
+in the back of your head that says, hey, maybe think before you say this out loud, because
+you're not looking at the person's eyes, you're not going to insult them to their face.
+Those kinds of things that happen in face-to-face interactions with people, and we've had even
+less of that since COVID, so I think the problems have gotten more intense, but those are the
+sorts of things that allow us to pause and take a breath and maybe just not sling that
+mean comment or criticism or whatever.
+All of that's absent on social media, so unless you're very, very good at self-moderating,
+which hardly any of us are, it's just so easy to just pop in and be like, well, I don't
+like that, I don't like the colors, I don't like the whatever it may be.
+I see a lot of design stuff on Twitter, and any time any redesign of anything is released,
+it's just a huge thread of thousands and thousands of, I like the old one better, or just whatever
+the criticism may be.
+It's just because it's so easy.
+It's much more difficult to confront a problem and say, hey, this is a good start.
+I think I would maybe think about improving it in this direction.
+It requires you to think and do some work in order to engage that way, so many of us
+not having the time usually just choose the pithy little criticism.
+But I was going to say earlier too, I think that writers would probably have this problem
+more than others, being isolated from a professional network, which I also do find myself feeling
+that I am, just because I've worked up to this point, I've now actually started an LLC,
+but up to this point I was just working as a freelancer, so like a contract, I didn't
+have a company, I was just operating as me.
+But I think when you run a consultancy like that, it doesn't give you a whole lot of opportunities
+to just sit down with peers and hear whether or not the work you're doing is any good.
+You hope that the client's happy with the project at the end of the day, but there's
+not a lot of quarterly review with your manager to tell you how you're doing kind of stuff
+as a freelancer or a solopreneur or whatever it may be.
+While that most of the time doesn't bother me, when I think about how I'm doing professionally
+and how I want to improve professionally, I have to go seek out feedback from non-traditional
+sources in order to get it, and it's very hard to do that, and it's especially hard
+to do that and go find the positive feedback that would help you manage that imposter syndrome.
+So I would imagine, I think writers would be particularly challenged by that for the
+same reasons.
+It's like your work product everybody can read and they can like it or not like it,
+but how do you appeal to the professionals who could help shape your career?
+How do you reach out to people who can give you a positive, valuable feedback like when
+you need it, when you're most drained or most in need of some help?
+Yeah.
+Yeah.
+I think that's a very, very good point, and I'm going through that, and I think I found
+some things that's helping, but there's still a gap there, and so I think this is something
+that beginners also struggle with is finding mentors that build them up and won't break
+the spirit.
+So that's why I'm really careful about managing the MySQL network, the Discord server aspect
+of it really, really closely.
+Like daily, I open it a couple of times a day to just make sure conversations that happen
+or it goes in a positive direction, and even, I'm not saying you always have to agree,
+like disagreeing is good.
+It's how you learn.
+It's how you learn to sometimes look at something from a different perspective, and sometimes
+you find out that maybe you were wrong or not even necessarily wrong, but there's a
+different perspective, and you can agree to disagree.
+That's good.
+The thing is when those conversations become toxic and when there's somebody that has a...
+You can see that they always have something negative to say.
+Like they never have something positive.
+It's like, no, no, no.
+Yeah.
+I think that in tech especially this can be difficult because at least from my own personal
+experience there's a lot of what I would probably call neurodivergence in tech, and what that
+can mean is that there are a lot of different ways of expressing ideas and difficult problems
+and concepts and arguments even or discussions.
+There are just different individuals that don't mix well together in certain kinds of
+conversations even just because of some of those factors that you're never going to be
+able to account for all of those things.
+It's very difficult to manage.
+That's what I found, but then there are also some things that borderline into...
+This is with tech generally.
+There's some borderline behaviors that have been allowed to flourish in certain tech circles.
+We see this with big companies with culture problems usually don't hear talk about it
+until it becomes like a Activision Blizzard or an Uber or whatever it is.
+You don't hear about this stuff until it bubbles up to the surface, but there is a lot of kind
+of just not exactly even bad behavior sometimes, but just not supportive encouraging professional
+behavior that happens in these places that is just allowed to happen.
+People just start to assume that that's the norm for behavior, so it can be really hard
+to foster communities where people are respectful in a way that you're talking about.
+I really appreciate that you're doing work focused on that because it's a real tough
+problem.
+No, it is.
+It is.
+It's early days, so I think I'm still in the honeymoon phase if you want to call it that.
+I hope to be able to drag it out as long as possible, but I'm in a privileged position
+in that respect that I do have access to other people that's been in the community space
+for quite some time that I can ask for advice because I want to prepare myself for not the
+inevitability.
+I don't want to be negative about it or pessimistic about it, but should something happen, I want
+to be prepared in how to handle it.
+I don't want to have to figure it out as it's happening because oftentimes... Oh, there's
+you.
+Sorry.
+No worries.
+Was I not muted?
+No, you were.
+I hope I'm muted.
+Okay, good.
+I hope I'm muted myself.
+Anyway, sorry.
+Go ahead.
+No, no.
+You did.
+Because I think often in the moment, you might react in ways that's going to make it worse
+rather than better if you're not prepared because it might be heated and so you might
+fall into the trap and instead of bringing the temperature down, you might just add fuel
+to the fire.
+Yeah.
+I'm bad at this even my way of communicating when I'm in the middle of working, I can only
+do one thing at a time.
+I only have a single thread in my processor, just the one, but I can only work on one thing
+at a time.
+So we live our lives on these messaging-based apps.
+So I live on Slack and Discord and Teams and whatever combination of all of those things
+I need on my desktop at any given time, but I'm always on, always connected and when I'm
+trying to work on something, somebody pops up with a DM and I'm usually blocking because
+I'm the one who has all the keys to the AWS and all of that stuff in my organizations
+usually.
+So if I'm the one blocking, I have to stop what I'm doing to go work on something, which
+means that I have to rip myself out of my context and plug into another one and so my
+style of conversation can be very like, here's what you need, goodbye.
+Sometimes people do not respond and I'm not mean, but even just, I was just thinking about
+that the other day.
+I'm like, I should probably be a little more intentional about taking a second to think
+before I just shoot off whatever message, even if it only needs to be this brief little
+informational thing.
+I should probably at least just think before I just start typing.
+Just think before you start typing is a good principle.
+I mean, it's probably a good way to behave on social media too, but yeah, I just go into
+this automatic got to get it done mode and sometimes that busyness I think even can contribute
+to a tone that can be unapproachable for some people or some styles of workers or thinkers
+or whatever it may be.
+No, that's for sure.
+I think doing many things and working from home, there's so many interruptions that naturally
+happen throughout the day and I think those can compound without you even noticing it
+and somebody might just DM you at the wrong moment when you've been interrupted multiple
+times already and then you're just like, ah.
+Now you're just in a bad mood, but it has nothing to do with what that person asked
+you.
+Yes.
+Yeah, I try to manage distractions in a couple of different ways.
+I bought this Pomodoro timer.
+I did a huge, I kind of took a moment this summer to professionalize and kind of redo
+my setup and that's when I formed a company too instead of just working as a freelancer.
+So I started doing all of this stuff, but one of the things that I did was try to manage
+my time better and so that required a couple of things and one of them was this timer that
+makes me work for 25 minutes and take a five minute break and I get a lot more done now
+and the other thing was using a cal, I use cal.com as a calendar integration software
+so that I have too many calendars on too many projects and I need them all in one place
+and my phone is one of those places, but I can't share my phone with people so I had
+to make it so that people could schedule things because I was just spending so much time in
+my day scheduling things and I'm like, I need to either pay a virtual assistant which I
+can't really afford yet or I need to have some sort of calendaring solution.
+So that's been another really important thing of the working from home time management part
+of my life.
+Okay.
+Those couple of little tools have made a good big bit of difference, so yeah.
+Yeah, for sure.
+I recently also created like a calendar that's a feed of all my other calendars just so that
+the calendar counters.
+Because the thing is I ended up, not too regularly thankfully, but it was getting a little bit
+out of hand where I would double book myself because I would look at the wrong calendars
+and I would forget, oh, dang, that other client also had a thing, oh, now I have to go back
+and say, can we do it an hour earlier or an hour later?
+And so I was like, no, no, no, let's go and keep it going on.
+And also my days were all over the place because I wasn't always sure what the heck I was doing
+so I was like, have a calendar that's a view into all the things, because then at least
+I can look at that and say, okay, here I have two hours with nothing and I'm going to make
+sure I keep those two hours of nothing, because I think that's the other thing.
+That's actually been the most, yeah, that's been the most beneficial part, I totally agree
+with you.
+It's the having access to your own time that comes with having that view, that macro view
+of all the calendars.
+You have access to your own time in a way that you don't have without it.
+So you can be more efficient even in that way, because you know that you've got unscheduled
+time.
+Yeah.
+That's also been very important.
+Yeah.
+Yeah.
+And I can imagine for people changing careers, like going from being, let's say, a lawyer
+to being a coder, I think for them those types of time management things are critical too,
+because you have this day job that you can't just now quit.
+You have to take your time and make sure you're ready before you and you have to get that
+job in tech that can support your lifestyle that you've already had.
+So I think for them, time management is also like, I'm sure, very tricky.
+So hopefully some of this information will help them as well.
+Yeah.
+Circling back to the social media aspect, I started off being very indie and being very
+like running my own blog, all these kinds of things, and I don't know when, but at some
+point, I don't know if I just got lazy or what was the story, but I neglected all that
+stuff and at some point it hit me.
+I was like, my goodness, if these social things go away, a lot of my thinking and thoughts
+and stuff that I've written and videos I've made is going to all be gone.
+And I then just stepped back and said, wait, wait, wait, wait, how did this happen?
+I still don't know, but that's okay.
+At least I'm now pivoting back heavily towards the indie webcam camp, because that's what
+I love.
+I love that aspect of making your own things, owning your content, having a domain where
+your stuff lives and you have control over that.
+So I am doing more and more and more of that, but I saw what you've done, like I think that
+I haven't even thought about doing, and you have created an archive of your Twitter account
+on your website.
+Yeah.
+I wrote a post about how to do it.
+I need to do the follow-up because I need to talk about the publish once and just syndicate
+everywhere part of that equation.
+I got really into Leventy, which is an indie web favorite, I think, static site generator.
+It's a really cool tool.
+So I got into that because I needed to move my personal blog off of Jekyll.
+It was on Jekyll, and development stopped for that, and I just needed a new tool.
+When I got into that, I was like, well, this is pretty cool how all of this works.
+It just generates the whole website based on a couple of JSON files, is pretty much
+what it does.
+So it's really cool.
+So if you feed it the appropriate data, you can do anything.
+So if you can access your own Twitter feed, pull out the tweets from it, you can just
+dump them in an archive, and that archive does go up to the point of that publishing
+of that post.
+I need to pick up with the project and keep going, but yeah, recently, I took a similar
+path to you.
+I kind of left to go explore all the shiny social apps, and don't get me wrong, I spend
+plenty of time on social media.
+I love TikTok.
+I learned so much from TikTok.
+There's so many interesting people on it.
+I'm a big Twitter person, and I think being a writer and a tech person, that's just kind
+of natural.
+I spend a lot of time on social media, but I also spend a lot of time thinking about
+how bad social media is.
+And I'm also spending a lot of time thinking about actually if maybe professionally I want
+to start to work on some of this problem.
+It's more from a content creation perspective, because I'm really worried, I'm really primarily
+concerned with your content, you owning your content, you being able to make money from
+your content however you want to, I'm interested in all of this.
+So yeah, anyway, I did create a Twitter account, I'm very interested in the Indie Web.
+I'm interested in how the current generation of people creating things on the web could
+potentially migrate off of these platforms where they get locked in, and onto a syndicated
+content model.
+So I'm actually doing some work along those lines, and we'll see if it ever materializes
+and becomes anything.
+But yeah, I'm thinking about it a lot, because I'm a little tired of being beholden to tech
+behemoths that come and go and behave badly in the interim.
+And I have to work, you know, like my day job, what I'm considering my day job, one
+of my big contract projects, I have to interface with meta on a regular basis.
+And it's just the most soul sucking, thankless, like it's just impossible to actually even
+talk to a human at meta, which is frustrating from a developer experience perspective.
+But anyway, so there are a whole lot of reasons why not to lock yourself into any social platform,
+any content platform, and I'm a big fan of finding ways to do that.
+And then helping just the everyday consumer find ways to do that, which I think is the
+big missing link right now, just average Joe Schmoe who doesn't know how to deploy a website,
+how do we get those people ownership of their domains, you know, so.
+For sure.
+Yeah, it's incredible to me when I sometimes speak to folks that's been even to some of
+the bootcamps that's around these days.
+And sure, they've learned quite a couple of things, but then they're like, I don't know
+how to get this online.
+How do you get it online?
+And I'm like, wow, they didn't teach you that?
+That's like so core to the thing.
+What does it help?
+You can make all these things, but you can't share it with the world, like, do you just
+always have to...
+There's actually a huge...
+Yeah, sorry, go ahead.
+No, no, no.
+I think it was mostly that.
+It's just like, I think it's such a big part of it when you're learning is to make your
+own thing, not put it on somebody else's thing.
+Yeah, so yeah, go for it.
+No, I've noticed, I think there's a big opportunity for documentation in general to do a much
+better job here because I spend a significant chunk of my time in any given week reading
+developer documentation and almost none of it that I've come across tells you how to
+harden a project and deploy for production.
+It's just like, here's how you get started.
+Good luck.
+Nothing tells you how to be ready to have actual users using your thing and in fact,
+a lot of them do things that are not best practices for production deployments in their
+tutorials because they expect you to understand that it's not for production, but sometimes
+when you're learning, you don't expect that.
+So yeah, as a self-taught developer, I found that to be pretty frustrating, but it is a
+pattern there.
+I mean, not having attended a boot camp myself, I can't speak to the quality of them, but
+I do know that from some people who have graduated from them, that they have been less useful
+than they would have hoped for that reason, that you just don't learn.
+You learn a lot of the fundamental, the starting points, but you don't learn how to actually
+execute on a vision, which is what everybody wants to do when they go to a coding boot
+camp.
+Yeah.
+Yeah.
+Not for sure.
+But you mentioned earlier that you are the co-host of a podcast called 16 to 1 with co-host
+Katie Day.
+Do you want to tell us a little bit more about your podcast?
+Sure.
+Yeah.
+So having mentioned my background in education, you can probably imagine how I ended up here,
+but I just am obsessed with podcasts.
+I love the medium.
+I think it's interesting.
+I've heard some of the most fascinating stories of my life through podcasts, and I have a
+couple of favorites, and so I listen pretty regularly to those.
+And so for a long time, I'd been like, I really should try this.
+I love to talk.
+I love to think.
+I love to, you know, whatever, learn new things.
+That was the main thing.
+I want to be able to do something that makes me learn something new every, however often.
+And I'd been talking about it with my partner for a while, and I was just like, we got to
+do this.
+We got to do this.
+And then we chose to do it right at the beginning of a global pandemic, which was an interesting
+choice on our part, let me tell you.
+But yeah, about a little more than, I guess, like two and a half years ago now, it's been
+a while.
+We started recording episodes, and we post every other week.
+And it's about education, teaching, and learning.
+My partner is a teacher, public school teacher.
+And again, like I have an interest in a background in education, although I'm not a classroom
+teacher.
+But yeah, we talk about education every other week, and I've been doing so for years, and
+we have a great time.
+And it's a lot of fun.
+It's really just something fun to work on together, more than anything.
+But yeah, that's what we do.
+Yeah, listening to one of the episodes last night is really cool.
+I really enjoyed the style of it.
+It's very conversational.
+Yeah, I really enjoyed it.
+I'm always curious.
+Yeah, we try to have fun with it.
+Yeah, for sure.
+It comes through.
+Yeah, you're hitting it on the head, the nail on the head.
+I'm always curious also about in the actual education, well, I mean, actual, but teaching
+at a school.
+I'm always curious about the experience of that because it has changed so much.
+In some ways, it hasn't changed at all.
+In some ways, it's changed a lot.
+And I always wonder what is the experience like for teachers now in the school environment
+from multiple perspectives, you know, like just working with kids nowadays, like kids,
+the way kids react and the kids behave have changed.
+Like our, even us as adults, our ability to pay attention has shrunk considerably.
+And I think with Jane Z, is it?
+I think that's what the almost latest folks are.
+I honestly can't keep track of them all.
+I can't either.
+I was with my daughter the other day, like, what are you, what are your young friends,
+what is my sister-in-law?
+And I'm trying to figure that out again, but yeah, like, you know, what it's like to work
+in that environment where you, you're fighting like these super interactive and super, I
+don't know what, I can't remember the words now, but, you know, you're just fighting a
+technology that is built to keep your attention and you as a teacher have to somehow get their
+attention in the same way.
+I think it must be a massive challenge and I'm, you know, I'm really thankful for people
+who do that because yeah, I mean, I'm, I'm trying to do that from a developer perspective,
+but, you know, for the most part, the people that you interact with there are people that
+are self-selected to learn this thing.
+Like the tricky thing in schools are oftentimes the kids aren't necessarily interested in
+what you want to teach them and that then that's the first hurdle that you have to overcome
+is to take a subject and make it interesting.
+And I always, I don't always know if teachers are given the tools they need to do that.
+And so...
+Yeah, that's a good question.
+We're actually about to record our next episode we're going to do it this afternoon and it's
+going to be on inquiry based learning.
+So it's about creating the conditions in which students can become interested and take ownership
+over what they are learning.
+So that's something that we worry about in our classrooms.
+But yeah, I too am in awe of teachers, I say a majority of my friends are teachers for
+whatever reason.
+I'm just around them all the time.
+They're everywhere in my life.
+And what I hear most often is that, yes, that there are attention issues with technology
+and for sure, and discipline issues.
+I think the biggest thing though is what makes it difficult is actually the parents of students.
+That's what makes it really, really hard to be a teacher is that if you could just go
+to your classroom every day and not deal with parents and just teach the kids, then it's
+great.
+But there's so much managing of bad parent behavior and expectations and complaining
+and all kinds of just like helicopter parenting.
+But it goes in different ways absent, you know, absent parents, all kinds of you just
+you're overcoming so much at that point.
+You're working to overcome so many factors that honestly have nothing to do with school.
+They're about these people's lives.
+So we expect our teachers to do the work of, you know, five, 10 professionals all in one
+because we expect them to be psychologists, we expect them to be disciplinarians, we expect
+them, you know, some kids come to school and that's the only meal they get during the day.
+So like that's the kind of those are the kinds of conditions under which we're working.
+So it's not only all the all the stuff that we're normally worried about, you know, following
+behind peer nations or whatever it might be about our educational system, which we definitely
+are doing.
+But but I think what we really need to kind of do is I really think that there's an under
+an under commitment of resources to education, you know, formal education in this in this
+country at least.
+But I think we have a lot of work to do to prioritize education because it's the one
+thing that is able to open up doors for people, you know, and I think we should be putting
+more money into the educational system and putting more more time into making sure that
+it works for all kinds of different learners.
+Yeah, for sure.
+As somebody from a third world country, I can say it's not just the United States, it's
+prevalent everywhere.
+We have other problems, compounding, compounding the problem, but it's interesting the parent
+aspect of it.
+It's unfortunate that that is such a big problem, because that's a hard one to solve.
+It's very, very hard one to solve.
+How do you think like you kind of touched on it earlier when you talked about you read
+a lot of developer documentation, like, it doesn't always have the things that you would
+expect that you have.
+What do you generally think about like education models and stuff like that when it comes to
+the tech industry?
+Is there anything that you find that's been done really well and then the opposite?
+That's a good question.
+I haven't come to tech through such a strange circuitous route.
+I probably wasn't exposed to a lot of what would be considered this kind of thing in
+the tech industry, so I probably can't speak to it with a great degree of certainty.
+But I think that the times when I've personally, professionally benefited most have been times
+when I've gotten to learn from peers who are patient and helpful and interested in answering
+questions.
+Even just making yourself available to answer questions can make a difference in somebody's
+professional life if you're in a mentorship position.
+So I think we have a lot better opportunity for mentorship in tech.
+I'm so self-directed as a learner that I've always wanted to know all of this stuff.
+So I've never had a problem with motivation like what we were talking about before.
+I've always been curious.
+So I've never had to be the sort of person who had to slog through something because
+I'm choosing to slog through everything I choose.
+So yeah, I don't know.
+That's a good question.
+It's such a broad thing.
+I think that higher education in terms of tech, so like formal computer science programs,
+I think what I know of higher education is that they lag behind industry in such a way
+that the real, I think that the real reason that they exist is to pair you into a professional
+network.
+I think that's why higher education is, unless you're going to do research or something really
+difficult.
+I briefly considered going to do a natural language processing program because I was
+really super into machine learning and stuff like that.
+Then I was like, you know what?
+I don't want to sit, I don't want to do a research.
+I don't want to be in academia.
+I want to make things and do things.
+I think, yeah, anyway, I think it can be hard to find a way in if you're not going to go
+one of the accepted routes.
+Technology is one route, getting a computer science degree and going directly into a startup
+is another route or an established tech company.
+But if you're not going to do that, it's very difficult to discern a path.
+Then I also think that the big tech companies probably don't do enough to invite a variety
+of different learners from a variety of different backgrounds into the fold of technology.
+That means that not only are there formal educational problems, but there are also problems
+of, hey, do I identify with anyone in this group?
+Am I going to be a total outsider here, either socially or economically or whatever nationally,
+whatever it is?
+A lot of these problems are social and cultural problems more than education or employment
+problems, I think.
+Yeah, that's really true.
+I want to cycle back to that in a second.
+What I do think there is a real need for is some kind of mentorship network.
+Honestly, I've been in the industry for quite some time, but I do new stuff all the time.
+I'm not always sure am I doing this the best way that I could possibly do it.
+I recently did a project where I worked with MongoDB, but then I was using this abstracted
+layer on top of it, and I would love to ask somebody, can you have a look at this code
+and just tell me if it's total garbage or if I at least understand the principles of
+this tool that I'm using, because I think I'm doing a decent job and it works, but like
+you said, if tomorrow 10,000 people hits this website, is it just going to fall over because
+I'm not using it correctly?
+I heard somebody speak the other day about using Apollo with GraphQL, and there's a very
+good reason you should use Apollo because you can so quickly shoot yourself in the foot
+because of the nature of how GraphQL works.
+You can actually end up creating 50 queries hitting the database, and where if you use
+Apollo, it says, oh, I see what you're trying to do, and it figures it out, and it takes
+all of those 50, and it's like, I'm just going to do one query, get this data, and I'm going
+to sprinkle it everywhere you need it for you.
+If you don't know about that stuff, you're going to just say, hey, it seems to be working
+fine, everything is great, and then your client launches the website, and the next morning
+you wake up to a bunch of angry voice messages because their website's down.
+Or like a $10,000 bill unexpectedly, stuff like that can happen if you have something
+based on, yeah, if you have something based on usage, whatever it is, you can get yourself
+into scenarios really quickly where you're just unprepared, and I would love to see more
+developer documentation that has a kind of two-tier approach where it's like, here's
+how you get started, here's how you actually deploy a real production environment here,
+because I think that people just expect people to know best practices about that, but I got
+to tell you, I've been handed so many projects as a developer where it's like, our last developer
+did this mess, can you please un-mess it up, and so nobody knows how to do this stuff.
+Obviously, some people do know how to do this, but you don't start out knowing this stuff,
+so somebody has to tell you along the line how it should go, so whether that needs to
+be on, the onus has to be on developer documentation, I think writers of documentation should do
+a better job of doing this kind of, it is a kind of education, so I think that should
+happen, but I also think that the keys to those kinds of operations are usually held
+by a small number of people at any given company, and so that means that there's not often as
+much exposure to those principles of practices, process documents, whatever it might be, there
+just aren't as many people who know how to do that stuff in general, so I think we should
+try to open up that knowledge more, because even if not everybody is doing it, everybody
+should know how to do it, you know, if you're working in tech.
+Yeah, I know, for sure, and I think the nice thing about documentation and creating educational
+material around this is there's less of a need then to be there in person every time.
+I can't remember who it was, but there was somebody that I read about that, like if they've
+received an email twice, they post them the same question, they write a blog post about
+it, so then the next time they get the same question, they just point people at the blog
+post, and I thought that is really a clever way of doing this, because that puts the information
+out there, but it frees up your time, and it makes it discoverable by other people that
+just search for like, how do I X, and then it's like, yeah, your blog post post pops
+up that was an answer to an email, so I think, like I said, a mentoring network would be
+nice, but I understand the difficulty of that.
+It's like, it's people's time that you're asking for, and in general, people are pressed
+for time to start with, so, you know.
+The other thing I've struggled with there is that mentoring in the abstract is very,
+it's not very appealing to me.
+I mean, mentoring with somebody I don't know, I guess is what I should say, that's what
+I mean by mentoring in the abstract, so I've always, you know, been very close with my
+teachers, just somebody who was curious and interested in education.
+I've always been, you know, I've always been close with my own teachers, and so I've benefited
+greatly from a couple of mentors along the way.
+Now, these people were not in tech, so I really don't, I mean, I have the benefit of working
+with my dad pretty closely on one of an ongoing contract project that he's still working on
+in his pseudo retirement, so I've kind of gotten to learn a lot from him, but it's a
+little bit different when it's family, so I don't have like a, you know, a non-family
+tech mentor, I don't think, so it would, and that's just because, for no other reason,
+for me, I'm a contract worker, had been a contract worker, and it's difficult to form
+a long-term relationship with somebody that you trust when you do that kind of work, and
+so I do think there's like, I totally see a need for it.
+I don't know how people like me could get into, you know, maybe like a Discord server,
+like what you're running would be a good place, because I do spend a lot of time hanging out
+in those places, but I need to feel like a mentor is personally invested in me, and that's
+what is basically impossible to find, just in the way that I exist professionally on
+a day-to-day basis, so.
+Yeah.
+Yeah, I don't have a solution for it.
+I know there's a need.
+I'm not entirely 100% sure how to fulfill that need yet.
+Maybe it'll happen organically via the Discord server?
+I don't know.
+I think it's got to be much easier.
+It's got to be much easier than just smashing two people together and say, okay, here's
+your mentor, which can still happen productively for a lot of people, to be clear, but this
+is just, for me, I need to, and that's why actually that Discord approach does appeal
+to me, because I can get a sense for people before I DM them and say, hey, can you help
+me with this thing, or whatever it is that way, you can get a sense of who's working
+on what?
+Are they going to be interested in your question?
+Are you going to feel like you're wasting your time?
+That kind of stuff, you can pre-figure out some of that before you dive in to a more
+formal relationship.
+Yeah, that's very true, and I try and regularly post there encouraging people to ask questions,
+because I know people ask questions.
+I know that.
+Working on an open source project on GitHub and stuff like that, that's scary for people.
+That's why I've told people, look, we're all working together on this project, but if you're
+all uncomfortable about opening the pull request because you feel like, I'm not sure if my
+work's good enough, let us, people that you feel comfortable with, create a Google Doc
+or something, or a Notion, thing a Notion, and ask people to go and proofread it there.
+If that makes you feel more comfortable, and then you can slowly start dipping your toe
+and maybe put your foot in and see how it feels until you feel comfortable, but I think
+in the end of the day, you should start building up the confidence to do it and to work in
+the open and to be okay with receiving feedback that is maybe not always, you're doing a great
+job.
+Sometimes it's like, thank you for this, but there's this and this and this thing that
+you can do, but I understand and I feel for it.
+For me, I had to remind myself of that because I've been working in the open for 11 years
+or more now.
+For me, it's almost like if people talk about that, I'm like, what do you mean it's weird?
+Then I'm like, remember, you've been doing this for 11 years.
+Think about 11 years back when you had to open that first pull request on this repository
+that everybody can see.
+How did that feel?
+It was like, oh, right, that was kind of scary, and so you have to sometimes just step back
+and go back in your own history and remember that it wasn't like it's now.
+Now maybe it's just how you work, but it wasn't always like that.
+Yeah.
+I recently, I was working on a side project and I was like, what am I going to do with
+this thing?
+Am I going to turn it into something?
+It's a little application.
+I play Dungeons and Dragons with my friends and I built a little app to manage my character
+sheet and I started playing with it and I started forcing myself to use it during sessions,
+which was a really fascinating... I mean, it's a similar approach even though it's still
+just me.
+I did open it up to the group, but I was the only one who used it because everybody else
+had paper character sheets.
+I wanted mine digitally, so I kind of opened it up before I was really ready and it didn't
+go well every single time.
+Some of them are, there were some quite spectacular fails of sessions because of it, but I learned
+a whole lot about my own app that I was working on building it that way and it actually even
+kind of changed the course of how I'm going to actually open source it now.
+I'm going to rebuild the thing in Node and do it that way and I'm going to open source
+it.
+I learned from that experience that putting it out there is really not the worst thing
+in the world.
+You just got to go for it.
+I'm going to see it.
+It's going to be really fun.
+I've contributed to some open source projects here and there, but I've never actually built
+my own, so I'm hoping maybe eventually I'll have a fun little tool for people to use.
+Just holding yourself accountable, even publishing that blog post or just deploying that first
+staging build, whatever it may be.
+You don't have to have something that's perfect and being used by tens of thousands of people.
+You can just have a thing that works for you.
+That's even one step in the right direction of coming to be able to have a better barometer
+for your own success.
+Yeah, for sure.
+I recently spoke to one of the folks in the MySQL network who's a beginner and I told
+him you don't always have to build a thing that is going to be the next Twitter or whatever.
+It can just be something that helps you and maybe four years down the line somebody stumbles
+upon it and they're like, oh, this is really cool.
+I'm going to use it too.
+Now you have a second person using it.
+If that even never happens, it's okay because you've learned something.
+You've made something that's useful to you and that's good.
+There's nothing negative about that.
+That's like with the blog post principle that you were talking about earlier, if you get
+two emails turned into a blog post, I started doing that with myself where if I repeat this
+process more than once, turn it into a blog post because that's why I have stuff about
+deploying on DigitalOcean on my blog, just random stuff that's so easy, basic walkthrough
+tutorial stuff.
+But the reason all those exist on my blog is because I had to keep doing them over and
+over again and I kept making the same mistakes in the same places and I'm like, why didn't
+I write that down the first time?
+Now I've got content, yay.
+It's good to do that.
+I also look at my own blog posts to go set things up sometimes because I'm like, well,
+I've already done this once.
+Why would I put myself through it again?
+Yeah, no, that's definitely, that is very good advice.
+I do it less often than I should.
+I sometimes make notes and I never go back to the notes and then the next time I hit
+the same problem, I'm like, I have fixed this already before, darn it, I have to figure
+it out all over again.
+Cycling back to your podcast and a topic you touched on related to the cultural aspects
+of tech and I think this is in other industries as well, but being in tech, that's probably
+what's easiest to speak to.
+The episode I listened to from your podcast was the most latest one, which was about women
+in STEM.
+Yeah.
+And I've spoken to a couple of women on the podcast before who it's like getting into
+that and had very different experiences based on where they came from culturally.
+Also physically, like the one was US native, the other one was from Mexico that recently
+moved to the US, but they're still struggling with some aspects of being a non-native American.
+And so this is an area for me that I think needs a lot of work, so I was very glad to
+see that you've really highlighted and dedicated a whole podcast episode to it.
+If you have to share with us, because I would encourage everybody to go listen to that episode
+instead of trying to rehash it here, but what I would like is if you can give us the big
+takeaways that you've discovered through talking through that topic.
+Yeah.
+I mean, I think at this point, most people are aware of the problems.
+They're the sort of more loud media confronting issues where you get people, sexual assault
+in the workplace, stuff like that.
+We've got problems there, but then we also just have things like just the sheer numbers,
+just representation in tech is still wildly imbalanced.
+There's just a very wide gender disparity.
+So yeah, that episode is just kind of all about that.
+And it mostly exists, it's going to be the fact that we have to start making progress
+right now because we're backsliding, we're actually reverting to an even worse state
+in terms of these things.
+So we need to, and I mean, there's some extent to which some people think this isn't a problem
+to be solved because it's one of interests.
+By that I mean, well, it's fine because women don't go into tech because they're not interested
+in tech, which is if you work with anyone under the age of 20, which through my work
+on the podcast and for my partner, I'm exposed to young learners, you know that women are
+just as interested, girls are just as interested in technology as anyone else.
+So it gets a little, the main takeaway from the episode is really just me asking the question
+if half the world is, if 50% of people are women, why are like 19% of software engineers
+women?
+It just doesn't even, and just asking the question is an affront sometimes to folks.
+But for me, it really is just like the question, isn't that weird?
+Doesn't that strike people as weird that there's such an imbalance in particular career fields
+and why, how do we get where we are?
+How do we get past where we are?
+That's everything that we tackle in the lesson.
+But for me, I think the main focus is just on like, how are we going to start to overturn
+some of this?
+How are we going to encourage?
+And I think it starts with some of our youngest learners because I think some of the disparities
+around gender representation in tech start very, very young because we encourage our
+girls to play with certain toys and dress in certain ways.
+And we encourage boys to do different things.
+And we definitely don't leave a lot of room for other gender expression in there anywhere
+either.
+So there's just like a lot of work to be done to strip all of that out of the space.
+And I also think that the other main point that I guess I would take away is that if
+you're lacking representation of anyone in your workplace, you're missing an opportunity
+to do better than you're doing because you don't have that unique voice on your
+staff or whatever it is.
+If you don't have that, then you're just doing yourself a disservice from a business
+perspective even.
+So it just makes business sense to be better about this stuff.
+But anyway, yeah, that was the kind of, that was that.
+I had gotten particularly frustrated about it because we'd been listening to a podcast
+about For All Mankind, which is a TV show about the space race, kind of re-imagined
+history of the space race between USSR and the United States and it's a really fun show.
+But they had a companion podcast and it was just kind of talking about the history of
+involvement of women in NASA and astronaut training programs and how much more difficult
+it was for them just because they were women.
+So that was kind of the inspiration for all of that episode.
+But yeah, it was a fun conversation, but we still have a ways to go.
+Yeah, I know for sure.
+And I mean, yeah, I totally call bullshit on the whole interest thing, just to be blunt,
+because if you want proof that I'm right in this situation, go listen to the episode I
+did with Pamela Rodriguez and you'll hear, I'm not just talking towards you like people
+who hear this.
+If you think it's an interest problem, go listen to that episode.
+The way she grew up in Mexico, you're not encouraged as a girl to go into technology.
+That's not your field, it's something boys do.
+That is the message that is clearly being said to them.
+She was lucky in that her parents encouraged her to go and do that because I believe her
+father was also in tech.
+And so that helped.
+But for so many other people, so many other women in Mexico, that is not even an avenue
+they think to explore, not because they're not interested, just because you're told that
+it's not something you would be interested in.
+And one thing that I, a while ago, realized is representation is a big part of it too.
+If you do not see somebody like yourself in a role, it's hard for you to have something
+to strive towards because you can't, I can never find the appropriate word for this,
+but there's no connection there.
+It's like you just see a bunch of people that's not you doing the work.
+And so you think that, oh, maybe it's not meant for me then.
+And so it's those bubbles we need to burst and say, no, that's untrue.
+And we need to lift up people who are trying to change that, give them a voice, give them
+a platform to talk and say, hey, I'm like you and I'm doing this, you can do it too.
+Because yeah, it's not an interesting, it has nothing to do with that.
+It's literally just people don't see themselves in these roles and therefore they don't pursue
+them.
+No.
+There's a musical, it actually is just closing I think now, called Come From Away, that ran
+on Broadway for a couple of years.
+And it's about what happened in Gander, Newfoundland on 9-11 when they had to divert all of this
+plane traffic to this tiny little island in the middle of nowhere.
+So that's the story of the show, but there's a moment in it where there's a character,
+she's a pilot and she's singing about how, well, the whole song is just basically about
+how she grew up with everyone around her telling her that being a pilot is not for girls.
+And she evolves into this woman with this flourishing career as a pilot, but did it
+despite the fact that she could, despite the fact that everyone around her was telling
+her this isn't for you, her peers or colleagues, even her co-workers, her female co-workers
+didn't like her, based on a real person, they didn't like her because she was perceived
+to be of a higher status than they were as attendants on the flight.
+So anyway, all this kind of stuff that happens, but that song makes me cry every single time.
+My dad is a pilot too.
+You can tell that my dad being in tech and my dad being a pilot has a lot to do with
+all of this stuff, but he's kind of the reason I got into all of this stuff.
+But yeah, there's a line in there about basically, yeah, just about like being a pilot and stuff.
+And it makes me cry every single time because I just like to see myself represented.
+I like to see some strong female characters stand up and say, look at what I did, despite
+the fact everyone around me told me I couldn't or never invited me in or, you know, I was
+never given the opportunity, I had to take it for myself.
+So I really like that, just because it is so important to be able to see that's, yes,
+that's me.
+Yeah.
+Identifying with peers, I mean, the same thing happens in media, like being able to find
+yourself in media is important for a lot of people.
+So yeah, it definitely does matter, having examples of other, you know, of peers with
+whom you feel like you can share something and identify and grow is very important.
+Yeah.
+Apparently that's one of the reasons why Fresh Prince of Ballet was such a popular show,
+because it was one of the first ones that was an all-black cast.
+And the people who played it weren't like poor, like the father was a really successful
+person in law, they had a big house, they were living in like, you know, they had riches
+and wealth and all that kind of stuff.
+But then also you had this representation from the other side, like the person who came
+from, you know, down and out and is now living up here and like there's this difference.
+But the fact that you had those two different economic aspects, but then you had an all-black
+cast as well, that made a big connection with a lot of people, and they could see themselves
+and they could also see themselves not being the one that lives in the projects or whatever
+you want to call it, but the one that lives in the big house in Ballet, you know.
+So that was interesting when I learned about that, I never thought about it that way.
+And when somebody like vocalized it, it was like, oh, goodness gracious, yeah, that makes
+total sense.
+And for me, it's normal to see white folks living in big houses and being really successful
+and running billion dollar companies.
+But if you don't see that as somebody that's not me, then it's hard.
+Like you feel like you have to be the trailblazer and it's hard to be the first person, right?
+It's always hard to be the first one to say, I'm going to change it, I'm going to do this
+thing different.
+Yeah, it can be too weird to as a woman in tech, because I don't go around thinking of
+my own experience as gendered in tech, I just think of my experience.
+So I don't, when I'm living in it, I don't look around and think like, oh, well, this
+is happening because I'm a woman or because I'm not a man or whatever it might be.
+I don't have those kinds of thoughts.
+But the problem is, is that maybe nobody does.
+We always think of these things in terms of the systemic problems and systemic under representations
+and we tend to big picture these things to the point of almost oblivion because we don't
+know what we can do about them anymore when we think of them as big widespread issues
+to confront.
+It's almost like a way of abstracting it into nothingness.
+So I think that I have had some struggles in my own career just being in such spaces
+that are so dominated by a single kind of voice and it's usually a white voice and it's
+usually a male voice and that's just the way it is.
+It doesn't bother me that that's the default necessarily, but it does bother me when we
+forget that there's a default that we've selected.
+So it can cause monoculture if nothing else for sure, which is something I'd like to avoid.
+Yeah.
+Like you said, it's literally like it's bad for business and I mean, I've experienced
+this not in the business sense, but in the community sense.
+Some of the stuff that we've done, we have people from all over and people whose native
+language isn't English has called out some of the stuff that I wrote as like, it's good,
+but like if somebody with my background reads this, I'm going to find this specific area
+really complicated.
+Like I couldn't understand what you were trying to say here and then they would like, and
+it's amazing how deep that the guy would dive into this and like trying to understand what
+I'm trying to say and I'm like, holy cow.
+And then he comes to me and he says like, could we reword it this way and I'm like,
+of course we can.
+And that makes so much sense that that is just going to make, and now it's more approachable
+for a lot of people.
+That's like accessibility.
+Like you do a thing that makes it accessible to this group of people and hey, guess what
+happens?
+A whole bunch of other people benefit from it as well.
+So I think that's the thing, changing the mindset to what you benefit, the benefit you
+derive when you do this thing might be what it takes to change minds.
+Because I'm not sure, there's an instant hostility toward almost anything you try to say about
+this in tech and the reason, I mean, it kind of makes sense because we just don't have,
+we don't have the tools, we don't have the culture, we don't even have the practices
+and habits of conversation to be able to have the difficult talks about this stuff that
+we need.
+So having a really good conversation about a difficult topic, like why are there so many
+men in this office and not as many women or something, like if that's the topic, having
+a really difficult conversation about that takes skill and it's not something that can
+just be expected to go well.
+And I think that that's like, so I think that it can be really difficult because there aren't
+a lot of tools that business leaders are given to know how to navigate some of those kinds
+of conversations.
+We just kind of assume we have the best idea in the room and that everyone's going to listen
+to us and that our CEO word is gold or whatever, but we need to realize that these difficult
+kinds of conversations need to happen in a particular moderated civil way and they actually
+do need to happen.
+We can't just say, yeah, we're not going to talk about politics in the workplace, that
+kind of thing.
+Like that was a real big trend a couple of years ago, it was like Basecamp and Coinbase,
+I think both within like a week of each other, the CEOs were like, no politics in the workplace.
+And I'm just like, we are political creatures, like we have to exist in the world, which
+means that politics is going to affect our lives, so we have to find a way to acknowledge
+difficulties in our workplace and still be productive on the other side of them.
+So I was just kind of disturbed by that chilling effect, but at the same time, I get why people
+are hesitant about having these conversations because they can go so badly.
+They can go very wrong, that is for sure, they definitely can.
+This has been a great conversation, I tend to say that with all of these, it's so great
+to just be able to talk to people about all these things and like hear different perspectives
+and it's always eye-opening, I really enjoy it.
+I'm glad I started it and I can't remember who it was, but there was some podcast that
+said everybody should have a podcast and I'm starting to agree, it's such a great medium
+and to just get to speak with such a wide variety of people and it broadens your perspective,
+it's almost like traveling in a sense.
+So yeah, I'm going to go dive into your podcast now that you've been telling me about these
+episodes, it sounds fascinating, I'm going to have to give a listen.
+Yeah, and I'd love your feedback, like I'm learning as I'm doing this, like I have no
+background in podcasting, I just decided one day to start doing it.
+I did not either, so you just kind of seems to be the way of it.
+Yeah, you just wing it.
+Start going.
+Yeah, for sure.
+So to close this out, I've kind of two things, maybe one can be just general advice to people
+getting starting to learn to code and new to development, any words of wisdom?
+Yeah, I think the thing that has helped me most is establishing rituals.
+I call them rituals, but it's really just good habits.
+I mean, if I call them rituals, then I think I'm cool.
+So you know, but good habits throughout the day.
+So I used to be a real night owl and I still do stay up late, but I used to think that
+I liked staying up late and sleeping in.
+But what I actually like is having time in the morning to wake up before I jump in to
+tasks.
+So I, again, this is back to the kind of scheduling thing, but I go to bed at a reasonable hour
+most nights now and I get up almost every day at eight and even though I work from home
+and could get up at noon if I wanted to, but I get up at a set schedule every day.
+And I take up my dog on a walk at a set schedule every day and establishing those things for
+me has been, it's freed me up to think about my work and not to have to think about managing
+my life and schedule, which is kind of infecting some of my workflow.
+So I think that, again, especially if you're a solopreneur or a freelancer or you're just
+starting out and you're self-directed, if you have to be in charge of your own time
+and also if you struggle with distractions or ADHD or your brain works like mine, coming
+into habits that you can call your own that you actually relish, like I make, I don't
+have been drinking as much coffee, but I used to make my coffee every single morning at
+the same exact minute.
+And I light a little candle when I come into my office every single time so that it smells
+nice and I play music on my sound system every single time.
+I get into the workspace and I'm lucky to have a home office too.
+It's been important to have a separated work space that isn't part of my life space.
+But coming up with these things that are just kind of like things that you do every day
+has been, I think, key to my feeling like I have a more coherent grasp on my own professional
+life these last couple of months, especially as I've been working through some of these
+things.
+So that would maybe be the bit of advice that I would give.
+Just come up with your rituals.
+You can define them.
+But coming up with these things will help you kind of maintain a good sleep schedule,
+healthy work-life balance, and just the motivation to keep going.
+Yeah.
+That's great advice.
+Definitely.
+And you kind of alluded to some things, I guess, now like music and coffee and things
+like that.
+What do you do in your downtime?
+Walking the dog?
+Yeah.
+Walking the dog, yes.
+I have a golden retriever.
+I walk the golden retriever, my partner's dog.
+I make music.
+I'm actually, my office has got a bunch of guitars and keyboards and stuff in here.
+But that's mostly just for me.
+I don't really publish, I mean, it's on the internet, but I don't, you know, there's some
+things that I want to be just for me.
+So I do make music.
+I like, I mean, I do stuff like 3D printing.
+It's any like tinkering or art or just any kind of creative pursuit.
+I'll do it.
+I've got bins and bins full of crafty stuff and electronics and Arduino kits and just
+whatever tinkering is to be done, I'm going to be doing it because I just enjoy it.
+So yeah, it's a little bit of everything, a little bit of travel, but a lot of music
+has always been important in my life and I do like making it.
+Yeah.
+That's great.
+Well, thanks so much, Chelsea.
+This has been a wonderful conversation.
+Yeah, thank you.
+I'm so glad we made this happen finally.
+I'm looking forward to your next episode of your podcast, seeing that we kind of like
+just ran into the same topic during this one.
+We did.
+We did.
+So I'm looking forward to hearing what you all talk about and yeah, glad you joined the
+Discord server.
+So, you know, it's going to be fun to have you around.
+So enjoy the rest of your day.
+I'm excited.
+Thanks so much.
+Well, thank you.
+It's great talking.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at NetworkMySenior and join the community
+on Discord.
+All the links are available in the show notes.

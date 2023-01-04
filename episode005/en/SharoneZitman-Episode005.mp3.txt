@@ -1,0 +1,744 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Today we're joined by Sharon Rubai-Trade, who is a developer relations professional
+and in a volunteering capacity, an open-source community builder having built both the DevOps
+Israel and the cloud-native and OSS Israel communities from the ground up.
+Today she spends her time building her company, RTFM Please, building their first adoption
+strategies to bring excellent technology and people together.
+Thanks for joining us, Sharon.
+Welcome.
+Thank you.
+It's my pleasure to be here.
+We had quite a journey to make this one happen, a lot of false starts, but in the end, I'm
+glad we're here.
+Yes, likewise.
+It's going to be fun.
+So I've given a pretty broad introduction to who you are and what you do, but do you
+care to expand on who Sharon Zitzman is and more about these topics that I've already
+mentioned?
+Yes.
+I love when people talk about me and the third person always makes me feel like Sharon Zitzman
+is.
+So these days, like I said, I run RTFM Please, but I'm doing developer relations as a service,
+which is really fun and puts me in front of some of the most exciting developer tools
+and trends that are happening in the industry.
+And I made my way to this kind of this place.
+I went rogue after doing a few roles, consecutive roles in community and developer relations.
+So before this, I was head of user communities at Snyk and that's where we met, by the way.
+And before that, I was head of developer relations at AppsFlyer and I got to those roles because
+I had built the open source developer community around a tool called Cloudify, which was a
+cloud orchestration tool.
+And when I finished my role there as VP Marketing after seven plus years, I realized that the
+thing I enjoyed most was building these developer communities and fostering kind of the collaboration
+and peer sharing and all the things that are so important when it comes to really adapting
+developer tools and stacks and everything else to make people succeed.
+So it's been fun.
+I'm glad that when you mentioned all the great developer tools and stuff that you get to
+get in front of because of your role on RTFM, that is kind of perfect for what we're talking
+about because I think that is one of the areas that has improved so much since I used to
+when I started.
+And I think, but with that said, I do think it's something that developers aren't exactly
+sure how to use when they just get started.
+They're not entirely aware of all the tooling that's out there that can help them get up
+to speed faster and debug problems faster when they do run into issues.
+Are there any tools that you've come across in the recent, I don't know, year or so that
+you found is particularly good to bring to the attention of people or tools that you
+generally find are really good to help you to develop a journey?
+Yeah.
+So first and foremost, I'm a big fan of the tools that make things easy and provide a
+lot of context and have a very low barrier of entry to adoption.
+And that's why the majority of the companies that I work with are PLG companies, product
+led growth companies, where they're focused on the developer experience in the meantime
+to the low world and making sure that that's a really frictionless process and a well-documented
+process and making it very, very easy for even those that are not very familiar with
+the domain or the discipline to adopt the tooling.
+So a lot of the things that I'm seeing is everything kind of moving as code.
+You all know about like kind of shift left and the shift left manifesto and started with
+quality and moved on to infrastructure as code.
+And now I'm seeing things like product as code and security as code.
+And so what's very interesting about all of this is that if before these were kind of
+walled gardens that were outside of the development process and developers didn't really have
+access to how these processes work and how they natively fit into their workflows, today
+a lot of those barriers are being broken down because it's clear that all of these processes
+need to start almost as early as the first line of code.
+So one of the companies that I work with, JIT for example, is not only building a secure
+security as code platform where they help you build security plans as code that focus
+on the code and the infrastructure and the runtime and the containers and all the things
+that really comprise a real development kind of environment and workflow today, they don't
+assume context, right?
+It's like assume zero knowledge.
+So if we take a look at this mycelium network that is really, really awesome and helping
+kind of early and junior engineers kind of find the tooling and find their ground and
+find their feet, one of the things that is, I guess, most daunting in the security world,
+for example, is that barrier entry, that lack of knowledge, that domain expertise.
+And one of the things that they're trying to bridge the gap is by enabling commonly
+accepted best practices and plans and checklists and even like industry level ones like SOC
+2 and compliance standards through like AppSec programs that are like kind of in consensus
+as commonly accepted good practices when securing software or OWASP top 10, which is widely
+accepted and baking this into the product from the ground floor for developers who want
+to secure their product but don't necessarily have security expertise to be able to do that
+from the first line of code based on someone who has done the research, who has curated
+the knowledge and made it very, very easy for a young developer to consume.
+So that's like just in the context of security, but I'm seeing this from the product perspective
+as well.
+LiveCycle are trying to break down silos between development product, UX, UI, and bring everyone
+into the same platform, like in a single contained collaborative environment.
+And I'm seeing also developer experience coming to the center.
+And when we talk about developer experience, it's not like a buzzword, it's in the context
+of really enabling developers to take ownership and learn quickly and have very little friction
+in their processes.
+And so some of the things that have arisen over the years, like Git, Git is ubiquitous.
+It's ubiquitous to like all of our processes.
+And Git is hard.
+It's still hard.
+For people that have been using Git for years, I open, oh shit, Git all the time, that's
+what the website is called, to remember what command I'm running and what I'm, you know.
+And so I'm also working with a company that's hoping to do a hard reset on Git because Git
+does not have a great developer experience.
+They want, you know, auto-complete.
+They want, you know, your commands to be saved.
+They want so many things that a lot of developers need to make it easy, to make it easy for
+us to work, and I constantly have like this cognitive load of what did I need to remember?
+What did I need to know?
+And why don't I remember this command?
+And why is this so hard for me when others think it's easy?
+So that's what I'm really liking in the trends around developer tools.
+Yeah, no, for sure.
+I totally agree because oftentimes I find myself feeling kind of like I am blanking
+on the word now, but basically what I'm trying to get at is you tell people when they get
+into code that it's not about the code.
+The code more often than not is the easy part.
+It's the problem solving thing.
+So if you're getting into the coding, into the software industry, don't think about what
+necessarily what kind of, it's important to know what tools you like and to, you know,
+learn them well.
+Of course, it's like with anything, carpentry, anything.
+You want to know the tools to use, the best tool for the project at hand and be good with
+your tools.
+But the real clincher for a software industry is the ability to problem solve, the ability
+to take a complex problem, break it down into smaller bits, and then define actionable items
+that you can address.
+Then you start designing, then you start writing the code.
+And the harder part is more often than not actually solving the problem, being able to
+cognizantly understand what the problem is and having an idea of how you can solve this.
+So we talk a lot about that, but then people are like, sure, but crime learning to code
+is hard.
+What are you talking about?
+That's the easy part.
+And it's because I think the stuff that you've touched on now is the missing link between
+those two things, is that the tools also around the coding, like Git, for example, oftentimes
+aren't as easy as we'd like to think they are.
+Maybe it's because we've been using it for a long time and we forget about how we struggle.
+Or we've gotten into a routine with a set of tools that we are so comfortable with that
+it's almost like breathing.
+So for us, focusing on the problem solving part is really the hard part and the interesting
+part and writing the code is the easier.
+But you often have to shift your modality, shift your thinking back to, but what if I
+was just starting and I was presented with a problem?
+My mind immediately is going to go to, oh, goodness gracious, how do I get this thing
+online?
+Like I did a live stream the other day where I was talking about atomic design principles,
+because I found that a lot of new engineers building websites have this massive CSS file
+because they don't understand the concept of breaking it down into components.
+And they even don't know that you can import one CSS file into another one.
+And back in the day, this is something we used to say, right?
+You have one CSS file that you serve because of performance, but with HTTP2, that isn't
+that big of a deal anymore, right?
+You can potentially have 10 CSS files and it should still be okay.
+But I mean, and you have bold tools these days that allow you to work in a way that
+is productive by breaking your stuff up into smaller components and then have a bold step
+to combine that into one or two or three CSS files that then serve to the end user.
+People don't know this.
+So they end up with this big CSS file that gets hard to maintain.
+And again, this is not knowing your tools well enough.
+So that's where the missing link is.
+But what I've found is when I talk to these people about it, it's like a revelation to
+them.
+It's like, oh, that's how you manage to keep your head about you when you're just creating
+a simple website.
+So I think the tooling is there and I think the developer relations aspect is also what
+something that needs to be improved upon.
+I think oftentimes we talk to people who already know instead of talking to the people who
+are still really learning the thing.
+So it's great to know that.
+I think GitHub has done a lot here with Git.
+It's abstracted away a lot of the complexities of Git to the point where it's like a UI that
+you just, a website that you interact with.
+But you can only go so far before you have to eventually open the terminal.
+And that's where I think a lot of work can be done to improve it.
+Like for example, the GitHub CLI, that does help a lot, but it has a learning curve itself.
+And I think that, I don't know if you want to expand on that first before I keep talking.
+I would like to actually touch on a couple of things that you said there.
+So I agree.
+So one of the things that's, as you're the person who runs DevOps, you're one of the
+people on the team and I've been doing it for nine years.
+One of the concepts that I always loved from DevOps is kind of an early piece, an integral
+piece of this conference was what they call open spaces.
+And what open spaces fostered was this ability for folks to come together around a topic
+that they're interested in.
+And there's this concept in open spaces called the law of mobility.
+So if it's interesting to you, you'll join this session.
+And if it's not, you'll move on to other sessions and you'll join.
+And you can be either a view, which is the person who kind of buzzes and kind of helps
+like lead the session, or you can be a butterfly just listening on the wall and kind of learning
+and taking in the information.
+But why that's important, that unconference sort of format is that people rally around
+a real problem that they're trying to solve or trying to figure out.
+I remember in the very early days of DevOps days, people were still talking about chat
+ops.
+How do you actually even use chat ops?
+How do you integrate it?
+How do I use it in my Slack?
+How do I use it in other tools?
+How is it actually actionable?
+What can I get out of it?
+And people actually felt comfortable in these small circles that rallied around a certain
+topic to ask questions about like really simple things that they would be afraid to ask.
+Like if somebody's doing your talk on a stage and it sounds so advanced and you're a new
+but you're sitting in pride, you want to ask like, hey, how do I, you know, how do I build
+my CSS files?
+You know, you're not going to ask that.
+But if you're sitting in a little like kind of group of people that are talking about
+like where CSS has evolved to from then to now, and then, you know, you're in a smaller
+group, a safer group, you might actually feel comfortable to ask these questions.
+And I feel like more conferences many times talk at you and don't necessarily kind of
+include you in the conversation.
+And then the people that are sitting in the room that have a lot of questions, they don't
+know necessarily how to ask them.
+And that's why I like to consider community not one day or not one conference a year,
+not one event a year where you can have a place that kind of fosters a conversation
+and people can feel comfortable to ask questions and learn from their peers.
+And I agree, I think a lot of the time in conferences and tech conferences, they'll
+focus on the tech, on the technical side of things.
+But sometimes the culture side of things is even that important.
+Like, what are the best practices for opening your first XYZ project?
+What does this look like?
+What's the baseline?
+What's the framework look like?
+And kind of bringing the more simple fundamentals and primitives in front of folks, because
+a lot of things are so abstracted off the stack these days, that it's hard for juniors
+to learn what's happening under the hood.
+It really is.
+Yes.
+I hear that a lot.
+I'm good until something breaks, then I'm stuck, because I don't know.
+I don't know how to find why it's breaking.
+I don't know how to fix why it's breaking.
+I don't even know what is breaking sometimes.
+I just know that...
+And error messages are so esoteric half the time.
+They're like, this gives me zero context.
+I have no idea what this means.
+Everything's on fire.
+I ran into that just yesterday.
+I was helping a colleague with Git, strangely enough.
+But it wasn't Git that was the problem.
+It was the error message being produced from a build process.
+That was the problem.
+It was basically saying something along the lines of, I'm able to read property toLowerCase
+from undefined.
+I was like, wow, that's massively specific.
+Okay, cool.
+So what can we deduce from the statement?
+You're trying to call a function called toLowerCase, cool, that's a web API thing, a JavaScript
+function that takes a string and then lower cases it.
+So obviously what's on the left is the thing that's undefined.
+So instead of saying string.toLowerCase, you're getting undefined.toLowerCase.
+You can't do that because undefined doesn't have a toLowerCase function.
+Okay, cool.
+What is the thing that's undefined?
+And that took me down a road of saying, okay, cool, at least here is a little break from
+that it happened in this file on this line.
+Thankfully, I had that to go with.
+So then I had to go and clone the whole thing locally to my local computer, put in some
+console log statements around the area where this is happening and try and spit out as
+much information to me as I possibly can to find out that in the end of the day, it was
+a file that was missing front matter.
+And because it was missing the front matter, the string key it was expecting was undefined
+and it was trying to call toLowerCase on that.
+So and I was like, what would have been super cool is if it said, I'm able to call toLowerCase
+on undefined because of missing front matter key in this file.
+That would have been like, oh, okay, and you do have that context at that point in the
+code, right?
+When I was putting in the console log statements, I could get to the problem because the information
+was right there.
+I could log it out to myself and say, give me the path you're reading, give me the front
+matter keys you're trying to read so that I can see which thing is undefined.
+So all the information is there, but it wasn't exposed to the user of the API.
+And I think that is where a lot of people, new people also, you're like, everything is
+an API.
+You need to use APIs from day one because that's how everything is done.
+And they try to use an API and then the API gives them this like non-deterministic error
+message and they're like, okay, something's broken.
+I don't even know what's broken and I don't know where, and they throw up their hands
+and they think, then you do the thing that humans do is you criticize yourself instead
+of saying maybe the documentation is badly written, maybe the API isn't well, they didn't
+think about the user, they thought just, I know what's going wrong, so everybody should
+know.
+And instead of doing that, you're criticizing yourself and saying, I think I'm just too
+stupid for tech.
+And it's like, no, you're not, you're not.
+Don't go there.
+Yeah, that's it.
+I see that.
+I mean, tech is such a high barrier to entry because developer experience is only something
+that's happening now, right?
+Previously you would have all of these, I don't know, like exceptionally talented people building
+tech, but it wasn't at the center of developer experience, the person who's actually using
+the product eventually and how they actually get it to, how to ramp up, how to integrate
+it into environments.
+I remember years ago when I was still building the Cloudify tool, like when I was still building
+that developer experience there and doing developer relations and developer experience
+and product lead growth and all of these things that didn't have a name or a methodology seven
+years ago, but it was clear to me that when I want people to use my product, I want them
+to have a great experience and I want them to understand.
+I remember just fostering the mindset of, no, the product is not ready if the documentation
+is not ready.
+Like I would say this to like the developers and they'd be like, no, I shipped the feature.
+I'm done.
+I'm like, you're not done until you document it.
+And then you get documentation.
+It's half the time.
+It's kind of in the middle of a thought, right?
+Because the developer created this feature so they know everything, all of the prerequisites
+that come before actually getting to this point.
+And that's all of the stuff, those sorts of gaps were the things that I helped this team
+overcome and understand.
+And I said, then, okay, you built this feature and you have this whole environment set up
+and you have all of this stack that you know what it is in order to get to this point.
+Nobody else has that information.
+Even if that information exists earlier in the documentation, reference it prerequisites
+in order to run this new feature are having this set up, having this set up, read it here,
+you know, whatever it is, reminding you to set up your environment like this or you know
+what I mean?
+Whatever it is, having these books in place, but you can't just start in the middle of
+the story and expect somebody to know how to work with your product tool feature, whatever
+it is.
+And that's something that's only now kind of coming to the center stage with the maturity
+of developer relations and developer advocacy and developer experience being such a critical
+piece in dev tooling.
+And that's exciting.
+It's an exciting place to be.
+But I think that there are still tools that, you know, are existing in our stack that aren't
+that are very mature and that, you know, weren't born into like a cloud-muted and kind of world
+that we're in right now that still have gaps in that area.
+And then that's what happens.
+Like a junior developer will feel like, oh, I don't know what I'm doing, I shouldn't even
+be here.
+And that's not the truth.
+The truth is that historically this just wasn't a focus and now it's getting more attention
+and that's a great thing and it's a great trend.
+We need to do the work to bring our existing tooling up to speed.
+Yeah.
+Yeah.
+And I mean, that's one of the reasons I started the podcast, because I think we don't speak
+to the people who are experiencing these problems.
+We're not asking them, where are you getting stuck?
+Where are you getting burned?
+Why do you feel that you don't belong?
+And not all of that is tech.
+Like I'm technical, some of that is community, some of that is fostering a welcoming community
+for people that they feel comfortable in to ask those questions.
+Like you said, you said at a conference, it feels like people are talking at you and you're
+too scared to ask a question because you think the whole room is going to say, you don't
+know how to make CSS into separate files?
+Wow.
+Sad.
+And it's like, no, no, no, that's not the environment we want to create here.
+We want to create an environment because we always say no stupid questions, right?
+But do we really mean it?
+Because it oftentimes feels like we say that, but we don't really mean it.
+Because when people do ask, that to us might be an obvious question, the answer we give
+is oftentimes like not helpful.
+It's kind of like the intent behind it feels like, oh boy, I asked for something really
+dumb now.
+I should just go away and not, and then, and that's what happens.
+People do go away.
+They do stop speaking up inside a discord server on Twitter and in all these social
+spaces on GitHub.
+People are too scared to contribute on GitHub because anybody can see what I'm saying and
+they're going to judge everything I say and what if my stuff is not good enough?
+We should change the thinking around this.
+We should change how we communicate this to people because opening a pull request, having
+it closed is not the end of the world.
+It is sometimes the thing you proposed was just not the right thing at the right time.
+It's probably not your fault.
+It's probably because you did not understand the problem because it wasn't documented well
+enough.
+You thought you found a problem that was actually intended in the way it is, but it wasn't communicated
+well to you.
+I ran into this two weeks ago where I opened up a request and somebody was like, no, that's
+as intended.
+I was like, well, that's not super obvious because for me, I was new to your API or to
+your library and using it in this way, you didn't tell me how to import the thing into
+my node file.
+It was nowhere.
+I had to figure it out on my own.
+That's why I opened the pull request because I thought other people would probably run
+into the same situation.
+Oh no, that's as intended.
+Can you explain why that's as intended?
+Yeah.
+I love those types of answers.
+It's like, okay, that's by design.
+Okay, well, can we unpack that?
+Yeah.
+Would you consider changing the design maybe a little bit as it's non-obvious?
+I completely agree.
+I actually did want to touch on something that you had mentioned to me a second.
+I have to think about it.
+There was something good that you had talked about in all of that.
+There was a lot of good and there was a lot of gold.
+I lost it, but we'll come back to it, but yeah, I completely agree.
+So for somebody new, let's take a specific area.
+Let's take web development.
+What do you think are the important things for people to know when they get started?
+If somebody came to you and said, Chiron, I'm doing X and I want to get into web development.
+Where would you send them?
+What would you tell them?
+I know it's a broad topic, but...
+I know.
+Yeah.
+I'll actually be honest, I'm not an engineer.
+I work with engineers and I understand developer workflows and I understand technical stacks
+and a lot of things.
+And I actually myself have tried to learn to code a few times, but then it really is
+something that you need to work at and it's not something that comes easy, I won't lie.
+And so I feel like it's taking you time and it's taking a lot of energy.
+That is the way it is.
+It's not an easy process.
+There is a high barrier to entry and learning curve to learning to code.
+And so you're fine, you're on the right track.
+There are a lot of really great communities that help and foster and support engineers
+and like, for example, Serenity Barks, Code Newbies community, where it's like a safe
+place for junior engineers to ask questions.
+There's a lot of good content and resources out there, but there are really a lot of good
+communities blanking on the community that I really love, that I started to learn to
+code from.
+So I know there's Learn with Leon, which is very popular, the 100 Devs one, and then there's
+Free Code Camp.
+Free Code Camp is amazing and they have a lot of resources and they have a really great
+blog and they have a lot of stuff that they have a lot of courses like for on Udemy or
+even on YouTube that are free that walk you through a real process.
+A lot of the times the code is oftentimes decoupled from an end goal.
+And then you don't essentially understand how it applies.
+How does it apply in the real world?
+What is it doing?
+So a lot of the things that I've discovered is building a really small and mean app helps
+you have like kind of an end goal and a place that you want to get to like I've ever like
+card shuffling apps or things that like, eventually you learn how what this code when I'm writing
+here looks like in a final product and why it's important, why all these steps are important
+to get to an end place is really important to kind of completing that journey.
+So it's not just theoretical, it's actually applied and you can experience that thing
+that you learned in, you know, an end kind of well crafted project.
+So that's something that I've like is highly recommended.
+So if you're starting to learn to code and you're going through like these lessons, try
+and find something lean and small.
+And I really in the context of DevOps, again, that's the role that I'm like kind of really
+active in.
+But there's the concept of price and like the small wins in aggregate eventually translates
+to big gains.
+That comes from the Japanese supply chain kind of mindset.
+And I really believe in that as well.
+So every time you have like a small win celebrated and kind of see what you've learned, and then
+eventually you'll find that all of those like small wins in aggregate, you'll find that
+you made a lot of progress and that you know a lot more than you think that you do.
+And you've made, you know, you've achieved quite a bit.
+So that I think that's also important.
+And so there are a lot of really great communities like CodeMovies, F3 CodeCamp, Learn with Leon,
+100 Days, and a lot of things like that.
+But there are also great tools and like I said, I'm exposed to a lot of really great
+developer tools.
+And one of the ones that I think is actually extremely interesting and I think that they
+have a lot of potential in helping developers skill up is a tool called Wilco that was just
+recently unveiled and came out and sell.
+And what they're trying to do is create real world modules and environments that help engineers
+have true access to production systems or real programs and collaborative workflows
+and things that they can't necessarily learn from an Udemy course or from some kind of
+self-learning module of some sort.
+This provides them kind of more of a real world kind of experience, experiential way
+of coding.
+They have mock teams, mock data, production systems that they integrate with and other
+things that provide you more of a skilling up opportunity for what it would really look
+like to work in a real world engineering organization so that you can get to that place where you
+feel confident enough to go and interview and talk about the things that you know how
+to do in a real world environment.
+I think that those are the things that are going to be coming, you're going to be seeing
+more trends around how we take theoretical knowledge and get it to be applied in real
+systems or help people bridge that gap to making it into the real world because that
+is still hard.
+There is still a lot of friction there and there's still a lot of self-learning and self-doubt
+and don't feel that way.
+It's not easy.
+It's not a paved road yet.
+Yeah, exactly.
+I think that's the other thing that we didn't touch on really and that is the fact that
+one of the other things that's part of coding is to work on a team and what does that mean?
+What does that mean to work on a team?
+People that's on GitHub these days kind of talk about GitHub as if everybody knows what
+GitHub is and how to do it and how to use it and that's not true.
+Not everybody does.
+Even when you're just talking about the website itself, you're not even talking about terminal
+and the depths of Git, you're just talking about GitHub itself.
+What is a pull request?
+What is an issue?
+Why do I do an issue before a pull request?
+What's up with that?
+How does pull request review work and what does it mean if somebody is giving me feedback?
+How do I incorporate that feedback?
+That's often where the terminal has to come in because it's kind of tricky if you've opened
+the pull request and now somebody gives you feedback, you have to amend it.
+How do I do that?
+I think there's a lot of education around that topic that needs to happen and I think
+some of that, the only real way that you can get experience is by working on a project.
+I feel like that's a loop that a lot of newbies get themselves into.
+It's like, oh, I need experience.
+How do I get experience?
+I need experience, but how do I get the experience?
+That's why I think a lot of communities do this and it's also something I constantly
+do with the Mycelium Network and that is offering any kind of side project where people can
+work together like you would work in a working environment.
+Creating a project, defining the problem, defining the solution and then working from
+there.
+Okay, now what code do we need to write?
+Okay, let's assign tasks to people to do and you'll open a pull request for your task and
+then we'll have somebody that comes in and do code review for you and then it gets merged
+and then it ends up somewhere.
+What is that somewhere and how does it end up in that somewhere because that's the thing
+I wanted to mention earlier that I find people ask so many times is, okay, I'm on my local
+machine and I have this web page that you taught me how to build, how do I get it on
+the internet?
+Do you think we're in 2022, it should really be that easy and it kind of is if you know
+the right tools, but if you don't know the right tools, that is a mystery.
+But it's like, wow, I enter a URL and there's this website, how does that happen?
+That is something that a lot of people don't know.
+Yeah, I agree.
+So that's what I was saying, you'll go to these tech conferences, you'll see tech talks,
+but sometimes just culture.
+What is a real world end-to-end CICV deployment to production process look like?
+What does that look like?
+What are the gates that are in the process?
+What are the guardrails?
+Where is the friction?
+What is the interaction?
+What does branch protection look like?
+Why do I need this?
+How do I work on a branch?
+How do I merge it into, these are the processes that you only gain from real work.
+It's not something that, it's the meta information, it's the metaverse of programming and coding
+and some of this knowledge is just kind of inherent to senior developers that they don't
+even remember that there are these really small gaps of like, yeah, okay, now how do
+I actually deploy my local webpage to and connect it to a domain and then have it live
+and breathe in the real world?
+How do I even do this?
+It's like these small little last mile steps that we forget that people need to be onboarded
+to as well, even just on the process side or on the simple kind of closing the loop.
+Okay, the code is done, everything is set up, the network, we have the cloud, everything
+is there.
+All right, now how do I bring all these pieces together?
+What's the duct tape?
+What's the magic?
+Right?
+People don't always know these things and that also comes back to the name of my company
+is RTFM, right?
+But that's exactly the problem, RTFMing, everything is just too hard.
+There's too much information, right?
+There's too many things to learn, there are too many aspects, you talk about people, there's
+so many titles these days, these inflators are like full stack engineer and just getting
+expertise in the front end or back end is hard.
+Now you want somebody to be expert in everything and everything comes between the duct tape
+between full stack and there's middle stack now these days, how do you connect front end
+and back end?
+How does my database actually talk to my webpage?
+These are things that are not as intuitive as people imagine and think, right?
+And cultivating this expertise takes time, they say that expertise takes about 20 years
+to cultivate, right?
+It's 20 years of hands-on working knowledge, they say to become an expert at something
+you need about 20 years of experience and you are always learning, you're constantly
+learning new things.
+Even senior engineers like a little bit, oh wow, I had no idea that this new endpoint
+could be exposed or this product, this could be used or this feature even exists, so don't
+feel like, just because you're new that you're learning new things, you'd be surprised that
+there are senior engineers that learn new things every single day.
+And the tools are evolving and everything is evolving and everything is evolving under
+our feet.
+We used to work on servers, now we're in serverless, okay, what does that mean?
+Everything needs to now be defined.
+It's crazy, it's crazy how fast everything is moving and the expectation that you need
+to know everything.
+You can't know everything, you just can't.
+No, you cannot, it's not possible.
+I don't think our brains are made for that and I don't think it's an healthy way to do
+it anyway because you'll fill your mind, your brain up with so much information that you
+just have to unlearn constantly because this industry is not done, right?
+It's not close to being done.
+It's evolving, it's growing, we're doing stuff, then doing it differently because we think
+it's better and then I need to end up going back to how we used to do it because turns
+out this new idea wasn't so great or it wasn't as successful.
+That is part of tech because tech is kind of a science, right?
+You get a computer science degree and the reason I think, personally, it's associated
+with science is because we're constantly experimenting and we're trying to find answers through experimentation
+and as with science, oftentimes, it leads you to understand that you were trying to
+solve the wrong problem and then you have to go back and say, okay, what is the real
+problem because clearly I misunderstood it the first time.
+If you think about the whole idea of static site generators and stuff like Dentalify,
+that's not really new.
+The way it's being offered is new and it definitely helps a lot but I mean, we used to do that
+in the days when we FTPed stuff up to a server, you would have the static site on your local
+machine.
+It takes like two hours, your FTP is just like copying files and in the meantime, somebody
+updated the file and it's like you have to restart, you got to restart and see, I remember
+those things too.
+I remember that.
+Those were the days but yeah, so it's true, like the cloud or high speed internet and
+all these things made all these processes faster but not many of them have actually
+even evolved or changed that much, they just look different because okay, so now my files
+are hosted, great.
+When I have access to them, very, very easily, so the internet or cloud, but like kind of
+the method, methodology, the framework, it's very similar and I think that kind of similarity
+helps in that it helps lower the barrier of entry because it's familiar, right?
+They say like kind of, even when you talk about like your web experience, right, a lot
+of the web pages look the same because people have like this tendency to scroll in a very
+specific way and they expect like the menu to be here and they expect the image to be
+here and the more familiar it is to them, the easier it is for them to adapt, right?
+And that's why Android was a clone of iPhone and I know a bunch of examples like that.
+But yeah, so I agree, I think that a lot of the things that we try to change and evolve
+and make completely different and do a hard reset on and then we discovered, okay, maybe
+the older practices were the right ones, but they just need to be introduced into the new
+world or have better experience or better interfacing or better support or backup or
+cloud and be hosted and easily collaborated upon and so I think the world is moving to
+the right place in terms of how we work together.
+I think COVID has taught us a lot about that, but how to work in distributed remote, you
+know, collaborative operations and I think a lot of the DevTooling being introduced puts
+an emphasis on that and how you collaborate better, how you communicate better, embedding
+like kind of communication into tools, commenting, context and a lot of things and I'm hoping
+that that's going to be kind of a continuation and just going to get better from there.
+I really do think Netlify took a well-known concept and they just implemented it better
+and sometimes not the right thing to do.
+Yes.
+Mm-hmm.
+No, for sure.
+I take nothing away from Netlify.
+I absolutely love what they do.
+I love the product I use literally every day and they do a lot to educate people around
+how to use their tools because I think that's what's also sometimes missing is people create
+a great tool that they know how to use and some of it's obvious, but some of it's not
+and I think a lot of questions people need to the industry have is when do I need to
+start caring about X, when do I need to start understanding Y and I think that is something
+I feel is definitely missing is a pathway to follow and I think one of the reasons why
+there aren't very many of those is because it's really hard in tech because it's so diverse
+because like you said, there's all these roles like front of the front, front end, middle,
+back end, full stack, it's like, okay, cool, so first maybe I need to pick one of those,
+do I?
+It's like, no, not really, it helps, so it's hard and I think that's part of the reason
+why there isn't pathways because it's hard to define a clear pathway, but again like
+what Netlify has done, something old made it new and better, I think we need to incrementally
+improve that as well, I think one of the other things where there's a lot of work needed
+is testing, like even me, as a person who's been coding for quite a long time, how many
+of my projects really have good testing, not a lot because it still doesn't feel like it
+fits into my workflow, like there's all these modern tools and stuff but it's still some
+of, doesn't just naturally fit in, it's still an afterthought and as soon as it becomes
+an afterthought, you forget about it because other things take priority and you always
+say, I'll still add testing, I'll still add testing but you end up never doing it, I mean
+I work with some clients that have really big projects with little to no testing because
+it's not easy, it's not baked into my workflow so I'm going to not do it because I need to
+land this feature or I need to fix this bug and yeah, sure, if we had testing, we would
+have found it earlier, maybe we would have been able to fix it quicker but because it
+doesn't fit into my workflow, it's just never getting done.
+You're right, that's the kind of thing that I even opened with, that's how oftentimes
+people thought about things like security as well and so I'm happy to see that undergoing
+a revolution as well and I think testing also needs to find its way and have a more native
+and smooth transition into development processes, maybe automate the things that are obvious
+but obviously a lot of the things around testing automation makes it feel like it provides too
+many, same way as security, false positives, things that are irrelevant and it can never
+really be a replacement for a human or manual intervention and then we're like, oh, we hate
+testing, this sucks, I don't want it, it's too much friction and I need it.
+But it probably also needs to undergo an evolution that makes it a lot more natively integrated
+into processes because yeah, quality is important and not even just from the security side which
+is like bugs and things like that, that can expose your user experience, wrongfully using
+your product, enjoying your product, thinking it works well and those are things that are
+critical as well so it's strategic, it's business critical so we have to think about how we
+bring that to the forefront as well and there's so many areas that need to undergo this evolution
+and I think they will, I think a lot of that is coming kind of to the front, developers,
+decision makers and also with the growth and skill and size of everything that's happening,
+there is a skill shortage, there's a gap and we need to be able to onboard our engineers
+quickly, we need them understanding our tooling rapidly, we need them to bring value rapidly
+and all of that can only happen but we simplify our tools and make them easier, easier to
+adopt and learn and integrate well into well-known processes and everything needs to undergo
+that, everything.
+Yeah, this has been great.
+I think I have two final things before we wrap up.
+The first one is with all of this, like so many things going on, so many areas that need
+improvement, so much to learn, how do you stay motivated?
+I find it exciting to be honest, I think it's very, very interesting to see all this happening
+and to have the opportunity, the privilege to see where we were and where we've gone
+into, I'm old, I'm not young, I'm not young in this industry so I have had that privilege
+of seeing kind of, yeah like you say, years ago we were copying files to FTP, now we're
+working in the cloud and that's way better and so I have the hope that this is what keeps
+you motivated and that things are only always improving and getting better.
+The experience is something that's at the forefront, whether it's the developer experience,
+user experience and making sure that everything is great because that's what matters eventually,
+we want people using our product, we want people getting wrapped up easily whether it's
+on the build side or on the user side and that keeps me motivated because I think that
+it is an exciting thing to watch and see, to be a part of a trend and an industry that's
+constantly evolving and changing, you're constantly learning and I like to be in microphones,
+that also motivates me but yeah, it gets hard, there's friction, there are things that you
+always constantly are learning, you'll never learn everything and like you said, you always
+feel like there are gaps and things to overcome but the thing that should keep you motivated
+is now a few things, first of all, community has become a really core piece of development
+these days, there are almost no developer communities, developer languages or whatever
+it is that don't have communities and there are plenty of people that will be happy to
+help you and mentor you and once upon a time, we didn't have the internet, we didn't have
+forums, we didn't have Reddit, we didn't have communities, we didn't have meetups, people
+had to figure it out on their own, now you do have peers in the industry that you can
+learn from and I think that's really exciting and that's keeping you motivated and have
+friends to the journey that can join you and one of the things, now I'm remembering what
+I wanted to say earlier is that I've always loved the Apache Software Foundation sentiment
+and maybe they don't apply it as well as they should but the open, friendly, welcoming,
+patient kind of mindset, zero tolerance for toxicity and I think a lot of communities
+are enforcing these types of things that are being welcoming, friendly, patient, listening,
+wanting to help and so I think that that should be motivated, don't think that you're alone
+on this journey, don't think you're the only person that's had difficulty, don't think
+that you're not good enough, don't let the imposter syndrome win and I think that is
+something that I can really, I have so much appreciation for the people that take from
+their time like you with this podcast and others and surrounded by and all the things
+that have been built in order to make this easier, to make this transition easier, to
+make people feel that they have a space and a safe space so that's wonderful and that
+keeps me motivated.
+That's awesome.
+Thanks so much, Sharon.
+I'm glad to be finding out this talk because it was really, really good.
+Also in closing, is there anything you'd want to bring to the attention of people, any closing
+words you'd like to share with the community out there?
+Sure.
+Yeah, so I run the TLV community, TLV community on Twitter and TLVcommunity.dev right now.
+Our upcoming event is DevOps Days Tel Aviv, which is more on the system engineering side
+but if you have something to share and you want to get involved, the CopyPapers is open
+until August 31st and we'd love to have everyone from the global community, from the, for junior
+talks to senior talks, it's from what I call noob to ninja.
+Everybody is accepted.
+We really want everybody to come and have a good experience and learn things so please
+don't hesitate to either get involved and submit a talk or even just join us.
+And our community as well, we're very, there are a lot of really great community initiatives
+at least coming out at Tel Aviv, like Ops School, which trains junior operations engineers
+and other things and if you're looking to get involved and have mentors, there's this
+really great mentoring project that was started on Twitter and in the Tel Aviv area if you're
+from Tel Aviv, where there's like this spreadsheet of people that have, that have emphasized
+their expertise and who they're and the time available that they have for mentoring and
+so you can tap into mentoring communities and there's plenty to learn and please don't
+hesitate to reach out.
+It's really, really important for you to feel like you have a community and you do.
+Yeah, for sure.
+Thanks so much and we'll put links to all of this obviously in the show notes.
+Thanks for taking your time.
+I really appreciate it and have a lovely rest of your day.
+Thanks so much.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at MeetWeirdMyCindium and join the community
+on Discord.
+All the links are available in the show notes.
+join the community on Discord at MeetWeirdMyCindium and join the community on Discord.
+All the links are available on Discord at MeetWeirdMyCindium and join the community on

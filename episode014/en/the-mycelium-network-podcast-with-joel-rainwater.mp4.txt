@@ -1,0 +1,957 @@
+Welcome to the Marsilian Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey Joel, welcome to the Marsilian Network Podcast.
+Hey, yeah, thanks for having me.
+Super excited to be here.
+Yeah, it's a pleasure.
+So I always ask people to write a short introduction in the doc.
+The idea is that I'll put it in the show notes eventually.
+I used to read them out, but then I thought, no, I don't want to be the person telling
+your story.
+You should tell your story.
+But what I like about the one that you wrote here is it's going to lead us into my first
+question because you say you're a software developer who's gone from building really
+basic HTML and CSS websites to being a fractional CEO of a startup and a whole lot in between.
+So can you tell us about that whole lot in between?
+Wow, that's a lot.
+Yeah, I mean, so like I said, I'm self-taught.
+I started playing around with code when I was in middle school.
+I built a website with the website builder, Angelfire.
+I doubt most of the listeners will know that, the veterans might.
+So but it wasn't good enough.
+So I started playing around with it to customize some of the CSS here and there, things like
+that.
+And then I just kind of fell in love with it.
+So ever since I've just been addicted to writing code and building things and customizing things,
+back in the day of MySpace, I'd customize everyone's themes for them, things like that.
+But yeah, I mean, eventually I got into it as a career.
+I used to do audio engineering and used to be a musician, but kind of realized that I
+prefer working better hours than running sound at a bar overnight until 4 a.m. or having
+a more consistent paycheck.
+So I eventually decided to chase development instead, and getting my foot in the door was
+pretty tough, not having a degree at that time, especially.
+And once I finally got my foot in the door, then it was just, you know, I couldn't stop.
+I was working day jobs, I was working on the side, I was doing freelance, I was doing anything
+I could to get my hands on some code and might call it a bit of an addiction.
+But it was fun.
+And I felt like I was trying to compensate for my lack of education.
+So I felt like I constantly had to be working on something and learning new technologies.
+But yeah, because of that, I've been able to work on a lot of different technologies.
+I've been able to work in different industries, hold different positions, part-time, full-time,
+contract, freelance, consultant, fractional CTO, all kinds of stuff.
+It's just been a wild ride, but it's been a blast.
+Yeah, I love that.
+That sounds very familiar.
+I also used to be a musician before I got into tech.
+And kind of switched for the same reason, I couldn't make a decent living enough out
+of it.
+It was just, I was in classical guitar, and so that's a very niche audience.
+And in South Africa, there wasn't a big audience for that and going international is even harder.
+So you know, I eventually started toying with tech and then kind of that just one thing
+led to the other.
+I eventually ended up in tech.
+So that's a very familiar story to me.
+So you've mentioned that you've had access to play with a lot of different technologies
+and no kidding, because when I went on your website, you have the section where you can
+learn more about the work you've done and then you have this filter by technology.
+And I clicked on that and I was like, holy Moses, there's a lot here.
+So is this just a side effect of, like you said, you felt you had to like compensate
+for the fact you didn't have an official or whatever degree in tech?
+Or is it just curiosity that drives you to this?
+Yeah, no, it's a bit of both, I think.
+What's funny is on my website, that's only the interesting projects that I thought were
+worth putting on there.
+There's plenty of other ones that I didn't even bother putting on there.
+So the amount of technology I've touched is probably even more than that and I've forgotten
+half of it.
+A lot of it is, yeah, I'm just really fascinated by the technology and I'm always interested
+in learning new technology.
+I'm not in favor of these tech wars of react versus view or whatever.
+I'm not a fan of it.
+I think all technologies are great and I think they all have pros and cons.
+And I want to play around with all of them, learn all of them just for the heck of it.
+And that's part of it.
+A part of it is, yeah, feeling like I had to compensate for my lack of education.
+At this point, I don't feel like I need to anymore.
+But for the first few years of my career, especially, I really felt like I did.
+Part of it wasn't exactly my choice either.
+One of the jobs I held, almost every project I worked on, they were like, hey, so you've
+got this project.
+It's in this technology.
+Everybody here knows it, so good luck.
+And I had to figure it out.
+So there was a lot of those that I'm thankful for the experience, but at the time, it was
+a bit, it was rough.
+Yeah, not for sure.
+Having to kind of, and I think that that is the, it comes to this point that I've said
+that everybody is a beginner at something at some point.
+It doesn't matter how many years experience you have.
+And I think that story exemplifies that, where you work on this project and you gain this
+experience with these set of technologies, and then somebody comes to you and says, hey,
+here's a new project.
+Nobody knows what to do.
+Good luck with that.
+And you feel completely like a newbie again, how you have to learn.
+And sometimes it can even be in the same language.
+I've told people, the fact that you know JavaScript is going to help you with React, but there
+is core concepts of React that is going to trip you up in the beginning, that you need
+to, the whole thing of thinking in React, you need to read that part before you jump
+into it.
+Because it's a, you have to have a mental shift.
+And then when you go to view, you kind of have to have a different mental shift again.
+Because there's similarities, but there's differences as well, even though the underlying
+language is the same for all of them.
+Exactly.
+Yeah.
+I mean, I, when I, you know, my early days, I was working in JavaScript with jQuery for
+a long time.
+And so making that transition from jQuery to View or React or whatever, it was a complete
+180 in how I had to think about how to do things.
+And at one point I ended up having to go back to a project that was on jQuery after spending
+years working in View.
+And it was rough.
+I've forgotten how to think that way.
+And I kept trying to do things in the View way with jQuery, and it just doesn't work
+that way.
+So yeah, it is.
+It's same language, but entirely different experience.
+Yeah.
+I found myself often when I'm in a, let's say I'm in a lot of JavaScript project, wanting
+to reach for a use state look, and I'm like, oh wait, that doesn't exist here.
+You have to manage state differently.
+Yeah.
+So one of the other things I saw is that you mentioned the words, Indie hacking.
+And I'm really interested in that whole ecosystem, like the Indie web and this idea of owning
+your own content, running your own website, having your own domain, and then basically
+sharing to the social networks, but the social networks is not where you post.
+That's where you share.
+And I kind of think that's kind of what social media was really for, but it turned into like
+it became where people's content live.
+And then if one of these platforms goes away, people are like, oh my goodness, all my content's
+gone.
+And then another thing that you said is that on your Twitter profile, it says like you
+make everything in the open.
+So those two are very closely related.
+Do you want to dig a little bit into the concepts of Indie web and making things in the open?
+Sure.
+Yeah.
+And maybe also with the angle of how has that helped you in your career?
+I think that might be interesting to know as well.
+Definitely.
+Yeah.
+I don't remember how I stumbled upon the Indie hacking community.
+It was through Twitter, but I think it was just, I don't know, trying to find tech-based
+people that were interesting and then over time it eventually kind of led into that.
+But somehow now I'm kind of inundated with the Indie hacker community really, and it's
+pretty great.
+They're all very supportive.
+So yeah, a lot of things are based around, for example, the website IndieHackers.com.
+Cortlandt Allen built that and eventually Stripe acquired it.
+He still runs it.
+And it's a really cool resource to let Indie hackers, bootstrappers be able to just kind
+of share their information, share their stories, their successes, their failures, what they
+learned from that, things like that.
+And that's what I like about it is it's different than just my whole career.
+Like I said, I've been playing around with technology.
+I've built who knows how many things just because they were useless things, but they
+were just something to build and learn.
+And so it kind of shifts that into building something to solve problems, whether it's
+solving your own problem, solving someone else's problem that you know.
+It's making other people's lives easier by building something interesting.
+And that's kind of that's exactly where I want to be as a developer is the most rewarding
+and the most enjoyable thing for me is I want to build something that makes someone else's
+life easier.
+And so that's what got me sucked into it.
+And so I started playing around building different web apps, different, a few different projects
+here and there.
+And the thing about the community is everyone, you know, a lot of people share, everybody
+shares different levels of information, but everybody in that community is pretty open
+about their startup and what they're doing.
+Some of them share screenshots of their revenue every month.
+And some of them, you know, just show like this is the technology I'm using or this is
+the problem I had or this was an experience I had with someone reaching out to customer
+service and how I solved it.
+Everything you don't the thing about building in public and with the indie community is
+you don't have to follow a specific rule set.
+It's whatever you want to share, share and everybody's just kind of there to help each
+other and you learn from everyone's experience.
+So you know, that's kind of what got me into it and how I was able to learn a lot from
+them and hopefully was able to bypass some mistakes, common mistakes because I learned
+from other people who had already made those mistakes.
+Now as far as how that's helped me in my career, I think that could go a few different ways.
+In one side, a lot, I see a lot of indie hackers say that because they've started their own
+business and ran their own business, they now consider themselves unhireable.
+And for some people, that's their goal.
+They want to be unhireable because they just either can't imagine being reporting to a
+boss, you know, or they just can't deal with the day in, day out of the office work or
+whatever the situation is, a lot of people in that community, that's their goal.
+For me, it's just been a way to expand my knowledge and my experience of the community,
+of the technologies, of new ways of looking at how to build things.
+I've been able to bring those experiences into my work and say, hey, I learned something
+new about React or why don't we think about the customer in this mindset or anything from
+technology to just the critical thinking about how you think about things.
+And I think it can help you see things from your leader's perspective.
+So whether that's your direct boss, manager, or if that's the CEO, CTO of the company,
+whatever that situation is, I think it can help you see things from their perspective.
+Having attempted to run your own small thing, startup, whatever you want to call it, you
+can kind of see like, oh, okay, I understand these pain points or I understand that they
+have to consider all of these different things.
+It's not as straightforward as I thought.
+So yeah, I think it can help in a lot of different ways.
+Yeah, that's the last part.
+A friend of mine, Peter, oftentimes when we've had problems and you have these different
+potential avenues and you maybe don't understand why you would choose one over the other, he's
+often said, imagine that you and your buddy in a garage trying to build something and
+you got a million dollars, how would you spend it?
+Think about it from that perspective.
+And that's a good thing because now you can put yourself in that situation.
+If this was my product and I had a million dollars and it's only the two of us, so we
+have constraints of finances and we have the constraints if it's only the two of us, which
+of these things would you have invested in if it was your company?
+So I think it is great.
+I think what I'm curious about is the unhireable aspect of that.
+Is that like just because you turn more and more into a cat and it's less able to be heard,
+you know, herding cats?
+Is it that you turn more into a cat and so it's too hard to herd you?
+So employers are like, ah, go and work with this guy.
+Or is it just that literally working a nine to five, doing the same thing is just going
+to be soul crushing?
+I think it's more of the latter for a lot of people.
+The way I understood it, the way I take it when I hear people talk about that is that
+they I guess they imagined that it would be too impossible for an employer to satisfy
+all of their needs to be able to hire them.
+So they might have a high set of requirements now of, yeah, well, you know, my time is my
+own now.
+So I'm considered free.
+So I'm going to need to be able to work whatever hours I want.
+I'm going to need to be able to have this, you know, who knows how big of a salary.
+I'm going to need the freedom to work wherever I want, whenever I want.
+And who knows what other requirements they might have.
+So I don't know.
+I think that might be part of the unhireable approach or mindset.
+But again, I think it might be different for everybody.
+Some people might just be that they can no longer even imagine going back to working
+the nine to five.
+It's too soul crushing for them or whatever.
+That's interesting, because I've also been doing the hackers on the website, but I haven't
+in a while.
+I need to get back there because it is an inspiring place.
+Do you think, do you see like, because I discovered, I found out about you through Polywork.
+And this is how this conversation happened.
+So do you think Polywork is like, Polywork and IndieHackers, are they like birds of the
+same feather or are they mutually exclusive?
+I'm trying to think.
+I so I don't use Polywork a whole lot.
+Most of that is because I just forget to do things like that to go and look at these communities.
+I'm terrible about keeping up with social media and being involved with the communities.
+But I want to I just I never take the time to do it.
+So from my perspective, I think that they're they're somewhat independent.
+But Polywork to me is what LinkedIn should have been for people who are IndieHackers,
+but not just IndieHackers.
+But I think it's better than LinkedIn for people who are IndieHackers or other similar
+things where basically you have the whole concept behind it is you're not just one job,
+you know, you're not one title, you have all these different roles, whether you're on the
+board at another company or whether you're doing freelance or you're running three startups
+or whatever.
+I think Polywork is a lot more inclusive for those types of roles.
+So I think it's helpful for IndieHackers, but I don't necessarily think they're dependent
+on each other.
+Okay.
+Yeah, that's a good point of view.
+I agree with that.
+And I didn't realize that I didn't connect this poly aspect of the poly work with what
+you just said until I saw the very first video they posted on the YouTube channel where the
+founder of Polywork talked about what the idea behind Polywork is.
+And he talked about exactly that.
+Like you're undefined by a single role or a single title.
+You are multi like what's another TED Talker multi potentialite.
+You have all these potentials and you have all these things that you're doing.
+And then I was like, gotcha, that makes a lot of sense.
+And yeah, I do think like the LinkedIn for IndieHackers, it does sound like a very good
+analogy of what it is.
+I'm enjoying it and I'm trying to use it more and more.
+And I know they're investing quite a bit in the platform and really trying to grow it.
+And I wish them all the best of success.
+This podcast exists largely because of the amazing people I got that just offered to
+come on the podcast, even though it didn't even exist.
+So I'm thankful for that.
+So I read that you were also considered yourself primarily a backend developer, but then more
+and more you found yourself leaning towards front end and especially JavaScript was one
+of the things that drew you to the front end.
+So what are the things about JavaScript that got you really excited and maybe that you're
+looking that you enjoy at the moment that you're really excited about right now in the
+world and maybe things that's like on the horizon?
+Yeah, yeah, sure.
+So yeah, I mean, most of my experience has been full stack and I usually would lean more
+towards the backend, like you said.
+The front end, I don't mind it, but I'm just not a very visual person.
+So I'm not great at the UI, UX kind of stuff.
+I need someone else like a designer to kind of help me along with those things.
+But otherwise, front end can be enjoyable whenever it's more about the logic and things
+like that.
+So what excites me about JavaScript, I love as a full stack developer, I love that I can
+use the same language full stack.
+It's super exciting now that Node is becoming so popular and frameworks like Nuxt and Next
+JS are out there where you can build your full stack all in the same project with the
+same language.
+And if you're using things like TypeScript, you can have full stack type safety and things
+like that.
+It's really, really cool to be able to have this cohesive system instead of, well, I've
+got to have this one environment for my backend with Python, PHP, Go, whatever.
+And then this other entirely different environment for front end, which you can still do.
+And it's still great if you want to do that.
+But the convenience of being able to do it all together in one language, it's really
+cool.
+Yeah, that's very true.
+It is freeing.
+I definitely always saw myself as more of a front end developer, but when Node came along,
+it opened up avenues that I didn't have before.
+And to some extent, I still see myself as primarily front end, but I definitely can
+do the full stack, that's for sure.
+I do build projects for some folks that do use Prisma and MongoDB, and it's doing that
+all through Node.
+So there's some talk, a proposal from Microsoft about bringing the core concepts of TypeScript
+to JavaScript.
+It's a bit of a hard topic.
+Do you think that's a good idea, or do you think it should be rather two separate things
+that you...
+Well, the thing is the way that they are...
+Because that is a thing you can't just change JavaScript to be a typed language, right?
+Because there's way too much code out there that'll break.
+That's always the thing with JavaScript is you have to be so careful how you introduce
+new features that you don't break things going back.
+So it looks to me, if what I've read from the proposal is that it's almost like this
+JS doc style type of thing where you use annotations, and it's just that that becomes part of the
+core language as opposed to it being a TypeScript thing.
+Do you think that would be good to have it part of the JavaScript language and therefore
+part of ECMA and the standards body as opposed to this thing that Microsoft runs?
+Well, that's really interesting.
+I hadn't heard that.
+I mean, I think what you said is pretty much right on it is, sure, it would be really cool
+to have that, but man, that would break so much stuff.
+So yeah, finding that right balance.
+I mean, I guess PHP did similar things, right?
+So they started implementing strict types, and you could optionally on each PHP file,
+you could optionally put strict type enabled at the top of it, and it would force it.
+And it would throw compiling errors basically if it didn't match the types, which I started
+doing eventually and started forcing all my code to be strictly typed in PHP, but it didn't
+break things before that because you had to explicitly enable it per file.
+And then eventually maybe moving into having that by default enabled over time could be
+useful.
+So I think if JavaScript were able to implement something like that, I think it could be cool.
+I mean, I think having the type safety in JavaScript helps a lot, and I think it's really
+useful.
+I think it does make the learning curve much higher for newer developers.
+So that's a bit dangerous.
+JavaScript is such a common language right now, and it's so easy to be able to tell newer
+developers, yeah, just play around JavaScript.
+You can pretty much guarantee to get a job.
+You can play with it directly in the browser.
+You can test it around very easily.
+And don't worry about TypeScript at first, because first you just need to learn how to
+write in a programming language, and doing TypeScript I think could be overwhelming to
+someone who's new.
+So I mean, I don't know.
+That's a really interesting concept, but personally I would love it, but I don't think as a whole
+I don't think it might be the best idea.
+Yeah, I agree with that.
+That is also the concern for me is because I can't remember if it was a question I wanted
+to ask somebody or whether it is something I did pose to someone.
+But I was asking this question, when do you start introducing TypeScript to new developers?
+When is the right time?
+And it's pretty far down the line as far as I'm concerned.
+There's quite a lot in JavaScript to just wrap your head around.
+If you don't understand the whole idea of closures and the whole idea of how you do
+functional programming in JavaScript, because that seems to be like where JavaScript is
+moving more and more, then adding types on top of that, it's going to be...
+I think one of the nice things about frontend, but just web in general, is how approachable
+it is.
+It's not easy, but it's definitely easier than trying to get into like an enterprise
+level language as your first language.
+Yeah, the entry point is a lot lower.
+You can do quite a bit without having to have this breadth of programming experience.
+I think it's almost like you can already now, if you write some JavaScript and it's not
+like using ESM, then you can put the little use strict at the top.
+And then it tells the JavaScript parser, hey, if you're running into a thing, just don't
+try and help me.
+Just throw an error, which is like PHP, like you said.
+So maybe though, if this comes to pass, maybe it'll be something like that.
+Maybe we'll have a type annotation to say, add type safe or something, and then it kicks
+into a different JavaScript engine.
+It would have to be an optional opt-in that over time, we could potentially move to be
+default to true, but for now, for a long time, it would have to be something like that, yeah.
+So another tricky potentially question, what do you see as the biggest challenges in tech?
+Yeah, that's a great question.
+Specifically in web development too, I think this applies more so in web development than
+most other areas, although maybe not.
+I don't have that much experience outside of web, but analysis paralysis.
+I think there are way too many cool tools in web development and technologies, programming
+languages, frameworks, whatever, that how do you decide what to use for each project?
+And do you keep using the same thing or do you use the new shiny thing every day?
+There's just too much of that.
+And it's great, but it is super overwhelming, especially for newer developers.
+But even today, I struggle with that regularly of if I'm starting a new project, oh, I would
+love to play around with this new cool technology, but I could use the same thing that's safe,
+I know it, and I could do it a lot faster and it would be a better end result because
+I know it so well.
+So I think that's one of the big challenges and kind of along the same lines is it changes
+so rapidly.
+Every day there's something new or things are updated every day where new features or
+deprecated or whatever, the rapid changing of the front end technologies is it can feel
+overwhelming to keep up with whether you're an early stage developer or a veteran, especially
+in the front end.
+And for me, I think those are two of the biggest challenges.
+So do you have any strategies for how to safely drink from the fire hose?
+I for me, it's been so as an indie hacker, you know, they always say, don't go with a
+new shiny, go with what you know, the best framework to build your project in is the
+thing that you know the best, whatever you're most comfortable in.
+And, you know, majority of the time, that is true.
+I think that's a great case unless your plan or your goal is to expand your portfolio of
+technology for your resume or whatever.
+If that's your goal, then sure, learn something new.
+But for the most case, I think it's whatever you already know.
+But if you're jumping in brand new and you don't know anything, what I found is jumping
+into if you have resources, if you have contacts of somebody who's already in that field, maybe
+learning something that they know, so that they can be a mentor, or at least just be
+a source of support.
+And then from there, you can branch out to whatever kind of comes your way.
+For me, most of the technology I learned was a result of either somebody I knew or a job
+I got.
+And so it was not always my choice, but I got led down these paths because those are
+the doors that opened to me.
+And then some of the other ones, I kind of forced open myself because I would spend who
+knows how many hours trying to learn new things because I wanted to learn it.
+But I mean, that's how I spent half of my career in the e-commerce framework Magento.
+It was one of those projects at that job where they were like, well, we don't have a Magento
+person and we have a new Magento project, so you win.
+And from then on, I was the Magento guy because I terribly built a website in Magento.
+And five, six years later, no, four or five years later, I don't know.
+I got a job as a Magento developer across the ocean in an entirely new continent.
+And got to come over to France and work a job there as the Magento guy at this company.
+And after that, I kind of decided I'm done with Magento.
+I'm ready to go back to building tools.
+Like I said, I want to build tools that people use and not e-commerce or marketing things.
+So I kind of got out of that eventually, but that experience helped me get to where I am.
+So yeah, I kind of went off on a tangent there, but that's all good, that's all good.
+So to go further off on a tangent, there's two tools that I've seen that you've built
+that really intrigues me.
+And one is really funny.
+And I can totally understand why you created that because I've heard so many developer
+stories about how many domain names do you own?
+And it's like, let me pull up my spreadsheet and see where I'm up to.
+And I've also got probably more than I use.
+So the two tools I'm talking about, the one is completely different, but I'm curious about
+that one.
+And that's My Cosplace.
+And then the other one is Domain Goalie, which is such a cool name.
+If you want to talk about those two.
+Yeah.
+So Domain Goalie, exactly.
+It's a silly product.
+So yeah, we all know the joke, the running joke of developers and indie hackers both
+of we have way too many domains.
+We're kind of obsessed with buying them.
+We have a graveyard of dead projects that we never finished, but we bought the domain
+for it.
+And it's just a running joke because it's true for a lot of us.
+And I think one day I saw somebody on Twitter post something like, can I hire someone to
+insult me every time I try to buy a domain or something silly like that.
+And I just thought it was so funny.
+And I thought, well, I mean, I can't be there to watch over your shoulder, but a browser
+extension can be.
+So I just spent like a couple hours that evening like, hey, I've never built a browser extension.
+Let's figure out how to do that.
+And just played around, built a super simple, silly browser extension that basically just
+it's right now it only supports a few of the main websites where you buy domains, but it
+checks to see if you're trying to buy a domain and it shows a pop up that basically tries
+to talk sense into you to kind of say like, hey, will you be spending time on this in
+two years?
+Like, is this really worth your money right now?
+And I mean, you know, it's not really useful.
+It's kind of annoying, but it's just a fun little thing.
+And I think I've got like one person using it.
+And it is what it is.
+It was just a fun response of like, hey, I built this in case you want to use it kind
+of thing.
+Yeah, that's, that's hilarious, but it's cool.
+I like how that often leads you down the wrong path.
+Like exactly here, it was a case of, I've never built a browser extension.
+Let me see what that's all about.
+And here's a project that we can talk about.
+And so my cosplays, how does, how did that come about?
+So yeah, my wife and I, we go to conventions like Dragon Con, similar to Comic Con, but
+other ones.
+And we usually will cosplay, we'll dress up in costume of different characters.
+So my wife is great at making those cosplays.
+I just put them on and wear them.
+But one of the most annoying things about that is the hours, days, weeks you'll spend
+afterwards searching for photos of yourself.
+And a lot of times there are Facebook groups where people will just dump their hundreds
+or thousands of photos they took and you'll just scroll through all of them trying to
+find them.
+And you know, it's annoying, but it is what it is.
+And I've also found like at a lot of photo shoots at conventions, a lot of us would spend
+time afterwards just looking each other up on our phones on Instagram right then and
+there, following each other so we could post, you know, photos of each other.
+And I just thought there's got to be a better way to do this.
+So I decided it was, I think a year ago at the convention, I kind of thought, all right,
+I want to, I want to think about this, see if I can find a way to make this easier for
+us.
+And so my first thought was, yeah, business cards would be cool, having pictures of you
+and your cosplays on the business cards so that way the person won't forget, they're
+going to take hundreds of photos at that convention.
+They're going to forget who gave them that card.
+And the problem with that is every year you're going to have new cosplays.
+I have some friends, one of my friends last year brought, this year brought 16 cosplays.
+I mean, there's no way he's going to fit all those photos on a card.
+And then every year he'd have to get new cards printed.
+So it's not, that's not really reasonable.
+So then I thought, you know, a digital portfolio you can update whenever you want.
+But how do you connect that?
+And so then I thought, well, okay, QR codes, QR codes have been really popular, especially
+through COVID.
+They've kind of made a comeback because of the pandemic, I think, especially within Europe,
+at least.
+So I thought, okay, build a portfolio, get a QR code that points to that portfolio.
+You can also have all your links to social media accounts.
+So it's kind of like a link tree with a portfolio combined.
+And then you can get business cards with a couple photos of your cosplays on them and
+then that QR code.
+So people can either at that moment scan the QR code and go to your website, or they can
+take the card.
+And then later, if they forget who you were, they can scan it and find a photo of the cosplay
+that you were in.
+And so I thought, okay, maybe that'll kind of connect everything.
+So yeah, I built my cosplays as a way to try and do all of that.
+This year at DragonCon was my first year really getting to try it out.
+In the meantime, I've had a few other users test it out at a couple other conventions,
+one in...
+Oh, I've completely lost where it was.
+So nevermind.
+Anyway, it was somewhere here in Europe, I can't remember now.
+So I've seen a few people try it out, and then I tested it out this year at DragonCon.
+To be honest, I didn't get the reaction I thought it would.
+It still seems to be missing something that really...
+I think either people don't see its relevance or don't see its value right away.
+So whether or not it's missing a feature or if it's missing just clear communication,
+haven't quite figured that out yet.
+But I think it's on the right track.
+And I've got a group of friends who we all cosplay together and I've gotten a lot of
+feedback from them about it and what they thought it was when they first saw it or what
+they expect it to be.
+So I think it'll continue to change.
+There might be more of a social platform aspect to it.
+A lot of cosplayers seem to use Facebook groups, but a lot of people hate using Facebook now.
+I mean, there's a lot of drama around that.
+So a lot of people don't want to be on the platform, but Facebook groups is really the
+only place they can find that experience or those cosplay groups.
+So maybe finding a way to implement a way for them to replace Facebook groups with this
+platform might be useful.
+Just some different ideas I'm playing with right now.
+Yeah.
+I've totally heard talk about this idea that there is a need for very niche social networks.
+And I think Web3 is an interesting topic that has multiple angles and depending on which
+angle you approach it at, you'll have different people respond in different ways.
+I think some of the underlying core concepts that has been forgotten isn't a bad idea.
+The whole idea of being decentralized, owning what you make, forming smaller groups, I think
+those are good ideas.
+And I think that might be where it plays into because things like Mastodon and stuff like
+that, where you can spin up your own little version of Twitter in a sense, but for a very
+niche community.
+And you can cross-link it between other Mastodon instances that is relevant, but different
+enough to have their own niche.
+So I think maybe you're onto something here.
+I think maybe the cosplay community would like this.
+Yeah, honestly, I was against it being anything similar to a social platform for a while.
+I kept pushing back on that.
+Part of that is I just didn't want to deal with a social platform.
+There's always so much stuff that you have to deal with that with moderators and just
+the worst people always ruin it for everybody else.
+So I didn't want to deal with that.
+But also I just kept thinking, there's so many great social platforms out there.
+Who's going to want to use this random one that I built?
+I mean, who am I kidding?
+I'm not going to be able to compete with a platform like Facebook, Instagram, Twitter,
+things like that, nor do I want to.
+But your point kind of has been what you just said has been made clear to me, I think by
+multiple people who I've tried talking to about my cosplays is, yeah, well, they want
+a more specific platform that is dedicated to cosplayers and just the cosplay community
+wants somewhere to live, basically.
+And there are other platforms that I think have been trying to do that.
+And so again, I wasn't trying to compete with them.
+And if they are doing a good job, great, let's go there.
+But so far, I haven't seen any traction on any of them.
+Some people have kind of said like, oh, this platform we thought was going to be great,
+but it didn't really do what we wanted it to do or whatever.
+So yeah, I think maybe there is a want for that.
+But I kind of was closed minded about that for a little bit and wasn't open to trying
+that.
+But I think finally, they've talked me into it.
+Yeah, I have a project that I've not abandoned, but it's been definitely put on the back burner
+for quite some time.
+And it's because of a lot of the same fears.
+So that one is a very different audience.
+The audience is finding small businesses in your own area and supporting small local businesses.
+But I did think that one of the benefits or something like that would be the ability to
+review.
+And that scares me.
+Because now you're opening it up to user comments and I'm like, I don't know if I want to go
+down that road.
+So I've kind of been, I think that's one of the reasons why I kind of just let the project,
+it's live, it's up there.
+It's working in a shape and form like I get these stats that four people visited it this
+week.
+Everybody visited this week.
+Two people visited this week.
+And I'm like, okay, so somehow people are stumbling upon it.
+But again, I need to invest time and energy into that.
+And I think there needs to be a social aspect to it.
+And that scares me.
+And I think that's why I've put up something as simple as people being able to upload a
+profile photo scares me.
+Because now you have to monitor that stuff because people can upload anything as their
+profile picture.
+Now you have to go think like, what machine learning thing can I put in?
+Is it going to be biased?
+Is it going to flag stuff that is actually fine, but the data set it's been trained on
+is biased.
+And that's why it's flagging these things.
+And it's causing me more work than it's helping me.
+So I think it's those things that as an indie hacker and stuff like that, you often run
+into and where you kind of lose steam with the thing because it's just like, oh my goodness,
+I don't know.
+But again, then I think that's where community comes in, where you can talk about these things
+to other indie hackers.
+And they might say, hey, you know what, I've actually had that fear, but this is how I
+solved it.
+And you can be like, oh my goodness, I did not know about this.
+So I think that's where community comes into play.
+So yeah, well, good luck with those.
+I think there's something there.
+And I hope it blossoms into something that the cosplay community can be excited about.
+Another thing that I'm excited about, because I saw that you posted this in July-ish of
+this year, I think is a blogging series about using DevTools for beginners, which is like
+perfect for the audience of this podcast.
+Two questions.
+Why do you see as DevTools?
+Because oftentimes when I think DevTools, I think you open command, what's it command
+alt I, those DevTools, or do you mean more a broad sense of DevTools?
+Yeah, maybe DevTools wasn't the best word to use there.
+Yeah, so for me as a self-taught developer, one of the hardest parts, I think, of learning
+things was tutorials and courses, things like that, would cover the language or the framework
+you're on.
+But they would kind of assume that you know how to set up your local development environment
+or they might assume that you know how to use package handler or whatever.
+And those are the things where it's like, wait, what is this NPM?
+What does that even mean?
+And then you have to go down rabbit hole after rabbit hole of figuring out how to do these
+things and then connecting the pieces.
+And I think that that's a part that's sorely lacking in educational content, or at least
+it's hard to find it.
+So I was considering a while back, I wanted to start writing more, blogging more, I kind
+of enjoy doing it and I would like to give back to the development community that's taught
+me so much over the years.
+And so I asked an early stage developer that I've been mentoring for a while, what his
+biggest pain points were, or things that he would love to have more resources about.
+And he basically said exactly that, that connecting all those pieces of, yeah, sure, there's teaching
+me how to code, but they're not teaching me how to set up my environment so I can be ready
+to code or things like that.
+And as soon as he said that, it kind of clicked that, oh, yeah, I had that same problem.
+It makes sense, I would love to write about something like that then.
+To be honest, I haven't, since I posted that, I haven't made any progress, I've been dealing
+with a new job and an international move.
+So things have been falling a little bit behind schedule, but I'm hoping to get started working
+on the actual posts soon.
+And I'm also open to, I'm hoping it'll be a growing, living thing.
+So I'm open to if somebody asks, you know, hey, could you cover this topic, if it's something
+that I'm able to cover, then I'd be happy to add it to the list and to the series and
+write about it.
+Yeah.
+But yeah, I'm excited to do it.
+I'm hoping to learn a lot about it while I write too.
+Yeah, no, that's one of my, like, again, I've also neglected blogging.
+I used to do it in the early days a lot.
+And then I kind of stopped, I think I hit a serious case of imposter syndrome and I
+was literally too scared to post anything because I was like, what if I'm completely
+wrong here and somebody points it out?
+Yeah, that's one of the biggest things that's held me back from writing for years.
+Yeah.
+And also the other thing of there's so much on the internet, what is it going to help
+me to just write yet another blog post?
+Exactly.
+And it's, you know, it's both of those things are like, you're trying to, it's your amygdala
+trying to keep you safe.
+But there's no real danger here.
+But try convincing that little monkey mind that it's wrong.
+Exactly.
+I mean, that's always been the big thing pushing me back is, yeah, but what do I know?
+Because everything I know, I've already learned from the internet, so it's already out there.
+When am I going to contribute to that?
+But over time, I've had to just learn that I have a unique perspective, just like everyone
+else has their own unique perspective given because of their experiences.
+And you know, maybe my unique perspective might help one person.
+So why not?
+Yeah, I agree.
+I think that's the key is everybody has a unique way of approaching things and the way
+you do it might just be the way that helps somebody else understand it where all the
+other things they read, just it didn't click.
+I mean, I for the longest time didn't quite click with closures.
+And then I followed a course on front end masters where one person was talking about
+it.
+I can't remember her name now.
+But and the way that she explained it was just like, oh, it's actually kind of obvious
+now that I understand what it is.
+So exactly.
+I think the more voices I think the whole talk about diversity, it leads this is part
+of it, diverse, diverse voices, I think is important.
+Because again, somebody that I also mentor just yesterday told me I don't understand
+what the package of JSON is.
+And I was like, yeah, right, right, it is kind of confusing, right?
+It's this thing that you have in the root folder and you kind of think that you have
+to have it.
+But you're like, I put it there because it seems like it needs to be there.
+But honest to goodness, I don't know what it does.
+And so I'd like, I want to dig into it a little bit more.
+And I think this is the kind of stuff that you want to cover in your blog series.
+Because it is, it is like, what is it?
+What's the point of it?
+And there is a reason, there's a point for it.
+But it's not obvious if you don't go and really dig into it.
+And it's actually important to understand what its purpose is.
+Right.
+Yeah.
+So that's super interesting.
+So with that, and the fact that you've mentioned that you do mentor folks, what advice do you
+have like for early stage web developers, as I like to call it, you know, either from
+a technical perspective or a career growth finding work thing or both?
+Yeah.
+Yeah, I'd say I've got kind of two main things that I usually try to try to tell people.
+First of all, build something real, tutorials, courses, things like that are great and all,
+but they only go so far.
+The first time you have a project where it's, hey, here's a list of requirements or we
+want to accomplish XYZ, whatever, and you just have to use critical thinking to figure
+out how to build it.
+And sure, you can, you know, you're going to Google a lot and you're going to probably
+copy a lot of things from Stack Overflow, although preferably you would write it while
+reading because it'll stick better.
+But either way, you're going to do a lot of that.
+And the fact that you had to use critical thinking to connect those pieces and to make
+each little piece work together as opposed to just following a course, you're going to
+learn wildly more than you would have in months of courses versus one project like that.
+It's just, it's going to grow your learning and your experience exponentially.
+And I think not only that, but it also helps your portfolio, right?
+I mean, there's a portfolio of, hey, I did this.
+And as someone who doesn't have a degree, I learned early on that for my resume to even
+be considered, I had to have a portfolio of real things that I built.
+You know, tutorial things that I built are fine and all, but they don't go very far.
+You need to show, hey, I built this thing on my own.
+I didn't follow tutorial.
+It was my creation.
+It doesn't have to be complicated, but just something.
+And you know, going into that, the first time we do that, it's going to be overwhelming.
+It's going to be terrifying.
+You're probably going to think that nobody should pay you right now because of your inexperience
+or maybe you don't feel worthy of being paid or you don't think that they will think you're
+worthy of being paid or whatever, right?
+But I mean, veteran developers have these same thoughts.
+It's called imposter syndrome.
+Like you already said, we always think about this.
+But your first project, now don't lie, you know, be transparent.
+I'm an early stage developer, I'm learning, but I'm confident that I will do whatever
+it takes to get this done and to build the product that you want.
+I'm going to learn a lot along the way.
+I don't know what I'm doing, but I'm going to figure it out.
+And that's kind of the whole point of a job of a developer is figuring it out.
+I mean, even now, it's not always just coding, it's figuring it out.
+So I think, you know, you have to just push yourself past that and jump on a project and
+make sure you can do a free project for some people.
+But getting paid for an actual project, whether it's freelance or whatever, even if it's just
+a small amount, it, I don't know, it's a world of difference and it makes you feel more confident
+too.
+And it's just a great feeling of, hey, I built that people are using it.
+I got paid for it.
+It'll change a lot.
+So I think that's a huge milestone for early stage developers that you have to try and
+get over as soon as you can.
+And the second thing, which kind of ties into the first one is contribute to open source.
+You know, you can either get into open source as a gateway into building things on your
+own so you can seek those things out.
+A lot of open source software, they have, you know, public get hubs, things like that.
+You can go search through their issue list.
+And a lot of times they have them tagged for like good first time issues or something like
+that that are great to just kind of introduce you into working on something, a project that
+other people work on.
+Or it can be a side effect of the first thing where you start building things that use open
+source and then you start finding bugs or you start finding missing features that you
+think they would, that it could use.
+And then you contribute to add those things, which is how I got into it.
+And either way, it's great because it not only gives you more experience to work on
+different technologies or even if the same technology, just different projects.
+But it helps you get involved with the community.
+You get to meet new people.
+It helps you learn how to contribute to a project where you're not the only contributor.
+So it kind of helps maybe teach you things about Git and how that works or just in general,
+like code reviews, things like that.
+Speaking of code reviews, it also means that other developers who are successfully maintaining
+a software are going to be reviewing your code, which just means that it gives you new
+perspectives on your code reviews.
+Don't take offense if they tell you you did something wrong or you should change it this
+way or that way.
+Just be open minded about that and understand that they are successfully maintaining the
+software.
+You're contributing to it.
+So use that as a learning experience.
+You can push back if you disagree, but just be civil about it.
+And then it also can get your name out there.
+I mean, I had a job offer simply because I was contributing to certain open source software.
+And when they found out I was leaving my job at the time, they reached out to me and they
+were like, hey, is it too late to offer you a job?
+So I mean, it can open up great opportunities.
+Plus, it looks good on a resume.
+You can always put that on a resume that you contributed to these open source software.
+And then it also just, I don't know, it's a different feeling to successfully have code
+that you wrote be merged into open source software that who knows how many other people
+use.
+It's super rewarding.
+It feels really cool.
+Yeah.
+Yeah.
+That's incredible advice.
+Thanks for sharing that.
+And that leads me to one of the most questions I have for you and it is, so you've built
+a SaaS product that you are very proud of and as you should be.
+What have you learned about product development in the process of building this project?
+Yeah.
+So the project is Status Tracker.
+It was my first SaaS product.
+It was my first time really delving into the indie hacking community and trying to build
+my own thing.
+So I mean, I've learned a lot from that project.
+One of the things I learned in that project was something I said earlier, which was the
+best tool or the best technology to use is a technology that you know well.
+I use this as an excuse to learn some new things, but kind of a combination of some
+new things, some things I was familiar with.
+So it meant that I didn't build it as well as I could have, but I did learn some new
+stuff and so I built it on Next.js and I used a boilerplate so it kind of came with some
+TypeScript baked in and some other stuff with GraphQL and a few other tools.
+So I was able to learn a few new things that I've since used on following projects, but
+it also kind of taught me personally, I am not great at the non-technical part of building
+and maintaining a product.
+I need the yin to my yang to be able to handle those non-technological, non-tech parts.
+I can try to do them poorly, but I don't enjoy them and I'm not great at them.
+So things like reaching out to the community and talking to potential users and just typical
+sales marketing type things, they're just not an area that I'm comfortable in.
+And I tried it and I kind of lost my interest, I kind of lost my interest in the project
+entirely while trying to do those things.
+So some people are able to jump in and do those things and some people aren't and you
+kind of have to figure that out for yourself.
+For me, I figured out that it's not the right fit for me and I need to find someone else
+to help me with that.
+Now some of that could though be the subject matter.
+With my cosplays, I feel a lot better doing those things because it's a community that
+I'm already involved in.
+I'm my own user, so it helps a lot and I am a cosplayer, I talk with other cosplayers,
+I enjoy that community and being involved with them, so it's a little different.
+So I think part of that too is if you're going to build something like this and maintain
+a product, maybe focus on something that the target audience is an audience that you want
+to be a part of, or that you are a part of, or that you enjoy working with.
+Something like that where you're not going to get burnt out dealing with them every day.
+Yeah, that's great advice, I 100% agree with all of that.
+Me building a company, it's turned into an agency and that's what I didn't want it to
+be.
+I have to 180 and I have to ask myself these tough questions about how did I get here and
+how do I walk it back to being the thing that I actually wanted it to be to start off with
+and also defining what those things are.
+I think the reason why it happened is I never defined them.
+I never wrote the company mission, if you want to put it that way and so if you don't
+have a north star, then it's easy to get off course without realizing it.
+If you don't have questions to ask yourself when somebody reaches out to you to do work,
+you don't have those questions like does this go towards the mission of the company?
+No, then don't take the work.
+And of course, circumstances can affect that, like if a pandemic hits and you suddenly find
+that oh boy, you might put the mission on the side for a little bit and say yes to things
+you wouldn't normally do but yeah, it's one of those things that happens.
+So in closing, I know you enjoy traveling.
+I used to love it when I used to be able to do that through one of the clients that I
+work with.
+Cool, yeah.
+As you mentioned, you've been doing less of that for the same reason everybody else has
+been doing this, but I'm curious, what has been some of the favorite places that you've
+visited and why those places?
+Yeah, yeah, that's a tough question.
+I'm not much of a favorite person, like I'm terrible at picking favorites.
+But I think, I guess I would probably have to say just France in general, but mostly
+that's because we lived there for the past four years, so we've been able to travel it
+and see more of it than we have really anything else.
+So I've been able to have a few kind of really cool memories of, we've taken a couple of
+road trips through France, the first time we, so we lived in Paris and we drove down
+through France, down south, went down to Nice, and then we kind of spent about a week driving
+along the Cote d'Azur or the French Riviera.
+And so we kind of drove our way west over to Montpellier and then kind of drove back
+up north to Paris again.
+So we kind of got to see quite a bit of the coast, but then also, you know, southern France
+and things like that.
+We got to see a lot of really cool stuff.
+We didn't spend a lot of time in any one location, but it was just being able to see as much
+of it as we could was really cool.
+And I think that was right after things started opening up after the pandemic, well, after
+the pandemic, during the pandemic when things started opening up.
+And so we decided, well, we don't want to take a train, you know, we don't want to be
+enclosed with other humans right now.
+So let's take a car, let's drive, be on our own.
+And so we got to do stuff like that.
+And then we got a little bit later, my parents came to visit.
+And so we took a road trip through the north of France and went through a lot of Normandy
+and places like that.
+And so we've been able to see so much of France, it's just been really cool.
+But I look forward to being able to do that in other locations.
+Now that we're in Ireland, I'd like to do that more here.
+But also, there's still plenty more of the world in general that we would like to travel
+to more.
+And I think my number one place that we are wanting to go to that we were supposed to
+have gone to during the pandemic was for our 10 year wedding anniversary, we were going
+to New Zealand, we were going to do the whole Hobbit trail thing, all that stuff.
+But of course, COVID ruined that.
+So that's on our plans.
+We're hoping to get that rescheduled soon.
+But I think that's kind of my number one, like, I'm excited.
+I've been excited to go to New Zealand for years.
+So I really look forward to it.
+Yeah, sounds exciting.
+Yeah, I think that's also a place that I'd like to visit more so than Australia, to be
+honest.
+I just have too many bugs.
+I don't do good with bugs.
+And some of the freaky stuff that I've seen there, it just comes out of your shoes in
+the morning.
+I'm just like, no, no.
+It is terrifying.
+It is.
+I mean, I'm morbidly curious to go.
+We have some friends that we met in France who now live in Australia.
+So you know, they've offered to house us if we go visit.
+So we might do it one day, but I'm kind of the same, a little nervous, but still really
+would like to go.
+Yeah, it's a beautiful country.
+I mean, don't get me wrong.
+It's just there's a lot of creepy crawlies and I don't do good with those creepy crawlies.
+Sure.
+Well, Joel, thanks.
+This is really, really good.
+I really enjoyed speaking with you.
+It's really easy to talk to you.
+And I think we share a lot of the same interests, so that helps and the same viewpoints.
+Thanks so much.
+I hope you enjoy the rest of your Friday.
+I hope you have a lovely weekend and yeah.
+Thanks so much for joining.
+Yeah, you too.
+Thanks for having me.
+It's been a blast.
+Thank you for listening to this episode of the My Senior Network Podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at meetwithmysyndium and join the community
+on Tescoord.
+All the links are available in the show notes.

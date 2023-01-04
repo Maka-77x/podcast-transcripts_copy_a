@@ -1,0 +1,737 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey, Adelson.
+Welcome to the Mycelium Network Podcast.
+I'm so glad that you can join me.
+Thank you so much.
+Thank you for the invitation.
+It's totally my pleasure.
+So I know about you again, like many of the guests that I've spoken to before, through
+the contributions you've made to MDN, that I've been involved with the review process
+or making sure the right people look at your pull requests.
+But I think in those days, you were still kind of job hunting.
+But I know since then, you've landed a really good job that you're very happy at.
+So to get us started, can you give us a rundown of your background?
+And I want you to take your time here, go back as far as you'd like and bring us up
+to the current day.
+Yeah, sure.
+No problem.
+So I was a mathematics teacher for high school, almost nine years.
+And at the end of 2018, I decided to change career.
+And the reason of that was mainly because I wanted more flexibility about the place
+where I was able to work.
+I was really, really excited about that kind of project.
+I shared on the web about some jobs that could allow you that, and I really wanted it.
+Another one was about increasing my income, because unfortunately, the job that I had
+didn't pay that much.
+So before I finished or before I started the mathematics career, I was very good at programming
+and mathematics.
+And so I thought, okay, I shouldn't complicate myself that much.
+Let's go something related to programming.
+And at that time, the language that I was using the most was Python, mostly for scripts
+about processing data and that kind of stuff.
+So I didn't know anything about web development.
+I wanted to, but I didn't spend the time to learn about that.
+So I decided, okay, let's quit the job that I had and let's dedicate myself one year.
+At that time, I said to myself, like, one year.
+I think one year is going to be enough.
+And now I was wrong about that.
+So I started and check about what was the requirement.
+Check first about the options that we have about programming, how was the demand for
+jobs.
+I realized that web development was the one that had more opportunities.
+Also didn't mention, but one of the requirements was about not, because I took into consideration
+the time that was going to take me, about not requiring academic certification.
+And web development was like, okay, we only need you to have the skills.
+So yeah, I gathered like a kind of a small path, create a small path, like I need to
+learn HTML, CSS, and JavaScript, JavaScript, mostly programming.
+I had already advantage of knowing programming, so that didn't take me that long.
+And the other two, well, there was plenty to learn for the other two.
+And well, I spent, I think, the first six months with those three.
+Then check what was again, check went to the job hunting and check that, okay, those three
+are not enough.
+You need to, most of the jobs are requiring frameworks.
+So let's go and learn frameworks.
+And it was like a deep hole of frameworks, like a lot of them.
+And I went with the most popular one at that time, which was React.
+And well, there was the typing with TypeScript, and also there was the state management with
+Redux, and some other tools with CSS.
+So I learned plenty.
+At the end of the year, it was 2018, at the end of 2018, I start to feel the pressure
+like, okay, okay, it's enough with learning.
+You really need to land the job.
+You cannot just continue doing that.
+And yeah, I started sending application at the end of that time.
+That's when I really found myself like, this is the most difficult part.
+And it's a company or a team trusting someone that just is entering the industry, that doesn't
+have any professional experience, and it was very difficult.
+I sent hundreds of applications, a lot of gusting, no answer, nothing, no feedback.
+And that's difficult for you to improve yourself when you don't have any feedback, as you think
+what you're doing wrong.
+A good thing is that there are many groups out there, so you get to see many stories
+like yours.
+You get to know what you did wrong, and just perseverance, just keep applying, keep applying,
+keep improving over what you have done before, improving your CV, your resume.
+And I think there was like two or three, I think three interviews before I landed the
+first job, fortunately.
+And in the same, in the three interviews, I was able to learn what I did wrong.
+I knew that even if you reach the last step of the interview process, because you are
+starting and you don't have a professional career, that's going to impact you.
+And if there is someone that doesn't know, doesn't have the skills that you have, but
+he has a professional experience, they are going to go with that one.
+So I thought to myself like, what can you do to overcome that?
+And then I started with open source contributions, I started with Mozilla, and there is plenty
+of repos, plenty of projects where you can contribute there, there's also a small anecdote
+about that.
+We'll talk about that later on.
+And then when I got the IO or Adblock plus interviews, when I sent my application, they
+sent me back.
+And when I received the first answer, I was like, okay, I need to impress them in one
+way, I need to highlight myself.
+So what I did was find out was, fortunately, they offer all this information to the public.
+So I was able to find out what was the team that I was going to work on.
+What was the project that I was going to, meant to work?
+And it was in GitLab, and it's still in GitLab, with a mirror in GitHub.
+And I started to check and like, okay, I have one week, I need to learn the basics of how
+to go through the code base, get a little bit of phone overview.
+Then after the week, I got the first assessment, and while I was doing the thing, that was
+very short.
+I think it took me three hours, four hours the most, it's a small webpage that I needed
+to do.
+And I also in parallel, I was already trying to make a contribution, was like a goal for
+me.
+Like before I get the technical interview, I need to make a contribution to them, like
+a merge request or pull request.
+And I need to have it landed.
+And yeah, I was able to finish the merge request, and it wasn't approved at that time, because
+there was another priorities, but at least they were able to see it.
+They were able to see my skills, yeah.
+And then it was like, okay, I'm going to have the merge request, sorry, the interview, I
+need for another one.
+I mean, I shouldn't stop here.
+I don't have any, I couldn't leave anything to, yeah, I could be more than prepared for
+all this.
+So I ended up making two more merge requests, and the interview also, when they asked me
+about some stuff, I also made reference for the merge request, like, okay, I did this
+and I did that.
+I didn't limit myself to only have this back finish.
+I also tried to consider different scenarios, different cases for the user, and that helped.
+Now that I'm working with them, and I'm part of the team, and I have seen also other process
+of the hiring, I know that it was very difficult to trust someone that was just starting and
+was changing career, and it was like one year and a half.
+So it was a difficult decision, and I understand other companies that also don't trust that
+much them.
+I don't think it's ideal, but I understand the reasons.
+And yeah, at the end, through all the process, they gave me an opportunity.
+And after three years already, I just completed the three years, I'm still working with them.
+Very happy, they were all the time very supportive.
+They understood that I was just starting, very patient, and yeah, that's more of it.
+That's great.
+There's a lot of gems and some really good information and guidance in there.
+Kudos on how you've approached this whole process.
+I think it was very, very mature and very well thought through.
+I think a lot of people can learn a lot from that.
+I was going to ask the question about the interview process probably later on, but seeing
+that you've touched on this already, maybe we can dig into it a little bit now.
+I think you've made some really good points.
+I've previously spoken with somebody called Ian Douglas, he's a career coach, and he also
+gave a lot of good information about what a recruit is looking for.
+And I think it's very important to understand that, because if you understand that, you
+can tailor the way you approach applying for jobs better, because even though you did mention
+that you sent out a lot of resumes to a lot of different companies, I think that is one
+way of doing it.
+But the other way of doing it is trying to find, let me stay back a little bit.
+So there's a lot of opportunity right now in the software industry, whether that be
+web development or machine learning or AI or any of these things, blockchain, there's
+a lot of demand and there's a shortage of skills.
+So it's kind of a really good time to get into this industry if it's something you're
+interested in.
+I think that's something to be highlighted.
+Don't just get into tech because you think it's going to be some utopia that you're
+entering.
+You need to have a true interest and the love for problem solving and struggling and writing
+code and trying to fix problems, failing, trying again, failing, trying again.
+But then when it comes down to applying, I think you can be a little picky now.
+You can kind of look for companies that interest you, the work they do, the culture they have,
+that kind of thing, and then really tailor your resume to the company.
+And I think all that research you did about who is AdBlock and what do they do and oh
+yes, they're good.
+Oh wow, it's open source.
+I can actually contribute to this, actually contributing to work that they're doing.
+I think that was a brilliant move on your part.
+So I think that was the good experience that you had at the tail end.
+But is there some things earlier on that you found?
+I think you mentioned some of this where you felt ghosted sometimes and you didn't get
+feedback from the recruiters about why you weren't even given an interview or something
+like that.
+Is there anything, any other things you'd like to bring up that you found during the
+interview process that you felt was not ideal or even completely broken?
+And do you have any ideas about how recruiters and companies can improve that?
+Yeah.
+So before we reach that question, I wanted to make a comment about what you just mentioned
+about tailoring the, but you are partially right about tailoring the interaction with
+the company that you are interviewing with.
+What I'm not that in favor, and it's because we are not considering completely the experience
+that a early stage developer has, it's about tailoring the resume.
+Because I have heard also multiple times like, hey, you should send a specific resume to
+every one of the companies, just remove everything that is not meant for the company, just focus
+on that one.
+The problem is that, I mean, the people that have go through standard academic learning
+stuff, universities or this kind of engineer schools, or the ones that have finished like
+a bootcamp, that kind of thing, they have very little to add in their resume.
+Most of them is like small projects that everyone did, and they tried to add it like that in
+their resume.
+I also did that.
+And so there is not much to remove from the resume, unfortunately.
+And yeah, the companies are going just to ignore it because it's the same everywhere.
+It's a very, I mean, if you focus on what the company wants, it's very little what they
+can get from that.
+That's also something that I noticed that when I started, they were like, hey, I have
+this skill, I can do this and I can do that.
+But I wasn't in the mindset like what the company wants from me, what can I do for the
+company?
+And I have noticed that mindset in many people that are finishing their careers, that they
+are like, hey, I'm good at this and I'm good at that.
+But they don't go and say, I can help you team with this, I can do this for this.
+I have noticed that this company does this, I can do this for you.
+And we need to change that.
+It's not mentioned that much out there, unfortunately, but that's something that recruiters really
+appreciate.
+Things that I learned about, well, there are bad and good things.
+One, for example, there's a lot of stuff.
+There is one that there is a lot of opportunities out there that are coming out, popping up,
+but they are specific to certain groups, which is very nice.
+But you cannot cover all the groups.
+In my case, I was established in Mexico and didn't have many opportunities, especially
+for remote jobs.
+I was trying to target European or USA market.
+It was just very difficult, almost impossible.
+And there was some initiatives, I think one of them was, there was one that approached
+for Mozilla and it's quite popular.
+I think you mentioned in one of the podcasts for outreach, that one.
+So I get to hear about that and I applied to that one.
+And unfortunately, I got rejected, but that didn't stop me.
+I was like, okay, this is the nice thing about working in the open.
+They publish everything, all the candidates, which companies were accepting them.
+You were like, okay, and even more, which team was going to work with these people that
+were selected?
+So I was like, okay, what I can get from this is that these teams and these companies are
+open to help out early career developers to grow.
+So I target Mozilla and I noticed like, okay, this team, which was a very internal tools
+team, I did some contribution, I think over a dozen contributions there.
+I forgot already the name of the repo.
+So they accepted one person in outreach and I was like, okay, I went to the repo, I checked
+and the person was already helping out in the process.
+I mean, this person had access to all the internal communication.
+I didn't, it was only the GitHub.
+But I started also, along with this person, even if I wasn't going to receive the compensation,
+the support, I was like, I'm going through the experience at least.
+And I started with a person at the same time and we were like contributing, both of us
+were contributing following the process, the difference is that the other person was internal
+communication and compensation.
+But then it was super nice because one of the administrators of the repo sent me an
+invitation for, at that time, IRC, I don't remember which server, but IRC channel.
+And I was able to like, able to store the local chat and the chatting locally, like
+keep it persistent.
+So I was able to communicate with them and I got to learn a lot.
+It was a React project, if I remember correctly.
+And I was with them, I think three months, something like that, the full experience and
+all the other stuff, I ended up adding into the resume.
+I wasn't outreach, I didn't mention any outreach stuff, but the contribution I was able to.
+So that's one of the things that I try to recommend to the people out there is that
+yes, compensations are important, but even if you are not able, if you are not selected,
+you need to make the most out of it and try to take the opportunity, at least learning
+for other people that are out there.
+And all this, do this, all this kind of research.
+So that's one of the things that I did.
+Good things that the people that interviewers check and it's self-learning, they have initiative.
+Depending on the company, I was lucky with the open source.
+If you mentioned this, because the recruiters are going like give a fast overview.
+So if you have made contributions to open source, be clear to put those ones at the
+top and mention the big companies like Mozilla, mentioning that, even if you did like a small
+contribution, you can talk later on about that with them.
+Make it short.
+Some people make like three pages of resume.
+They don't have times, recruiters to check all of that.
+So make it short, one page, very, very small, all this kind of stuff.
+For example, if the tails, like the URLs, and if you can just add the link into the
+PDF, that would be nice instead of putting the full stuff.
+Team skills, soft skills, they look for that.
+Don't try to present yourself like a very smart person.
+Be humble.
+There is always someone that has more knowledge out there than you.
+And a lot of people have more knowledge than you.
+And I think that, me as a starter, when I started the job, I think that was the skill
+that they appreciate the most.
+And it was like, I really wanted to learn.
+I was like, hey, because they emphasize on that, like, what do you think?
+Do you know?
+How much do you know?
+And I was like, I know, but I know all of, I see all of you and you have a lot of knowledge
+and I will be very happy to get a little bit of that knowledge to help out the team.
+So it's all about the team.
+It's not about you.
+It's about the team, making the team better.
+You become better and the team and some becoming better also.
+So yeah.
+Yeah, no, I agree.
+I think it is important to talk about what value would you add to the team as an individual.
+Not so much just what you can do technically, but the soft skills.
+I think that's very important.
+I think that's one of the things that you get from open source is you get to show that
+you're able to work in a team.
+You're able to follow guidance, you're able to take feedback constructively, you know,
+you don't like rage quit and like close the pull request kind of thing.
+If somebody disagreed with something that you said, and I think sometimes also what
+shows a lot of your character is if maybe you opened a pull request and the people from
+the repository or the project came back and they said, ah, you know what, this is not
+really something we want to do at this point.
+So unfortunately we're going to close this pull request, but thanks so much.
+And there are some other ways, other things you can contribute on and they point you towards
+it and people can see that you actually went and took something else and took that, opened
+that one and got that merged.
+I think that shows a lot of character that you're able to take feedback, not take it
+personally and they move on and take the guidance and find the things that the company actually
+or the project actually feels is useful contributions or valuable contributions, I should say.
+And that you are able to do that, that you're not just saying, oh, no, this is a bad experience.
+I feel like, oh, I can't deal with this and I'm going to move on because part of work
+is getting feedback.
+All or most companies these days works through some kind of pull request flow.
+So your code is going to be reviewed by peers and there are going to be people who have
+more knowledge on a specific topic than you and might be able to help you by telling you,
+oh, you know what, there's a better way to do this or wow, this component is getting
+really big.
+I think you should split it up into three separate components that each just do one
+thing really well.
+And I think being able to take that kind of guidance and acknowledge it and not just give
+up because people give them just say, yeah, this is perfect and most full request, I think
+that shows a lot.
+So going through that process, I think is important.
+So I'm wondering, you have a lot of enthusiasm and you have a lot of, what is the word I'm
+looking for?
+You don't give up easily.
+I think that that is something that I've learned about you in this short while that we've been
+talking so far.
+And I think that's also important.
+Don't give up.
+If this is really something you want, you have to keep going.
+You have to roll with the punches as they say, sometimes things aren't going to quite
+go your way, but see what you can take from the experience and learn to use somewhere
+else.
+Maybe this wasn't the right company or the right like outreach.
+Maybe that wasn't the right vehicle for you.
+Maybe you need to find something else.
+I think it is hard.
+It is hard.
+I mean, it's human nature that if you keep putting yourself out there and you feel like
+you keep getting rejected, you do lose motivation.
+You do start to think, is it me?
+It's not the industry.
+It's not the company.
+It's not the project.
+It's me.
+It's something wrong with me.
+So I wonder, what do you do?
+Is there some like, I don't know, resources, books, people, anything like that, that makes
+you able to be so persistent and to be so resilient?
+Well, about the resilience per se, it's difficult to give an advice on that.
+It's just simple to say like, don't give up.
+I felt a little bit down when I was rejected, but not a little bit, a lot, but you get used
+to it.
+I mean, you just keep trying and then it's like normal.
+Obviously, you need to learn from that, but try to improve yourself.
+I think what made me, I didn't have like this kind of network.
+Still, many people were recommending like, hey, make a network in the social places and
+you will get a lot of people out there and you will end up landing a job.
+I'm not good at that, unfortunately.
+What I found out was that it was very nice to have these communities of people.
+There's a lot of people from different countries that are trying to do exactly the same.
+They see the opportunity.
+There's a lot of benefits from that.
+And they really want to just get the first job.
+And that's what helped me out to keep going.
+There is a place that later on, well, I can recommend already, but there are multiple
+places like that.
+I mean, you have the network that you started this year, the Miscellaneous Network, that's
+very nice.
+There is another one that at that time I got to know and it has plenty of followers, Chingu,
+the Chingu Project.
+The nice thing about that place is that they simulate like kind of teamwork with kind of
+an agile thing.
+And that helps out.
+Like, you need to establish your goals, what you want to finish.
+You have a team of a designer, developer, project manager, all that kind of stuff.
+And it's for free.
+All that is for free.
+I think I learned from free.
+They didn't have that much money, so I was like, yeah, I cannot afford just investing
+at that time.
+And I use sense for the rest.
+There is a lot of free resources.
+That's the nice thing.
+So I think the support from the people that was helped the most, like seeing, talking
+to each other like, hey, I had this interview when it didn't go that well, let's keep going.
+And complaining to each other like, hey, why are they not giving opportunity to people
+like us?
+Because the companies are saying that there is not enough developers out there.
+So all that kind of stuff gives you a little bit of confidence.
+And you just keep trying.
+Find a way.
+Like you say, don't give up.
+Find your way.
+Each person has a way to learn and achieve their goals.
+Just feel comfortable at that.
+Now, places to learn.
+I don't remember what was the first one, but for certain, the one that I used the most
+in the first years of the learning process was MDN.
+There was a quite well structure.
+I mean, I went through at that time through the CSS, HTML, and JavaScript handbook guides
+and stuff.
+I think something nice about those guides and compared to another ones is that they
+really care for accessibility, for example.
+They really care about using the things right, using the proper elements, not just fill everything
+with deep containers or span containers.
+They were really emphasizing about making things in a proper way.
+And that, because I learned it in a very early stage of my career, that stick with me.
+And I'm still doing it in the job.
+I'm like always trying to emphasize whatever I develop or whatever I review, I dedicate
+more time to check all those kinds of stuff, accessibility, one of them.
+So MDN, I still do it, use it a lot, especially for checking APIs, if I'm doing it right,
+if it's one argument or two arguments, the number of stuff that this requires.
+Another one that I recommend, and I think it's not that popular, a little bit of a pity,
+is JavaScript info, JavaScript.info, it's for JavaScript only, it's quite well structured.
+And I like it a lot.
+I don't use it that much nowadays, but for learning, it's pretty good.
+And well, in general, just any search engine, whatever doubts you have, whatever problem
+you have, just search there, just keep an eye on the dates and whatever they recommend,
+if it's up to date, the browser compatibility, the version, if maybe you can use a better
+API or a different CSS rule thingish, whatever.
+So just keep an eye on the dates.
+This thing changes quite often.
+So yeah, I know JavaScript.info has been mentioned by a couple of folks actually.
+So it's interesting that there isn't more focus on that.
+I hadn't looked at it.
+I kind of knew about it, but I haven't really looked at it.
+And having so many people mention it, I did have a look at it and it is really good.
+It is really, really good.
+I would definitely encourage a lot of people to check it out, especially if you're early
+on still learning, think it's a good resource.
+So I think you've highlighted some of the resources that again, like I mentioned, I've
+heard a lot of other people mention, and I think MDN is the guidebook for the web.
+That is the intent.
+That's what it's meant for.
+It's why it's around.
+It's why it's so popular.
+But I do think that I've learned, and I want to hear your side of this, and I don't want
+to talk about it too much from my side, but I've heard a lot of feedback regarding gaps
+with the learning experience.
+So without leading you down a specific road, I'm just going to kind of put it at that.
+What struggles have you had when you learned, like, yeah, there's these great resources
+out there like MDN and JavaScript Info, but what are the challenges that you faced when
+learning?
+So divided by my parts in my career is starting, it was like finding the resources that I need
+to learn.
+That wasn't that difficult.
+I think the first struggle was like what to do after, because you get like these basics
+and then you get yourself with a lot of frameworks and like, which one am I going to learn?
+Because I really considered at that time, I didn't know how many were out there.
+And I was like, I'm going to learn all of them.
+And then later on you find out, and every year or even short of the time, one pops out.
+So no, you are not going to.
+You need to focus on something and work on that.
+And later on you can improve or learn something else, but you need to make your choices.
+There is a lot of places, either YouTube, either communities, even companies that provide
+this kind of learning paths by you need to pay a little bit.
+There's a lot of demand at the moment, a lot of products and business out there doing this
+because of the demand problem.
+And what I see on all of them is that they try to make you learn either a frame or something
+super fast, but they are lacking the professional experience, the real practice.
+You end up being able to replicate, for example, an example, a project example, either a website
+or either an app.
+You can replicate, you do it exactly the same as it was done there, but you don't have initiative.
+Not all the time it's about creating something from scratch.
+Most of the time it's about giving maintenance to something that has already been done.
+And that's rarely touched.
+You don't see that much of a stuff.
+So it will be nice to take these people.
+I mean, I'm in love with open source stuff, with open source project.
+There is a lot of them.
+It's getting more and more popular out there.
+Just take these people that are coming out of any learning process and help them out
+to contribute, to get experience there.
+Both are going to be a win-win.
+The people that are behind the project are going to either improve their documentation,
+for example, to facilitate the contribution or even better, maybe a mesh request, something
+fixed, maybe in the future, who knows?
+Also, they will be able to see the people that are coming out from this learning process
+and consider them, having consideration about picking up some of them to a future opportunity.
+And also, all of us gets to learn how it is to work in a team and how it is to work not
+just in a team, also in real cases scenario, fixing stuff, giving maintenance.
+So that's the initial stuff.
+Then it comes ghosting with the interviews.
+I don't see the solution there.
+The only thing, there was a case that is still in my mind, and I think it's quite a bad practice.
+There was a company that wanted to help, or maybe have a little bit of popularity, want
+to help the beginners out there.
+So this company made a post and a social network, and I said like, hey, we have a vacancy, we
+have an opportunity.
+I think it was only one for early development, people with zero experience.
+No, the post got super popular.
+And the thing is that I apply, and a lot of people apply also, later on I got to know
+them, if I remember correctly, they say that they had over 1,000 applicants.
+So they were struggling a lot to process all of them.
+So it just not made difficult for them, but also for us, because it was complete ghosting.
+Like you didn't get any information.
+You got the interviews, they went through the interviews of many people, of hundreds
+of people.
+Interviews of hundreds.
+That's so difficult.
+It was super fast.
+They told me, like, we are interviewing these hundreds of people, and they were like, oh
+my God, five, 10 minutes, very fast, and obviously they are going to forget about you.
+I don't know how they ended up with the selection, and yeah, this is one of them.
+I think not us, candidates should focus on the companies that want to work, but also
+the companies that are trying to select the people, they also should put a little bit
+more of dedication.
+Difficult, I know, but just give a little bit of feedback.
+In the case of us in AdBlock Plus, I have also been nowadays with interaction with some
+hiring process, and I have noticed that a candidate is requested, but they want to learn
+about that.
+It's not just getting the job, it's I want something out of this, and we try to push
+for that, we provide, like, hey, we like this from you, and we think that you can improve
+this, this other thing.
+So that's the second thing that I struggled, which was gusting and being able to learn,
+work on while being blind on the part.
+Then it comes a lot of stuff, then it comes the first months in the job, I think it's
+something that is good to know, because most of us will struggle with that, and most of
+us won't be able.
+I have, unfortunately, I have seen cases where after all this hard work and stress, they
+get their jobs, and they find out that the job is even more stressful than anything else,
+and they either quit or they are not able to keep the job after weeks or maybe months,
+and that's a little bit disappointing, because that's going to break a lot of people out
+there, and it's quite bad.
+So that's something that you need to be prepared, and it's the imposter syndrome, which is quite
+mentioned out there, and it's that you will feel like you are there just by luck, that
+they made a mistake choosing you, that, yeah, I still also feel it.
+You get used to it.
+It's just, in my case, it's like, if I feel that, it's because I still have something
+to learn, and that's exciting.
+So I went through that the first six months, and the fear, they are going to fire me, and
+they will notice that I'm not the person that they were looking for, and instead of being
+able to focus to do your job, instead of being able to focus to learn from the other people,
+you were focused to not get fired, and I'm telling you, my team was amazing.
+They were like, all the time, we are not expecting you to walk this fast, we are not expecting
+all, we are expecting only for you to learn, to learn from the team.
+They clearly say, take your time.
+That was amazing.
+Yeah, but it's still in me, like, no, no, no, I need to still finish stuff, and maybe
+they say that because they wanted to be kind, but yeah.
+And how did I overcame that?
+Well, like you said, just not give up, just be persistent, just try to, well, now what
+I feel is like, all the people that have a lot of knowledge, try to interact with them.
+The nice thing about this career, in general, development, is that most of the people are
+very, very kind.
+Most of the people want to teach others, and they are willing to explain, dedicate the
+time to explain how things work.
+So just go there as for help, get feedback from everyone.
+And when you have the opportunity to share stuff, express it.
+If the people, even if what you say is redundant with something else, or it doesn't make sense,
+express it, because it will help you out to improve in communication with something else
+that you need to learn.
+See, they've been able to communicate with the team.
+And well, yeah, two things could happen.
+In my company, it's like they were super nice, hearing me out.
+That's nice.
+And it could be that other people in other companies, they won't be that nice.
+And if that's the case, then maybe it's not the place for you.
+I struggle.
+And I think that was the thing that hit the most, because it stayed there for a long time.
+I think one year and a half, two years, like super stressed because of that.
+Then after time, you get to know like, okay, first idea to my money, like I love this job,
+the company's being that nice to me, but jobs are not forever.
+So you need to start focusing in things that will be more persistent in your lifetime,
+giving more priorities in your life.
+That is when the things get a little bit relaxed.
+And I mean, I'm still worried sometimes, but you get to relax.
+You have your times for relax.
+And nowadays, what I focus the most on, the challenge, one of the challenges is that I
+want to be more productive.
+I feel like, and I am slower than most of my peers or my developers.
+And we just had a discussion about what could be the reasons of that.
+It's not like they requested for me, like they didn't say that, but I felt that.
+And it's all about how you focus on stuff.
+It's all about how you prioritize things.
+Sometimes you go too deep on something and you need to go a little bit wide.
+You need to have this kind of, later on I got to learn that you need to have this kind
+of time budget, that you don't have time for everything.
+If you had it initially for, you don't have time to learn everything from all the frameworks,
+now you don't have time for being able to go that deep into the code base, into an issue.
+Maybe you want the best solution, but considering the time.
+So yes, all these kinds of things you get to learn.
+And right now I'm working on that.
+I have felt improvement over the last weeks, but still I think there is a margin to learn
+things to learn from that.
+Yeah, that's a tricky one.
+It's something I still struggle with.
+I have tried so many tools and methodologies and stuff like that.
+This week, for example, the one I've heard about before and I haven't implemented it,
+which is the key part of it.
+Just reading about a productivity method doesn't make it happen.
+You actually have to implement it for it to work.
+So I've heard about the Eisenhower method, which is something I'm curious about explaining.
+And then I learned about this new one called the Moscow method.
+It's actually, it spells Moscow, but it's, it's actually an acronym.
+It's basically, what does it stand for?
+Let me see if I can see, derived from the letter of each.
+So M is must have, S is should have, C is could have, and W is won't have.
+And then if you make it into an acronym, it's Moscow.
+So it's very similar to the Eisenhower technique, but I guess it has subtle differences.
+So I'm kind of reading about that one as well.
+I've tried different tools to try and like give myself artificial deadlines and stuff
+like this, because I feel if I don't have a deadline, I'm always going to like just
+keep procrastinating on the thing.
+I'm going to keep diving into that deeper and deeper into the rabbit hole.
+And so I'm going to overthink stuff.
+Like I'll look at a single element and like, is this really the right element?
+And like, while that's important, sometimes you have to like, say, you know, it's, it's
+good enough for now.
+Let's move on.
+We can put a little to-do note in there and we can come back and revisit it.
+So yeah, I totally get that and I agree.
+So we're kind of running out of time and there's two things, two or three things I'd like to
+touch on.
+So I'd say as much as you can or want to about this, but you mentioned earlier on that being
+from Mexico, you were targeting US and European countries, but you found it almost impossible.
+I think there's a lot of people in developing countries that faces the same problem where
+in their own country, jobs are very scarce.
+So they do want to reach out to the bigger global market.
+But especially when you're new, how do you even do that?
+Can you like, just dive into that a little bit?
+Like what were the challenges that you were facing and do you have any like ideas of what
+we can do?
+Is this a community thing that can help you?
+Can open source help you?
+Yeah, same goes with open source.
+I think, well, first I noticed that with USA was going to be a little bit more difficult.
+I got, I think one interview only.
+It was quite informal, it was usually the smaller the company, the more opportunities
+they give because the bigger they get, the more they need to follow like this kind of
+standards to not overcomplicate themselves with special cases of people outside of their
+countries.
+So I noticed that.
+So yeah, there was a couple of opportunities in USA, but it was like a company that was
+going just to start.
+And then I still didn't get those.
+What I noticed is that Europe in general give more opportunity to people from outside of
+the area, at least from Mexico.
+I'm not certain of all the regions.
+I'm not certain about India, for example.
+I'm not certain about some African countries.
+I'm not certain about that, but at least from Mexico, I got to see that they were quite
+open to that.
+So it looks like they are not that strict with this process about this kind of payment.
+There is the freelance opportunity, it's your part of a company.
+You don't have all the benefits in a way of people that is on sites, like for example,
+health, insurance, all that kind of stuff, but they can still hire you as a freelancer
+and there's plenty of methods out there for payment.
+So it's about most of the policies that they follow.
+And yeah, in Europe, I found more opportunities and I got most of the interviews from there
+and where my company is from Germany, so yeah, it matches all what I saw before.
+And well, open source, it's like if you see that a company has plenty of projects that
+are out there, it means that they are open to or there will be more flexibility for people
+from outside of the company to get enrolled into the processes.
+They will be, again, they will be more open maybe to hire someone, maybe to share some
+stuff.
+They care for another, maybe for results, for the user experience, for the products,
+but not instead for like, only these people get to know about the process of the company.
+So it's working on the pop and if you search for a company that works in the open, that
+will give you more opportunities for you to get hired, personal experience.
+Yeah, that's good.
+That's good to know.
+Yeah.
+It's interesting that Europe is more open.
+Cool.
+So two things I want to touch on.
+I saw, I had a look at your GitHub and you've got quite a lot of stuff going on there, but
+there were two projects that kind of jumped out at me, but I don't know if you want to
+quickly touch on them.
+Again, I didn't look into them in detail, so I don't know how active you are still
+with these, but they just sounded interesting.
+The one is called Meet Your Lab and the other one is called Failed Coding Exercises.
+Well, the Failed Coding Exercises, I don't remember.
+First of all, I'm not active on GitHub, unfortunately.
+That's something that, as I'm struggling, that I'm trying to find the time for my side
+projects.
+There is a lot of side projects accumulated in the list.
+You mentioned before about the improvement stuff, about how we can get more productive.
+We have this stuff as developers is that, okay, we are thinking how to improve on something
+and we are already thinking about implementing something like, oh, I can create this application.
+We are tempted to create this stuff, even if it's out there already.
+So there is a big list to do.
+So now that GitHub, I'm trying to find a way to have time for me, not only the company
+stuff.
+Little by little, I'm getting better at that, but still I haven't reached the time to dedicate
+for my side projects.
+So the failing exercise, I don't even remember what it was.
+Another thing is GitHub is not the report where I work most nowadays.
+We work in GitLab, so we have moved to GitLab and I don't have mirrors, unfortunately, for
+my projects.
+So Met Your Live was about a project for Chingo, was one of the projects that we did there.
+It was React, TypeScript and Redux and I listed in the CV, but at the end, I think the open
+source contributions to Mozilla was what interested most to recruiters because it's this team
+working stuff.
+Also, but Chingo Interaction also helped, they asked me about that.
+There was another one, TabFX, which was an extension that I did a request from one of
+the interactions with MDN administrators, developers.
+We have the chat and the person said, it would be nice if we have this extension.
+And I was like, I can do that.
+And I said myself like, in one week, let's do this.
+And I was able to do it.
+The person used it and I improved it.
+I dedicate probably three months, four months of my attendance.
+I got only like 50 people using it the most now at ICC STEER team.
+Then I got the job and I wasn't able to keep working on that.
+Interesting.
+Yeah, no, it's hard.
+And I think we shouldn't break our backs to try and do side projects.
+But I think if it's an outlet for your own creativity, then it's great.
+But I don't think if you're already busy enough with work and you get all the satisfaction
+and you get to explore new technologies and new things as part of your day job, then I
+mean, you don't have to give yourself for that to do side projects.
+Thanks so much again, folks, for joining.
+I think this was a great conversation.
+There's a lot of insights that you've shared that I really think is going to help a lot
+of people.
+So just in closing, is there anything you'd like to mention, any last words, any advice
+that you'd like to give to early stage web developers and how can people find you on
+the internet?
+Yeah, Twitter, LinkedIn.
+I think nowadays I'm more active in LinkedIn, but yeah, Twitter also.
+I think you will share it in the notes, my handlers, and well, just for the companies
+and the teams out there, I know that it's difficult to get developers, there is a lot
+of demands and not that many with the skills that they want, but you need to dedicate a
+little bit of time to create these kinds of opportunities for early stage developers to
+interact with them and get to see the skills that you don't get in, I don't know, half
+an hour, one hour interview, it's impossible to get them.
+Most of the people like me are nervous half of the time in that interview.
+It doesn't need to, I mean, I highly recommend open source projects and give them this space
+for them to interact, but it doesn't need to be them.
+They can be like workshops also, they can be like hackathons, open hackathons where
+they can go there and it's mostly I think two weeks, three weeks that they can take
+from their normal workflow and I think they will find plenty of people that it may end
+up becoming part of their developers right away or maybe in one, two years they can keep
+an eye on them and see their role and hire them later.
+So yeah, have this space.
+Yeah, that's good advice, that's good advice.
+Thank you so much for joining me Adelson, this was a great, great chat.
+I hope we can catch up again later on when the podcast is even more emphasized and you've
+even grown further in your career and have even more insightful information to share
+with the community.
+So thank you so much for taking time to speak with me, I really appreciate it.
+Thank you for listening to this episode of the Mycelium Network Podcast.
+If you're not already, please subscribe, star and leave a review for us in your podcatcher
+of choice.
+This helps others find us and helps us make a better podcast for you on this course.
+You can also find and follow us on Twitter at networkmycelium and join the community
+on Discord.
+All the links are available in the show notes.

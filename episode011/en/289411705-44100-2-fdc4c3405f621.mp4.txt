@@ -1,0 +1,563 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey Raphael, welcome to the Mycelium Network Podcast.
+Thanks Kouk, thanks for having me.
+It's a huge pleasure. I'm glad we're finally able to meet and to talk.
+I think you were maybe, after Riku, you were like the first person to join the Mycelium
+Network and you've done so much to promote it. I am really grateful for everything you've done.
+I know a lot about your story, but the people listening to the podcast might not. So I think
+the best place to start is for you to tell us more about who you are. And as I've said with
+previous guests, feel free to go as far back in history as you want and up to the present day.
+All right. I'm Raphael. I'm Brazilian and actually I'm not from the IT world. I've been
+working with criminal law for like eight years. I work for a judge and I work with you in criminal
+cases. And this year I started to migrate to change career paths. And I was actually curious
+because one of the things I started doing when I started studying programming and everything
+was working with translation. So I started working with the MDN localization and then
+I popped up in one of the, I think it was, it was the first community call you promoted.
+And then one thing led to another and I ended up in the Mycelium Network. And about me, I actually
+have had a brief contact with programming. Like 15 years ago, I started doing mechanical engineering
+and I went as far as the third year, but then I gave up and started studying law. And by that time,
+it was very different from the feeling that I have now. I started studying in the university
+and we started with, I think it was Pascal. And I think it was Turgopascal. And actually we did all
+the exercises on paper, not on computer. It was very strange. And it was a fun discipline to take
+a fun course because it was very challenging. We were studying basically math problems,
+but it was not very welcoming. So it didn't get my attention at the time.
+And my two brothers, they are in the IT field. My middle brother is on
+Netherlands. He's a backend developer. And my younger brother is on the university. And I have
+always had this like proximity with tech. I always liked to discuss with him about some issues,
+about the technology in general, but I never really dug into programming since that period.
+And in my job, my actual job, it's curious because I'm known as the IT guy because it shakes
+everything for the people that don't know anything about it. But mostly it's like very common issues
+and very basic issues that people have kind of, people are always afraid of computers. I don't
+know how to explain it. So mostly what I always do is like reason with someone like, why do,
+what do you want to do? And why do you think it's not working? And it's basically leading them to
+find the solution themselves. So the other thing that led me to change career paths is because I'm
+planning on moving to Canada next year, the beginning of next year. And then it's a long-term
+plan, like to migrate completely to the tech field and maybe someday become like a digital nomad.
+It's like a dream I have with my wife. So it's like a plan for like five, 10 years. But in the
+short future, I probably will be working with law in Canada. I will be working in a lawyer's office.
+But it's since I started studying programming, the community and I've been part of the
+Missile Union Network, but I've been part of a lot of different communities. I've been exploring
+a lot of different communities. I've been exploring a lot. And this is something I never
+had imagined back then when I started computing and then gave up. Because it's really a different,
+it gave me a real different impression of the field. So I talked to a lot of people,
+I connected to a lot of people. And I found in like two or three months a lot of friends.
+I don't know anyone personally, but I have a lot of exchange of thoughts, of ideas. And it's very,
+it drives me further. So basically that's it. And as you always say, I'm an early stage
+developer. And I like this provocation of yours because we have some stigma with the word beginner.
+And I have another mentor that always tells a little joke. We are always beginners here.
+Some are beginners from a longer time. Some are beginners from short time. So it's like
+putting things into perspective and we are always beginning on something.
+Yeah. No, that's very true. I mean, that's why I think that because, like I've said,
+backend developers going into frontend, that's new to them. And even for frontend developers
+exploring, there's so many frameworks and things coming out these days. It's kind of calmed down
+a little bit, but there's still a lot of action happening. I think in CSS, it's starting to
+happen more than in JavaScript. And so whenever you approach one of these new frameworks,
+you're new to it. It's like, yeah, sure. You know the underlying language or the underlying
+technology, but the way you have to think about how you build applications is different. React
+famously always says that React is just JavaScript. And to some extent, that's true. But it's not
+100% true because while the underlying language is just JavaScript, there's a specific way of
+thinking when you write in React that is not necessarily how you would approach something if
+you were writing without React. So those aspects of React, you can be a really good JavaScript
+programmer, but still find it challenging because now you have to adopt this different approach.
+I know for myself, for the longest time, it felt so weird to put it on click on an element because
+I've always learned that you separate concerns, and that's not how you do it. You do a document
+or query selector to get the element, and then you do element.addEventListener. You don't go on
+the HTML element and put an on click there. It's not the way to do it. But the reason you do that
+in React is it's idiomatic, and it's actually stripped away back into it, addEventListeners,
+into addEventListeners by Babel or whichever transpiler you're using. So at the end of the day,
+it does end up being an addEventListener. It's just the way you write it is different.
+State management, it's something that's very unique. It's now unique to a lot of frameworks,
+but React introduced this whole idea of UI being a representation of application state. Again,
+that's a new way of thinking of stuff. And I sometimes find it hard again when I move back
+and I just write something in plain JavaScript, then I miss this used state thing. It's like,
+oh, how do I do this now without having that used state hook? You're constantly going between these
+worlds, and as you move between these technologies and frameworks and things, you're constantly an
+early stage person at something. So I think we need to even be okay with using the word beginner,
+but for now, let's use a different nomenclature just so that we can break down the stigmas there.
+It's very interesting that you've gone mechanical engineering, then you went into
+law, and then you decided to go back into more of an engineering kind of thing.
+Is it just that you've felt the previous industries or segments or whatever we want to call it,
+did you just find that the connection that you thought was there didn't last,
+and you kind of feel disconnected from this world?
+Exactly. And I have a deep fear that I learned to deal with, that is that I would
+end up jumping from thing to thing all my life. And actually, there are more areas that I explored
+before going to mechanical engineering, but that was in my early adult life, the first one that was
+like a profession. And it's actually a good question you asked because that has a lot to do
+with my view for technology now. Because when I started in mechanical engineering,
+one thing I always liked was to solve problems. And back in the day, it was most like physics
+or maths problems. And this was the most topics I used to study, so I chose mechanical engineering
+for it because I would see a lot of them more in the university. And I really liked the calculus
+courses, but nowadays I don't know why I like it so much because it's like Greek to me. But
+in that period, I kind of felt that most of my colleagues just thought about the technical
+aspect of things. They don't discuss it, ethical problems, they don't discuss it,
+the impacts of the solutions they were thinking in the world. In that, I was feeling out of the...
+I didn't have identification with people. I liked to study the courses, but I didn't have
+the identification with the profession. So I kind of had a course on ethics and legislation
+on mechanical engineering, and then I decided to move to law. And I began law with another passion
+because I liked the philosophy of law, I liked discussing ethical issues. I took part in a lot
+of groups in the university. It was a very great moment for me because it was very effervescent.
+But when I entered the profession to see after I graduated, I started to realize I have a lot of
+idealizations of the field. And it's nothing like what we would expect. I actually have been very
+lucky to have worked in a position where I could deliver justice and I could make an impact on
+someone's life, like someone that is innocent and I reverted that decision. And that kept me going,
+but I always felt I missed it more because it was like swimming against the current. And one thing
+I realized since I started studying tech is that there is a lot of people thinking about these
+ethical issues. And that was one major thing that made me stick around my student network. It was
+your vision. There is not just learning to code. It's like your purpose or your role in the society,
+in the world and everything. And this week I was talking to a friend that is learning
+web development in the same course I'm taking. And she lives in Europe and she is migrating
+fields too, but she came from a 20-year career as an actress. So it's very different worlds.
+And one thing that caught my eye is because I asked her, have you decided
+what you do want in the future in the long run? And I really, I confess, I really expected her
+to say, oh, I want to stick with web development. I want to learn Ruby or I don't know. Or I want
+to be on the front end, on the back end. And she answered me. And that was very curious. She
+answered me, I want to work with something like global warming or environment. And that was a
+really interesting thing because she, I have this kind of thoughts, but I'm so used to not discussing
+this with people. But she was thinking way ahead. She wants, and I wanted to have purpose with what
+I'm doing. It's not like just, oh, I want to have a good pay rate. I want to earn in dollar and
+everything. And that's sad because it's what I always see people talking about, but they don't
+like discuss where do I want to work, where this company might be doing, where the impact I expect
+to be part of. So I guess we kind of need this kind of talks a lot more. And although I have
+been seeing a lot of conference that approach something that touches these issues,
+like we had, like the code length was very, very cool. And I was just today on the OctoGato
+conference by GitHub, and they are talking about this too. But I really have this, the feeling that
+we are a minority yet. So we really need to empower these voices. And it's very, it's kind of
+problematic for us, like white guys, males, and everything. But I guess our role is to like
+support these people. And I'm like, planning to go to our first world country and everything. But
+it's crazy. I am a white male guy, but when I arrived there, they see me as Latin American.
+And that's not a concept we have here in Brazil. And so it's kind of interesting to
+like think of, think globally, all the issues, like your identity, your citizenship.
+And I really like doing this. So I really hope that I'm really enjoying learning to code.
+But I really hope that I end up in the long run, not just like sitting from the computer and calling
+anything they taught me. They said to me, I really hope that I have like a purpose of what I'm doing.
+It's that what I was searching in the law field. And that is what I'm searching in the tech field too.
+Yeah, that makes sense. I can totally see that connection. I think,
+what is it that I was thinking? Journalism. I think a lot of people go into journalism for
+the same reasons. They believe that through journalistic means, they can have an impact
+on the world. And then I think a lot of them also get demotivated when they get into,
+they work for the wrong place. And they find out that it's actually just regurgitating things that
+has been served to them. It's not making a difference. That's why I think publications
+like ProPublica, those people are so, so important. Because they are truly focused on
+bringing the truth to us. I mean, it's for us to decide what to do with that, right? But I don't
+think we should, I don't like the idea of being constantly having to second guess everything I
+hear. It's something that frustrates me a lot. It's like, rather just be open and tell the truth.
+And then I can make up my mind what I want to do with that. Do I accept it? Do I want to push
+back against it? Or what do I want to do? But don't feed me lies because then later on, what do you do?
+You get so, I don't know, demoralized that you kind of just ignore everything and you get this
+pessimistic view about the world. I was thinking about it yesterday, like, there's a lot of
+negativity around the internet going on at the moment. And I think it's not unfounded.
+I think it's important that these things are being talked about. But I think there's a lot
+more on the internet that is good than these negative things. And I think, again, the negative
+thing is being made, it's being brought to the fore a lot more than it should be. I don't want
+us to live with blinders on and pretend that everything is great, but it's important to touch
+on these issues. And I mean, one of the reasons I have these conversations with people, and I am
+open to speaking with anybody from anywhere. And especially, I kind of actually specifically focus
+on elevating people's voices that normally don't get heard, is because these are the stories we
+need to hear. Because this is the truth. These are people that, they're not sharing an opinion,
+they're sharing a lived experience. And I think there's that famous quote that says, if you
+talk from experience, nobody can disregard it, because your experience is your experience. And
+nobody can say it's wrong. Like, no, it's my experience, it can't be wrong. Because I've
+already, with the few recordings that I've done, I've already had that exact thing happen where I
+spoke to a woman early in tech, but in the United States. And her experience is vastly different
+from Pamela that I spoke to recently, who's from Mexico. She now lives in the US, but she's still
+facing challenges in the US with visa and stuff like that. So her experience getting into tech
+was completely different to the other person. And I think it's important to hear these
+differences and find, and I think that's the other idea behind mycelium, is to connect these worlds
+to each other, so that we understand that our lived experience is not necessarily another person's
+lived experience. And so that we can be more compassionate toward each other, and sometimes
+not be so quick to want to, I don't know, defend our opinion, or what we think is right, that we're
+more open to listening, and just being compassionate and being there for somebody when they struggle.
+I think the thing that Riku, for example, has brought up is he's always scared to make a comment
+on the mycelium, because he's scared it's a stupid question, and then he looks, and those are the
+walls that we need to break down. There's nothing like that. The fact that you asked, I mean,
+Peter, that I spoke to in one of these, in one of the previous podcasts, he said that it's actually
+a good thing when you ask these questions that some people might think is a stupid question,
+because more often than not, there's other people in the room that are afraid to ask that question
+by you showing a weakness, or you, like he says, taking a punch in the face. You're giving the
+other people the answer that they actually wanted to hear. So sometimes you have to just stand up
+and ask the question and not care. If it's a stupid question, so be it. There might be 10 other
+people in the room that also didn't know, and now all of them know, and I took a little bit of a
+punch to my ego, but I'll get over it. So I think that's very important. But I'm quite interested
+in this nomad life that you have talked about, because that is kind of something that I'm also,
+it's also a dream, it's something I'm working towards as well. So I think I've asked this
+question in many different ways. In the beginning, I asked people, would you rather start your own
+business or work for a company? But then I kind of rephrased it and rephrased it. And what it's
+boiled down to me in the end is, what does success look like for you? And I think you have a unique
+perspective with the nomadic life that you see. So in this tech world, in this new world that
+you're exploring, the new country you're moving to, what does success look like for you?
+Well, deep question. But I guess I'm not very ambitious in the normal, the common sense.
+I don't, me and my wife, we are very alike. We never been like chasing
+in our big purchases or consuming a lot of things. And what we always were eager to is to
+get in contact with different cultures and having real life experiences that
+makes us want to, oh, it makes us expand our horizons. So we like to travel a lot. We haven't
+done that too much in the past years, not at all. But we like to travel so much, not because
+because we don't travel to buy things or to, we don't like the tourist spots. We like to go off
+the beaten track. We like to see how people live. We like to connect with people like randomly.
+Like the first time I was in Canada, it was like 10 years ago. And I was in Toronto for 20 days.
+And one of the best days on my trip was this particular day when I was exploring the
+Herborfront, like the lakeshore. And I saw this guy that lived on the streets. He had like a
+a market car with a lot of stuff. And he looks just like Santa. He was a very big, big white bird.
+And we started talking and he started like telling how he got there and why he wants to live in the
+street because it was an option. He offered me food. We ate together. He had like a lot of snacks.
+And we, it was autumn. So for me, it was very cold, but it was warm for them. And as the day goes
+long, I started to feel very chilly. And then I realized we've been talking like five, six hours.
+And it was like this incredible experience to really just pass time with someone and really
+connect in a deep level. So that's something I always wanted to do, I always like to do.
+And this Digital Nomad dream that I have is not to be running around all year long in a lot of
+places in a hurry. It's just like living in the city for some time, see how people live, see,
+know some different people and then like move on and live somewhere, see for a couple of months
+or six months or a year. Just don't be tamed to a particular place. Just be more without roots.
+Just be more of the world. So we really envision this like very far on our lives,
+maybe earlier than we think. But I know it's really hard to create some stability to have this
+and to not be depending on a regular paycheck and everything. So we are slowly building towards this.
+I don't know if I ever like be an entrepreneur, but I guess it's something that maybe happens
+someday. But either way, what I like, what I want to work with, it's just something that has
+a kind of purpose, that helps people. It can be like the slightest way, it can be just
+a little help for someone, but I really need this human side of things. That's why I came to miss
+a lot of my works. Back in the first years, I used to talk to a lot of people, like people that have
+processes in the justice, and I was hearing the pledge and everything. But as I grew in the career,
+I've been more and more disconnected from the face-to-face and more in the work. So that's
+something I really miss, is to talk to people, to hear the problems, to kind of offer a solution.
+This is, my wife says, a good thing about me and a bad thing, because anyone that came to me
+with a problem, I can't stop thinking about it. It's my first reaction to think of a solution,
+and this can be really annoying sometimes, but it's just my nature. A lot of times I start wasting
+my time with other people's problems just because I'm curious. I can't stand having a problem and
+not having a clue what to do with it, so it's really something that I learn to live with,
+but sometimes it makes me waste a lot of time. That's what we see in the Lambron,
+right? Not being in one place for our lives. We want to have the flexibility.
+It can happen that we live for 10 years in one particular spot, but I like to have the option.
+I like to have the freedom to, if I want it, restart in some place new. So this is what I'm
+wanting to experiment in Canada, restarting my life, and this is what I'm wanting to be
+used to, having this ability to restart every time I feel the need to. I don't like to be
+in one place or in one job. I don't like this feeling, so I want to be more lightweight. I want
+to travel light, so that's more about it. That sounds like a great plan. I agree. For me also,
+I've had the conversation with people before. I don't mind it when people say
+they necessarily… when there's laws or when there's regulations and certain ways to do things.
+I think that's important. That's why the miscellaneous network as a code of conduct,
+I think these things are important. But what I don't like is when people take options away from
+me. That is something I don't like. Don't try and pigeonhole me. Don't try and put me in a box
+and expect me to be happy, because the box that you put me in is not necessarily the one that I
+feel comfortable in. And not having the option to try a different box, that's what I don't like.
+I might conform to certain rules and practices and stuff like that, but it should be on my terms
+and stuff that has meaning and value to me, not something that somebody else has decided for me.
+And I think there's quite a lot of quotes and things that relates to that. If you don't create
+your own life, somebody else will create it for you. So we need to be careful that we don't bow
+down to other people's hopes and dreams for us. We have to have our own and not be scared to have
+our own. I think it's human. All of us want freedom. I can't imagine there's one person in
+the world that says, no, I don't care for freedom. I think we all want freedom. And when our freedom
+is impeached, I think that is when people get angry. And understandably so. Some people
+don't handle their anger very well, and they use it in a destructive way.
+I'd prefer to guide us towards using our anger in constructive ways, in ways that we can lift
+each other up, not destroy things. I always see these things where people are unhappy with
+something with their education they're getting from their schools. And yes, you should be angry
+about that. You should say, I don't like this. I feel I have a right to a better education.
+But then burning down the school doesn't help. That is not the way you should channel that anger.
+You should channel it in a different way. Find a constructive way that you're building up,
+not breaking down. Because otherwise we're constantly going back to square one,
+and we have to start over. And so we're never progressing as a society, as humanity. We're
+always just recreating the wheel over and over again. And yeah, that's no good.
+And talking about the individual side of it,
+one interesting thing that I think I like, and I see this, I guess, in your lifestyle,
+is that you do a lot of different things. I recently discovered just today that you play
+classical guitar. And so it's something that I used to do a lot growing up. I was a biker,
+I was a psycho activist, I liked to photograph. I was in a group of photographers, and I did a
+lot of stuff. And then we are growing up, and then we are working so much, and we are being demanded
+so much that life starts to resume to work. So that's another kind of freedom that I want
+to have, to have free time. I heard this a lot when we talk about Canada, is the work-life balance.
+They talk about this a lot. And it's not like a concept we have in Brazil. It's almost
+the other way around. We like praise overworking, praise the workaholic. So it's very toxic, and
+it's kind of what led me to just focus on work for quite a long time. And then I started to
+feel the need to have more of life. And that's something I really want to do, and that's something
+I've really been feeling welcome to do. The other day you talked about the social network called
+Bollywood. And I really liked the idea, because there's a lot of things I like to do, and there's
+a lot of things I do well. So I don't want to go from the lawyer box to the developer box. I don't
+want to have boxes. I want to have a lot of different activities I have interesting. So
+I really cherish that we are having this kind of space where you have value because you are
+complex. You like different things. You like to talk about a lot of things. You don't
+have the right topic to talk about, or this is so much of a topic. You can talk about this here.
+You always have some space. You just have to organize it so everyone that wants to talk about
+it finds each other and everything. And I really, when I listened to the podcast with Rico, I
+had a lot of identification with this issue to put yourself in public and to speak in public.
+And I grew up as a very shy person, and I just started to speak. I spoke in public the first time
+when I was 24 years. And for five years, I always felt really bad. Every time I wanted to speak in
+public, I almost passed away. So it was very difficult. But with time, you start to get used
+to it. And nowadays, I just speak my mind. I don't, I try at my best not to refrain from saying
+something. I want to speak my mind if I'm speaking something that's garbage. Someone says garbage
+very politely, I hope. And we are going to continue to keep the discussion going. So I might be wrong
+about something, and the conversation flows. I don't have this fear of being wrong. You don't
+have to have this concern. You are in this position, and a week from now, you can be
+thinking entirely different about something. That's the beauty of connecting and discussing
+and everything. And that is true for life, that's true for these ethical issues we're facing,
+that's true for our coding problems too. Because a lot of times, somebody asks a question, and
+our guys have just the perfect solution. But it's not a done job. Someone can be
+like, come up with a better solution, a more performative solution. So things are always
+reinventing themselves, and we can't expect to have the right answers for everything. We have
+the answer to that service now, and we have to keep talking about it because things are
+in constant change. And on the topic of polywork, I really like it. I heard about polywork really
+early on, and I joined it because it was like, I don't know, I think it's maybe a tech thing,
+like you always want to try the new thing. It's like, let me see what this is. So I signed up
+early on, and I was on there, but I wasn't really using it for much. I kind of forgot about it for
+a while. And then when I was thinking about this podcast, I was like, wait a minute, I wonder if
+polywork can help me find some folks. And I kind of tried it out, and the response was incredible.
+There's so many people still that I have on a list to go back to who's interested in doing this.
+It's mind-blowing. But then the founder of polywork recorded a little short video that he put on
+the Polywork YouTube channel, and he actually defined what the idea behind polywork is.
+And then it clicked for me. It was like, oh, this is exactly the place I want to be. It's about
+this idea of you aren't defined by your job. You are multifaceted. You like and do many things,
+and you change your mind from time to time, or constantly change your mind.
+And that connected me to another thing that I heard. I heard a TED talk from a woman that talked
+about being a multi-potentialite, because they always talk about this thing. You have so much
+potential, and you have to focus in this specific area. And she was like, but she can't do that.
+She has so many interests that she can't just focus on one thing. And like introverts,
+being an introvert is a superpower. There's people that talk about that as well.
+The same thing. And she said, actually, what she calls it is being a multi-potentialite.
+I'll link up the TED talk in the show notes. It's a really, really great talk.
+And I think there's a lot of us that's like that. We're introverted like me. I'm a super shy person,
+but I somehow keep putting myself in these very public situations, like to pick up a guitar,
+and to go and play in front of people. I mean, I was in a band where I played in front of people.
+I played solo guitar in front of people. And it was nerve-racking. I mean, I've spoken at
+conferences. I was in Venezuela once, where I spoke at a Ruby conference about Firefox
+OAS back in the day. I kept putting myself in these situations. The interesting thing is,
+even though it might seem like the weirdest thing for me to do, I kind of feel that in the moment,
+I really, really feel good. It's energizing. And it gives me this boost of confidence that I just
+want to do more. And so I think we need to be careful to not avoid things that makes us feel
+uncomfortable. I think sometimes, just push yourself a little bit out of your comfort zone,
+and you'll find that you actually enjoy being uncomfortable. And I think that's
+important. And a very, very common thing for us to do, and I know I'm very guilty of it,
+is to confuse excitement with anxiety. Because I feel very similar in the body. The emotions and
+things you go through are very, very similar. And me being somebody that is an anxious person,
+and I do have generalized anxiety disorder, I definitely confuse the two a lot of times.
+So often, putting myself in an uncomfortable situation forces me to feel those emotions.
+And then over years and years and years, you kind of learn to identify, no, this is not anxiety,
+this is excitement. You should really feel these feelings and internalize them, because it's good.
+This is where you get your energy from. So yeah, I think we shouldn't...
+It makes you feel alive.
+Exactly, exactly. Yeah. So I think we should... And totally, there's times when you need to
+step back and say, that's enough for now, because it is tiring. It is tiring. If you're an introvert,
+and you are shy, and you find it... To put yourself out there, it's stressful, and stress makes you
+tired. So sometimes you need to step back and be in a comforted place. You need a place where you
+feel at home, where you feel safe. I think the way you speak about your wife, I'm sure she is your
+safe place. So I think whenever you feel overwhelmed, she's the person you can go to who
+can listen and understand and be compassionate. I also, with my wife, with my kids, it's somewhere
+where I can go where I know I'm not going to be judged, or where I can show my weakness without
+being scared. And I think we should... These communities should open these opportunities
+for us as well, to feel a bit more, be a bit more vulnerable, and not be too concerned about it.
+So jumping back to more like the tech world, being from Brazil, and how do you find the tech
+industry in Brazil? Is there things there that you find that really it needs a lot of work?
+Or is it actually not what most people will think? Is it actually a very thriving, healthy industry?
+Not a healthy industry. But it's hard to say because I kind of don't know too much about the
+global tech industry. But what I'm more familiar with is the... That's because I'm like studying
+a lot and learning, and then I'm exploring a lot of communities, and I'm talking to a lot of people
+that are in the same position. And I'm more familiar with this. It's like, how do you start
+in the industry? I had some great talks with senior developers, but mostly people that are
+in the region areas, or that are just starting, like young adults starting in tech. And one thing
+that really gets me is that I don't know if it is just in Brazil, or it's like a global thing,
+but people don't value the university here. And it's very crazy because in other fields it's not
+a phenomenon like that. But in tech you have like this massive advertisement of boot camps
+and online courses that promises that you will be earning a great paycheck in like six months,
+or eight months. And it's a very unreal expectation. And a lot of people don't have
+like the sense to separate information from merchandising. So I've met with a lot of people
+that got into debt to start a boot camp, or like left his job and don't have a plan, like for
+two, three, four or five years. They have a plan for six months, and it's very unreal that he will
+be like earning something better than his previous bro. So I have a, I could say, like a successful
+career in law. I earn a good money for what I do. I have like colleagues that have two kids,
+and it's been doing what I do for 20 years, and that's okay for them. But for me it has to be
+something more. So I kind of came up with this plan. It's a medium to, it's a plan for the long
+run. It's not like how I want to change everything in six months, I will be earning more than I earn
+today. But I met a lot of people that really thinks this. And sometimes if you don't have
+the time or the chance to do a university, like it's not possible for me and my plans to like
+take four or five years and do a regular bachelor degree in computer science. I really wish that
+I had this option, or I really wish that I did that years ago, but now it's not a possibility.
+But what gets me, it's like people with 18, 19 years old that can do a university have parents
+that will support them through university, and they still want to do a boot camp of six months
+to get into tech, and they expect that they will earn like high salaries and they will be
+recruited with two overseas companies, and that's not real. So that saddens me a lot because
+this kind of thinking, it's very like I want to earn money immediately. I don't care about
+who I will work for. I don't care about anything. I just want this now. And it's very hard to like
+convince people that you should take your time. You should build like a really strong foundation.
+It may be get a first opportunity in tech, but it can't leave you far. It can't, you won't go far
+with just this like basic classes and everything. So it takes, people don't realize it takes some
+time to build a career. It takes some time to invest in projects. I really like your approach
+with projects. I have talked to you about it, that you always plan for escalating. You start a little
+project and you post the issues and you like do everything. I would expect to find in a really big
+project that has like 40 people working on. And that's really a long time thinking, a long run
+thinking, because you have to have this approach since the beginning. And a lot of people,
+especially here in Brazil, think that they can build a portfolio like just doing code challenges
+and replicating interfaces and cloning websites. And that is good. That can lend you a first
+opportunity. But you are putting not so much on the table. You are making it in you or you are
+doing a new approach of something. So when I don't have like any project I'm proud about right now,
+but I have a lot of ideas and I have a lot of planning going. And I know like sometime in the
+future I will have something good going on. And maybe that can be like something that will help
+another one or another developer would pick that and go further. So I really like this idea. And
+that's another thing that really got me into tech really hard is open sourcing. And I really like
+to be part of something bigger than me. And so I kind of don't, I can't get my mind to waste time
+doing just little projects and repetitive tasks. But I have a lot of ideas going on that I want to
+put on the paper and then on the code. So I guess this is something that I have, I think it has to
+be, it has to change. Like I can see these people with this mentality going to meet an impact. It's
+not like I'm not rooting for them. But I want them to understand that it's not supposed to be
+this easy. So it's like, it's really obvious that it's a lie that anyone can get a job with six
+figures in six months. I think it's really interesting to state that coding is for anyone
+that want it. Anyone can learn how to code. That is not the same thing to say anyone can learn how
+to code in three months and have like a bigger salary. It's different things. So it's possible
+for everyone, but it's a long road to follow. It's hard. It's not supposed to be easy.
+In Brazil, we have this phenomenon where the global market in IT is very
+hit up. So a lot of developers from Brazil are getting recruited overseas. That's what
+happened to my brother. So a lot of companies here in Brazil are recruiting other developers
+from Latin America. So it's like the talents are going to the first world countries and we are
+outsourcing other least developed countries. So people have this feeling that anyone can join
+to tech right now and his life will change drastically. But I can't see that way. For me,
+it feels like it's a very long road. You have to build up step by step, day by day. You have to
+have discipline. You have to have focus. You have to have consistency. So what I see happening
+a lot is people starting these courses or starting university and then getting frustrated.
+Frustrated and then they gave up everything because their expectations were too high.
+But if they just stick with it for a little bit and they have just planned a little bit well,
+they could find their way to tech. But the information, it's not like sexy to say,
+oh, it's hard. You won't find jobs so easily. You have to build a lot of skills and everything. So
+people fall for the advertising. And this is a very big issue here in Brazil. And we have a lot
+of discussion about this because a lot of people are going to tech for accountants, actresses,
+lawyers. Everyone is going to tech and everyone is getting frustrated. So we have to put our feet
+on the ground and we have to like, is this a thing I really want to do or is this just a way to
+earn more money? Because it's not a problem if you want to earn more money. But you have a lot of
+options to do this. It's not just tech. So you can find something more suitable for your expectations
+or for your time schedule. But people want like an easy solution for everything. And this is very
+Brazilian culture. So it's very hard to reason with people. So I have a lot of talks with another
+fellow, early stage developers. And I'm always the guy that's very boring and annoying that says,
+it's not like that. Like take a step back, take a deep breath. I plan it very well. You have to
+know how you will support yourself through this migration. And you have a lot of people changing
+careers. So you have to plan this very well. A lot of them have children to support. A lot of them
+have another, have mortgages, have a lot of things to put into their accountants. And like
+it's not that easy. It's not guaranteed for anyone. You can be like a genius. And it's something like
+there is a lot of people that don't go to university and like learn by themselves, trying and failing
+and trying again. But they are the exception. You should prefer the easy solution. But it's
+the easiest path. It's like have good teachers, have good mentors and like build it slowly and
+build it strongly. But people always pick the exception and want to be the rule.
+I start with the premise that I'm not a genius and I'm not a very lucky guy. So I have to
+put my children on the ground, put one foot in front of the other and start building very slowly.
+But I know I can go really far with this, if it's something I want to do. And when I was in
+university, I had this teacher of philosophy that I was in the last class he taught. He was
+going to retirement. So he ended the class with a very interesting poem. Maybe I don't remember
+the name of the author now. I think he is Spanish. I don't know. But I will send you after. But he
+has like this really illustrations. It's like there is no paths. He paints life as you are on
+a boat and you can go to anywhere in the horizon. There is no track to follow. You have to just
+find where you want to go. You have to find the direction and you have to go and discover what is
+it. You don't have like a trail to follow. So this idea is makes me, made me change a lot of
+assumptions I had when I was growing up. And I was entering my profession. So it stuck with me.
+Like this idea that you can go anywhere else, but it's our responsibility. You are defining the path.
+There is no previous path for you to follow. And sometimes people want to have a path.
+And sometimes people want to have, want so much to have a previous path that is guaranteed success,
+but it simply don't exist. If you follow the steps of another person, it's not guaranteed that you
+end up with the same result. You have a lot of factors that come into place. So you have to
+accept this and learn to deal with this. So it's like an approach to life. And I have this approach
+to development too. I want to, I want to take my time. I want to explore different technologies,
+different tools. And I want to build my own path into technology and find the things that make sense
+to me and not just follow someone that says, Oh, this is what I did. And now I am this. You have to
+and pay me something and I will, and I will teach you how to get there. I don't believe in this.
+And I, I don't, I'm not afraid like to spending money to, because I sense that we have to value
+the other people's time. But I always take this as just another resource. What I was going to do
+with it. It's my responsibility. It's not like a given thing. Yeah, no, I agree. And I don't think
+it's just in Brazil. I've heard the same thing about the boot camps a lot. Like, I mean, it's
+happening in South Africa. Also the thing that you said, where people are contracted out from
+European countries, contracting people and they're leaving Brazil. It's a common thing in South
+Africa as well. People kind of get started here and then they leave the country and they go work
+in Europe or they go work in the United States. And one of the problems with that is, is products
+and ideas and companies and things that started here. They don't have those people with long term
+experience. They don't have those. They have a lot of junior people building, building the software.
+It's the same here. Yeah. So they're missing the guidance from more senior people who can think
+long term because they've been through this process before and they can say, well, this looks like a
+good idea right now, but it's going to blow up in your face tomorrow or the day after. Because
+today our website has 10 people coming to it, but we don't know what's going to happen a month down
+the line. And this is not going to be sustainable. Like this is not maintainable or whatever the case
+may be. So it's not uncommon. I think it's very common. And obviously social media and all of that
+has played a role in this. It's created this culture of instant gratification. And so people
+don't want to wait. And I think that's why a lot of people get frustrated because like you said,
+there's unrealistic promises being made. And then when it doesn't go the way that it's been
+advertised and people think like, oh, this is just nonsense. The whole industry is broken. And it's
+not that. I think it's part of it that is broken and that we need to change how people sell these
+things. We need to be realistic. We need to say that it could work for you. You could go to a
+bootcamp, do six months, learn React and get a job and be on your way. And you can be happy with that,
+but it's not a guarantee. So never, never take it as a guarantee. So I can hear that you like to
+plan long-term and that you think not just for today and tomorrow, but you kind of think long-term.
+Has there been any books, resources, people, anything like that in your life that has
+that has helped you with that? Or is this just something that's just natural for you?
+I don't know. That's an interesting question because
+actually, I think when I was raising up, I was taught to avoid risks a lot.
+But my mother, I think she has this approach of life. Get somewhere safe and be there and like
+build your home there and don't leave there for anything. So I always been afraid to take risks.
+And, but I couldn't be satisfied with what I had. So I had to take risks at some time in my life.
+So for doing that, I had to plan. Otherwise, I won't stand the anxiety. But I know there's a lot
+of people that are more spontaneous or impulsive and just go and do it. And I can't, I couldn't do
+that. And my wife is very much alike. We planned a lot because we have this assumption that
+if anything could go wrong, it would go wrong with us. But that doesn't prevent us from doing
+things. Just, I guess a lot of times we feel pessimistic, but I like to think that we are
+realistic or like trying to approach that. But we planned a lot, but we don't let this fear or this,
+we don't let it paralyze us. So planning is like our defense mechanism to not having control of
+everything. So we have to accept that you don't have control. So if you, if you know about
+something that could go wrong, make a plan for it. If that happens, you know what to do, but don't
+freak about it. So it's, I kind of take this for everything in my life. And I learned a lot
+with investments because you can control what will happen to the world. You can control what
+happened to price and everything. So you have to make a plan, stick with the plan and like
+believe in it. So you can be all the time reacting to what the world presents to you. So I guess
+when we started, like after we married and we started, we started thinking about our plans for
+life and start like saving up money and have to organize it. And we start thinking about it and
+invest in money to make these plans come true. We kind of learned a lot with it to learn to accept
+you have no control over what will happen in your country, in the world. It can be a war, a pandemic.
+I like to say to my eyes, I would never thought I would live through a pandemic in my life.
+But when the pandemic hits, we didn't get desperate. We had like a very, we had, we knew
+what to do. Like we just take a deep breath and like rearrange our planning. Like I sold my motorcycle.
+I started working from home and everything. So we always like to have options and this come out
+like planning, but it's not like we are too concerned about the long run that this stop us
+from going further. But I really like to think that you should have at least a minimum concern
+what will happen in the long run, because otherwise you will get, like I said, you get surprised by
+the things that if you really thought about it, it was kind of obvious it could happen.
+It's not necessarily will happen, but it could happen. So I always like to have a plan in place,
+but it's not like an anxious thing to me. It's like I'm defense mechanism too anxious. So I
+don't feel anxious because I know that I can deal with things. I've been through a lot of surprises
+in my life and I passed through it. So it's just be another one. So it will, it will be okay.
+So yeah, that's a good approach to life. And I think that long-term thinking and that planning
+for things that could potentially go wrong, I think that's going to help you a lot when you,
+when you code as well, because I think it's something that we do, you know, those statements
+to say, if this thing is present, then add an event listener to it. Don't just assume it will
+be on the page because it might not be there. And then it's like, oops, your code is broken.
+So I think that's going to help you in your code as well. I hope so. Rafaela, this has been lovely.
+I'm so glad that we could finally connect. It was a really good conversation. In closing,
+is there anything that you would like to leave the audience with? Any thoughts, any words of inspiration,
+anything? Maybe speaking of perspective of a beginner, I really, something I struggle a lot
+is the amount of information, the fear of missing out. And there's a lot of things that are
+constantly getting to our attention. And I, when I started, that made me real anxious. And I really
+started to develop coping mechanisms to this. And what helped me, it was to speak to people. So
+I spoke with a lot of people. I spoke with people more mature than me. I spoke with
+younger people than me. And we started realizing that everyone feels like some kind of
+feels like something similar. And a lot of times in their lives, like every time you have a new job,
+you move into a new home, you have a new kid, every this, this kind of steps, like
+change everything in your life, you have to adapt to it. So it's the same thing as coding,
+as learning a new skill. So we are always like going to, we always felt like imposters.
+And then sometimes we felt like, oh, I got this, this is so easy. And then we start to realize,
+no, it's not that easy. It's really more difficult than I thought. So it's common to see
+this thing happen to a lot of people in a lot of stages in their professional lives. So this is
+like what's most important about communities, like connecting with people, exchanging thoughts,
+exchanging ideas and exchanging experiences. And that helped me like be really calm about my journey
+in coding, because on the first months, couple of months, I was really freaking out. Oh my God,
+I don't think I can do this. I see a lot of things I want to do with this, but I don't think if I'm
+able to learn how to get there. And then I started realizing a lot of people feel the same way. A lot
+of people felt the same way when they are starting. So this human connection is, I think, crucial to
+having this. And that's something a lot of us missed, a lot of us lost on the distance learning.
+So it's hard to connect with people when you are like in the same class, you have like lunchtime,
+you like chit chat and everything, you like start to connect it, even if you didn't mean to. But on
+the internet, you have to have this purpose, you have to do with this intent. You have to reach out
+to people, you don't have to be ashamed of not knowing what you are doing or spoking the wrong
+thing. You should at least look for people that are more welcome. But you probably will find a lot
+of people willing to help you. And that's been my experience and that's been what made me persevere
+in my studies. And I think it will be like that for all my life because one thing I realized that
+I will never stop having something to study. The technology changes really fast. So you must
+like just get used to be a beginner for life. And have this approach and connect with people
+that are beginning that field too and that technology and that stack and just go with it.
+Go with it. Yeah. I think that's great advice. Thanks so much, Raphael, again. Thank you for having
+me. It was a real pleasure finally meeting you. Yeah, for sure. And we'll keep on
+conversating on the My Senior Network Discord and I'll be following your career and seeing how things
+work out for you. I'm really looking forward to see what you do with everything.
+Thank you for listening to this episode of the My Senior Network Podcast. If you're not already,
+please subscribe, star and leave a review for us in your podcatcher of choice. This helps others
+find us and helps us make a better podcast for you on this course. You can also find and follow us on
+Twitter at Network My Senior and join the community on Discord. All the links are available in the
+show notes.
