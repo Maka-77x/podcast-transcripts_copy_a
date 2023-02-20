@@ -1,0 +1,2165 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+
+00:06.640 --> 00:10.160
+and the mentors and teachers that help them along the way.
+
+00:10.160 --> 00:13.880
+Welcome, Andreas, to the Mycelium Network Podcast.
+
+00:13.880 --> 00:16.720
+Thanks for having me.
+
+00:16.720 --> 00:18.720
+I'm super excited.
+
+00:18.720 --> 00:19.960
+It's a huge pleasure.
+
+00:19.960 --> 00:21.200
+It's been a long time in the making.
+
+00:21.200 --> 00:24.640
+We've discussed and gone back and forth and back and forth over polywork, and finally
+
+00:24.640 --> 00:28.440
+we found a day in time that works for everybody, so I'm glad.
+
+00:28.440 --> 00:30.360
+We have business trips, am I right?
+
+00:30.360 --> 00:35.720
+Yeah, yeah, yeah, and then the holidays and everything.
+
+00:35.720 --> 00:40.560
+To start off with, can you tell us – I know you mentioned before we started that this
+
+00:40.560 --> 00:45.000
+is probably the most uncomfortable question of the bunch, so let's get that one out
+
+00:45.000 --> 00:46.880
+of the way.
+
+00:46.880 --> 00:52.480
+If you can tell us a little bit about who you are, your career, and then what gets you
+
+00:52.480 --> 00:54.520
+up in the morning.
+
+00:54.520 --> 00:55.800
+Yeah.
+
+00:55.800 --> 00:56.800
+I'm Andreas.
+
+00:56.800 --> 00:58.680
+I'm a software engineer.
+
+00:58.680 --> 01:04.680
+Currently, I'm a R&D software developer at Encompass Technologies.
+
+01:04.680 --> 01:10.760
+Basically it's an alcoholic beverage software as a service where essentially we help all
+
+01:10.760 --> 01:16.600
+three tiers of the U.S. alcohol distribution system, so whether that's people who make
+
+01:16.600 --> 01:22.160
+beer, people who distribute beer, and then people who sell beer, and obviously other
+
+01:22.160 --> 01:26.360
+wines, spirits, etc.
+
+01:26.360 --> 01:31.640
+I handle a lot of integrations with a database called DSD-Link where it's got global product
+
+01:31.640 --> 01:38.700
+data, global customer data throughout the entire Encompass network, so then as we get
+
+01:38.700 --> 01:43.300
+more partners and stuff like that on, I usually handle a lot of the integrations and stuff
+
+01:43.300 --> 01:45.380
+like that.
+
+01:45.380 --> 01:52.640
+In terms of outside of work, I've been doing programming software development for
+
+01:52.640 --> 01:57.440
+about four or five years now.
+
+01:57.440 --> 02:04.120
+When I'm not programming and stuff, I love Dungeons and Dragons.
+
+02:04.120 --> 02:09.080
+I play around with some tarot every now and then, and then also tattoos and home brewing
+
+02:09.080 --> 02:12.240
+mead actually.
+
+02:12.240 --> 02:16.440
+In general, I just like to jump around to a whole bunch of different hobbies.
+
+02:16.440 --> 02:18.960
+My partner keeps me plenty busy.
+
+02:18.960 --> 02:21.400
+She's like, oh, this is a great idea.
+
+02:21.400 --> 02:26.520
+We should go and try this, and I'm like, yeah, sure, yeah, sure, let's do it.
+
+02:26.520 --> 02:30.640
+Kind of like all over the place, but those are the main things that I usually am found
+
+02:30.640 --> 02:31.640
+doing.
+
+02:31.640 --> 02:33.320
+That sounds great.
+
+02:33.320 --> 02:41.000
+Can you explain a bit about what mead is and what the brewing process involves?
+
+02:41.000 --> 02:48.240
+With mead, a lot of people like to equate it to honey wine, so essentially the main
+
+02:48.240 --> 02:56.240
+primary ingredient that you're fermenting is honey, and the yeast consume that honey.
+
+02:56.240 --> 03:00.080
+Usually there's a couple steps where you go through primary fermentation and then you
+
+03:00.080 --> 03:06.360
+rack it into a separate container and secondary fermentation.
+
+03:06.360 --> 03:14.160
+Essentially all you're doing is having the yeast consume those different sugars, and
+
+03:14.160 --> 03:20.640
+with honey it creates a unique flavor that my partner and I really like, where it's
+
+03:20.640 --> 03:25.520
+a little bit sweeter and it's more depending on the type of honey that you use and type
+
+03:25.520 --> 03:31.400
+of yeast, it will likely be a lot closer to a white wine, like a sweeter, maybe like a
+
+03:31.400 --> 03:35.040
+Pinot Grigio.
+
+03:35.040 --> 03:36.800
+In general, it's been a lot of fun.
+
+03:36.800 --> 03:42.760
+We've done a whole bunch of different small batches of like a gallon, one of the ones
+
+03:42.760 --> 03:47.160
+that we're really proud of is one that we call the May Queen, which is basically like
+
+03:47.160 --> 03:55.240
+blood oranges, lemon zest, vanilla, and a couple more other flavors with some really
+
+03:55.240 --> 04:00.600
+high quality alpine honey from up here in Colorado.
+
+04:00.600 --> 04:03.280
+You'd be surprised how much good honey makes a difference.
+
+04:03.280 --> 04:11.120
+If you just go to the supermarket and drop honey that you pick up at the supermarket,
+
+04:11.120 --> 04:16.500
+obviously that will get you there, but we like to do smaller batches with higher quality
+
+04:16.500 --> 04:22.880
+ingredients and generally we just do it for ourselves and a couple of family members.
+
+04:22.880 --> 04:27.040
+It's a lot of fun to just be able to experiment with the different ingredients and see how
+
+04:27.040 --> 04:29.800
+the yeast takes it and creates these different flavors.
+
+04:29.800 --> 04:32.800
+Yeah, it's super cool.
+
+04:32.800 --> 04:39.440
+Honey, it makes a big difference if you get the real stuff, not the mix, the half and
+
+04:39.440 --> 04:42.120
+half that you often get at the supermarket.
+
+04:42.120 --> 04:50.920
+We have a little honey company about 10 kilometers from where I stay and when we buy honey from
+
+04:50.920 --> 04:53.040
+them, you immediately notice the difference.
+
+04:53.040 --> 04:58.680
+I can use that in my coffee and it tastes great, whereas if you use the honey from the
+
+04:58.680 --> 05:02.280
+supermarket, it's like, I'm not too sure about this.
+
+05:02.280 --> 05:07.400
+It's doubly so with me because the yeast take on a lot of those flavors or off flavors as
+
+05:07.400 --> 05:08.400
+well.
+
+05:08.400 --> 05:14.600
+If they don't have as much real sugars and stuff to consume, it's a lot harder for them
+
+05:14.600 --> 05:20.040
+to make a flavor that is actually pleasant.
+
+05:20.040 --> 05:25.700
+There's a lot of different variables that go into, obviously with brewing in general,
+
+05:25.700 --> 05:28.920
+you could create some off flavors with certain ingredients.
+
+05:28.920 --> 05:35.280
+It's just a huge balancing act, but to your point on the coffee and stuff, you can immediately
+
+05:35.280 --> 05:36.280
+tell the difference.
+
+05:36.280 --> 05:37.800
+Yeah, for sure.
+
+05:37.800 --> 05:38.800
+That's fascinating.
+
+05:38.800 --> 05:42.800
+Yeah, I can imagine how that can become a really interesting hobby.
+
+05:42.800 --> 05:46.920
+It leads into my second question that I kind of had because I picked this up when I write
+
+05:46.920 --> 05:53.320
+some stuff in your, I can't remember if it was Lictin or if it was Polywork, where you're
+
+05:53.320 --> 06:01.320
+clearly enthusiastic about beer, I think specifically, but maybe other alcohol variants as well.
+
+06:01.320 --> 06:08.280
+More than that, this idea that it brings people together, it forms community.
+
+06:08.280 --> 06:16.880
+I'm curious, the MyCMNitric podcast is part of a larger community around early stage developers.
+
+06:16.880 --> 06:20.920
+Obviously, community is very important to us and to me.
+
+06:20.920 --> 06:25.040
+I wonder, what gets you excited about community?
+
+06:25.040 --> 06:30.380
+Why are you so excited about this whole idea of beer and then the beer forming this community
+
+06:30.380 --> 06:32.040
+bringing people together?
+
+06:32.040 --> 06:35.720
+What is it about that stuff that makes you excited?
+
+06:35.720 --> 06:41.240
+Yeah, so I will say a lot of that has been kind of my exposure to the beverage industry
+
+06:41.240 --> 06:46.720
+with Encompass, which I'm really appreciative of because it really opened my eyes to just
+
+06:46.720 --> 06:54.220
+how much work goes behind the scenes to get a beer on your table or a wine or whatever
+
+06:54.220 --> 07:01.960
+the case may be, the amount of work and the amount of talent that goes into it to get
+
+07:01.960 --> 07:06.720
+a beer into the distributor and then go from the distributor to the retailer and then be
+
+07:06.720 --> 07:09.440
+able to sell that to you.
+
+07:09.440 --> 07:14.920
+There's a lot of work behind the scenes that goes into it and all of that is people who
+
+07:14.920 --> 07:20.760
+are extremely talented, extremely passionate about the beer, well, the beverages that they
+
+07:20.760 --> 07:21.760
+sell.
+
+07:21.760 --> 07:29.640
+It's the same beer, but realistically, it's so much more than that and really the more
+
+07:29.640 --> 07:37.000
+I got exposed to it, the more I realized just how much of it is community really.
+
+07:37.000 --> 07:43.120
+Whether you are making beer, distributing beer or selling it, there is a community that
+
+07:43.120 --> 07:45.800
+kind of revolves around it.
+
+07:45.800 --> 07:50.520
+There's so many different little neighborhoods and even just in the United States, but worldwide
+
+07:50.520 --> 07:56.160
+where there's a liquor store somewhere in that community and that whenever there's
+
+07:56.160 --> 08:00.040
+a party, there's something like that, usually you're going and grabbing beer, you're going
+
+08:00.040 --> 08:02.680
+and grabbing some wine, you're grabbing some cider.
+
+08:02.680 --> 08:10.520
+It's something that you don't necessarily think about, but it's what it's used for.
+
+08:10.520 --> 08:15.920
+It's used for celebrations, it's used for parties, it's used for things that bring people
+
+08:15.920 --> 08:19.400
+together and things that we can celebrate together.
+
+08:19.400 --> 08:23.200
+That's one thing that I really realized as I started working in the beverage industry
+
+08:23.200 --> 08:30.000
+with this software, that it's just such an amazing community and the more you engage
+
+08:30.000 --> 08:33.440
+with it, the more you get out of it.
+
+08:33.440 --> 08:37.960
+People are always willing to talk to you about brewing, regardless of what kind of brewing
+
+08:37.960 --> 08:43.800
+it is, you can get along with somebody who has only ever brewed beer in their life.
+
+08:43.800 --> 08:50.040
+If you just say, hey, I do cider, I do mead, I do this other weird thing that I decided
+
+08:50.040 --> 08:56.840
+to ferment this very specific plant or something like that, at the very least you have that
+
+08:56.840 --> 09:02.800
+kind of common bond where you're going and trying to make something new and pleasant
+
+09:02.800 --> 09:07.040
+that's like at the end of the day, you're sharing that with somebody.
+
+09:07.040 --> 09:10.640
+You're not necessarily just sitting around doing that by yourself, at least you've got
+
+09:10.640 --> 09:14.440
+a partner, you've got some friends that you want to share that with.
+
+09:14.440 --> 09:21.600
+Even if that's online, there's so much to it that is just community that people don't
+
+09:21.600 --> 09:23.760
+necessarily realize.
+
+09:23.760 --> 09:34.360
+For me, that's really the excitement aspect of it where I love contributing to that community
+
+09:34.360 --> 09:42.160
+because at the end of the day, it's such a big component of the human experience, I would
+
+09:42.160 --> 09:48.160
+say, because it's just been alcohol fermented beverages have been around as long as you
+
+09:48.160 --> 09:52.440
+can probably remember.
+
+09:52.440 --> 09:57.240
+It's something that we sometimes take for granted, but it's a valuable part of what
+
+09:57.240 --> 09:58.840
+makes a community.
+
+09:58.840 --> 10:07.760
+Yeah, agreed, and I think there's parallels to be drawn there to software.
+
+10:07.760 --> 10:13.240
+If you build, if you write a little library or a little tool or something, it's always
+
+10:13.240 --> 10:16.720
+great to have a community to go to and to say, hey, look at this thing I made and people
+
+10:16.720 --> 10:21.680
+are like, that's really cool and you get that feedback and you get that even when people
+
+10:21.680 --> 10:25.360
+tell you, oh, you know what, there's this way that you can make this even better.
+
+10:25.360 --> 10:28.760
+I think it's the same thing when it comes to brewing.
+
+10:28.760 --> 10:32.320
+If you share your brewing recipe, somebody might say, you know what, I did something
+
+10:32.320 --> 10:36.960
+similar and I did this little difference and it made such a big, like you have this experience
+
+10:36.960 --> 10:42.840
+with these different honeys and that having the real deal coming from a craft place or
+
+10:42.840 --> 10:47.000
+something is so much better than the honey you get at the supermarket.
+
+10:47.000 --> 10:51.280
+You might get somebody in the community who says, I'm making me, but I just can't quite
+
+10:51.280 --> 10:54.040
+get there and you say, what honey are you using?
+
+10:54.040 --> 10:57.720
+And they're like, oh, I'm using this thing from this place and you're like, you should
+
+10:57.720 --> 11:02.520
+try and get it from a local farmer or something like somebody that works with bees because
+
+11:02.520 --> 11:04.360
+that's going to make all the difference.
+
+11:04.360 --> 11:07.880
+I think that knowledge sharing is a big part of it as well.
+
+11:07.880 --> 11:08.880
+Yeah.
+
+11:08.880 --> 11:10.640
+I'll give another example on that.
+
+11:10.640 --> 11:17.480
+It's like the usage of what kind of parts of the lemon to use in like a meat or something
+
+11:17.480 --> 11:22.800
+like that because then a lot of times the acidity of things like lemons and stuff may
+
+11:22.800 --> 11:29.600
+be adverse towards yeast depending on the other things that you put in there.
+
+11:29.600 --> 11:35.840
+You can do stuff like add lipids to the yeast so that then it kind of strengthens their
+
+11:35.840 --> 11:36.840
+cellular walls.
+
+11:36.840 --> 11:42.560
+We're getting way into the very specifics there, but I have a lot of good friends that
+
+11:42.560 --> 11:49.840
+are fermentation science majors, which I didn't know was a thing until I got to Encompass
+
+11:49.840 --> 11:55.880
+where they kind of gave me that kind of feedback where like, hey, if you're trying to use
+
+11:55.880 --> 12:04.520
+more acidic, less than ideal flavors that would be great for us to consume but not necessarily
+
+12:04.520 --> 12:12.920
+ideal for the yeast to live in and produce alcohol in, you could potentially add some
+
+12:12.920 --> 12:21.160
+additional things to strengthen the yeast and build up their tolerance, so to speak.
+
+12:21.160 --> 12:23.780
+There's different parts of the lemon even.
+
+12:23.780 --> 12:28.680
+We use like the pith and other parts of it instead of just straight up the lemon pieces
+
+12:28.680 --> 12:32.960
+where you still get that kind of lemon flavor without necessarily introducing as much of
+
+12:32.960 --> 12:33.960
+the acidity.
+
+12:33.960 --> 12:34.960
+Yeah.
+
+12:34.960 --> 12:35.960
+I understand.
+
+12:35.960 --> 12:46.280
+It sounds very similar to cooking, also knowing what parts of the vegetable or fruit or whatever
+
+12:46.280 --> 12:53.120
+spice to use and how much and when you add it to the mix and all that kind of stuff.
+
+12:53.120 --> 12:57.320
+There's so many parallels between all these things and just community and the fact that
+
+12:57.320 --> 13:04.960
+we're social creatures and we seek out this communion around things that we're interested
+
+13:04.960 --> 13:09.280
+in and that we find so much joy from all of this.
+
+13:09.280 --> 13:20.480
+So with that in mind, there's the other side of the coin where it's introducing different
+
+13:20.480 --> 13:26.520
+flavors can sometimes be a little tricky like you just mentioned and maybe we can draw a
+
+13:26.520 --> 13:36.080
+very strange parallel again here between that and introducing diversity into the workplace.
+
+13:36.080 --> 13:39.880
+I think everybody's acknowledged that it's a good thing.
+
+13:39.880 --> 13:42.240
+It's fascinating that it took us time to realize that.
+
+13:42.240 --> 13:47.720
+It seems like one of those like more obvious things that the more differences of opinion
+
+13:47.720 --> 13:51.400
+and the more differences of background and culture you have, the better your product
+
+13:51.400 --> 13:52.400
+will be.
+
+13:52.400 --> 14:01.080
+It doesn't matter what industry you're targeting, I think in general it's always a good idea.
+
+14:01.080 --> 14:05.440
+But it's taken a while and I think the tech industry maybe have taken a bit longer than
+
+14:05.440 --> 14:09.880
+others but it's getting there, it's getting better.
+
+14:09.880 --> 14:17.460
+But I've spoken to a female guest previously who came from Mexico to the US and she spoke
+
+14:17.460 --> 14:23.200
+a lot about the tensions and struggles she's found while in Mexico because of the cultural
+
+14:23.200 --> 14:30.320
+differences where women wasn't really seen as somebody that would go into the tech industry
+
+14:30.320 --> 14:35.960
+or even science for that matter but for her she was lucky in appearance was not of that
+
+14:35.960 --> 14:36.960
+thought.
+
+14:36.960 --> 14:40.240
+So they actually encouraged her to pursue it.
+
+14:40.240 --> 14:46.440
+And then other challenges she faced when she then moved to the United States and you've
+
+14:46.440 --> 14:49.560
+raised a whole bunch of points about this so I don't want to talk about it too much.
+
+14:49.560 --> 14:53.200
+I just wanted to give some context around that and then have you just speak to this
+
+14:53.200 --> 15:00.640
+a little bit because I know that you have been affected by this maybe on a more implicit
+
+15:00.640 --> 15:07.920
+rather than explicit situations but if you want to talk about that, just the idea of
+
+15:07.920 --> 15:14.000
+adding more ingredients, adding more diversity to the mix and what the potential problems
+
+15:14.000 --> 15:21.840
+there could be and how everybody can work together to make this not such a struggle
+
+15:21.840 --> 15:24.720
+that it's actually something we celebrate.
+
+15:24.720 --> 15:26.840
+Right.
+
+15:26.840 --> 15:31.620
+So I guess I'll start with kind of my own experiences leading up to officially kind
+
+15:31.620 --> 15:35.140
+of being in the tech industry and studying tech.
+
+15:35.140 --> 15:41.720
+So I mentioned this in our kind of discussions on Polywork but I'm Puerto Rican, my parents
+
+15:41.720 --> 15:49.040
+are Puerto Rican and kind of similar to the guest you mentioned, being Hispanic has kind
+
+15:49.040 --> 15:55.800
+of its challenges in the US depending on the area, a lot of times especially.
+
+15:55.800 --> 16:04.080
+My dad is in the army, still is, and he's kind of, we moved around a whole bunch.
+
+16:04.080 --> 16:10.220
+I've lived around in a whole bunch of places and sometimes it's more implicit bias depending
+
+16:10.220 --> 16:18.360
+on the kind of people that are kind of circulating in the military space and sometimes it's very
+
+16:18.360 --> 16:21.920
+much explicit.
+
+16:21.920 --> 16:27.560
+And those experiences aren't necessarily great but they do certainly frame the perspective
+
+16:27.560 --> 16:38.760
+of like, hey this is, it's not the same to be Hispanic in the United States as it is
+
+16:38.760 --> 16:46.060
+to just wake up and be, I suppose the term that they would likely use is from the United
+
+16:46.060 --> 16:47.060
+States.
+
+16:47.060 --> 16:50.880
+Even though Puerto Rico is a US territory, a lot of times people would talk to me as
+
+16:50.880 --> 16:56.640
+if I wasn't part of the US or like that I wasn't a US citizen and I should go back
+
+16:56.640 --> 16:57.640
+to my own country.
+
+16:57.640 --> 17:06.720
+And it's like, okay, I'm here, I'm ready to do this, I'm ready to contribute.
+
+17:06.720 --> 17:09.960
+So that's been kind of challenging.
+
+17:09.960 --> 17:18.400
+My dad always liked to say, when it comes to that, sometimes it's just a difference
+
+17:18.400 --> 17:25.000
+of like, hey I'm not, my last name's Sepulveda, my last name's not Smith or Johnson or something
+
+17:25.000 --> 17:26.000
+like that.
+
+17:26.000 --> 17:31.640
+And then that's not to exclude anybody, that's just to put a frame of reference of like,
+
+17:31.640 --> 17:35.480
+hey, sometimes people will perceive you differently.
+
+17:35.480 --> 17:41.740
+Because of where you come from, what kind of culture you bring to the table.
+
+17:41.740 --> 17:46.000
+And so that was a lot of my time growing up.
+
+17:46.000 --> 17:51.000
+Like I moved around a whole bunch, I lived in Korea for six years and then lived in Hawaii
+
+17:51.000 --> 17:55.400
+for another six, terrible places to live.
+
+17:55.400 --> 18:06.800
+And from there went into tech kind of as studying computer science and then kind of taking on
+
+18:06.800 --> 18:12.440
+jobs either in the university or like internships and stuff like that from there.
+
+18:12.440 --> 18:18.800
+I will say definitely from that point on, it went from more of a explicit to an implicit
+
+18:18.800 --> 18:22.800
+bias where people aren't necessarily going and outright saying, oh yeah, go back to your
+
+18:22.800 --> 18:26.360
+country but maybe they'll go and say something that's kind of like off that makes you feel
+
+18:26.360 --> 18:27.360
+weird.
+
+18:27.360 --> 18:29.680
+And it's like, why does that make me feel weird?
+
+18:29.680 --> 18:35.720
+Like where is that coming from and where is this person, do they know that this makes
+
+18:35.720 --> 18:38.200
+me feel weird?
+
+18:38.200 --> 18:42.680
+And that's not always an easy question to answer.
+
+18:42.680 --> 18:49.060
+More recently there was an experience that I had with one of my managers at a company
+
+18:49.060 --> 18:55.960
+previous where they would basically say, whenever I would use bigger words like an expanded
+
+18:55.960 --> 18:58.940
+vernacular than just like, hey, how's it going?
+
+18:58.940 --> 19:03.160
+Maybe I'll go and sprinkle some words that better illustrate what I'm saying.
+
+19:03.160 --> 19:07.080
+And he would kind of make comments like, oh, those are big words.
+
+19:07.080 --> 19:13.960
+And it's like, to a certain extent it's like, okay, it's not a word they use very often
+
+19:13.960 --> 19:20.240
+but at the same time, am I not capable of saying those words?
+
+19:20.240 --> 19:28.440
+Do you not believe me capable of using an expanded vernacular?
+
+19:28.440 --> 19:34.240
+It's not always easy to even broach those subjects.
+
+19:34.240 --> 19:41.200
+And I found that a lot of times it's, those implicit biases, generally speaking, I don't
+
+19:41.200 --> 19:47.520
+like to go and say, oh, it is the person's fault and they likely they just don't know.
+
+19:47.520 --> 19:51.360
+I'd like to give people the benefit of the doubt because that ends up more often than
+
+19:51.360 --> 19:58.520
+not contributing to a positive conversation about it of improvement rather than necessarily
+
+19:58.520 --> 20:04.440
+being like, hey, you're like going in and throwing labels like, hey, you're racist.
+
+20:04.440 --> 20:08.160
+Hey, you're this.
+
+20:08.160 --> 20:10.240
+Likely that's not the person's intention.
+
+20:10.240 --> 20:16.680
+And I think the discussion aspect of it is super important and kind of jumping all over
+
+20:16.680 --> 20:17.680
+the place a little bit.
+
+20:17.680 --> 20:26.360
+But generally speaking, yeah, like that's kind of my thoughts on it where it requires
+
+20:26.360 --> 20:30.000
+a conversation, I'd say.
+
+20:30.000 --> 20:35.120
+So how do you think we can make having that conversation easier?
+
+20:35.120 --> 20:47.680
+As I know from the previous case that I mentioned, that was one of the challenges talking about
+
+20:47.680 --> 20:50.680
+it.
+
+20:50.680 --> 20:58.800
+There was not a lot of support and it didn't feel like you could openly talk about this.
+
+20:58.800 --> 21:03.440
+She thankfully lost, I heard, at a company where that is not that much of a problem anymore
+
+21:03.440 --> 21:07.200
+and it's actually encouraged.
+
+21:07.200 --> 21:12.760
+Have you had experience maybe, I don't know, anywhere that you've worked or interacted
+
+21:12.760 --> 21:20.000
+maybe at university even, where you found that people have made this like a thing where
+
+21:20.000 --> 21:26.960
+they've said like, whenever you feel this, this is the avenue where you bring this up
+
+21:26.960 --> 21:28.480
+and where we can talk about this.
+
+21:28.480 --> 21:33.520
+Because I think the tricky thing with implicit bias is that, like you said, oftentimes the
+
+21:33.520 --> 21:40.080
+person might not even know that what they're saying is making something in you feel uncomfortable
+
+21:40.080 --> 21:43.520
+or not good about yourself.
+
+21:43.520 --> 21:45.040
+So how do we bring that to the fore?
+
+21:45.040 --> 21:49.040
+How do we allow those conversations to happen without it turning into a confrontational
+
+21:49.040 --> 21:50.040
+thing?
+
+21:50.040 --> 21:53.120
+I know it's a hard question.
+
+21:53.120 --> 22:00.400
+So I think it starts with knowing what is confrontational and non-confrontational language.
+
+22:00.400 --> 22:05.360
+There was a really great book that one of the other software engineers that I networked
+
+22:05.360 --> 22:11.280
+with showed me non-violent communication.
+
+22:11.280 --> 22:15.840
+I forget who exactly wrote the book, but it was very informative in terms of like, there
+
+22:15.840 --> 22:25.560
+are so many things that you might bring up that may or may not be considered confrontational.
+
+22:25.560 --> 22:30.000
+Just the way that you say you bring up an issue might be the difference between someone
+
+22:30.000 --> 22:34.840
+taking that personally and someone taking that as a point of improvement.
+
+22:34.840 --> 22:39.920
+I think there are so many other factors that go into it, like whether or not you guys are
+
+22:39.920 --> 22:44.680
+part of this same culture, different cultures.
+
+22:44.680 --> 22:50.280
+One example might be just with a recent networking opportunity I had.
+
+22:50.280 --> 22:57.840
+I was the only American at that kind of event.
+
+22:57.840 --> 23:01.440
+Everybody else was kind of from Europe and from Africa and all these different places,
+
+23:01.440 --> 23:06.360
+and talking to them was very interesting because they were very excited to talk with me.
+
+23:06.360 --> 23:10.100
+I was very excited to talk with them, but there were some times when they would say
+
+23:10.100 --> 23:17.160
+things that it would be like, huh.
+
+23:17.160 --> 23:21.840
+Sometimes with the way that we talk in the United States, we're not necessarily as direct
+
+23:21.840 --> 23:27.000
+as we would like to be.
+
+23:27.000 --> 23:32.040
+Just someone very directly saying something to me, it's appreciated.
+
+23:32.040 --> 23:33.040
+I love it.
+
+23:33.040 --> 23:38.200
+I think it's great, but it's like getting accustomed to the different kinds of ways
+
+23:38.200 --> 23:41.720
+that people speak and what kind of cultural norms there are.
+
+23:41.720 --> 23:46.360
+I think that's one huge aspect of it.
+
+23:46.360 --> 23:53.960
+From there, I really think that nonviolent communication is an important piece.
+
+23:53.960 --> 24:00.560
+Then really just identifying it as, hey, really talk about it less from, hey, this person
+
+24:00.560 --> 24:05.680
+is doing something wrong, and more of, hey, this is how I'm feeling right now.
+
+24:05.680 --> 24:13.080
+I want to understand how we can maybe improve this kind of relationship that we have and
+
+24:13.080 --> 24:15.520
+putting it from a perspective of we, right?
+
+24:15.520 --> 24:22.520
+It's not on the person necessarily to go and learn because a lot of times if they just
+
+24:22.520 --> 24:26.940
+don't know that that's the case, there's a lot of instances where just bringing that
+
+24:26.940 --> 24:35.640
+up for the first time may be what opens their eyes and they're like, oh, I am so sorry
+
+24:35.640 --> 24:38.560
+that I did that to you.
+
+24:38.560 --> 24:43.720
+You can have that discussion and move forward in a positive manner, but definitely bringing
+
+24:43.720 --> 24:48.960
+it up in a constructive way of like, hey, I really appreciate the kind of feedback.
+
+24:48.960 --> 24:55.280
+Let's say it's a manager and you are somebody who is experiencing that kind of implicit
+
+24:55.280 --> 25:04.440
+bias from your manager, like my example, somebody who is talking to me as if I can't use higher
+
+25:04.440 --> 25:11.360
+level vocabulary, like just going in and sending some time aside and being like, hey, I feel
+
+25:11.360 --> 25:21.080
+like those comments that you made about my big words are kind of hurtful, like alternatively
+
+25:21.080 --> 25:31.400
+maybe framing it from the perspective of like, hey, those comments are hurtful.
+
+25:31.400 --> 25:35.680
+Why do you feel the need to say that?
+
+25:35.680 --> 25:39.360
+Understanding the other person's perspective I think is also a big component of it because
+
+25:39.360 --> 25:43.900
+it may be that they think that it's like, oh, well, that's the way my parents acted
+
+25:43.900 --> 25:49.400
+with me whenever I said big words, they'd be like, oh, those are big words.
+
+25:49.400 --> 25:53.400
+For them in their family, it means something, but for us outside, maybe it means something
+
+25:53.400 --> 25:54.400
+different.
+
+25:54.400 --> 25:58.240
+You really never know until you have that conversation.
+
+25:58.240 --> 26:06.680
+A lot of times it's navigating that and just taking it with the idea of neither of you
+
+26:06.680 --> 26:13.560
+are really trying to be malicious about things, we're just trying to solve a problem.
+
+26:13.560 --> 26:17.600
+If we can approach it from that perspective, really a lot of the other things kind of fall
+
+26:17.600 --> 26:23.680
+in line because at the very least you have two solution oriented people that are going
+
+26:23.680 --> 26:29.680
+to accomplish this kind of improvement in the relationship between you two as opposed
+
+26:29.680 --> 26:33.500
+to just coming at it from, oh, you're a racist, I can't believe that you would say something
+
+26:33.500 --> 26:37.680
+like that.
+
+26:37.680 --> 26:41.320
+Sure maybe those labels will make you feel better when you say them, but that won't
+
+26:41.320 --> 26:46.400
+necessarily solve the problem because a lot of times if people get confronted like that,
+
+26:46.400 --> 26:51.040
+they'll just like retreat and kind of maybe double down because they don't believe that
+
+26:51.040 --> 26:54.000
+they're being that way.
+
+26:54.000 --> 26:58.960
+There's so many different reactions to that as opposed to a more constructive and positive
+
+26:58.960 --> 26:59.960
+approach.
+
+26:59.960 --> 27:03.840
+Generally speaking, people are more willing to come to the table and meet you halfway.
+
+27:03.840 --> 27:06.840
+Yeah, I know for sure.
+
+27:06.840 --> 27:09.040
+That's really good advice.
+
+27:09.040 --> 27:14.080
+To switch to a different topic that's along the similar lines, but talking about the other
+
+27:14.080 --> 27:20.800
+side of the things, during our conversational and poly work, I mentioned I also want to
+
+27:20.800 --> 27:27.120
+talk about the good parts and you weren't exactly sure what I meant by that.
+
+27:27.120 --> 27:30.520
+By the way, that is something that I found interesting.
+
+27:30.520 --> 27:39.120
+In written language, we often write from our perspective and we use maybe cultural phrases
+
+27:39.120 --> 27:45.360
+that we understand, not thinking what the person who's reading this might read from
+
+27:45.360 --> 27:46.360
+that.
+
+27:46.360 --> 27:52.560
+It's been really interesting on one of the projects we do as part of the Marseille network.
+
+27:52.560 --> 27:59.000
+There's quite a lot of written content involved there and we have people from Brazil and places
+
+27:59.000 --> 28:01.680
+like that who's also involved in it.
+
+28:01.680 --> 28:07.200
+There's one particular person, Raphael, that I've also spoken to on the podcast previously,
+
+28:07.200 --> 28:12.160
+who's amazing at the feedback he gives and the way he does it.
+
+28:12.160 --> 28:14.000
+He's just really good at it.
+
+28:14.000 --> 28:18.560
+He's pointed out some things in the written context where he's like, I'm not exactly sure
+
+28:18.560 --> 28:19.560
+what you mean here.
+
+28:19.560 --> 28:23.840
+Did you mean this or did you mean this thing?
+
+28:23.840 --> 28:28.240
+That has opened my eyes incredibly to a lot of things that we don't necessarily think
+
+28:28.240 --> 28:29.480
+about.
+
+28:29.480 --> 28:35.720
+It's highlighted how important it is to have this diversity within a team, within a community
+
+28:35.720 --> 28:40.920
+because they bring out the best in thing because now that content is so much more accessible
+
+28:40.920 --> 28:46.560
+to a much wider audience because you've been much more clear about what you're actually
+
+28:46.560 --> 28:51.480
+trying to say in this paragraph or in this sentence.
+
+28:51.480 --> 28:58.200
+With that in mind, what I meant with the good parts is some of the things like the framework
+
+28:58.200 --> 29:04.600
+wars and some of these struggles we still have in the workplace and the diversity and
+
+29:04.600 --> 29:10.080
+talking and how do we talk about the difficult things in a productive manner.
+
+29:10.080 --> 29:16.720
+The good parts for me is then when it comes down to making things, what is it about the
+
+29:16.720 --> 29:22.880
+tech industry that made you think like, hmm, I think I'm interested in what that is.
+
+29:22.880 --> 29:27.840
+I want to learn more about what that is and as you learn more, something about it piqued
+
+29:27.840 --> 29:33.440
+your interest and you were like, yeah, I think I want to do this for my career.
+
+29:33.440 --> 29:35.360
+That is the good parts.
+
+29:35.360 --> 29:39.800
+What were those things about the tech industry that got you to say, yeah, this is what I
+
+29:39.800 --> 29:44.280
+want to do as a career?
+
+29:44.280 --> 29:48.560
+I would say one of the big things is obviously problem solving.
+
+29:48.560 --> 29:54.520
+I love being presented some sort of challenge, some sort of feature, even some sort of bug
+
+29:54.520 --> 30:02.600
+where there's a problem that needs to be solved and going through the motions of like, well,
+
+30:02.600 --> 30:03.600
+what is the current problem?
+
+30:03.600 --> 30:08.680
+Do we need additional user research to solve this problem?
+
+30:08.680 --> 30:17.120
+I love going through that process because a lot of times that research is really applicable
+
+30:17.120 --> 30:19.040
+in other contexts.
+
+30:19.040 --> 30:25.920
+You don't really think about it when you go and do just a single feature.
+
+30:25.920 --> 30:32.600
+Maybe you want to add a chat bot or something like that to a front-facing webpage just as
+
+30:32.600 --> 30:35.880
+a random example.
+
+30:35.880 --> 30:40.880
+Now you know how to do that for the next project that you're doing and you kind of learn some
+
+30:40.880 --> 30:47.040
+additional aspects of maybe you need to implement it asynchronously, where now you have the
+
+30:47.040 --> 30:53.040
+ability, especially in JavaScript, to understand promises and understand weights and be able
+
+30:53.040 --> 30:59.320
+to work with more asynchronous data where each of these little experiences kind of culminate
+
+30:59.320 --> 31:04.400
+into being able to solve bigger problems.
+
+31:04.400 --> 31:12.320
+Usually a lot of the problem solving is breaking down those big problems into smaller problems.
+
+31:12.320 --> 31:19.280
+With that, being able to then equate that to experiences that you had in the past of
+
+31:19.280 --> 31:24.240
+being like, hey, well, I've solved four or five of these problems and I can research
+
+31:24.240 --> 31:26.880
+this fifth one.
+
+31:26.880 --> 31:32.000
+Just being able to leverage that kind of problem solving mindset on a daily basis and solve
+
+31:32.000 --> 31:38.640
+problems that really help people in the long run is a huge aspect of the good parts of
+
+31:38.640 --> 31:41.520
+the tech industry.
+
+31:41.520 --> 31:43.960
+I'd say also collaboration.
+
+31:43.960 --> 31:50.840
+I keep on going to community and collaboration, but really I think you get the most out of
+
+31:50.840 --> 31:57.280
+really software building when you are able to leverage a design team, whether that's
+
+31:57.280 --> 32:03.680
+a UI, UX team, a product manager, a product owner.
+
+32:03.680 --> 32:12.040
+I've got a project right now where we're working on a CRM app.
+
+32:12.040 --> 32:13.040
+It's currently in alpha.
+
+32:13.040 --> 32:17.120
+We're still kind of working through some of the things with our initial alpha customer,
+
+32:17.120 --> 32:20.200
+but we've got sales on deck.
+
+32:20.200 --> 32:21.320
+We've got marketing.
+
+32:21.320 --> 32:29.680
+We've got the product team, product owners for three different products in our company
+
+32:29.680 --> 32:37.760
+and the UI, UX lead, and all of us together that creates such an interesting discussion
+
+32:37.760 --> 32:44.600
+every week and interesting next steps all the time of like, hey, this is what we actually
+
+32:44.600 --> 32:50.280
+kind of need based off of our conversations with the user, based off of our conversations
+
+32:50.280 --> 32:54.840
+of what our system can handle and cannot handle.
+
+32:54.840 --> 32:56.620
+This is how we need to implement it.
+
+32:56.620 --> 32:59.160
+Let's go through the process of creating some of these wireframes.
+
+32:59.160 --> 33:02.040
+Let's make some higher fidelity designs.
+
+33:02.040 --> 33:09.920
+I love that aspect of it because there's so much discussion and kind of like that where
+
+33:09.920 --> 33:15.900
+you likely don't have the full picture unless you talk to other people.
+
+33:15.900 --> 33:22.480
+That's not even including like the stakeholders of the actual project, like the companies
+
+33:22.480 --> 33:28.840
+or the clients that you're working with where now introducing them into the mix and understanding
+
+33:28.840 --> 33:37.120
+their problems that also creates such an interesting experience of collaboration where everybody
+
+33:37.120 --> 33:43.040
+that you work with in the tech industry, you're collaborating in some way.
+
+33:43.040 --> 33:46.280
+It's not just like, oh, hey, do this.
+
+33:46.280 --> 33:50.440
+Usually if you're on a team with a couple of developers, you are collaborating on something,
+
+33:50.440 --> 33:54.160
+whether that's going and reviewing each other's code, pair programming, whatever the case
+
+33:54.160 --> 33:56.240
+may be.
+
+33:56.240 --> 34:02.200
+I can give plenty more examples, but that collaboration aspect is such a big component
+
+34:02.200 --> 34:07.640
+of it that I like and I love, if you can't tell, I love talking with people.
+
+34:07.640 --> 34:13.400
+It's really rewarding to be able to do that and then also leverage some technical skill
+
+34:13.400 --> 34:18.000
+to be able to accomplish those kind of software solutions.
+
+34:18.000 --> 34:19.720
+Yeah, that's great.
+
+34:19.720 --> 34:21.720
+I agree 100%.
+
+34:21.720 --> 34:28.600
+I love that collaborative thing as well, especially when you're working on a problem that everybody
+
+34:28.600 --> 34:34.400
+is passionate about, enthusiastic about, and everybody wants to see the best possible solution
+
+34:34.400 --> 34:41.360
+in the end of the day, I think that is like when you've really hit gold, so to speak.
+
+34:41.360 --> 34:44.960
+I have one question that's going to kind of lead into a different thing I want you to
+
+34:44.960 --> 34:51.080
+talk about a little bit, so let's start with the first one, which is from everything I've
+
+34:51.080 --> 34:58.560
+read, I can see that you're really into D&D, Dungeons and Dragons, are there any parallels
+
+34:58.560 --> 35:08.240
+that you can draw between the game of Dungeons and Dragons and the tech industry or working
+
+35:08.240 --> 35:10.680
+on a team?
+
+35:10.680 --> 35:15.520
+Yeah, certainly.
+
+35:15.520 --> 35:21.640
+Most of my experience in Dungeons and Dragons is as a game master, so a lot of it is just
+
+35:21.640 --> 35:29.920
+almost like project management where you have a clear goal of what needs to happen this
+
+35:29.920 --> 35:36.780
+session and just an overarching, hey, the goal of this campaign is to do this, but then
+
+35:36.780 --> 35:41.800
+you have these smaller sessions and you can equate those to sprints, where each of these
+
+35:41.800 --> 35:48.600
+sprints you're trying to accomplish something in that sprint and some DMs are more rigid
+
+35:48.600 --> 35:52.280
+and they say, hey, we're not leaving until we accomplish this thing.
+
+35:52.280 --> 35:53.760
+That is the end of the session.
+
+35:53.760 --> 36:00.440
+For me, it's a lot more flexible of like, hey, if we go through the motions and we get
+
+36:00.440 --> 36:01.560
+to that point, great.
+
+36:01.560 --> 36:04.120
+If we get farther than that point, fantastic.
+
+36:04.120 --> 36:09.800
+If we get to a point where we're not necessarily at where I wanted to be in the story, that's
+
+36:09.800 --> 36:10.800
+okay.
+
+36:10.800 --> 36:13.480
+We'll go and plan better for the next one.
+
+36:13.480 --> 36:19.960
+A lot of that is literally parallel with just agile methodology.
+
+36:19.960 --> 36:26.540
+From a player perspective, a lot of that collaboration still holds where instead you each are components
+
+36:26.540 --> 36:33.720
+of that agile methodology where let's say it's a couple of developers, a product designer,
+
+36:33.720 --> 36:40.180
+et cetera, where maybe you're the bard, you're the paladin, you're the rogue, where each
+
+36:40.180 --> 36:44.400
+of you have skills that help in different situations.
+
+36:44.400 --> 36:50.080
+Maybe you have to do some sort of stealth, sneak into the castle and save the princess.
+
+36:50.080 --> 36:54.960
+The rogue is better suited for that and maybe the paladin can create a distraction.
+
+36:54.960 --> 37:00.480
+If you think about it from a software perspective, some people are better with front-end technologies,
+
+37:00.480 --> 37:05.200
+some people are better with backend technologies, some people are better with very specific
+
+37:05.200 --> 37:13.320
+tools and some people are better at the people side of communication and stuff like that.
+
+37:13.320 --> 37:20.360
+A lot of that holds in Dungeons and Dragons as well where the opportunities to leverage
+
+37:20.360 --> 37:31.680
+what your class is good at are always there and generally speaking, a good GM will take
+
+37:31.680 --> 37:38.680
+the opportunities to highlight those, same with a good manager.
+
+37:38.680 --> 37:42.200
+You know your people's strengths, you can help them with your weaknesses but also highlight
+
+37:42.200 --> 37:49.760
+their strengths and have them play to their best role because obviously a paladin maybe
+
+37:49.760 --> 37:54.960
+isn't the best person to be sneaking around in full plate armor, just as an example.
+
+37:54.960 --> 38:01.220
+They're going to be sounding like plates that just dropped out of a pantry or something
+
+38:01.220 --> 38:06.400
+like that, just like all this noise everywhere.
+
+38:06.400 --> 38:14.260
+Those are some of the parallels but a lot of the times you can find a lot of similarities
+
+38:14.260 --> 38:21.160
+between the two and yeah, I play it enough to where I even have a campaign in the company
+
+38:21.160 --> 38:27.920
+that I'm currently at in Compass where a lot of the people like it's me, I'm a developer,
+
+38:27.920 --> 38:33.880
+we've got some other people who are like somebody from HR, a couple product managers, a release
+
+38:33.880 --> 38:40.360
+manager, all these different people who if we take out the D&D aspect of it and then
+
+38:40.360 --> 38:45.160
+look at the actual team aspect of it, we've got this diverse team of individuals with
+
+38:45.160 --> 38:50.960
+different experiences, different specialties in the software and also in general in their
+
+38:50.960 --> 38:55.880
+career where they can leverage it.
+
+38:55.880 --> 38:59.920
+I think that's some of the things that I can think of off the top of my head.
+
+38:59.920 --> 39:04.240
+I can obviously go and rant on about it all day because I love Dungeons and Dragons.
+
+39:04.240 --> 39:06.440
+Yeah, no, I love that.
+
+39:06.440 --> 39:07.440
+That's wonderful.
+
+39:07.440 --> 39:08.440
+I love that analogy.
+
+39:08.440 --> 39:10.600
+It's really great.
+
+39:10.600 --> 39:11.880
+That leads me into the next thing.
+
+39:11.880 --> 39:18.040
+I had a look on your GitHub profile and you have a project called Sovereign of Chaos.
+
+39:18.040 --> 39:21.800
+I think I'm pronouncing it correctly.
+
+39:21.800 --> 39:23.680
+That sounds incredibly interesting.
+
+39:23.680 --> 39:28.400
+I'd love you to dig into that some and some of the things that I'm interested in is what
+
+39:28.400 --> 39:34.440
+exactly it is, how you came about to build this, and then from the larger collaborative
+
+39:34.440 --> 39:43.520
+aspects, are you open to others using this, working it, contributing back to it, and give
+
+39:43.520 --> 39:48.560
+us a nice overview of what this project is and what your goals are with it?
+
+39:48.560 --> 39:53.440
+Yeah, I'll start with the naming because obviously the Sovereign of Chaos, it's like out of all
+
+39:53.440 --> 39:58.320
+the things that you can name a project, why would you name it that?
+
+39:58.320 --> 40:05.320
+That's actually a Dungeons and Dragons thing, more specifically the setting of Eberron.
+
+40:05.320 --> 40:07.960
+That's one of the settings that they've published.
+
+40:07.960 --> 40:12.280
+It's not just one setting that they have for Dungeons and Dragons and that's it.
+
+40:12.280 --> 40:15.960
+There's a couple published ones that Wizards of the Coast, the company that owns Dungeons
+
+40:15.960 --> 40:20.520
+and Dragons, have published and then obviously people can go and bring in their own homebrew
+
+40:20.520 --> 40:21.520
+worlds.
+
+40:21.520 --> 40:26.800
+One of the worlds that I really like and really resonate with me is Eberron.
+
+40:26.800 --> 40:30.840
+It was written by a guy named Keith Baker.
+
+40:30.840 --> 40:40.680
+He's really a big player with the concept of like nothing is black and white and again
+
+40:40.680 --> 40:45.320
+it goes back to kind of like the same kind of concepts we've been talking about today
+
+40:45.320 --> 40:51.160
+where it's not as easy as just kind of like yes or no or like it's a discussion.
+
+40:51.160 --> 40:56.000
+Eberron is kind of the same way where in a lot of ways like there are spells of like
+
+40:56.000 --> 41:01.320
+detect good and evil in Dungeons and Dragons where Keith Baker has said, hey, if I had
+
+41:01.320 --> 41:06.520
+my way in Eberron, those wouldn't work because it's all perspective based, right?
+
+41:06.520 --> 41:14.320
+Where somebody wouldn't necessarily like just because someone is classified as a monstrosity
+
+41:14.320 --> 41:20.240
+in the system mechanically does not necessarily mean that they're evil, right?
+
+41:20.240 --> 41:25.160
+And I really like that setting because of that where there's a lot of muddled grays
+
+41:25.160 --> 41:31.640
+and it's kind of generally speaking like a Knorr aspect to it.
+
+41:31.640 --> 41:37.720
+One of the major cities in Eberron is this place called Sharn which is this big floating
+
+41:37.720 --> 41:47.420
+like metropolis kind of like I'm trying to think of an example like very Art Deco kind
+
+41:47.420 --> 41:58.600
+of like 19 like roaring 20s with that mixture of like medieval fantasy and also like magic
+
+41:58.600 --> 42:06.600
+and then also sprinkled in with some more technology aspects fueled by magic.
+
+42:06.600 --> 42:10.600
+So that setting really resonated with me.
+
+42:10.600 --> 42:20.160
+The Sovereign of Chaos is one of those kind of figures in the Dark Six of Eberron.
+
+42:20.160 --> 42:29.200
+They're like some of the gods that people worship in that setting.
+
+42:29.200 --> 42:32.520
+The Traveler as he's called is the Sovereign of Chaos.
+
+42:32.520 --> 42:44.440
+He kind of brings along change that's kind of what his kind of what is called the underlying
+
+42:44.440 --> 42:52.240
+concepts behind him are around like change and really with the project I decided to name
+
+42:52.240 --> 42:58.960
+him that because I really wanted just like a Discord bot where I could really play around
+
+42:58.960 --> 43:04.960
+with different concepts and not really have a single sort of goal and just have it be
+
+43:04.960 --> 43:10.160
+like hey I want to add this feature to it great like really more of a learning experience
+
+43:10.160 --> 43:17.320
+for me than necessarily like a purpose-built bot for a specific you know user flow or something
+
+43:17.320 --> 43:23.440
+like that and that's kind of evident in the kind of features that it has like I started
+
+43:23.440 --> 43:29.760
+small with some basic things like you know like an eight ball like some like a gotcha
+
+43:29.760 --> 43:37.960
+item puller where like given this feed of magic items from like existing Dungeons and
+
+43:37.960 --> 43:46.040
+Dragons publications obviously with the open game license in mind you know going and producing
+
+43:46.040 --> 43:50.720
+those magic items because sometimes in the game there are instances where somebody like
+
+43:50.720 --> 43:54.360
+you want to reward them with some sort of magic item but you don't necessarily know
+
+43:54.360 --> 44:01.120
+what to do because you weren't planning on that they they managed to to go and do something
+
+44:01.120 --> 44:05.080
+that you want to reward them somehow but you have no idea so like maybe you think of oh
+
+44:05.080 --> 44:11.720
+I want to pull uncommon magic item really a lot of the the features were also revolving
+
+44:11.720 --> 44:20.160
+around Dungeons and Dragons and trying to help with my own game mastering initiative
+
+44:20.160 --> 44:25.640
+order and skills challenges were also one thing where it kept the persistent state of
+
+44:25.640 --> 44:34.040
+the current initiative challenges or initiative orders where essentially that kind of means
+
+44:34.040 --> 44:39.840
+that there's some sort of combative encounter that is happening at that moment same thing
+
+44:39.840 --> 44:46.040
+with skills challenges just being able to track that and having some order to a more
+
+44:46.040 --> 44:54.040
+complex situation so maybe it's not a combat situation but a practical example might be
+
+44:54.040 --> 45:00.680
+hey you have to escape this castle like you're not in combat yet but you are also about to
+
+45:00.680 --> 45:08.680
+be arrested like how how does your team navigate that and attaching a sort of the reason why
+
+45:08.680 --> 45:12.200
+I would attach an initiative order to that is just to give the opportunity for everybody
+
+45:12.200 --> 45:17.440
+in the team to contribute because then it goes in a sequential order of turns as opposed
+
+45:17.440 --> 45:23.840
+to whoever raises their hand first and blurts out what they want to do gives a lot more
+
+45:23.840 --> 45:34.480
+opportunity for contributions as opposed to not with those features that was really the
+
+45:34.480 --> 45:41.080
+kind of core concept behind it the intention was to kind of take input and provide output
+
+45:41.080 --> 45:50.640
+through a discord server which discords python api or discord pi like it is so useful and
+
+45:50.640 --> 45:56.720
+so easy to use that it felt like you know these features are just flying out of my fingers
+
+45:56.720 --> 46:03.600
+into the keyboard into the repository so it was really exciting seeing it and I had it
+
+46:03.600 --> 46:13.280
+on a server of about 50 people and that it was also doing like event reminders like kind
+
+46:13.280 --> 46:16.720
+of like asynchronous stuff like I just started building on top of it and kind of having it
+
+46:16.720 --> 46:26.040
+be a one one bot for everything for that server so people could go and set reminders go and
+
+46:26.040 --> 46:34.000
+specific events like maybe there was some sort of like every monday we do this like
+
+46:34.000 --> 46:38.600
+just sending reminders and stuff like that trying to think about what else off the top
+
+46:38.600 --> 46:44.360
+of my head but it was just a whole bunch of features just discord oriented for that purpose
+
+46:44.360 --> 46:51.760
+just playing around and seeing what the extent of the discord pi library could do and being
+
+46:51.760 --> 46:59.440
+able to use it positively like just to improve the experience on a server so that was a lot
+
+46:59.440 --> 47:06.160
+of fun with it I mean in terms of like open source like being able to fork it build on
+
+47:06.160 --> 47:12.320
+it I'd say anybody that wants to can go for it it's one of the big reasons why I put it
+
+47:12.320 --> 47:19.040
+on github in a public repository because it's just built on discord pi and a couple other
+
+47:19.040 --> 47:24.400
+minor libraries that I'm pretty sure all have the same kind of licensing that it's just
+
+47:24.400 --> 47:33.360
+kind of like hey go for it so yeah I mean anybody that wants to to pull or contribute
+
+47:33.360 --> 47:39.400
+build on that like a lot of the concepts are were really helpful for me to learn especially
+
+47:39.400 --> 47:46.960
+like asynchronous handling of like messages and being able to like shard and kind of basically
+
+47:46.960 --> 47:54.400
+thread a bot so that then in the event of like multiple servers trying to add this bot
+
+47:54.400 --> 48:02.000
+to it then you know like how do you handle that and and keep a data structure that makes
+
+48:02.000 --> 48:11.440
+sense for like you know server a shouldn't be seeing the data for server b and you get
+
+48:11.440 --> 48:17.080
+into that even more so with like I added like xp tracking and stuff like that as well so
+
+48:17.080 --> 48:22.160
+every time somebody sent a message like you know should that xp carry over between server
+
+48:22.160 --> 48:27.200
+to server those those were the kind of questions that I had so like I mean it was extremely
+
+48:27.200 --> 48:34.320
+beneficial to to build and it really improved my knowledge of building software so if it
+
+48:34.320 --> 48:39.560
+helps anybody like that sees it and wants to to take a look or play around with discord
+
+48:39.560 --> 48:46.840
+pi and see what's capable say go for it right so do you it's interesting I like a lot of
+
+48:46.840 --> 48:53.360
+the features and a lot of they make me think like do you foresee a machine learning aspect
+
+48:53.360 --> 49:01.000
+to this being useful say somebody is like really like dug into the open ai python stuff
+
+49:01.000 --> 49:06.920
+and they're like hmm I wonder if we can add some like machine learning aspects to this
+
+49:06.920 --> 49:12.480
+thing is that something you'd be interested in exploring I think so I think there's a
+
+49:12.480 --> 49:20.520
+lot of benefits to machine learning like from a perspective of like just trying to improve
+
+49:20.520 --> 49:25.360
+our lives instead of replace people's like jobs or anything like that there are a lot
+
+49:25.360 --> 49:33.240
+of aspects where we we can improve people's lives with it the with discord specifically
+
+49:33.240 --> 49:42.320
+I can see potentially like being able to process and understand what what violent communication
+
+49:42.320 --> 49:50.120
+looks like what like derogatory communication looks like and as the you know human like
+
+49:50.120 --> 49:54.800
+linguistics evolves like having something that evolves with it to be able to accurately
+
+49:54.800 --> 50:03.240
+create a safe and comfortable environment I can see that being very useful from the
+
+50:03.240 --> 50:12.600
+my specific bot I can see a lot of value in doing machine learning on how to properly
+
+50:12.600 --> 50:20.100
+build an encounter so like with every monster and Dungeons and Dragons there is some sort
+
+50:20.100 --> 50:26.480
+of challenge rating assigned to them and different skills that they can use even in the same
+
+50:26.480 --> 50:35.240
+challenge rating and like that challenge ratings from 0 to 30 you still have a lot of aspects
+
+50:35.240 --> 50:40.240
+where that challenge rating isn't exactly a full indicator of what how challenging this
+
+50:40.240 --> 50:44.840
+is going to be for your party because certain classes are are you know have different abilities
+
+50:44.840 --> 50:52.280
+that may be better suited to combat a creature than others so I can see from a machine learning
+
+50:52.280 --> 51:01.080
+perspective like it might be valuable to take a deeper understanding of not just the challenge
+
+51:01.080 --> 51:05.400
+ratings but also the the classes and being like hey given these are the players that
+
+51:05.400 --> 51:11.960
+are engaging with this this is a more realistic aspect of whether or not this encounter is
+
+51:11.960 --> 51:17.880
+easy medium hard or deadly you know I can see a lot of value in that as well because
+
+51:17.880 --> 51:23.840
+then that creates a better experience when the GM doesn't have to worry about completely
+
+51:23.840 --> 51:31.840
+TPKing the party which is a total party kill you know or alternatively creating a big bad
+
+51:31.840 --> 51:36.520
+and like bringing that person in only to have it be completely curb stomped by the party
+
+51:36.520 --> 51:43.400
+because you know like based off of like even action economy you could run into those types
+
+51:43.400 --> 51:51.160
+of issues where where one enemy is moving for every five people that are fighting against
+
+51:51.160 --> 51:56.800
+it like obviously there's just like that economy of action like is going to create a problem
+
+51:56.800 --> 52:04.720
+so machine learning to better understand that and apply those more higher level concepts
+
+52:04.720 --> 52:09.680
+to Dungeons and Dragons and properly schedule an encounter and like create an encounter
+
+52:09.680 --> 52:14.600
+that's valuable and meaningful and kind of accomplishes what the DM is trying to do.
+
+52:14.600 --> 52:20.000
+I think that could be super valuable and it would be super cool if I had a tool like that.
+
+52:20.000 --> 52:22.000
+Yeah, that's great.
+
+52:22.000 --> 52:29.960
+Yeah, I'm fascinated about how we can use these new found technologies and skills to
+
+52:29.960 --> 52:36.480
+improve our lives definitely I think that is the one thing that I kind of decided to
+
+52:36.480 --> 52:42.480
+do is to look at it from a positive perspective there's a lot of negativity around it and
+
+52:42.480 --> 52:47.560
+I understand it but at the same time I'm like it's not going anywhere so we might as well
+
+52:47.560 --> 52:55.040
+find ways of using it effectively to improve us as a species maybe that's maybe a little
+
+52:55.040 --> 53:01.360
+bit going too far but maybe not maybe it's possible but at least like improving my day
+
+53:01.360 --> 53:05.880
+to day like is it any way it can make me a little bit more productive take care of some
+
+53:05.880 --> 53:11.600
+of the medium that I don't really enjoy doing so you know can I have something that's trained
+
+53:11.600 --> 53:16.680
+to help me do these things yeah I'm trying to see it from that perspective but then keeping
+
+53:16.680 --> 53:23.080
+ethics in mind and you know is this done like what is the potential downsides of this like
+
+53:23.080 --> 53:29.240
+keeping that in your mind but not being a complete cynic about all of this right there's
+
+53:29.240 --> 53:35.680
+a positive aspect to it positive aspect really to anything it's just a matter of like you
+
+53:35.680 --> 53:41.240
+know especially with AI like we can find ways to incorporate it without necessarily making
+
+53:41.240 --> 53:48.280
+people's lives worse I agree 100% yeah yeah for sure so with everything that you've experienced
+
+53:48.280 --> 53:55.200
+in your time in tech for people just getting into the industry whether that is young folks
+
+53:55.200 --> 54:00.240
+getting into it like because just straight out of school or out of university or whether
+
+54:00.240 --> 54:04.800
+it's people in different stages of their lives deciding to switch careers like do you have
+
+54:04.800 --> 54:09.760
+any like advice for these people like what what should they think about keep in mind
+
+54:09.760 --> 54:17.360
+when they're just getting into this set some expectations that's more same than some of
+
+54:17.360 --> 54:23.280
+the some of the expectations that are sometimes thrown out there when it comes to tech breaking
+
+54:23.280 --> 54:31.680
+the problem in smaller chunks like just in general it's really easy to be intimidated
+
+54:31.680 --> 54:37.960
+by wanting to learn how to program I have a couple people who have reached out even
+
+54:37.960 --> 54:41.720
+in my current company where they're like hey I really want to learn how to program I want
+
+54:41.720 --> 54:47.560
+to get to the point of developer and I'm like okay I'd be happy to help like if you have
+
+54:47.560 --> 54:52.240
+some sort of learning and you're trying to understand how something works or even learn
+
+54:52.240 --> 54:57.880
+how some of the things work more deeply in our company like I'd be happy to do that
+
+54:57.880 --> 55:05.040
+and like it seems like a lot of times people get intimidated by the daunting task that
+
+55:05.040 --> 55:11.200
+is learning programming because it seems like such a big mountain for a lot of people and
+
+55:11.200 --> 55:17.400
+really you only get up that mountain through several smaller steps right like you know
+
+55:17.400 --> 55:22.280
+even software building you know you break those problems down we've kind of mentioned
+
+55:22.280 --> 55:27.480
+that before it's the same thing with learning software like maybe you want to be a front
+
+55:27.480 --> 55:31.440
+end developer or something like that like you know there there are smaller components
+
+55:31.440 --> 55:37.280
+to what that is like maybe you want to learn the core you break that problem from front
+
+55:37.280 --> 55:41.520
+end developer and be like well no actually that means that I need to learn HTML I need
+
+55:41.520 --> 55:46.520
+to learn CSS I need to learn JavaScript I need to learn React I need to learn some sort
+
+55:46.520 --> 55:51.960
+of stack of like maybe the lamp stack or the the myrn stack or something like that like
+
+55:51.960 --> 55:59.680
+break that problem down and be like okay well now I need to learn like mongo like node.js
+
+55:59.680 --> 56:03.280
+react okay and then break that problem down and be like cool I want to learn the core
+
+56:03.280 --> 56:10.120
+concepts I want to get a project going for node.js like here's my kind of goal with this
+
+56:10.120 --> 56:15.880
+learning to be able to accomplish this and really breaking that problem down like either
+
+56:15.880 --> 56:23.800
+if you're trying to learn on your own or in academia it's really helpful and it will
+
+56:23.800 --> 56:29.120
+only help you in kind of the crazy projects that they kind of throw at you in academia
+
+56:29.120 --> 56:36.680
+as well I had a class I went to Northern Arizona University and one of the professors ran a
+
+56:36.680 --> 56:41.880
+course for operating systems where essentially we were building our own operating system
+
+56:41.880 --> 56:51.640
+simulator in C and that was really one of the points where I started really breaking
+
+56:51.640 --> 56:57.400
+down problems in the smaller chunks in a lot of ways because I had to because he would
+
+56:57.400 --> 57:02.920
+just be like hey I want you to implement all these different scheduling algorithms like
+
+57:02.920 --> 57:08.880
+shortest job first first first in first out like and it's like oh god I have two weeks
+
+57:08.880 --> 57:15.080
+to do this and like my last project didn't do so well so it's like I've got to make
+
+57:15.080 --> 57:20.400
+those changes I've got to improve those and then I've got to go and build the new stuff
+
+57:20.400 --> 57:28.240
+so it's once I start understanding like how to break those problems down that really helped
+
+57:28.240 --> 57:36.420
+me to be able to navigate challenges in the tech industry where instead of seeing it as
+
+57:36.420 --> 57:41.520
+this big project now I'm like okay these are the kind of smaller steps and then even
+
+57:41.520 --> 57:45.780
+smaller steps and then this is what I can do right now and this is kind of the process
+
+57:45.780 --> 57:51.040
+to go from point A to point B to point C however many other letters that it takes to get to
+
+57:51.040 --> 57:58.280
+the end goal so I would say that's my big advice break the problem into smaller chunks
+
+57:58.280 --> 58:06.120
+break the learning of tech and the kind of professional development in the smaller chunks
+
+58:06.120 --> 58:12.880
+and just take it in stride really because you may not think that you're really making
+
+58:12.880 --> 58:18.800
+a lot of progress but if you look back on yourself even a month after where you were
+
+58:18.800 --> 58:25.160
+today like chances are you've learned a lot more than you think you have you've probably
+
+58:25.160 --> 58:28.520
+implemented something that you didn't think that you were able to do and you look back
+
+58:28.520 --> 58:35.680
+and you're like wow it magnifies so much more in the context of years of experience
+
+58:35.680 --> 58:41.280
+to where like really you know the only way you're going to get through that is not by
+
+58:41.280 --> 58:47.560
+thinking about it from the perspective of like hey I want to get here in 10 years let's
+
+58:47.560 --> 58:52.440
+break this problem down because then at the very least those are actionable steps that
+
+58:52.440 --> 58:57.560
+your brain can actually process and be able to navigate successfully.
+
+58:57.560 --> 59:03.000
+Yeah that's great advice and yeah I totally agree I often break it down right down to
+
+59:03.000 --> 59:09.400
+what is the first variable I need to keep maybe keep some state okay cool so now how
+
+59:09.400 --> 59:15.600
+do I set this date how do I update this date so you kind of start to really from that little
+
+59:15.600 --> 59:23.000
+tiny variable that then builds out and out and out into solving the bigger solution so
+
+59:23.000 --> 59:29.520
+in closing you've shared like many of your interests but one other one that I know that
+
+59:29.520 --> 59:34.440
+you have is you're a tattoo enthusiast you know the second person in a week that I've
+
+59:34.440 --> 59:40.960
+spoken to that has the same interest and the one thing that I always enjoy about it is
+
+59:40.960 --> 59:46.200
+learning about the stories behind the tattoos because often they're super interesting so
+
+59:46.200 --> 59:51.120
+is there any particular tattoo that you have that has a story of special meaning to you
+
+59:51.120 --> 59:55.640
+behind it that you're wanting to share with the community?
+
+59:55.640 --> 01:00:03.520
+Oh yeah totally so I kind of have my whole arm here like my right arm kind of filled
+
+01:00:03.520 --> 01:00:08.040
+up with tattoos still need to finish it up like there's a couple of blank spaces and
+
+01:00:08.040 --> 01:00:12.840
+I'd like to get my tattoo artist to actually fill it in and make it feel like a completed
+
+01:00:12.840 --> 01:00:23.960
+like sleeve but there's one right here if you can see that one so for audio purposes
+
+01:00:23.960 --> 01:00:30.200
+I'll go and describe it so essentially it's kind of a dragon face kind of in like black
+
+01:00:30.200 --> 01:00:37.800
+and white lots of shading in it as well as some aspects of red in the eyes the dragon
+
+01:00:37.800 --> 01:00:44.400
+itself is from a game called Monster Hunter Monster Hunter World to be specifically or
+
+01:00:44.400 --> 01:00:54.280
+to be specific sorry the what's this is the final boss of their the expansion Iceborne
+
+01:00:54.280 --> 01:01:01.560
+in a lot of ways Monster Hunter really is like similar to the experiences I've had
+
+01:01:01.560 --> 01:01:07.200
+where you are taking things one hunt at a time and like you're like wow this game is
+
+01:01:07.200 --> 01:01:13.740
+really hard like I'm not sure if this is necessarily like great like sometimes it's not the easiest
+
+01:01:13.740 --> 01:01:18.600
+game to play especially depending on what kind of weapon you choose to play that game
+
+01:01:18.600 --> 01:01:23.400
+like whether it's a greatsword like a gunlance or something like that there's like 16 different
+
+01:01:23.400 --> 01:01:33.600
+weapons but this was actually my first tattoo and the reason why I got it was mainly it
+
+01:01:33.600 --> 01:01:44.720
+was something bold I wanted to have a piece on my body that was bold when people saw it
+
+01:01:44.720 --> 01:01:50.720
+then they were like whoa like it's an eye-catcher immediately people are like whoa that is so
+
+01:01:50.720 --> 01:01:58.120
+cool can I take a look at that it's a little bit vain but at the same time the other aspect
+
+01:01:58.120 --> 01:02:02.160
+of it it was really my first tattoo and I was kind of on the fence for a while about
+
+01:02:02.160 --> 01:02:10.480
+getting tattoos a lot of my upbringing was kind of like oh no well your body is a temple
+
+01:02:10.480 --> 01:02:17.120
+you know all this sort of Christian values associated with that and ultimately getting
+
+01:02:17.120 --> 01:02:22.080
+out and actually exploring the world myself and understanding the world and perceiving
+
+01:02:22.080 --> 01:02:27.320
+it myself that really opened my eyes to like well you know yeah my body is a temple I should
+
+01:02:27.320 --> 01:02:34.040
+take care of it but you know I it's my choice what I get to decorate it in my temple with
+
+01:02:34.040 --> 01:02:41.680
+you know like if I'm you know just to kind of put it in that temple perspective so really
+
+01:02:41.680 --> 01:02:48.160
+with that I like Monster Hunter is a game that I hold very near and dear to my heart
+
+01:02:48.160 --> 01:02:54.400
+and Sharashvalda itself it's kind of like this world-ending worm like this kind of and
+
+01:02:54.400 --> 01:03:02.440
+the way it's presented in the game is this kind of like almost omniscient like dragon
+
+01:03:02.440 --> 01:03:07.720
+that is just like constantly like there's a point once you start fighting in in like
+
+01:03:07.720 --> 01:03:13.200
+the third phase where its eyes open up and it's those same stark kind of red eyes except
+
+01:03:13.200 --> 01:03:19.440
+the eyes are not tracking your player in the game they are tracking you the camera perspective
+
+01:03:19.440 --> 01:03:25.000
+so regardless of where you're hitting and stuff that that camera you know it creates
+
+01:03:25.000 --> 01:03:30.560
+this element of like the Shara knows what's going on almost you know like knows what's
+
+01:03:30.560 --> 01:03:37.200
+what what this is what this is versus you know like just being in that game it kind
+
+01:03:37.200 --> 01:03:42.040
+of creates this kind of fourth wall break of this dragon that is so wise and intelligent
+
+01:03:42.040 --> 01:03:48.600
+that it can see beyond that perspective and and generally speaking that that kind of aspect
+
+01:03:48.600 --> 01:03:54.840
+of wisdom and and stuff like that is also a big component of why I chose that monster
+
+01:03:54.840 --> 01:04:00.000
+out of all the monsters because I could have chosen like the the cover art dragon or something
+
+01:04:00.000 --> 01:04:05.800
+like that you know I could have chosen any anything but really Sharashvalda really resonated
+
+01:04:05.800 --> 01:04:15.040
+with me yeah that's great I knew there was a story thank you so much this was a wonderful
+
+01:04:15.040 --> 01:04:21.920
+conversation so much you paint such beautiful pictures with your words really I really enjoyed
+
+01:04:21.920 --> 01:04:28.480
+listening to you talk I hope this was a good experience I know this was your first podcast
+
+01:04:28.480 --> 01:04:33.200
+it was definitely great for me so thank you so much for joining and I wish you all all
+
+01:04:33.200 --> 01:04:40.120
+of the success in your future yeah thank you I really appreciate the opportunity and really
+
+01:04:40.120 --> 01:04:43.960
+I if you can't tell I love talking with people I love hearing about your own experiences
+
+01:04:43.960 --> 01:04:50.120
+as well so you know I'm really glad to be on and yeah hopefully we talk soon yeah for
+
+01:04:50.120 --> 01:04:55.960
+sure have a lovely rest of your day and I'll speak to you soon thank you for listening
+
+01:04:55.960 --> 01:05:01.600
+to this episode of the my senior network podcast if you're not already please subscribe store
+
+01:05:01.600 --> 01:05:07.200
+and leave a review for us in your podcatcher of choice this helps others find us and helps
+
+01:05:07.200 --> 01:05:13.280
+us make a better podcast for you on this course you can also find and follow us on twitter
+
+01:05:13.280 --> 01:05:19.160
+at meet with my senior enjoy the community on discord all the links are available in
+
+01:05:19.160 --> 01:05:32.680
+the show notes
+

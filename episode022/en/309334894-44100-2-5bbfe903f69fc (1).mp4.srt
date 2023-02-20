@@ -1,0 +1,2248 @@
+1
+00:00:00,000 --> 00:00:06,640
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+
+2
+00:00:06,640 --> 00:00:09,760
+and the mentors and teachers that help them along the way.
+
+3
+00:00:09,760 --> 00:00:14,960
+Hey Ryan, welcome to the Mycelium Network Podcast.
+
+4
+00:00:14,960 --> 00:00:16,460
+It's a pleasure to be here.
+
+5
+00:00:16,460 --> 00:00:18,160
+It's a pleasure to join you, Skulk.
+
+6
+00:00:18,160 --> 00:00:19,680
+Yeah, pleasure's all mine.
+
+7
+00:00:19,680 --> 00:00:22,040
+We haven't talked in way too long.
+
+8
+00:00:22,040 --> 00:00:23,840
+I know, way too long.
+
+9
+00:00:23,840 --> 00:00:24,840
+Yeah.
+
+10
+00:00:24,840 --> 00:00:31,720
+I know you from Mozilla, and for a long time we worked together on the MDN WebDocs project.
+
+11
+00:00:31,720 --> 00:00:38,520
+And then you had a short period of time where you explored some other avenues, which we'll
+
+12
+00:00:38,520 --> 00:00:40,560
+talk about a bit later.
+
+13
+00:00:40,560 --> 00:00:47,120
+And then you came back to the Fall and joined the Mozilla family again.
+
+14
+00:00:47,120 --> 00:00:53,160
+So but I think since you rejoined, both of us have been heads down on a bunch of things
+
+15
+00:00:53,160 --> 00:00:55,760
+and never really got a chance to connect again.
+
+16
+00:00:55,760 --> 00:01:02,640
+So I thought, what better way to reconnect than record a bloody podcast?
+
+17
+00:01:02,640 --> 00:01:08,480
+So I invited you and I was so happy when you said you are into it.
+
+18
+00:01:08,480 --> 00:01:10,400
+So I'm looking forward to this.
+
+19
+00:01:10,400 --> 00:01:11,400
+Me too.
+
+20
+00:01:11,400 --> 00:01:13,880
+It's an honor, Skulk.
+
+21
+00:01:13,880 --> 00:01:19,560
+So to get us started, I've sat in many meetings where we've introduced ourselves, where we
+
+22
+00:01:19,560 --> 00:01:22,840
+were both in the room, where we've introduced ourselves to other people, where we've shared
+
+23
+00:01:22,840 --> 00:01:26,560
+some of our life's journey to people.
+
+24
+00:01:26,560 --> 00:01:30,800
+And so therefore, I know you have a really interesting story to tell.
+
+25
+00:01:30,800 --> 00:01:36,840
+So I'm going to keep quiet and start wherever you feel like.
+
+26
+00:01:36,840 --> 00:01:44,320
+And just tell us, who is Rian Johnson, where you come from, and how did you get to today?
+
+27
+00:01:44,320 --> 00:01:47,520
+Yeah, that's a great question.
+
+28
+00:01:47,520 --> 00:01:56,360
+It's especially fun talking to you about it, because I know of your background in music
+
+29
+00:01:56,360 --> 00:01:58,360
+and really accomplished in music.
+
+30
+00:01:58,360 --> 00:02:05,840
+And I always thought that was just so cool that you've got that artistic, cultural background,
+
+31
+00:02:05,840 --> 00:02:11,160
+and then you bring that to technology, because I can relate to that somewhat.
+
+32
+00:02:11,160 --> 00:02:12,160
+Yeah.
+
+33
+00:02:12,160 --> 00:02:23,720
+When I started off in technology, I always tell people that the reason I got into technology
+
+34
+00:02:23,720 --> 00:02:33,600
+was because I was very interested in humanities, writing, and art, and all that stuff.
+
+35
+00:02:33,600 --> 00:02:39,000
+But I think technology attracted me initially when I was young.
+
+36
+00:02:39,000 --> 00:02:44,800
+And a teenager was just because of the chance to make good money.
+
+37
+00:02:44,800 --> 00:02:47,120
+I came from a poor family.
+
+38
+00:02:47,120 --> 00:02:50,360
+And so that was one aspect.
+
+39
+00:02:50,360 --> 00:02:56,720
+But also, I think in a sense, that's kind of an external thing, really.
+
+40
+00:02:56,720 --> 00:03:05,000
+But from an internal point of view, I thought it was a chance to create some things.
+
+41
+00:03:05,000 --> 00:03:13,200
+I guess I was always attracted to engineering from the creative aspect of it.
+
+42
+00:03:13,200 --> 00:03:21,640
+And then also, I remember being really attracted to computers, really, from the point of view
+
+43
+00:03:21,640 --> 00:03:22,640
+of...
+
+44
+00:03:22,640 --> 00:03:29,400
+I had heard about artificial intelligence way back then, and that intrigued me.
+
+45
+00:03:29,400 --> 00:03:33,480
+How is it that computers think what?
+
+46
+00:03:33,480 --> 00:03:34,480
+What is that?
+
+47
+00:03:34,480 --> 00:03:35,480
+What does that mean?
+
+48
+00:03:35,480 --> 00:03:37,960
+And I was always intrigued by that.
+
+49
+00:03:37,960 --> 00:03:39,640
+And I wanted to get to the bottom of it.
+
+50
+00:03:39,640 --> 00:03:42,920
+So there was a philosophical aspect to it as well.
+
+51
+00:03:42,920 --> 00:03:51,680
+And I think that's probably maybe the biggest core of who I am is maybe I'm more attracted
+
+52
+00:03:51,680 --> 00:03:54,440
+to philosophy and psychology and things like that.
+
+53
+00:03:54,440 --> 00:04:01,800
+But technology was my way to make a living and get myself...
+
+54
+00:04:01,800 --> 00:04:07,520
+We weren't in poverty, but we just didn't have money as a family.
+
+55
+00:04:07,520 --> 00:04:18,680
+So I went into electrical engineering, and specifically what I kind of focused on...
+
+56
+00:04:18,680 --> 00:04:25,160
+I was never really into voltage and current and all that kind of stuff.
+
+57
+00:04:25,160 --> 00:04:29,000
+But what I was really interested in was computers.
+
+58
+00:04:29,000 --> 00:04:38,440
+And again, because of this angle of what is a computer and what makes it tick?
+
+59
+00:04:38,440 --> 00:04:47,360
+And so I focused on computer hardware, but we did computer hardware and software in college.
+
+60
+00:04:47,360 --> 00:04:50,720
+And I thought I was really fascinated by it.
+
+61
+00:04:50,720 --> 00:04:57,120
+And I enjoyed especially the digital systems point of view.
+
+62
+00:04:57,120 --> 00:05:03,920
+And I remember in my sophomore year of college, the light bulb came on and how hardware works.
+
+63
+00:05:03,920 --> 00:05:07,000
+And that was kind of cool.
+
+64
+00:05:07,000 --> 00:05:13,360
+So the college was electrical engineering, really a focus on computer hardware and software,
+
+65
+00:05:13,360 --> 00:05:14,600
+mostly computer hardware.
+
+66
+00:05:14,600 --> 00:05:19,740
+And I got out of college and I just wanted to do computer hardware.
+
+67
+00:05:19,740 --> 00:05:26,180
+And I started working for a company called Zycad, they were a little startup in Minnesota.
+
+68
+00:05:26,180 --> 00:05:29,800
+And I don't know if you remember, there was a big computer company in Minnesota called
+
+69
+00:05:29,800 --> 00:05:33,920
+Control Data, and they made these large mainframes.
+
+70
+00:05:33,920 --> 00:05:38,840
+And a few of the engineers from Control Data had started this company called Zycad.
+
+71
+00:05:38,840 --> 00:05:46,600
+And they were making this basically this supercomputer.
+
+72
+00:05:46,600 --> 00:05:49,360
+And I thought it was really kind of a cool...
+
+73
+00:05:49,360 --> 00:05:54,360
+It was very small at the time, and I joined when it was very small.
+
+74
+00:05:54,360 --> 00:06:01,480
+And so anyway, so that was fun.
+
+75
+00:06:01,480 --> 00:06:02,720
+It was interesting.
+
+76
+00:06:02,720 --> 00:06:07,920
+And I learned a lot about hardware systems and designing hardware systems.
+
+77
+00:06:07,920 --> 00:06:15,160
+But I also kind of began to realize that the only people that really get to do the creative
+
+78
+00:06:15,160 --> 00:06:21,760
+work in hardware systems are just kind of at the top of the pyramid.
+
+79
+00:06:21,760 --> 00:06:25,000
+And that started my transition, basically.
+
+80
+00:06:25,000 --> 00:06:26,640
+Then I did that for a while.
+
+81
+00:06:26,640 --> 00:06:35,480
+And then I think another, I guess, source of discontent was I was feeling like I spent
+
+82
+00:06:35,480 --> 00:06:43,180
+so much time studying tech, and I didn't really get to explore the humanities side of my personality.
+
+83
+00:06:43,180 --> 00:06:49,520
+So I said, I'm gonna start working in what we call within the hardware realm, we call
+
+84
+00:06:49,520 --> 00:06:52,840
+the applications engineering, which is you kind of work with the customers more.
+
+85
+00:06:52,840 --> 00:06:56,260
+It's very technical, but you work more with people.
+
+86
+00:06:56,260 --> 00:06:57,960
+So I did that for a while.
+
+87
+00:06:57,960 --> 00:07:03,320
+And then eventually I just thought, I don't know if I'm kind of sick of tech.
+
+88
+00:07:03,320 --> 00:07:07,760
+And so I started studying...
+
+89
+00:07:07,760 --> 00:07:15,840
+This will be crazy, but I started studying jazz guitar at the time and just thinking,
+
+90
+00:07:15,840 --> 00:07:21,560
+I'm just gonna quit my job and study jazz guitar and just figure out what to do next
+
+91
+00:07:21,560 --> 00:07:23,200
+after that.
+
+92
+00:07:23,200 --> 00:07:27,360
+And so I did, I quit my job.
+
+93
+00:07:27,360 --> 00:07:35,360
+And then, crazy enough, it's a long story, so I won't go into it, but I landed at this
+
+94
+00:07:35,360 --> 00:07:42,960
+Benedictine monastery out in the West Coast just as a guest.
+
+95
+00:07:42,960 --> 00:07:46,960
+They had this kind of thing where you could just go there as a guest and live there and
+
+96
+00:07:46,960 --> 00:07:49,920
+work there for a year.
+
+97
+00:07:49,920 --> 00:07:56,640
+So I did that, and that was really, that was just fun, it was a great time to just kind
+
+98
+00:07:56,640 --> 00:07:57,640
+of...
+
+99
+00:07:57,640 --> 00:08:05,600
+I just became basically a farm hand, I milk cows and just read books and thought and stuff
+
+100
+00:08:05,600 --> 00:08:06,600
+like that.
+
+101
+00:08:06,600 --> 00:08:07,600
+So it was really great.
+
+102
+00:08:07,600 --> 00:08:12,600
+That's fascinating.
+
+103
+00:08:12,600 --> 00:08:18,760
+But then, after a year of that, I was like, I wanna get back to life.
+
+104
+00:08:18,760 --> 00:08:21,320
+And so I thought, I'm gonna go into psychology.
+
+105
+00:08:21,320 --> 00:08:27,800
+So then I went and got my master's degree in counseling psychology.
+
+106
+00:08:27,800 --> 00:08:33,080
+And I just kind of had thought, I'm done with tech.
+
+107
+00:08:33,080 --> 00:08:37,240
+And it felt good, actually.
+
+108
+00:08:37,240 --> 00:08:42,000
+It felt more who I was.
+
+109
+00:08:42,000 --> 00:08:50,080
+And I remember I finished my master's degree, and working as a psychologist, as a therapist,
+
+110
+00:08:50,080 --> 00:08:51,880
+it's kind of hard to make a living.
+
+111
+00:08:51,880 --> 00:08:56,240
+So I was faced with like, well, how do I get a job?
+
+112
+00:08:56,240 --> 00:08:59,320
+How do I make money?
+
+113
+00:08:59,320 --> 00:09:07,160
+And some friends who were living in San Diego had started this little software company called
+
+114
+00:09:07,160 --> 00:09:15,680
+Cabinet Solutions, basically software for people who design cabinets, kitchen cabinets.
+
+115
+00:09:15,680 --> 00:09:21,960
+And they were just tiny, barely making a living, living near the beach in Carlsbad and San
+
+116
+00:09:21,960 --> 00:09:22,960
+Diego.
+
+117
+00:09:22,960 --> 00:09:30,880
+And they're like, hey, come on out to California and work with us while you figure out what
+
+118
+00:09:30,880 --> 00:09:32,360
+you wanna do.
+
+119
+00:09:32,360 --> 00:09:36,680
+So I did, I just went out there.
+
+120
+00:09:36,680 --> 00:09:39,880
+And it was kind of a shock at first, actually, because I'd given up on...
+
+121
+00:09:39,880 --> 00:09:44,560
+I hadn't followed tech or done anything in tech.
+
+122
+00:09:44,560 --> 00:09:50,280
+So I started programming in C, C++.
+
+123
+00:09:50,280 --> 00:09:51,840
+And it was really rough at the first.
+
+124
+00:09:51,840 --> 00:09:56,480
+And I remember just like, I started working with them, and then I thought, oh, I can't
+
+125
+00:09:56,480 --> 00:09:57,480
+do this.
+
+126
+00:09:57,480 --> 00:10:00,240
+But they talked me into it, you know.
+
+127
+00:10:00,240 --> 00:10:01,240
+So I kept going.
+
+128
+00:10:01,240 --> 00:10:09,560
+And sort of fast forwarding more is that I kind of just got pulled into software, which
+
+129
+00:10:09,560 --> 00:10:18,200
+I liked, because I thought software is like this space where everyone can be more creative.
+
+130
+00:10:18,200 --> 00:10:24,320
+And I think especially in the world that we're in, that you know even better than I do, Skulk,
+
+131
+00:10:24,320 --> 00:10:33,400
+is the open source world we're in, where everybody's creating these really high quality packages
+
+132
+00:10:33,400 --> 00:10:34,400
+of software.
+
+133
+00:10:34,400 --> 00:10:41,240
+And for me, I know the Python world the best, but also the JavaScript world, of course.
+
+134
+00:10:41,240 --> 00:10:51,960
+But it's pretty amazing, the industry really depends on these really high quality open
+
+135
+00:10:51,960 --> 00:10:52,960
+source packages.
+
+136
+00:10:52,960 --> 00:10:55,680
+Yeah, the world runs on open source.
+
+137
+00:10:55,680 --> 00:10:58,280
+Yeah, it's amazing, isn't it?
+
+138
+00:10:58,280 --> 00:11:00,120
+So it's like, I thought that was really cool.
+
+139
+00:11:00,120 --> 00:11:04,040
+And I still think that's really amazing, you know, that I feel like the software space
+
+140
+00:11:04,040 --> 00:11:08,520
+is so much more creative, you know.
+
+141
+00:11:08,520 --> 00:11:13,840
+And I was slow to realize that, you know, having been initially attracted to the hardware
+
+142
+00:11:13,840 --> 00:11:16,480
+side.
+
+143
+00:11:16,480 --> 00:11:26,120
+But yeah, my journey from there was, I think my first, I was working for a company called
+
+144
+00:11:26,120 --> 00:11:32,040
+Boston Scientific, but when I joined, they were called Guidant, they were in Minnesota,
+
+145
+00:11:32,040 --> 00:11:37,400
+and they were a medical device, you know, pacemaker, defibrillator manufacturer.
+
+146
+00:11:37,400 --> 00:11:43,440
+And that was really a cool place to work too, because, you know, it's just this new realm
+
+147
+00:11:43,440 --> 00:11:50,840
+of medical related and hardware, software.
+
+148
+00:11:50,840 --> 00:11:57,880
+And I was doing kind of software related stuff that was, I mean, I was working with software
+
+149
+00:11:57,880 --> 00:12:03,840
+that was kind of related to the hardware, the quality of the hardware.
+
+150
+00:12:03,840 --> 00:12:08,600
+And it was there that I really discovered Python through a friend.
+
+151
+00:12:08,600 --> 00:12:14,600
+And again, I was starting to kind of get tired of technology, and, you know, I think that's
+
+152
+00:12:14,600 --> 00:12:19,000
+one of the main themes of my tech path is just Python.
+
+153
+00:12:19,000 --> 00:12:20,960
+I just fell in love with it.
+
+154
+00:12:20,960 --> 00:12:23,840
+I just love the language.
+
+155
+00:12:23,840 --> 00:12:25,160
+I love the ecosystem.
+
+156
+00:12:25,160 --> 00:12:31,360
+I remember Django was just coming out, you know, the web framework.
+
+157
+00:12:31,360 --> 00:12:38,120
+And you know, I remember taking a class in Django way back then, you know, it was like,
+
+158
+00:12:38,120 --> 00:12:44,320
+one of the very earliest Django versions.
+
+159
+00:12:44,320 --> 00:12:45,520
+And that just got me hooked.
+
+160
+00:12:45,520 --> 00:12:51,880
+And I just, you know, I remember just telling my wife, like, I'm done, I'm only going to
+
+161
+00:12:51,880 --> 00:12:56,600
+take jobs that are related to Python from now on.
+
+162
+00:12:56,600 --> 00:13:01,240
+And so then I got this job at Seagate, again, kind of related.
+
+163
+00:13:01,240 --> 00:13:12,120
+They were trying to make non-volatile memory, but much denser in a research project.
+
+164
+00:13:12,120 --> 00:13:16,560
+And I came on as sort of, you know, working with Python to help them with their testing
+
+165
+00:13:16,560 --> 00:13:18,160
+and things like that.
+
+166
+00:13:18,160 --> 00:13:20,000
+So I did that for a while.
+
+167
+00:13:20,000 --> 00:13:23,640
+They Seagate eventually closed that.
+
+168
+00:13:23,640 --> 00:13:33,280
+And then the real big break for me was I saw an opening at Lucasfilm in the Bay Area.
+
+169
+00:13:33,280 --> 00:13:38,480
+And I said, oh, man, that's, you know, that would just be a dream job.
+
+170
+00:13:38,480 --> 00:13:43,320
+And it seemed so perfect, too, because they were really a heavy Python shop.
+
+171
+00:13:43,320 --> 00:13:51,280
+So I applied and was, you know, pleasantly surprised that I got, you know, an interview.
+
+172
+00:13:51,280 --> 00:13:55,520
+I still remember just all the details of flying out there.
+
+173
+00:13:55,520 --> 00:14:02,640
+The Lucasfilm, they have several campuses, but the main campus was right in the Presidio.
+
+174
+00:14:02,640 --> 00:14:05,160
+It's freaking gorgeous.
+
+175
+00:14:05,160 --> 00:14:06,660
+It's amazing.
+
+176
+00:14:06,660 --> 00:14:10,860
+And I remember flying out there and, you know, it was just fabulous.
+
+177
+00:14:10,860 --> 00:14:13,200
+And I hit it off with a team.
+
+178
+00:14:13,200 --> 00:14:16,800
+So anyway, I got the job and went out there.
+
+179
+00:14:16,800 --> 00:14:25,800
+And that really shaped me, I think, more than anything other than Mozilla, you know, just
+
+180
+00:14:25,800 --> 00:14:31,400
+because the team there was fantastic.
+
+181
+00:14:31,400 --> 00:14:36,800
+And my manager there, Lori Giannino, who's still there, a lot of this team, the team
+
+182
+00:14:36,800 --> 00:14:39,640
+that I worked with, a lot of that team is still there.
+
+183
+00:14:39,640 --> 00:14:40,640
+They were just fabulous.
+
+184
+00:14:40,640 --> 00:14:44,640
+Lori is just probably, you know, one of the best managers, well, definitely one of the
+
+185
+00:14:44,640 --> 00:14:46,520
+best managers I've ever worked with.
+
+186
+00:14:46,520 --> 00:14:54,800
+Jeff O'Dell was a manager there, just great people, great technology, you know, fun space
+
+187
+00:14:54,800 --> 00:15:01,600
+because we basically built Python software to help manage, you know, movie, the movie
+
+188
+00:15:01,600 --> 00:15:04,800
+production process.
+
+189
+00:15:04,800 --> 00:15:09,120
+And so I worked all my time there, I worked with Industrial Light and Magic.
+
+190
+00:15:09,120 --> 00:15:14,160
+So I got to meet some, you know, fascinating people, you know, that are kind of semi-famous
+
+191
+00:15:14,160 --> 00:15:20,280
+in the movie industry, you know, visual effects supervisors.
+
+192
+00:15:20,280 --> 00:15:21,920
+And it was really, it was fabulous.
+
+193
+00:15:21,920 --> 00:15:27,960
+And the team was, it was like one of those cases where I just felt like I fell into,
+
+194
+00:15:27,960 --> 00:15:37,360
+you know, we actually fell into something that was, you know, really great, great team,
+
+195
+00:15:37,360 --> 00:15:43,520
+great people, great organization, you know, fascinating work.
+
+196
+00:15:43,520 --> 00:15:47,680
+But of course, the downside, it was, the plus side and the downside is it was in the Bay
+
+197
+00:15:47,680 --> 00:15:53,880
+Area because the plus side is I love the Bay Area, I love the weather, the location, the
+
+198
+00:15:53,880 --> 00:15:54,880
+city.
+
+199
+00:15:54,880 --> 00:16:04,160
+The downside is it's so, you know, expensive that it's so hard to kind of plant roots there.
+
+200
+00:16:04,160 --> 00:16:10,640
+But anyway, you know, and then from there, you know, basically have to leave Lucasfilm
+
+201
+00:16:10,640 --> 00:16:18,640
+just for the reasons of trying to, you know, buy a house.
+
+202
+00:16:18,640 --> 00:16:22,160
+So I took a, I left Lucasfilm and went to work, one of my friends at Lucasfilm went
+
+203
+00:16:22,160 --> 00:16:25,760
+to work for a biotech company called Twist Bioscience.
+
+204
+00:16:25,760 --> 00:16:31,920
+They're building synthetic DNA for biotech research.
+
+205
+00:16:31,920 --> 00:16:41,640
+So I went to work for them for about six months, and I would love to get into some of that
+
+206
+00:16:41,640 --> 00:16:46,480
+because that's another theme I wanted to talk to you about, Skulk.
+
+207
+00:16:46,480 --> 00:16:54,160
+Anyway, I left Twist Bioscience and went, came to Portland, Oregon, and eventually landed
+
+208
+00:16:54,160 --> 00:16:55,160
+at Mozilla.
+
+209
+00:16:55,160 --> 00:17:02,280
+And to me, the two great places I've been at are Lucasfilm, Mozilla, and like you said,
+
+210
+00:17:02,280 --> 00:17:06,680
+I, you know, I had my early stand at Mozilla where you and I worked together on MDN Web
+
+211
+00:17:06,680 --> 00:17:13,920
+Docs and then went off and worked for about six months at a quantum computing place called
+
+212
+00:17:13,920 --> 00:17:17,760
+PsiQuantum, which is fascinating.
+
+213
+00:17:17,760 --> 00:17:20,640
+And then now I'm back at Mozilla and I'm so grateful to be back because Mozilla is such
+
+214
+00:17:20,640 --> 00:17:27,840
+a special place, you know, as you and I know, there's a lot of special people here that
+
+215
+00:17:27,840 --> 00:17:35,080
+really care about, you know, the web and ethics and, you know, what's good for humanity in
+
+216
+00:17:35,080 --> 00:17:36,080
+terms of technology.
+
+217
+00:17:36,080 --> 00:17:43,320
+So anyway, I jumped all over the place, but I think another thing I wanted to touch on
+
+218
+00:17:43,320 --> 00:17:48,200
+with you was, I think one of the themes throughout my whole career that's kind of driven what
+
+219
+00:17:48,200 --> 00:17:59,320
+I do is just trying to find, I guess, a context in which to work in technology that feels
+
+220
+00:17:59,320 --> 00:18:05,920
+humane, you know, like where the ends are humane and the way we work together as a team
+
+221
+00:18:05,920 --> 00:18:08,680
+is humane.
+
+222
+00:18:08,680 --> 00:18:12,600
+And that's been such a, you know, I'd love to talk to you about that because I feel like
+
+223
+00:18:12,600 --> 00:18:17,160
+it's, that's one of the biggest challenges, I think, you know, like I think one of the
+
+224
+00:18:17,160 --> 00:18:24,480
+questions you had, that you had, you know, kind of laid out that we could talk about
+
+225
+00:18:24,480 --> 00:18:26,960
+was just like, what are the challenges in tech?
+
+226
+00:18:26,960 --> 00:18:34,000
+And I feel like that's, that's to me, one of the biggest, you know, apart from the larger
+
+227
+00:18:34,000 --> 00:18:44,480
+challenges of, you know, all the ethical dilemmas of, you know, big tech and social media and
+
+228
+00:18:44,480 --> 00:18:52,600
+AI and all, you know, kind of the bubbles, you know, the kind of the worldview bubbles
+
+229
+00:18:52,600 --> 00:18:57,280
+that you get into in social media and that kind of stuff, which everybody has been well
+
+230
+00:18:57,280 --> 00:19:02,600
+documented and everybody, you know, hopefully knows about that, because those are huge,
+
+231
+00:19:02,600 --> 00:19:07,720
+you know, I think world destabilizing kind of issues.
+
+232
+00:19:07,720 --> 00:19:14,400
+But apart from that, I feel like one of the biggest challenges is just, I think, you know,
+
+233
+00:19:14,400 --> 00:19:21,280
+I don't think in technology, we found a way to work together, you know, like, yeah, we're
+
+234
+00:19:21,280 --> 00:19:26,480
+building technology, but it's a social endeavor, you know, you have to get a team together.
+
+235
+00:19:26,480 --> 00:19:32,040
+Technology is so complex that you have to build teams and teams are groups of people.
+
+236
+00:19:32,040 --> 00:19:43,120
+And I feel like we don't yet in tech have a good feeling for, you know, or I don't know,
+
+237
+00:19:43,120 --> 00:19:47,840
+how would you say the scope, but I feel like we don't have a good appreciation for that,
+
+238
+00:19:47,840 --> 00:19:48,840
+how important that is.
+
+239
+00:19:48,840 --> 00:19:55,680
+And I think that's one of the things I love so much about Lucasfilm and my manager, Laurie
+
+240
+00:19:55,680 --> 00:20:00,280
+Janino and Jeff, my managers there, Laurie Janino and Jeff Waddell, is that I feel like
+
+241
+00:20:00,280 --> 00:20:06,040
+they were just very people centered, you know, like Laurie just felt like I'm going to build
+
+242
+00:20:06,040 --> 00:20:11,680
+the team, the team is the most important thing, and the technology will come out of it, you
+
+243
+00:20:11,680 --> 00:20:14,680
+know, and the technology will follow.
+
+244
+00:20:14,680 --> 00:20:17,520
+And it's so rare.
+
+245
+00:20:17,520 --> 00:20:24,560
+And I think that's something I've always been thinking about and chasing, you know.
+
+246
+00:20:24,560 --> 00:20:27,880
+Yeah, I know for sure.
+
+247
+00:20:27,880 --> 00:20:35,800
+I think one of the things that might have been contributing to this is, I don't know
+
+248
+00:20:35,800 --> 00:20:40,280
+when exactly it started, but at some point, I think it might have been in the initial
+
+249
+00:20:40,280 --> 00:20:45,720
+dot com bubble and burst, and then it followed on from there.
+
+250
+00:20:45,720 --> 00:20:49,960
+It's this idea that you don't spend more than two years at a company.
+
+251
+00:20:49,960 --> 00:20:53,600
+Like if you're longer at a company for two years, people start questioning like, what
+
+252
+00:20:53,600 --> 00:20:55,280
+the heck, why are you still here?
+
+253
+00:20:55,280 --> 00:21:02,040
+And I think because of that, you can never really build a culture because just as the
+
+254
+00:21:02,040 --> 00:21:08,040
+culture starts forming, a bunch of people leave and new people enter.
+
+255
+00:21:08,040 --> 00:21:09,360
+Totally agree.
+
+256
+00:21:09,360 --> 00:21:17,680
+I think it's good to have movement, but I think there's too much turn.
+
+257
+00:21:17,680 --> 00:21:21,280
+And so I think people get into it for the wrong reasons.
+
+258
+00:21:21,280 --> 00:21:27,280
+But I think that is why places like Lucas Formezilla, and hopefully what I can create
+
+259
+00:21:27,280 --> 00:21:33,920
+with the company I'm building, is somewhere where there's variety and where you're encouraged
+
+260
+00:21:33,920 --> 00:21:39,640
+to come up with ideas, explore them, fail, and it's okay.
+
+261
+00:21:39,640 --> 00:21:45,520
+I think in a lot of companies, while they say failure is good and the more you fail,
+
+262
+00:21:45,520 --> 00:21:50,000
+the more you learn, oftentimes you'll find that it's not really true.
+
+263
+00:21:50,000 --> 00:21:56,160
+If you do try something that doesn't work, it's rare that they're going to celebrate
+
+264
+00:21:56,160 --> 00:21:59,560
+that failure.
+
+265
+00:21:59,560 --> 00:22:04,320
+There's going to be a heck of a lot of questions that's going to follow that failure.
+
+266
+00:22:04,320 --> 00:22:09,820
+And if you can't justify it, you're more often than not going to be out of a job.
+
+267
+00:22:09,820 --> 00:22:20,560
+So I think that that's the problem is like companies are just, and I think a lot of people
+
+268
+00:22:20,560 --> 00:22:22,240
+just do it for the money.
+
+269
+00:22:22,240 --> 00:22:24,200
+And I think that's also incorrect.
+
+270
+00:22:24,200 --> 00:22:30,400
+And I think it's got a lot to do with marketing around tech, where there's a narrative being
+
+271
+00:22:30,400 --> 00:22:38,400
+spun that it's a way to get rich, you know, get a job in tech and just one, two, three
+
+272
+00:22:38,400 --> 00:22:42,560
+years and you're going to be a millionaire and you can like quit and go sail a boat for
+
+273
+00:22:42,560 --> 00:22:44,000
+the rest of your life.
+
+274
+00:22:44,000 --> 00:22:49,400
+And sure, that happens to some folks, but those are not the rule.
+
+275
+00:22:49,400 --> 00:22:52,600
+Those are the outliers by a big thing.
+
+276
+00:22:52,600 --> 00:22:58,200
+And I think people keep chasing that and that's why they keep leaving and leaving and leaving
+
+277
+00:22:58,200 --> 00:23:02,680
+because they're chasing something that, and I don't think that you should do it for that.
+
+278
+00:23:02,680 --> 00:23:09,500
+I think we should, like you said, have humane ends and the means should be humane.
+
+279
+00:23:09,500 --> 00:23:14,280
+So that we're building culture, we're building a group of people that believe in the product
+
+280
+00:23:14,280 --> 00:23:17,120
+that we're building or the products that we're building.
+
+281
+00:23:17,120 --> 00:23:25,840
+And I think open source maybe has more of this than working at a specific company.
+
+282
+00:23:25,840 --> 00:23:29,320
+Some you're lucky to experience that, like Mozilla.
+
+283
+00:23:29,320 --> 00:23:34,640
+Maybe that's why Mozilla has this theme, because it's largely open source.
+
+284
+00:23:34,640 --> 00:23:43,900
+Because there's this dude, Ron Lanier, that is now, I believe, still at Microsoft Research.
+
+285
+00:23:43,900 --> 00:23:50,520
+And he made the point that one of the most successful social networks is GitHub.
+
+286
+00:23:50,520 --> 00:23:53,360
+They've somehow got it right.
+
+287
+00:23:53,360 --> 00:24:01,120
+And he's thought around it is it's because there's a sense of ownership and there's
+
+288
+00:24:01,120 --> 00:24:07,200
+this sense of co-creation and there's a creativity there.
+
+289
+00:24:07,200 --> 00:24:12,520
+So while on social media you send a tweet and it's ephemeral, it just goes into the
+
+290
+00:24:12,520 --> 00:24:18,520
+void and maybe nobody sees it, here you're creating something together that is having
+
+291
+00:24:18,520 --> 00:24:19,520
+direct impact.
+
+292
+00:24:19,520 --> 00:24:24,040
+Like MDN, for example, we're all building it with this big community of contributors.
+
+293
+00:24:24,040 --> 00:24:28,960
+And it has a good feeling about it because we've heard so many times how people have
+
+294
+00:24:28,960 --> 00:24:32,640
+told us how it's had an impact on their life.
+
+295
+00:24:32,640 --> 00:24:36,720
+Like I was able to contribute and through that I got a job or I was able to learn because
+
+296
+00:24:36,720 --> 00:24:41,160
+MDN is for free and now I was able to lift myself out of poverty.
+
+297
+00:24:41,160 --> 00:24:45,440
+So when I think when you hear things like that and you work together as a group for
+
+298
+00:24:45,440 --> 00:24:53,560
+long enough, it starts building a relationship with everybody.
+
+299
+00:24:53,560 --> 00:24:56,680
+And then it's really hard to leave.
+
+300
+00:24:56,680 --> 00:25:03,920
+I think everybody that's left the team in the last year or two, it was not easy.
+
+301
+00:25:03,920 --> 00:25:12,480
+Beautifully said Skulk, you should be the subject of this podcast Skulk, I loved everything
+
+302
+00:25:12,480 --> 00:25:13,480
+you said.
+
+303
+00:25:13,480 --> 00:25:18,240
+It was beautifully said and you're absolutely right.
+
+304
+00:25:18,240 --> 00:25:28,160
+I think you touched on one of the key things, it's just nobody stays any place long enough.
+
+305
+00:25:28,160 --> 00:25:35,320
+And the two exceptions in my career have been Lucasfilm and Mozilla, where Lucasfilm, that
+
+306
+00:25:35,320 --> 00:25:40,720
+same group like Lori is very protective of her group.
+
+307
+00:25:40,720 --> 00:25:49,640
+And they've been together for 10, 15 years now and largely the same group is still there.
+
+308
+00:25:49,640 --> 00:25:55,080
+And they really, like you said Skulk, it's all like you want to work in a community where
+
+309
+00:25:55,080 --> 00:26:02,800
+you feel accepted and everybody wants to be accepted in the community and create something
+
+310
+00:26:02,800 --> 00:26:06,480
+together.
+
+311
+00:26:06,480 --> 00:26:14,760
+So yeah, I loved everything you said, I could just sit back and listen to you go on because
+
+312
+00:26:14,760 --> 00:26:19,840
+I think that's so important and I think that's missing.
+
+313
+00:26:19,840 --> 00:26:28,640
+I feel like that's, you said it so well, I feel like some open source projects have better
+
+314
+00:26:28,640 --> 00:26:32,120
+communities than any companies do.
+
+315
+00:26:32,120 --> 00:26:36,080
+Yeah, for sure.
+
+316
+00:26:36,080 --> 00:26:45,840
+If I take a common month, because in this year I basically changed careers from a friendly
+
+317
+00:26:45,840 --> 00:26:54,080
+engineer to a community manager and I mean, if I take the number of times that we've had
+
+318
+00:26:54,080 --> 00:27:00,280
+somebody that's been not even necessarily toxic, but just disruptive as part of this
+
+319
+00:27:00,280 --> 00:27:08,480
+massive open source project, one of the, what in the top 20 open source projects on GitHub,
+
+320
+00:27:08,480 --> 00:27:11,600
+it's been like, I can count it on a single hand.
+
+321
+00:27:11,600 --> 00:27:18,800
+And if you compare and contrast that with stuff you hear that happens inside companies,
+
+322
+00:27:18,800 --> 00:27:27,800
+the way women are treated, the way people who are non-binary, and then also crazy things
+
+323
+00:27:27,800 --> 00:27:37,920
+like people who have neurodiversity, who are being treated really unfairly and they have
+
+324
+00:27:37,920 --> 00:27:42,400
+so much to contribute if you play to their strengths.
+
+325
+00:27:42,400 --> 00:27:49,280
+But oftentimes our world and the companies that run the world are not set up for these
+
+326
+00:27:49,280 --> 00:27:55,080
+people and then you lose that sense of you feel as an outsider and then it's hard to
+
+327
+00:27:55,080 --> 00:28:01,960
+find, it's hard, everything becomes harder because I heard the other day, I spoke to
+
+328
+00:28:01,960 --> 00:28:07,200
+Jennifer Riggins on a different podcast and she mentioned that they did some research
+
+329
+00:28:07,200 --> 00:28:14,560
+and if you blinded people doing reviews, so you don't know the gender or anything about
+
+330
+00:28:14,560 --> 00:28:25,020
+this pull request that you're reviewing, more pull requests of women are accepted than men.
+
+331
+00:28:25,020 --> 00:28:30,400
+But if you take the blinders off, the opposite happens.
+
+332
+00:28:30,400 --> 00:28:36,600
+Because there's also this weird thing with a female will not apply for a job unless she
+
+333
+00:28:36,600 --> 00:28:44,340
+feels she meets 100% of the job description criteria, whereas the average man will apply
+
+334
+00:28:44,340 --> 00:28:51,040
+if he meets only 65% of the criteria, which is crazy because we all know job descriptions
+
+335
+00:28:51,040 --> 00:28:52,040
+are bogus.
+
+336
+00:28:52,040 --> 00:28:59,080
+I mean, if you can literally fulfill everything they ask for, you're a superhuman.
+
+337
+00:28:59,080 --> 00:29:01,800
+You're a superhuman, exactly.
+
+338
+00:29:01,800 --> 00:29:08,680
+Because honestly, I can't believe, as we mentioned previously, some of the challenges in tech,
+
+339
+00:29:08,680 --> 00:29:18,720
+I think that is still one of the biggest challenges is the interview process and how the job descriptions
+
+340
+00:29:18,720 --> 00:29:27,220
+that people use are just unreasonable and it makes it super hard for people getting
+
+341
+00:29:27,220 --> 00:29:31,920
+into tech, so it doesn't necessarily mean people are like in their early 20s.
+
+342
+00:29:31,920 --> 00:29:36,560
+This can be somebody in their 40s that has been doing whatever for their whole life and
+
+343
+00:29:36,560 --> 00:29:39,960
+just decided, I want to do something else and I decided to get into tech.
+
+344
+00:29:39,960 --> 00:29:44,840
+That is one of the hardest things is they look at this world and they're like, where
+
+345
+00:29:44,840 --> 00:29:46,920
+am I going to find my place?
+
+346
+00:29:46,920 --> 00:29:51,220
+All these people want three, four, five years experience and they want me to have experience
+
+347
+00:29:51,220 --> 00:29:53,220
+and databases and all these things.
+
+348
+00:29:53,220 --> 00:29:58,840
+I did a boot camp, I have some basic knowledge and I can contribute to something.
+
+349
+00:29:58,840 --> 00:30:05,720
+So you feel like you're running in molasses, as they say.
+
+350
+00:30:05,720 --> 00:30:12,400
+The other crazy thing about our, and hopefully this won't last too long, but because of this
+
+351
+00:30:12,400 --> 00:30:21,960
+insane layoffs that's happened in the last six months almost, there's this weird counterbalance
+
+352
+00:30:21,960 --> 00:30:28,000
+that's happened in the tech industry where there are thousands of highly skilled people
+
+353
+00:30:28,000 --> 00:30:33,920
+on the job market now and so all these new folks that got into engineering with promises
+
+354
+00:30:33,920 --> 00:30:40,960
+of wealth and success now have to compete with these people for positions and so it's
+
+355
+00:30:40,960 --> 00:30:46,820
+making their lives really, really tough and like me, I see that because I run this little
+
+356
+00:30:46,820 --> 00:30:51,540
+this community and there's quite a number of people there that's exactly at this point
+
+357
+00:30:51,540 --> 00:30:57,080
+where they're entering this market from as young folks or as people that was a lawyer
+
+358
+00:30:57,080 --> 00:31:03,880
+for the last 10 years or whatever and they're scared that they might have made a mistake
+
+359
+00:31:03,880 --> 00:31:09,760
+because they're looking at the situation and they're like, oh, I'm not so sure if I'm going
+
+360
+00:31:09,760 --> 00:31:11,400
+to get a job.
+
+361
+00:31:11,400 --> 00:31:18,860
+So you have to be, and it is tough, I don't lie to these people, I told them it is tough,
+
+362
+00:31:18,860 --> 00:31:26,560
+but don't give up because there are companies out there that value the person over just
+
+363
+00:31:26,560 --> 00:31:31,720
+the media labor of writing code every day that will take you in, that will give you
+
+364
+00:31:31,720 --> 00:31:37,320
+an opportunity and allow you to grow inside the company because that's what you want.
+
+365
+00:31:37,320 --> 00:31:44,680
+You want to take that person that's enthusiastic in and give them a place to grow because you
+
+366
+00:31:44,680 --> 00:31:52,080
+as the company, you're going to, wow, you're going to reap the benefits of that big time.
+
+367
+00:31:52,080 --> 00:31:55,520
+Yeah, wholeheartedly agree, Skollak.
+
+368
+00:31:55,520 --> 00:32:03,800
+I feel like what's missing, one of the biggest, I mean, kind of a riff off what you've been
+
+369
+00:32:03,800 --> 00:32:08,400
+saying, which I loved everything you said, is that I feel like one of the biggest challenges
+
+370
+00:32:08,400 --> 00:32:16,480
+that I would love to be a part of the solution is, one of the biggest challenges we have
+
+371
+00:32:16,480 --> 00:32:28,880
+is to create, I think you touched on it, almost all of tech is focused on just money, basically,
+
+372
+00:32:28,880 --> 00:32:29,880
+profit.
+
+373
+00:32:29,880 --> 00:32:35,720
+And I feel like we need a different model where obviously you have to make a living,
+
+374
+00:32:35,720 --> 00:32:37,520
+we all have to make a living.
+
+375
+00:32:37,520 --> 00:32:44,360
+So there is that side where you have to bring in income, but I feel like the focus should
+
+376
+00:32:44,360 --> 00:32:52,400
+be more on building a community, an organization that's a community of people that really care
+
+377
+00:32:52,400 --> 00:32:55,360
+about each other as people.
+
+378
+00:32:55,360 --> 00:33:02,360
+And we also realize we have to make a living and we can use each other's talents and gifts
+
+379
+00:33:02,360 --> 00:33:11,200
+as a community to make a living together and use tech, and tech is just sort of a way to
+
+380
+00:33:11,200 --> 00:33:12,200
+do that.
+
+381
+00:33:12,200 --> 00:33:21,560
+And then, I feel like that's so necessary, we need a new model, I think we need new experiments,
+
+382
+00:33:21,560 --> 00:33:25,680
+I guess, to find new models where this will work.
+
+383
+00:33:25,680 --> 00:33:33,080
+Mozilla is kind of one of those where it's not perfect, but it's different, it's different
+
+384
+00:33:33,080 --> 00:33:40,320
+enough where I think there really is some sense of community there.
+
+385
+00:33:40,320 --> 00:33:49,400
+Obviously I've seen the dark side too, but in the Bay Area, it's just too much driven
+
+386
+00:33:49,400 --> 00:33:51,720
+by money, it's just pure money.
+
+387
+00:33:51,720 --> 00:33:58,280
+And I was shocked at how cold-hearted that is, like you said, there is no sense of community,
+
+388
+00:33:58,280 --> 00:34:03,840
+there is no sense of we're doing this for each other and for our customers.
+
+389
+00:34:03,840 --> 00:34:08,280
+And I feel like that's missing sometimes, it's all about how do we achieve money rather
+
+390
+00:34:08,280 --> 00:34:15,080
+than let's build something that's of value to our customers and of value to ourselves
+
+391
+00:34:15,080 --> 00:34:17,800
+as a community that's making this.
+
+392
+00:34:17,800 --> 00:34:29,160
+And it's almost like we need organizations that are more like small craft-oriented or
+
+393
+00:34:29,160 --> 00:34:36,840
+places that are doing this out of the love of providing something for somebody and also
+
+394
+00:34:36,840 --> 00:34:43,080
+a love of doing something together and creating something together and supporting each other.
+
+395
+00:34:43,080 --> 00:34:51,960
+And what's sad is that often you talk about this and people roll their eyes and you know,
+
+396
+00:34:51,960 --> 00:34:58,080
+oh yeah, the business world is cold and that's not going to fly, but it will fly.
+
+397
+00:34:58,080 --> 00:35:07,040
+People do create excellent small companies, whether it's bakeries or whatever.
+
+398
+00:35:07,040 --> 00:35:12,020
+And they do create successful organizations because they do focus on, hey, let's serve
+
+399
+00:35:12,020 --> 00:35:17,440
+our customers something really good, something quality, but let's also care for each other
+
+400
+00:35:17,440 --> 00:35:20,840
+in that process, like you and I were talking about.
+
+401
+00:35:20,840 --> 00:35:25,800
+The end is good and the means is good in terms of getting there.
+
+402
+00:35:25,800 --> 00:35:31,520
+And I feel like that's so hard to find, it's too hard to find in our industry.
+
+403
+00:35:31,520 --> 00:35:34,360
+I think that's the biggest thing that young people face.
+
+404
+00:35:34,360 --> 00:35:41,280
+Oh, one more thing I wanted to, sorry, my brain is firing from all this stuff.
+
+405
+00:35:41,280 --> 00:35:44,120
+Yeah, no, go for it.
+
+406
+00:35:44,120 --> 00:35:51,480
+But one of the things that's been inspiring me lately is I like jazz.
+
+407
+00:35:51,480 --> 00:35:57,840
+And I love in the jazz community, there's a sense of, I think the jazz community has
+
+408
+00:35:57,840 --> 00:36:04,640
+such a healthy, there's something really healthy about it, more than I've seen in other places
+
+409
+00:36:04,640 --> 00:36:15,560
+where the elders of the jazz community, the greats, they feel this responsibility to bring
+
+410
+00:36:15,560 --> 00:36:23,520
+in the young, the people that are entering jazz and to kind of take them under the wing.
+
+411
+00:36:23,520 --> 00:36:30,480
+And then the young also feel like they need to respect the tradition, the Coltrane's or
+
+412
+00:36:30,480 --> 00:36:40,600
+whatever, Miles Davis, and they need to kind of absorb what they've done and respect them.
+
+413
+00:36:40,600 --> 00:36:46,320
+But what was interesting is that the elders of the jazz community want them to, hey, you
+
+414
+00:36:46,320 --> 00:36:53,880
+got to absorb where we've been, but you don't absorb it to copy us, you absorb it to take
+
+415
+00:36:53,880 --> 00:36:55,200
+it where you want to go.
+
+416
+00:36:55,200 --> 00:36:56,200
+Yeah, exactly.
+
+417
+00:36:56,200 --> 00:37:01,360
+And I thought that was just so beautiful, that balance between creating something new
+
+418
+00:37:01,360 --> 00:37:03,440
+and respecting the tradition.
+
+419
+00:37:03,440 --> 00:37:10,360
+And I feel like a lot of that applies to any organization or in tech, which is a creative
+
+420
+00:37:10,360 --> 00:37:11,360
+industry.
+
+421
+00:37:11,360 --> 00:37:15,320
+Yeah, you've got to kind of absorb the tradition.
+
+422
+00:37:15,320 --> 00:37:20,520
+You've got to look at, for example, in the Python world, hey, how did Django build this
+
+423
+00:37:20,520 --> 00:37:29,240
+framework? And how did they go about doing this? How did the Django folks do this? And
+
+424
+00:37:29,240 --> 00:37:33,400
+then look at the code, look at the way they organize themselves, look at the community
+
+425
+00:37:33,400 --> 00:37:39,480
+they've built, and then digest that and then say, how can we make this even better? Where
+
+426
+00:37:39,480 --> 00:37:42,320
+can we take it from there?
+
+427
+00:37:42,320 --> 00:37:49,560
+I think that's just so cool about jazz. And I feel like that's not, it's not really there
+
+428
+00:37:49,560 --> 00:37:51,960
+in the tech community. There isn't a sense of like...
+
+429
+00:37:51,960 --> 00:37:57,560
+Yeah, it's unfortunate, right? I mean, because I totally get what you're saying. And I think
+
+430
+00:37:57,560 --> 00:38:04,240
+a lot of the craft industries are getting a drive. And here it's like, insert whatever
+
+431
+00:38:04,240 --> 00:38:11,800
+product like craft coffee, craft bakeries, craft beer, craft teas, all these things.
+
+432
+00:38:11,800 --> 00:38:19,480
+I think what I've seen in a lot of these places, when I look at their, the way they share,
+
+433
+00:38:19,480 --> 00:38:25,440
+what they've accomplished, they always celebrate each and every person that's there. And I
+
+434
+00:38:25,440 --> 00:38:32,280
+think being smaller net helps there. Like there's a point where you get too big, which
+
+435
+00:38:32,280 --> 00:38:37,840
+is something that I'm very, very conscious of, is I think there's some point where you
+
+436
+00:38:37,840 --> 00:38:43,600
+have to ask yourself the question of how much is enough? Because I think some people have
+
+437
+00:38:43,600 --> 00:38:49,560
+forgotten to ask that question. And there's some people in this world that have more than
+
+438
+00:38:49,560 --> 00:38:58,480
+is really fair. So you have to ask yourself the question of when do I have enough? Because
+
+439
+00:38:58,480 --> 00:39:03,920
+there is a saturation point for all of us. And it might differ from one person to the
+
+440
+00:39:03,920 --> 00:39:11,880
+other, but I think it kind of tops out at a certain point. And then how big is big enough
+
+441
+00:39:11,880 --> 00:39:17,280
+if you're creating a company? And I think there, it also differs, but I think there's
+
+442
+00:39:17,280 --> 00:39:22,760
+also, again, there's saturation point. I think as soon as you lose touch with the people,
+
+443
+00:39:22,760 --> 00:39:30,920
+you're getting too big. As soon as the people aspect starts getting lost in process and
+
+444
+00:39:30,920 --> 00:39:37,880
+I don't know, policy, you probably should start looking at the bigger picture and ask
+
+445
+00:39:37,880 --> 00:39:42,000
+are we getting too big? Should we slow down? And most likely the answer is going to be
+
+446
+00:39:42,000 --> 00:39:48,920
+yes. Because the other big thing that I see in those things is the sense of community.
+
+447
+00:39:48,920 --> 00:39:55,320
+And what do you want in a community? You want everybody to succeed. There's no community
+
+448
+00:39:55,320 --> 00:40:01,920
+formed around the idea that I want to push you down so that I can be on top. That is
+
+449
+00:40:01,920 --> 00:40:06,680
+not what a community is about. When you're in a community, you want to lift everybody
+
+450
+00:40:06,680 --> 00:40:12,480
+up. So if somebody in the community is struggling, you're going to say, how can we help? So you
+
+451
+00:40:12,480 --> 00:40:20,000
+will naturally, it's almost crazy that we're not doing it this way. Because it seems to
+
+452
+00:40:20,000 --> 00:40:27,560
+me it's a better recipe for success than focusing on material wealth. Because there you quickly
+
+453
+00:40:27,560 --> 00:40:33,520
+get to the doggy dog world. I think you get to the doggy dog world very quickly and then
+
+454
+00:40:33,520 --> 00:40:39,200
+it gets toxic. Whereas if you're in this community thing, everybody is there to make sure that
+
+455
+00:40:39,200 --> 00:40:45,480
+everybody succeeds and whatever success means for you. But it's important that you understand
+
+456
+00:40:45,480 --> 00:40:49,960
+what success means to somebody else so that you can support them in that journey. And
+
+457
+00:40:49,960 --> 00:40:56,400
+they will naturally do it back because that's how karma works. That's how we as human beings
+
+458
+00:40:56,400 --> 00:41:10,200
+work. If I feel that you have my best in your head, then I will do the same for you. But
+
+459
+00:41:10,200 --> 00:41:15,440
+if I feel attacked by you, then I might naturally attack back. Because our little lizard brain
+
+460
+00:41:15,440 --> 00:41:21,160
+will kick in and say, danger, we need to either run or we need to fight back. And I think
+
+461
+00:41:21,160 --> 00:41:27,800
+you know that while having studied psychology. So that is actually quite an interesting inflection
+
+462
+00:41:27,800 --> 00:41:36,400
+point there. How does that knowledge you gained studying counseling psychology, do you find
+
+463
+00:41:36,400 --> 00:41:44,160
+it useful that you know that in the tech world? Does it help you deal with some things?
+
+464
+00:41:44,160 --> 00:41:49,720
+I mean, I think you've already touched on a lot of it, Scott. You said it so beautifully
+
+465
+00:41:49,720 --> 00:42:06,560
+really is. I think technology is, the people in tech are too focused on the tech. And they're
+
+466
+00:42:06,560 --> 00:42:16,320
+not focused enough on the community. They're not focused enough on that. We can't build
+
+467
+00:42:16,320 --> 00:42:23,040
+anything of value unless we do it together with a community of people. And it's too often
+
+468
+00:42:23,040 --> 00:42:35,400
+focused on who's the best. They get all the spoils. It isn't like, hey, we did this together.
+
+469
+00:42:35,400 --> 00:42:41,280
+It's just like, oh, Tesla is Elon Musk. No, it's not Elon Musk. It's like a whole group
+
+470
+00:42:41,280 --> 00:42:53,240
+of people creating something. I feel like that's what psychology is. The study of that
+
+471
+00:42:53,240 --> 00:43:00,440
+is helped in the sense of this. You see the complexity of doing something together as
+
+472
+00:43:00,440 --> 00:43:05,960
+a community of people. People have different motivations. They have different interests
+
+473
+00:43:05,960 --> 00:43:14,760
+and different talents. And that is to me so fascinating. It's just during that stint when
+
+474
+00:43:14,760 --> 00:43:22,080
+I was managing the engineering team at MDN Webbox, I loved it from that point of view.
+
+475
+00:43:22,080 --> 00:43:28,560
+I would love to be, I think management interests me just from that point of view. How do you
+
+476
+00:43:28,560 --> 00:43:35,920
+build a community and have people feel like they're doing what they want to do and can
+
+477
+00:43:35,920 --> 00:43:42,320
+contribute in a way that appeals to their strengths? I think that's the side of psychology
+
+478
+00:43:42,320 --> 00:43:51,360
+that's really fit in the tech world. And I feel like we need more of that. We need more
+
+479
+00:43:51,360 --> 00:44:01,840
+engineers, people who are interested in tech who bring that focus of caring about not just
+
+480
+00:44:01,840 --> 00:44:08,280
+the tech, but how we work together. And we've touched upon all that. And again, it goes
+
+481
+00:44:08,280 --> 00:44:15,440
+back to your point, Skulk. I'm so glad you're a community manager now at MDN because I've
+
+482
+00:44:15,440 --> 00:44:21,720
+always felt that from you. You always have had that strong sense of like, hey, we got
+
+483
+00:44:21,720 --> 00:44:29,080
+to do this as a community. The community matters. But when the bottom line is quarterly profits,
+
+484
+00:44:29,080 --> 00:44:37,080
+the community doesn't matter. Obviously, look at the way Musk has treated Twitter. The community
+
+485
+00:44:37,080 --> 00:44:45,800
+doesn't matter at all. All that matters is tech and working hard and feeding the beast
+
+486
+00:44:45,800 --> 00:44:54,880
+of quarterly profits. We can't survive as a, humanity can't survive if that's the model
+
+487
+00:44:54,880 --> 00:45:02,080
+of organizations. It's crazy. Organizations are part of a larger thing called society
+
+488
+00:45:02,080 --> 00:45:11,920
+and countries. And the way we organize ourselves as corporations, it matters a lot. It matters
+
+489
+00:45:11,920 --> 00:45:19,760
+a lot for society. And people have to work in these kind of cold machines called corporations.
+
+490
+00:45:19,760 --> 00:45:27,780
+I think a lot of the big tech companies are kind of colder than... Some are less cold
+
+491
+00:45:27,780 --> 00:45:34,040
+than others, but they're pretty impersonal and can be pretty cold. And I think we need
+
+492
+00:45:34,040 --> 00:45:40,800
+more of these smaller communities where there's more warmth and more support in each other
+
+493
+00:45:40,800 --> 00:45:46,640
+while you're trying to make... You need that dual focus. You got to get a group of people
+
+494
+00:45:46,640 --> 00:45:53,360
+together that really care about making something of value for others. I think that should be
+
+495
+00:45:53,360 --> 00:46:01,080
+the focus. Hey, let's create something of real value for others and take joy in that.
+
+496
+00:46:01,080 --> 00:46:06,440
+And then also take joy in, we're going to do that and make a living at the same time.
+
+497
+00:46:06,440 --> 00:46:12,800
+The goal isn't to get rich. The goal is to put food on the table, support our families,
+
+498
+00:46:12,800 --> 00:46:22,680
+enjoy life, participate in society, and then also create something of value for others.
+
+499
+00:46:22,680 --> 00:46:29,440
+And I feel like that's... I think we need more of. We need that in the tech world. And
+
+500
+00:46:29,440 --> 00:46:39,000
+it's not easy. I'm not saying it's easy. It's easy to put our finger on it. But I feel like...
+
+501
+00:46:39,000 --> 00:46:46,240
+You've already said this better than I did, Skulk, but I feel like it's too focused right
+
+502
+00:46:46,240 --> 00:46:55,640
+now on money and people get into it for the wrong reason of getting rich. And it should
+
+503
+00:46:55,640 --> 00:47:02,580
+be more on like, hey, how can I support myself, support my colleagues, and do good things
+
+504
+00:47:02,580 --> 00:47:08,880
+for the customer? Yeah, for sure. That's a much healthier approach.
+
+505
+00:47:08,880 --> 00:47:15,560
+I think maybe we're at a point where the time is right to experiment, like you said. Experiment
+
+506
+00:47:15,560 --> 00:47:22,560
+with some new ideas, some new ways of working. That's why I always like to, when I refer
+
+507
+00:47:22,560 --> 00:47:29,440
+to the people that use MDN, I like to refer to them as readers as opposed to users. Because
+
+508
+00:47:29,440 --> 00:47:36,200
+I think language matters, right? The language we use often changes how we think of something.
+
+509
+00:47:36,200 --> 00:47:40,840
+So if you call somebody a user, you might think of their needs differently than you
+
+510
+00:47:40,840 --> 00:47:48,760
+might if they're a reader or a learner. So I think language matters. And I think to some
+
+511
+00:47:48,760 --> 00:47:51,160
+extent... That's really well said.
+
+512
+00:47:51,160 --> 00:47:56,200
+We've kind of done some of that at Mozilla, but then it slips again. So we have to constantly
+
+513
+00:47:56,200 --> 00:48:04,680
+remind ourselves that what we call the people that use our products, benefit from our products,
+
+514
+00:48:04,680 --> 00:48:09,600
+we need to think about the language we use, because it's going to mentally flip switches.
+
+515
+00:48:09,600 --> 00:48:13,720
+That's going to make you think about things. And I think then it's also important to see...
+
+516
+00:48:13,720 --> 00:48:19,360
+I think that's what's kind of nice about Mozilla is this whole Mozilla-ians thing. You know,
+
+517
+00:48:19,360 --> 00:48:25,320
+once a Mozilla, always a Mozilla-ian. I think that extends that. That is what I'm talking
+
+518
+00:48:25,320 --> 00:48:30,240
+about, the language. That makes it feel more like it's not just a company. It's a bit more
+
+519
+00:48:30,240 --> 00:48:41,280
+than that. But yeah, it's tough because sometimes the family is not that healthy. And then some
+
+520
+00:48:41,280 --> 00:48:49,280
+things happen that's also not healthy for the family. But yeah, it's interesting.
+
+521
+00:48:49,280 --> 00:48:53,560
+I know we're running low on time, Sculpeh. Just one more thing, the thought that occurred
+
+522
+00:48:53,560 --> 00:49:08,280
+to me. I think it's maybe a good topic to end on. I feel like with technology becoming
+
+523
+00:49:08,280 --> 00:49:16,840
+more powerful, artificial intelligence is incredible what that can do now. And the power
+
+524
+00:49:16,840 --> 00:49:25,640
+of that to solve problems is incredible. And dabbling in quantum computing and working
+
+525
+00:49:25,640 --> 00:49:33,200
+for that PsyQuantum for a bit, I see what's coming there. And that's incredible. Once
+
+526
+00:49:33,200 --> 00:49:39,800
+a quantum computer is built that's usable, that can solve real problems. And one of the
+
+527
+00:49:39,800 --> 00:49:45,800
+biggest focuses there is really chemistry. At PsyQuantum, the founders talk about quantum
+
+528
+00:49:45,800 --> 00:49:52,120
+computing will be able to basically solve chemistry problems that are just absolutely
+
+529
+00:49:52,120 --> 00:49:58,600
+impossible to solve. And you can actually engineer materials and that kind of thing.
+
+530
+00:49:58,600 --> 00:50:03,640
+So there's a whole revolution coming in quantum computing. We're already in the middle of
+
+531
+00:50:03,640 --> 00:50:09,720
+a revolution with artificial intelligence. That's all we all can talk about that and
+
+532
+00:50:09,720 --> 00:50:14,920
+see that coming. But I think everything that you and I have been talking about, the community
+
+533
+00:50:14,920 --> 00:50:28,880
+aspect and the way we organize our organizations, the way we create communities, I think because
+
+534
+00:50:28,880 --> 00:50:34,880
+of these developments in tech, that's even a hundred times more important now. If we
+
+535
+00:50:34,880 --> 00:50:42,120
+don't get that right, these powerful technologies of quantum computing and AI are going to be
+
+536
+00:50:42,120 --> 00:50:48,960
+controlled by organizations that don't have a sense of community. All they do care about
+
+537
+00:50:48,960 --> 00:50:58,280
+is getting rich and enriching a few. And that is dangerous. I guess my point is that it's
+
+538
+00:50:58,280 --> 00:51:05,160
+so imperative that I think humanity in the tech world solves this problem of how do we
+
+539
+00:51:05,160 --> 00:51:16,480
+organize ourselves in terms of providing value to people and make a living in a way that
+
+540
+00:51:16,480 --> 00:51:22,520
+supports the external community outside the organization, as well as the internal community
+
+541
+00:51:22,520 --> 00:51:30,160
+within the organization. I feel like if we don't do that as human beings, it's super
+
+542
+00:51:30,160 --> 00:51:38,120
+dangerous. We've got these amazing, powerful technologies coming down the road and we don't
+
+543
+00:51:38,120 --> 00:51:46,440
+have the organizational... How would you say this, Skoll? But we don't have that sense
+
+544
+00:51:46,440 --> 00:51:52,000
+of community and how we organize ourselves yet. That hasn't kept up with it.
+
+545
+00:51:52,000 --> 00:52:02,080
+No, it hasn't. Technology has run away with us. I totally agree. The big thing that is
+
+546
+00:52:02,080 --> 00:52:06,880
+needed is ethics, right? Because a lot of things that's not happening is ethics. And
+
+547
+00:52:06,880 --> 00:52:14,360
+I think if you build a healthy company with a sense of community and purpose, ethics comes
+
+548
+00:52:14,360 --> 00:52:25,640
+built in. But if those core things that you just said are missing, then ethics become
+
+549
+00:52:25,640 --> 00:52:31,720
+like accessibility, where it's bolted on and it doesn't really feel sincere. So I think
+
+550
+00:52:31,720 --> 00:52:38,480
+you are 100% correct that the technology is evolving at the speed of light, but we need
+
+551
+00:52:38,480 --> 00:52:46,560
+to step back and look at what are we doing with it and how are we treating each other
+
+552
+00:52:46,560 --> 00:52:52,880
+in this process. Because a lot of the technologies we've built are toxic to us as human beings
+
+553
+00:52:52,880 --> 00:52:59,960
+and to our children and all of this. And it's simply because it's run away. We've lost touch
+
+554
+00:52:59,960 --> 00:53:07,880
+with it and it's evolved to a point where it's out of control. But all is not lost.
+
+555
+00:53:07,880 --> 00:53:13,120
+I think the fact that me and you can have a conversation about this and be in agreement
+
+556
+00:53:13,120 --> 00:53:19,360
+on this means there are more people that will also feel this way. And connecting all of
+
+557
+00:53:19,360 --> 00:53:27,840
+those people will build up a momentum that can then drive a change. Thanks so much, Ryan,
+
+558
+00:53:27,840 --> 00:53:33,840
+for this lovely conversation. Thank you, Skalk. I'm just energized after talking to you. I'm
+
+559
+00:53:33,840 --> 00:53:40,560
+serious. I could just go on for like two more hours. No, for sure. I was about to say that.
+
+560
+00:53:40,560 --> 00:53:48,400
+So we'll definitely do this again, whether it's on a podcast or just because. But yeah,
+
+561
+00:53:48,400 --> 00:53:54,200
+thanks so much and have a lovely rest of your day and all of the very, very best. Thanks
+
+562
+00:53:54,200 --> 00:54:22,520
+so much, Skalk. It's really been a pleasure.
+

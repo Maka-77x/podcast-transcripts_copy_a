@@ -1,0 +1,2573 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Marsilian Network Podcast, a podcast all about early-stage web developers
+
+00:06.640 --> 00:10.160
+and the mentors and teachers that help them along the way.
+
+00:10.160 --> 00:15.320
+Hey, welcome, Matthew, and welcome to the Marsilian Network Podcast.
+
+00:15.320 --> 00:16.320
+Thank you so much, Skalk.
+
+00:16.320 --> 00:21.600
+Thanks again for the invitation and thanks for the opportunity to share a little bit
+
+00:21.600 --> 00:24.520
+of my journey with your audience.
+
+00:24.520 --> 00:28.120
+Yeah, no, it's my pleasure.
+
+00:28.120 --> 00:31.960
+So let's jump right into it.
+
+00:31.960 --> 00:38.320
+Let's start off with you telling us more about who is Matthew and what do you do and, yeah,
+
+00:38.320 --> 00:39.320
+all about you.
+
+00:39.320 --> 00:45.920
+So I will start off by sharing, like, this is a question that used to scare me and make
+
+00:45.920 --> 00:48.560
+me nervous a little bit.
+
+00:48.560 --> 00:55.020
+As you will quickly learn, I have had quite a circuitous career path.
+
+00:55.020 --> 01:01.560
+So I tell people I'm on about my seventh major career change, and whereas before I would
+
+01:01.560 --> 01:07.560
+be told to, like, hide parts of my story and journey, now I feel like I'm kind of living
+
+01:07.560 --> 01:13.400
+a life where I can own the full journey and see kind of the meaning and purpose in each
+
+01:13.400 --> 01:15.800
+step of it.
+
+01:15.800 --> 01:21.880
+But I will give a slightly abbreviated version of the steps, but I tell people I started
+
+01:21.880 --> 01:26.440
+my career very intentionally.
+
+01:26.440 --> 01:33.800
+In school, I was a civil and environmental engineering major, and my intention was to
+
+01:33.800 --> 01:42.240
+kind of use environmental engineering as a kind of platform to make change in the world.
+
+01:42.240 --> 01:46.240
+And quickly, I discovered a couple of things.
+
+01:46.240 --> 01:55.680
+I wasn't a very good engineer, and it so happened that I had a positive aptitude for technology,
+
+01:55.680 --> 02:02.020
+and I credit my employer at the time because they were like, hey, you seem to be struggling
+
+02:02.020 --> 02:06.600
+in some of your fieldwork, but we see you have this kind of aptitude for technology.
+
+02:06.600 --> 02:12.300
+Like would you consider supporting, you know, our head of technology in kind of supporting
+
+02:12.300 --> 02:13.300
+the office?
+
+02:13.300 --> 02:16.980
+And I was like, sure, I was interested in it, I was passionate about it.
+
+02:16.980 --> 02:23.680
+So that was first, like, career change number one was from environmental engineer to IT
+
+02:23.680 --> 02:27.880
+support person and network administrator.
+
+02:27.880 --> 02:32.360
+And I quickly learned it was work I loved to do.
+
+02:32.360 --> 02:38.340
+And like I said, I was kind of naturally good at it and interested in it.
+
+02:38.340 --> 02:43.760
+So after that role ended, I actually went into the world to see if I could find, you
+
+02:43.760 --> 02:47.120
+know, an IT support job.
+
+02:47.120 --> 02:54.360
+And after a lot of reflection, that was the last time I like looked for a job in a traditional
+
+02:54.360 --> 02:57.960
+like sending cover letters and resumes out kind of a way.
+
+02:57.960 --> 03:02.820
+And that was in 1999.
+
+03:02.820 --> 03:06.960
+And I went to job fairs, and I sent out a bunch of resumes, and I got a job with a small
+
+03:06.960 --> 03:09.720
+IT consulting company.
+
+03:09.720 --> 03:16.360
+And my first project was desktop support in a hospital and was responsible for, you know,
+
+03:16.360 --> 03:19.360
+just supporting all of their users.
+
+03:19.360 --> 03:24.440
+And as you will hear my story, there's a lot of alignment to major things in the world.
+
+03:24.440 --> 03:31.440
+So on New Year's Eve of 1999, I was working desktop support in a hospital.
+
+03:31.440 --> 03:38.080
+So like, at 1159, I was in the hospital with a team like waiting for the world to collapse
+
+03:38.080 --> 03:43.680
+and all the hospital machines to go down, you know, when the clock struck midnight.
+
+03:43.680 --> 03:49.680
+And that did not happen, you know, but at 1201, the hospital was fine.
+
+03:49.680 --> 03:53.600
+This is the like systems were all fine.
+
+03:53.600 --> 03:59.520
+But shortly after the company, the consulting company I was working for had an opportunity
+
+03:59.520 --> 04:07.680
+in Boston to support this up and coming internet holding company called Internet Capital Group.
+
+04:07.680 --> 04:11.800
+And I was the youngest person on the team, not the most qualified.
+
+04:11.800 --> 04:18.000
+And they were like, would you consider moving to Boston to support this company that's kind
+
+04:18.000 --> 04:19.680
+of in this massive state of growth?
+
+04:19.680 --> 04:26.240
+And I was like, sure, like I was 20 nothing and I was like, seems like a great opportunity.
+
+04:26.240 --> 04:30.240
+And I'll never forget, I went up there to interview with at the time, that's kind of small team
+
+04:30.240 --> 04:31.720
+of senior executives.
+
+04:31.720 --> 04:37.920
+And I remember the office manager saying to me like, I don't need you to be like a brilliant
+
+04:37.920 --> 04:39.360
+technologist.
+
+04:39.360 --> 04:44.440
+I need you to be able to communicate with our people in a like thoughtful and transparent
+
+04:44.440 --> 04:47.640
+way.
+
+04:47.640 --> 04:54.120
+And so within a week or two, I packed up my bags and I moved to Boston and I started supporting
+
+04:54.120 --> 05:01.840
+this company that grew out of a very small office space over the course of about 12 months
+
+05:01.840 --> 05:07.040
+into a 20,000 square foot office space that I helped with everything from finding the
+
+05:07.040 --> 05:13.680
+space to ordering the furniture to building it out to helping build the technology network.
+
+05:13.680 --> 05:15.760
+And it was just an awesome project.
+
+05:15.760 --> 05:20.840
+I was given a lot of responsibility and I just I love so much about it.
+
+05:20.840 --> 05:24.760
+And this is kind of alignment with world affairs.
+
+05:24.760 --> 05:26.640
+That was the first bubble burst.
+
+05:26.640 --> 05:33.240
+So within a period of about 12 months, we moved into this office, we invested all of
+
+05:33.240 --> 05:39.060
+this money into this office just to have to shut it down.
+
+05:39.060 --> 05:43.840
+So within a few months, we were subleasing the space and the furniture we were they were
+
+05:43.840 --> 05:46.720
+laying off most of the staff.
+
+05:46.720 --> 05:54.120
+My last kind of job there was to set up the last five people in home offices.
+
+05:54.120 --> 05:56.880
+And at that point, so that this is kind of a next big transition.
+
+05:56.880 --> 06:01.360
+My company didn't have any other work for me in Boston.
+
+06:01.360 --> 06:02.880
+And I didn't want to move back.
+
+06:02.880 --> 06:04.680
+I'd only been there like a year and a half.
+
+06:04.680 --> 06:09.160
+So this is my I tell people this is my first negotiated separation.
+
+06:09.160 --> 06:13.000
+I was like, I still want to do this work.
+
+06:13.000 --> 06:15.160
+Like, I'm in contract with you.
+
+06:15.160 --> 06:19.400
+I can't work for any clients like would you be considering to waive that?
+
+06:19.400 --> 06:21.600
+This company still has a little bit of work for me.
+
+06:21.600 --> 06:23.920
+There's some other projects up here they'd like me to do.
+
+06:23.920 --> 06:31.440
+So they accepted my proposal and that was my first kind of foray into working for myself.
+
+06:31.440 --> 06:36.560
+So I had a couple of clients and in Boston and then I picked up another one in New York
+
+06:36.560 --> 06:43.320
+who is a friend who owned a brokerage on the American Stock Exchange.
+
+06:43.320 --> 06:46.760
+And so I was helping him with some technology and operations stuff.
+
+06:46.760 --> 06:52.280
+And he one day he was like, listen, why don't you just move to New York?
+
+06:52.280 --> 06:53.800
+I will teach you this business.
+
+06:53.800 --> 06:56.520
+You can be our in-house technology and operations person.
+
+06:56.520 --> 07:01.520
+And again, and this is a theme you will see like I was doing a lot of reacting at this
+
+07:01.520 --> 07:03.320
+point in my career.
+
+07:03.320 --> 07:07.200
+Like I didn't really have a vision that I was like, oh, this is the thing I want to
+
+07:07.200 --> 07:08.200
+do.
+
+07:08.200 --> 07:09.200
+I was like, oh, look, opportunity.
+
+07:09.200 --> 07:12.160
+I'll just follow this thing.
+
+07:12.160 --> 07:13.840
+So I moved up to New York.
+
+07:13.840 --> 07:15.520
+I kind of took the job.
+
+07:15.520 --> 07:20.800
+I signed my lease on the Friday before September 11th.
+
+07:20.800 --> 07:24.960
+And September 11th happened and both my boss and my landlord were like, listen, if you
+
+07:24.960 --> 07:29.480
+don't want to come now, we understand.
+
+07:29.480 --> 07:30.800
+But I was already packed.
+
+07:30.800 --> 07:33.600
+I was like, I'm committed to this move.
+
+07:33.600 --> 07:41.520
+And so on October 1st of 2001, I started at the American Stock Exchange and it was an
+
+07:41.520 --> 07:42.800
+unnerving period.
+
+07:42.800 --> 07:46.560
+I mean, the stock exchange was only a couple blocks south of ground zero.
+
+07:46.560 --> 07:53.960
+A lot of people down there had lost people in their firms, their friends, family members.
+
+07:53.960 --> 07:57.720
+But yeah, so that was another big transition.
+
+07:57.720 --> 08:08.320
+And I tell people I learned very early in that job that the environment was not necessarily
+
+08:08.320 --> 08:10.960
+in alignment with my values.
+
+08:10.960 --> 08:19.160
+And the story I share, Skulk, is I would go into, within three months, I was on a seat,
+
+08:19.160 --> 08:22.840
+which meant I was a broker that would run into all the crowds.
+
+08:22.840 --> 08:28.560
+And I would run in and I would ask for a quote or place an order and I would always say please
+
+08:28.560 --> 08:29.560
+and thank you.
+
+08:29.560 --> 08:33.740
+And I will never forget someone said to me, you must be new here.
+
+08:33.740 --> 08:36.160
+No one says please and thank you.
+
+08:36.160 --> 08:42.800
+So for an environment to so clearly state, it's not civil here.
+
+08:42.800 --> 08:48.140
+And that within a few years, it really took a toll on me from a stress perspective.
+
+08:48.140 --> 08:50.720
+It was very, very intense.
+
+08:50.720 --> 08:58.960
+And my boss was a dear friend and he underlined the fact and this is another crystallized
+
+08:58.960 --> 08:59.960
+moment in my head.
+
+08:59.960 --> 09:06.080
+He was like, the people here will screw you for one penny.
+
+09:06.080 --> 09:08.480
+No one here is your friend.
+
+09:08.480 --> 09:12.100
+And that was just one of those things where you're like, you don't want to believe it,
+
+09:12.100 --> 09:15.360
+but you see enough of it and it was kind of like, I need to get out of here.
+
+09:15.360 --> 09:19.240
+So that was my second negotiated separation.
+
+09:19.240 --> 09:25.500
+I said, I need to transition into something a little bit more fulfilling for me.
+
+09:25.500 --> 09:29.680
+It was at a time where that business was changing because of technology.
+
+09:29.680 --> 09:32.400
+So he was also happy.
+
+09:32.400 --> 09:39.280
+So negotiated a three month kind of transition and I said, listen, I will be on call for
+
+09:39.280 --> 09:40.540
+these three months.
+
+09:40.540 --> 09:46.280
+So if you need anything, you can always call me, but I'm going to look for a new job.
+
+09:46.280 --> 09:50.320
+This is an important transition because this was the first time I was like, all right,
+
+09:50.320 --> 09:56.720
+if I want to define kind of a personal mission for this next phase of my career, what will
+
+09:56.720 --> 09:59.880
+that be?
+
+09:59.880 --> 10:04.600
+And where I landed was like, so I had this technology experience, now I have this financial
+
+10:04.600 --> 10:06.640
+services experience.
+
+10:06.640 --> 10:11.960
+I said, I want to help make the global markets more efficient.
+
+10:11.960 --> 10:15.740
+And in retrospect, it was like, it was a good mission statement.
+
+10:15.740 --> 10:18.840
+It wasn't necessarily like a real purposeful one.
+
+10:18.840 --> 10:24.800
+Like, it will come as no surprise, like I saw opportunity to make a lot of money in
+
+10:24.800 --> 10:29.000
+that field and this seemed like a mission that like I could find something that at least
+
+10:29.000 --> 10:34.480
+allowed me to take advantage of my strengths and kind of the intersection of these things
+
+10:34.480 --> 10:38.080
+where I was interested.
+
+10:38.080 --> 10:42.400
+And I will say this has informed a lot of our process at Career Edge.
+
+10:42.400 --> 10:48.880
+So what I did in that moment was I said, I like technology, I like financial services,
+
+10:48.880 --> 10:51.520
+there's a lot of people that work in this space.
+
+10:51.520 --> 10:57.800
+So I talked to people that worked at stock exchanges, I talked to people that worked
+
+10:57.800 --> 11:02.320
+like in the banks and other financial institutions that were present there.
+
+11:02.320 --> 11:06.640
+I talked to software companies, there were a lot of software companies at that time that
+
+11:06.640 --> 11:09.720
+were growing quickly and moving into the space.
+
+11:09.720 --> 11:16.280
+And then I talked to consultancies that were helping integrate technology into financial
+
+11:16.280 --> 11:20.280
+service institutions.
+
+11:20.280 --> 11:26.880
+All I did during those three months was make connections with people at all of those industries
+
+11:26.880 --> 11:32.400
+to learn about their journeys, learn about their jobs, learn about all of the things
+
+11:32.400 --> 11:38.920
+that helped them be successful in their roles.
+
+11:38.920 --> 11:44.000
+And where I ended up landing was the consulting space seems like a great opportunity for me
+
+11:44.000 --> 11:47.880
+to work for a lot of different clients at this intersection.
+
+11:47.880 --> 11:50.160
+This is another important story I share with people.
+
+11:50.160 --> 11:55.240
+So I had a friend who worked at Accenture, a big global consultancy, I told him what
+
+11:55.240 --> 11:56.240
+I was looking for.
+
+11:56.240 --> 12:00.520
+He said, we are really looking for people at this intersection of technology and financial
+
+12:00.520 --> 12:01.520
+services.
+
+12:01.520 --> 12:04.000
+I'll send you the link to apply for this role.
+
+12:04.000 --> 12:06.440
+I was like, great.
+
+12:06.440 --> 12:07.440
+So I applied.
+
+12:07.440 --> 12:11.600
+And then a couple of days I get the stock, sorry, we're not interested.
+
+12:11.600 --> 12:13.560
+Your skills do not align to our needs.
+
+12:13.560 --> 12:19.080
+And I forwarded along to my friend and I said, thank you so much for the support, but it
+
+12:19.080 --> 12:21.360
+looks like I'm not a fit.
+
+12:21.360 --> 12:26.360
+And I share this story because it just goes to show you like this system doesn't always
+
+12:26.360 --> 12:28.520
+work as designed.
+
+12:28.520 --> 12:33.000
+Because when he got that email, he flipped out.
+
+12:33.000 --> 12:37.760
+He forwarded it to the head of financial services at Accenture and he forwarded to the head
+
+12:37.760 --> 12:43.600
+of human resources and he said, you've been telling me how badly we need people at the
+
+12:43.600 --> 12:46.640
+intersection of technology and financial services.
+
+12:46.640 --> 12:56.640
+I just gave you this perfect candidate and you just denied them even an initial conversation.
+
+12:56.640 --> 13:02.960
+And then I very quickly got a call from HR, I very quickly got scheduled for 10 of a series
+
+13:02.960 --> 13:03.960
+of interviews.
+
+13:03.960 --> 13:08.880
+And anyway, long story short, a month or two later, I got a job at Accenture and it was
+
+13:08.880 --> 13:09.880
+perfect.
+
+13:09.880 --> 13:16.760
+This project was a new order management system for the New York Stock Exchange.
+
+13:16.760 --> 13:22.440
+So I was able to for the first time to like articulate a vision and actually find an opportunity
+
+13:22.440 --> 13:25.680
+that met that vision.
+
+13:25.680 --> 13:27.160
+And this is where I will fast forward a little.
+
+13:27.160 --> 13:33.080
+So I spent seven years there, I got to work on great projects around the world.
+
+13:33.080 --> 13:39.400
+But in late 2012, I was working on a compliance project at a big bank in New York and I woke
+
+13:39.400 --> 13:44.080
+up one morning and there was an email from the managing director who I was working for
+
+13:44.080 --> 13:49.120
+and it said, your aggression is not going unnoticed.
+
+13:49.120 --> 13:53.760
+And I read below and in the middle of the night, I had sent some scathing email to some
+
+13:53.760 --> 13:58.880
+poor project manager because their status report wasn't right.
+
+13:58.880 --> 14:06.960
+And I was like, I have now compromised my values and need to really kind of reflect
+
+14:06.960 --> 14:09.680
+and make a more intentional transition.
+
+14:09.680 --> 14:17.160
+So I kind of negotiated a, you know, essentially a transition of my role.
+
+14:17.160 --> 14:20.080
+I took a six month leave of absence and Accenture was great.
+
+14:20.080 --> 14:23.160
+They said you can come back and have your same job.
+
+14:23.160 --> 14:26.680
+You can come back and do something different on the other side of the world or, you know,
+
+14:26.680 --> 14:32.660
+if you don't want to come back, we'll kind of share going recommendations for you.
+
+14:32.660 --> 14:38.040
+So after like taking two months to just completely decompress, I did another like exploration.
+
+14:38.040 --> 14:42.200
+I talked to people in and around areas of interest to me.
+
+14:42.200 --> 14:47.300
+And at the time, I just wanted to do something with more of an impact on the world.
+
+14:47.300 --> 14:52.920
+So fast forward, I was kind of like, I have all of this knowledge around strategy and
+
+14:52.920 --> 14:53.920
+operations.
+
+14:53.920 --> 14:56.440
+I just would like to use it for more intentional causes.
+
+14:56.440 --> 15:04.120
+So I worked for a bunch of nonprofits, social enterprises and startups in and around kind
+
+15:04.120 --> 15:06.360
+of Philadelphia.
+
+15:06.360 --> 15:08.960
+And again, I was working for myself.
+
+15:08.960 --> 15:13.040
+I was creating these consulting opportunities.
+
+15:13.040 --> 15:16.540
+And after a couple of years of doing that, one of my clients said, you know, I need you
+
+15:16.540 --> 15:18.380
+all in or out.
+
+15:18.380 --> 15:24.580
+And it was an opportunity to work in social impact real estate to really make a meaningful
+
+15:24.580 --> 15:28.120
+change in a couple of underserved communities in Philadelphia.
+
+15:28.120 --> 15:31.040
+So I went all in on that.
+
+15:31.040 --> 15:32.640
+And I spent five years there.
+
+15:32.640 --> 15:39.280
+And the biggest lesson learned from that part of the story is even the thing you think sounds
+
+15:39.280 --> 15:46.920
+perfect and aligned to the vision that you have for yourself may not be what you expect
+
+15:46.920 --> 15:48.920
+it to be.
+
+15:48.920 --> 15:52.720
+And you know, what I mean by that is like, this was another thing that I never tested
+
+15:52.720 --> 15:54.400
+what it was like to be in real estate.
+
+15:54.400 --> 15:56.240
+I was so excited by the vision.
+
+15:56.240 --> 16:01.640
+I didn't like take a take a moment to be like, hey, what's it going to be like when people
+
+16:01.640 --> 16:06.080
+are calling you at three o'clock in the morning to tell you there's a leak in the building
+
+16:06.080 --> 16:09.320
+or somebody has like.
+
+16:09.320 --> 16:10.640
+So great experience.
+
+16:10.640 --> 16:11.640
+I learned a lot.
+
+16:11.640 --> 16:17.080
+But then at the end of 2020, I was like, this is this is not the way that most suits me
+
+16:17.080 --> 16:19.240
+to create the impact I want to make.
+
+16:19.240 --> 16:23.360
+And so again, I transitioned and I negotiated a separation.
+
+16:23.360 --> 16:27.160
+I said, I'll step down my time.
+
+16:27.160 --> 16:32.280
+We actually kind of co-created some consulting engagements for me, and the company was fine
+
+16:32.280 --> 16:36.280
+to let me take those on my own.
+
+16:36.280 --> 16:42.360
+And then during that time, I really started to reflect again and say, what is at this
+
+16:42.360 --> 16:45.320
+intersection of the impact I want to create?
+
+16:45.320 --> 16:48.200
+And also the work that really kind of energizes me.
+
+16:48.200 --> 16:51.920
+And that that kind of spawned the start of career edge.
+
+16:51.920 --> 16:57.360
+And my younger brother and I started it just by interviewing 80 people about their jobs
+
+16:57.360 --> 17:01.320
+and what was working for them and what wasn't.
+
+17:01.320 --> 17:07.280
+And we are still very much a work in progress, but the majority of my days today are spent
+
+17:07.280 --> 17:14.820
+helping people find more fulfillment in their in their professional lives.
+
+17:14.820 --> 17:18.880
+And I tell people it's taken me 46 years to get here.
+
+17:18.880 --> 17:24.000
+But now I finally like wake up every morning and and realize like this is what I was meant
+
+17:24.000 --> 17:25.000
+to be doing.
+
+17:25.000 --> 17:29.040
+So I realize it's a very long story, but it's important.
+
+17:29.040 --> 17:30.040
+Like I said.
+
+17:30.040 --> 17:31.040
+That's great.
+
+17:31.040 --> 17:32.040
+Yeah.
+
+17:32.040 --> 17:33.040
+No, that's great.
+
+17:33.040 --> 17:34.040
+That is lovely.
+
+17:34.040 --> 17:37.360
+That's so many turns that that life took.
+
+17:37.360 --> 17:39.440
+And I mean, I can I can associate with that.
+
+17:39.440 --> 17:51.280
+I've also been from a musician to classical guitarist to a tech person to working in corporate
+
+17:51.280 --> 17:53.920
+to not fitting at all.
+
+17:53.920 --> 18:00.080
+And eventually like ending up doing my own thing and finding that caring about other
+
+18:00.080 --> 18:01.920
+people is what I really want to do.
+
+18:01.920 --> 18:06.080
+And so try to find where that's like what led to some of these things like the community
+
+18:06.080 --> 18:07.080
+that I started.
+
+18:07.080 --> 18:09.640
+There's these podcasts and all of that stuff.
+
+18:09.640 --> 18:16.400
+And I hear some of the same undertones in your story a lot, a lot of change, but change
+
+18:16.400 --> 18:20.520
+into the direction of where people's journey is important.
+
+18:20.520 --> 18:26.560
+Having impact that is meaningful is is important to you.
+
+18:26.560 --> 18:32.920
+And you brought up a career itch from I hope I said that correctly.
+
+18:32.920 --> 18:35.200
+And the work that you do there.
+
+18:35.200 --> 18:39.840
+And I think on your LinkedIn page, there's this one liner that is I hope people find
+
+18:39.840 --> 18:43.440
+professional peace and create a future they proud of.
+
+18:43.440 --> 18:45.400
+I mean, who doesn't want that?
+
+18:45.400 --> 18:52.800
+So if somebody comes to you and they say, I don't know, I'm at one of these points,
+
+18:52.800 --> 18:58.840
+these inflection points in my life, and I have this opportunity to rethink my career
+
+18:58.840 --> 19:00.680
+and rethink what I do.
+
+19:00.680 --> 19:06.520
+How would you go about helping them to find professional peace and create a future they
+
+19:06.520 --> 19:09.920
+can be proud of?
+
+19:09.920 --> 19:10.920
+Great question, Scott.
+
+19:10.920 --> 19:14.960
+I think the thing that I have realized, and again, this has even been an evolution for
+
+19:14.960 --> 19:24.960
+me is I think it is so important to start from a place of exploring how you feel currently
+
+19:24.960 --> 19:28.120
+and how you want to feel.
+
+19:28.120 --> 19:33.640
+My corporate and professional training was always so focused on like tangible and specific
+
+19:33.640 --> 19:38.800
+like strategic financial operational goals.
+
+19:38.800 --> 19:42.680
+We were never, you know, feeling was never a metric, right?
+
+19:42.680 --> 19:47.120
+Like no one ever said, hey, how do you feel?
+
+19:47.120 --> 19:50.760
+And how do you want to feel?
+
+19:50.760 --> 19:53.800
+And the thing that I've learned, and I've learned this even with my own life and on
+
+19:53.800 --> 20:02.360
+my own journey, like starting from that place of like exploring what you're feeling now
+
+20:02.360 --> 20:08.880
+and the source of those feelings, and then like really starting to ground yourself in
+
+20:08.880 --> 20:15.480
+the positive feelings you want to feel, and the reality is, and I have seen this over
+
+20:15.480 --> 20:20.120
+and over again with people that I've spoken with.
+
+20:20.120 --> 20:29.160
+If you've had difficult and challenging professional experiences, they actually are stronger than
+
+20:29.160 --> 20:30.680
+the positive ones.
+
+20:30.680 --> 20:36.840
+So I've had to reconnect people to positive experiences because they've forgotten them
+
+20:36.840 --> 20:44.560
+because of the current like, you know, work stress or work challenge they're having.
+
+20:44.560 --> 20:46.360
+So that's usually where we start.
+
+20:46.360 --> 20:51.880
+Like how are you feeling, like what's coming up for you, and how do you want to feel, and
+
+20:51.880 --> 20:54.760
+have you felt the way you want to feel before?
+
+20:54.760 --> 20:57.880
+And most people can answer that question positively, right?
+
+20:57.880 --> 21:03.480
+Like even regardless of what the memory is, personal or professional, they can say, I
+
+21:03.480 --> 21:11.000
+have felt at peace or I have felt alive or I have felt energized doing these things.
+
+21:11.000 --> 21:19.760
+So that's the thing that like I always start by connecting, reconnecting people to that.
+
+21:19.760 --> 21:22.880
+And I will say I've noticed this in my own life as well.
+
+21:22.880 --> 21:29.280
+Like that has some of the biggest downstream effect as it relates to like personal and
+
+21:29.280 --> 21:35.800
+professional like fulfillment and success, is that how do I want to feel and letting
+
+21:35.800 --> 21:41.080
+that kind of be a bit of a north star?
+
+21:41.080 --> 21:43.320
+And I think you alluded to this.
+
+21:43.320 --> 21:49.080
+I think that the next thing in another part of this process is like, what are the questions
+
+21:49.080 --> 21:54.400
+or the prompts to get people thinking more about those things that kind of energize them
+
+21:54.400 --> 21:56.240
+or that make them feel purposeful?
+
+21:56.240 --> 22:03.800
+So questions like, hey, what problems in the world are you interested in solving or helping
+
+22:03.800 --> 22:06.640
+to solve?
+
+22:06.640 --> 22:10.920
+Where in the world would you like to make a meaningful impact?
+
+22:10.920 --> 22:19.720
+Specifically, what people in the world would you like to help or support or make successful?
+
+22:19.720 --> 22:25.600
+So the next thing is really exploring some of those questions around purpose and whether
+
+22:25.600 --> 22:32.760
+you've been asked them or not, like there's usually something inside you intuitively that
+
+22:32.760 --> 22:35.640
+is like, yeah, these are the things that are important to me.
+
+22:35.640 --> 22:37.840
+These are the things I care about.
+
+22:37.840 --> 22:43.800
+And again, if we are playing the traditional job searching game, we're not starting from
+
+22:43.800 --> 22:45.640
+that place, right?
+
+22:45.640 --> 22:50.280
+We're starting from a place of finding a thing that fits our skills.
+
+22:50.280 --> 22:56.440
+We're not starting from a place of, hey, what can I connect to that's real purposeful?
+
+22:56.440 --> 22:59.760
+And what value can I create in those spaces?
+
+22:59.760 --> 23:06.400
+So I would say those are the two things I think that really start like a healthier waterfall
+
+23:06.400 --> 23:11.360
+that focus on feelings and that focus on kind of purpose exploration.
+
+23:11.360 --> 23:15.360
+Yeah, that is wonderful.
+
+23:15.360 --> 23:19.560
+I think there's a really, I think a lot of people will find that useful to hear because
+
+23:19.560 --> 23:20.840
+I agree.
+
+23:20.840 --> 23:28.760
+We often start with looking at job boards from a skills perspective instead of from
+
+23:28.760 --> 23:34.840
+a culture perspective or from a, what does this company stand for?
+
+23:34.840 --> 23:40.400
+What are they trying to accomplish in the world and does it fit with what I'm doing?
+
+23:40.400 --> 23:44.320
+Because I mean, most job postings don't even talk about that really.
+
+23:44.320 --> 23:49.400
+They're more about like this long list of skills that you need, which most of the time
+
+23:49.400 --> 23:55.560
+is completely unreasonable by itself, but the focus is heavily on the skills, not so
+
+23:55.560 --> 24:03.840
+much on this is how you would have an impact in the company if you do pursue this role.
+
+24:03.840 --> 24:07.440
+And this is the overarching goal of the company.
+
+24:07.440 --> 24:14.520
+So if you take this role, your technical skills or whatever will contribute to the company
+
+24:14.520 --> 24:17.440
+in this way, which will contribute to our end goal in this way.
+
+24:17.440 --> 24:23.860
+So I think that's a much more healthier, much more long-term way to think about these things.
+
+24:23.860 --> 24:31.760
+But irrespective of whether you are on your own journey, doing your own thing or working
+
+24:31.760 --> 24:38.120
+for an employer, there are times in the day or in the week or in the month or in the year
+
+24:38.120 --> 24:42.840
+where it just feels like, I need something.
+
+24:42.840 --> 24:45.960
+I need somebody to tell me this is all going to be okay.
+
+24:45.960 --> 24:49.360
+And you do this thing called the Monday Pit Talk.
+
+24:49.360 --> 24:51.000
+That's how I learned about you.
+
+24:51.000 --> 24:55.880
+One of these was shared by one of the folks from Groove on the Groove community Slack.
+
+24:55.880 --> 24:59.160
+And I checked that out and I was like, this is so cool.
+
+24:59.160 --> 25:03.960
+So how did you come about this idea and where do you or how do you come up with the topics
+
+25:03.960 --> 25:06.360
+that you discuss in these pit talks?
+
+25:06.360 --> 25:08.640
+Well, thank you, Skulk.
+
+25:08.640 --> 25:12.880
+I appreciate the kind and supportive words.
+
+25:12.880 --> 25:13.880
+It's funny.
+
+25:13.880 --> 25:19.600
+So it started early days in the pandemic, you know, when we were going very quickly
+
+25:19.600 --> 25:25.480
+from in person to like virtual meetings and video calls all day.
+
+25:25.480 --> 25:28.680
+I learned a couple of things early on.
+
+25:28.680 --> 25:36.640
+Everybody, despite what they were going through kind of emotionally, they got peace from just
+
+25:36.640 --> 25:42.200
+having like a smiling and supportive face on the other side of the camera.
+
+25:42.200 --> 25:47.840
+And I like specifically remember people saying to me like, thank you.
+
+25:47.840 --> 25:54.360
+Like I feel comfortable like in this space that doesn't feel comfortable.
+
+25:54.360 --> 26:00.520
+And this falls into the category of like a lot of my life was I felt I lived without
+
+26:00.520 --> 26:03.520
+an awareness or like I wasn't paying attention.
+
+26:03.520 --> 26:08.360
+And I felt like I was at a point where I was paying attention and like it started to come
+
+26:08.360 --> 26:09.360
+up more and more.
+
+26:09.360 --> 26:12.080
+And I was like, all right, so this is an interesting data point.
+
+26:12.080 --> 26:14.440
+Like let's hold on to this.
+
+26:14.440 --> 26:21.960
+And then the other thing that really started to become fascinating to me was in a lot of
+
+26:21.960 --> 26:26.640
+those interviews where I was just kind of hearing people's journeys and stories and
+
+26:26.640 --> 26:36.120
+offering, you know, a new or a different perspective, sometimes all people needed was a different
+
+26:36.120 --> 26:41.680
+perspective, right, especially in things that like they were consumed with, right.
+
+26:41.680 --> 26:46.480
+And like for whatever reason, like, we're so focused that they weren't kind of seeing
+
+26:46.480 --> 26:48.560
+other perspectives and opportunities.
+
+26:48.560 --> 26:54.720
+So I was realizing in a lot of these interactions that just by sharing a story or a perspective
+
+26:54.720 --> 27:01.120
+or like a helpful thing that had helped me was enough to at least kind of trigger, oh,
+
+27:01.120 --> 27:02.120
+that feels different.
+
+27:02.120 --> 27:03.680
+That may be something I can try.
+
+27:03.680 --> 27:09.520
+So you know, it obviously took me like the better part of a, you know, nine months to
+
+27:09.520 --> 27:14.640
+a year after I had those kind of couple of realizations to formulate what is now the
+
+27:14.640 --> 27:16.280
+Monday morning pep talk.
+
+27:16.280 --> 27:24.080
+But yeah, so I ended up doing 30 of them last year and it just felt good, quite candidly,
+
+27:24.080 --> 27:33.920
+to like do something, you know, kind of public facing and not be too attached to the outcome.
+
+27:33.920 --> 27:37.100
+I was like, I want to do this because I want to get this message out there.
+
+27:37.100 --> 27:40.720
+And like, I can obsess over everything from like production value to low.
+
+27:40.720 --> 27:47.200
+And I'm like, I just want to share this and so yeah, that's kind of how it started.
+
+27:47.200 --> 27:51.080
+And I will say I reflected on a lot of it last year.
+
+27:51.080 --> 27:57.000
+And in going into this year, I'm doing things a little bit differently.
+
+27:57.000 --> 28:01.640
+One of the things I realized I did last year a lot of in my coaching and in my content
+
+28:01.640 --> 28:05.960
+was focused on problems.
+
+28:05.960 --> 28:11.680
+And this year, like what the thing that has been coming up a lot for me is like, we're
+
+28:11.680 --> 28:21.480
+not problems to be fixed, right, like we're the framing that's been helpful for me is
+
+28:21.480 --> 28:28.640
+like, we have this like true authentic self, like at the heart of ourselves, that unfortunately
+
+28:28.640 --> 28:35.200
+has been covered up by a lot of things, society, right, like our work environments, especially
+
+28:35.200 --> 28:36.640
+unhealthy work environments.
+
+28:36.640 --> 28:41.880
+So all of these layers over time have like covered up a lot of what is our like real
+
+28:41.880 --> 28:43.480
+and true identities.
+
+28:43.480 --> 28:50.760
+So the shift this year is going to be a little bit more kind of positive focused and really
+
+28:50.760 --> 28:54.760
+focused on like, hey, let's actually tap into strengths.
+
+28:54.760 --> 29:02.080
+Like let's not look at you as a problem to be fixed, you know, or to be solved.
+
+29:02.080 --> 29:08.280
+Let's look at like tapping into that kind of truest version and most authentic version
+
+29:08.280 --> 29:14.680
+of yourself and let that kind of be the guide and not treat like your life is something
+
+29:14.680 --> 29:18.040
+to be triaged all the time, if that makes sense.
+
+29:18.040 --> 29:20.000
+So I'm still evolving it.
+
+29:20.000 --> 29:22.680
+Yeah, that makes complete sense.
+
+29:22.680 --> 29:23.680
+Yeah, for sure.
+
+29:23.680 --> 29:37.200
+I think society has evolved or devolved maybe into this idea that human beings are a collection
+
+29:37.200 --> 29:44.200
+of problems that needs to be addressed instead of celebrating maybe sometimes some of these
+
+29:44.200 --> 29:46.380
+quote unquote problems.
+
+29:46.380 --> 29:53.680
+Maybe they are just differences that for some reason has been termed to be problems.
+
+29:53.680 --> 29:54.680
+So yeah, I love that.
+
+29:54.680 --> 29:55.680
+I love that refocusing.
+
+29:55.680 --> 30:04.360
+And I think there's so much negativity going on in the world that I think of a refocus
+
+30:04.360 --> 30:07.640
+on what's good and what's positive is definitely a good call.
+
+30:07.640 --> 30:13.480
+So I 100% support that focus change.
+
+30:13.480 --> 30:20.440
+Speaking about that, so the Mycelium network community was founded around the idea that
+
+30:20.440 --> 30:26.080
+I've heard from a lot of early stage web developers specifically.
+
+30:26.080 --> 30:27.760
+And this runs the gamut.
+
+30:27.760 --> 30:32.520
+It's from like people who are like 16, 17 years old, all the way to people who's in
+
+30:32.520 --> 30:36.720
+their 40s and 50s that's just decided like, I want to try something else.
+
+30:36.720 --> 30:41.680
+Like, I mean, like you said, and like I mentioned, like, we've had all these career changes during
+
+30:41.680 --> 30:42.680
+our lifetime.
+
+30:42.680 --> 30:51.520
+So I don't think this idea of school, university, job, retirement, I think that that whole cycle
+
+30:51.520 --> 30:57.760
+has been completely broken apart and I don't think it's something that people do anymore.
+
+30:57.760 --> 31:02.780
+But you know, and some of these people have decided to do it via starting their own business.
+
+31:02.780 --> 31:06.320
+Some people are going for employment.
+
+31:06.320 --> 31:10.360
+Maybe they're finding that that company that they can believe in, in the mission and everything
+
+31:10.360 --> 31:14.440
+and they want to build a career there.
+
+31:14.440 --> 31:20.400
+But the one thing that I've found with all these folks is it's scary, right?
+
+31:20.400 --> 31:24.720
+Whether it's your first time going out there in the big wide world trying to find your
+
+31:24.720 --> 31:32.440
+place or whether it's having to prove yourself yet again in a new industry.
+
+31:32.440 --> 31:39.920
+So for people that is doing one of these two ways of getting into a new career, like, what
+
+31:39.920 --> 31:40.920
+would you tell them?
+
+31:40.920 --> 31:45.680
+How do they, how should they approach this, whether it's starting off or whether it's
+
+31:45.680 --> 31:50.240
+even maybe leveling up a little bit in their existing career?
+
+31:50.240 --> 31:51.240
+It's a great question, Skalk.
+
+31:51.240 --> 31:57.280
+And this is another one that has like, my thinking of this has evolved over time because,
+
+31:57.280 --> 32:02.640
+you know, having some operations background, I always believe like you just created a single
+
+32:02.640 --> 32:04.800
+process that worked for everybody, right?
+
+32:04.800 --> 32:12.680
+Like you just optimize the process for everyone and, you know, to your point, like we are
+
+32:12.680 --> 32:17.280
+all unique complex beings, right?
+
+32:17.280 --> 32:26.800
+And the process I define for you may not serve someone else.
+
+32:26.800 --> 32:31.960
+So there's a couple of principles that I'm working with now.
+
+32:31.960 --> 32:40.000
+And the first is really like asking people just the question of like, what would your
+
+32:40.000 --> 32:45.920
+job search or career discovery look like if it were fun?
+
+32:45.920 --> 32:54.800
+Like allowing people to connect to like, if I were to actually turn this into an enjoyable
+
+32:54.800 --> 33:00.120
+thing, like what's the process I would create for myself?
+
+33:00.120 --> 33:06.560
+Because you alluded to something that I think is so, it limits so much of us.
+
+33:06.560 --> 33:09.880
+The system is built the way the system is built, right?
+
+33:09.880 --> 33:13.960
+From early education to higher education to corporate hiring, right?
+
+33:13.960 --> 33:17.680
+Like it is a series of constants.
+
+33:17.680 --> 33:22.880
+And I tell people like, be conscious of the fact that like, the system will always give
+
+33:22.880 --> 33:26.160
+you guidance to stay within the system, right?
+
+33:26.160 --> 33:32.040
+To be successful within the system, right?
+
+33:32.040 --> 33:40.320
+I think it's very helpful for you to think about like, if I were going to design a process
+
+33:40.320 --> 33:46.520
+that really felt fun and energizing for me to find a job, what would that look like?
+
+33:46.520 --> 33:50.920
+And that answer will be different for different people, but like, you know, I will give you
+
+33:50.920 --> 33:55.200
+some examples and some of these are people that I've directly worked with and some are
+
+33:55.200 --> 33:58.480
+just anecdotes that I've heard that I just absolutely love.
+
+33:58.480 --> 34:04.440
+But like, you know, the person who wants to work for a company and says, you know what
+
+34:04.440 --> 34:05.440
+I'm going to do?
+
+34:05.440 --> 34:09.040
+I'm going to understand what their client profile, their ideal client profile is.
+
+34:09.040 --> 34:11.320
+I'm going to go get them five clients.
+
+34:11.320 --> 34:15.560
+And then I'm going to go reach out to them and say, hey, I got you five clients.
+
+34:15.560 --> 34:19.640
+Would you be interested in having a conversation with me about working there?
+
+34:19.640 --> 34:20.640
+Right?
+
+34:20.640 --> 34:25.640
+And you know, that's a great example.
+
+34:25.640 --> 34:32.360
+A woman who I worked with, I encourage people to always start from a place of like, you
+
+34:32.360 --> 34:37.000
+know, envision a future you without constraints.
+
+34:37.000 --> 34:41.280
+Like before you say, I can't do that because I don't have this experience or I can't do
+
+34:41.280 --> 34:47.040
+that because I don't have the right network, like envision what is possible without constraints
+
+34:47.040 --> 34:51.280
+and then try to learn from people that are already kind of living that life.
+
+34:51.280 --> 34:56.400
+Like my favorite thing, you know, my favorite kind of sentiment to share with people is
+
+34:56.400 --> 35:00.640
+like there are eight billion people in the world.
+
+35:00.640 --> 35:05.160
+There is an excellent chance that there's at least one person that is kind of living
+
+35:05.160 --> 35:08.560
+the life, you know, that you want.
+
+35:08.560 --> 35:14.520
+And also most likely there is a person that has started from a place very similar to the
+
+35:14.520 --> 35:18.920
+place that you're in.
+
+35:18.920 --> 35:26.600
+And I say that just to say like, you can create any opportunity for yourself that you want.
+
+35:26.600 --> 35:31.560
+But once you've done that envisioning, like the most important thing for me has been connect
+
+35:31.560 --> 35:37.880
+with people that are doing the work you think you want to do.
+
+35:37.880 --> 35:47.720
+And for some people that is, you know, people that like building or creating, it's creating
+
+35:47.720 --> 35:52.360
+something for someone and saying, hey, I want to share this with you, maybe it'll be helpful
+
+35:52.360 --> 35:57.880
+to you in your work, like as a way to connect with that person.
+
+35:57.880 --> 36:03.800
+I know other people that like, they just go in with curious mind, like I just want to
+
+36:03.800 --> 36:11.040
+learn about you, your journey, your goals, your challenges.
+
+36:11.040 --> 36:16.520
+And most people are happy to share that, especially, and this is a lesson that I learned the hard
+
+36:16.520 --> 36:20.120
+way and you alluded to this a little bit.
+
+36:20.120 --> 36:26.920
+We start, we usually start from a place of I have to sell myself.
+
+36:26.920 --> 36:31.560
+And I tell people, you don't have to sell yourself initially.
+
+36:31.560 --> 36:37.720
+All you have to do is say, hey, can you, I am trying to understand more about this thing
+
+36:37.720 --> 36:40.240
+I think I want to do.
+
+36:40.240 --> 36:44.300
+Can you help me to understand the thing better?
+
+36:44.300 --> 36:49.520
+And then this is where like, as you develop those relationships, those are the people
+
+36:49.520 --> 36:53.940
+that can tell you if you're like, all right, now I'm sure this is what I want to do.
+
+36:53.940 --> 36:57.760
+How do I position myself to do this work?
+
+36:57.760 --> 37:01.680
+Those people that already have those jobs are the best resource to tell you how to get
+
+37:01.680 --> 37:03.840
+them, right?
+
+37:03.840 --> 37:06.440
+But you don't have to start from a place of selling.
+
+37:06.440 --> 37:12.200
+You just have to start from a place of curiosity.
+
+37:12.200 --> 37:17.920
+And believe it or not, and this was very helpful for me when I started CareerEdge, like I picked
+
+37:17.920 --> 37:22.800
+people that I was like, hey, you represent what I think I want this to be.
+
+37:22.800 --> 37:27.040
+And like that helped me start to build the early roadmap of CareerEdge because I could
+
+37:27.040 --> 37:31.000
+see the moves that these people were making and how they were making them.
+
+37:31.000 --> 37:33.200
+Yeah, that's great.
+
+37:33.200 --> 37:39.560
+Yeah, I think that's one of the things that I wanted to do with this whole community,
+
+37:39.560 --> 37:45.240
+especially the async kind of like discord server with the community.
+
+37:45.240 --> 37:49.160
+And it's still a little bit missing, but there's some folks starting to trickle in now because
+
+37:49.160 --> 37:55.000
+I do want people there that is already in this industry or in this career so that people
+
+37:55.000 --> 37:56.240
+can talk to them.
+
+37:56.240 --> 38:02.040
+And I think people always think I should only ask them technical questions, like I should
+
+38:02.040 --> 38:07.640
+only come to them, to my mentor, so to speak, when there's a piece of code that doesn't
+
+38:07.640 --> 38:13.800
+work or when I don't understand a technical thing where it's like, sure, that's good,
+
+38:13.800 --> 38:16.880
+but there's more to it than just the code.
+
+38:16.880 --> 38:18.720
+And you should ask about those things too.
+
+38:18.720 --> 38:21.480
+It's like, what do you do on a daily basis?
+
+38:21.480 --> 38:27.560
+Because a lot of people have a complete misconception of what it is to write code.
+
+38:27.560 --> 38:31.920
+People see movies and they see people typing super fast on their keyboards all day.
+
+38:31.920 --> 38:37.320
+And it's like, more often than not, that's actually a small part of your day.
+
+38:37.320 --> 38:40.560
+There's a lot of engagement with other people.
+
+38:40.560 --> 38:42.720
+There's a lot of talking through problems.
+
+38:42.720 --> 38:47.560
+There's a lot of being able to see other people's perspectives, other people's points of view
+
+38:47.560 --> 38:52.320
+and being able to disagree in a civil manner.
+
+38:52.320 --> 38:58.920
+And sometimes also admitting that maybe you were wrong, which is hard.
+
+38:58.920 --> 39:01.520
+But we need to be able to do that.
+
+39:01.520 --> 39:06.560
+And we need to be able to do that civilly so that it doesn't devolve the relationship
+
+39:06.560 --> 39:10.240
+within the company or within your team.
+
+39:10.240 --> 39:13.840
+So I think it's important to also talk about those topics.
+
+39:13.840 --> 39:14.840
+I think that's right.
+
+39:14.840 --> 39:24.040
+And I heard a great quote years ago that was, you can't be it if you can't see it.
+
+39:24.040 --> 39:28.320
+So if you haven't interacted with those kind of people, if you're not even aware of what
+
+39:28.320 --> 39:35.040
+else goes on within your company or with even in your team, you don't even know what questions
+
+39:35.040 --> 39:37.000
+to ask.
+
+39:37.000 --> 39:46.880
+And this is a place where I will say, I have found the fastest way to knowledge is a conversation
+
+39:46.880 --> 39:49.800
+with another human being.
+
+39:49.800 --> 39:57.600
+I spent years poring over articles and the most valuable insights I've gotten are when
+
+39:57.600 --> 40:03.280
+I've been face to face or on the phone with somebody and just said, tell me more about
+
+40:03.280 --> 40:07.240
+who you are, what you do and how you've been successful.
+
+40:07.240 --> 40:12.720
+Yeah, setting the right expectations as well.
+
+40:12.720 --> 40:17.880
+Because I think at the moment, there's a lot of good because people are aware that there's
+
+40:17.880 --> 40:26.760
+this big, well, it's a little different right now at this very moment in tech.
+
+40:26.760 --> 40:35.320
+But there was a point in the last six months to be here where a lot of places started educating
+
+40:35.320 --> 40:41.000
+people to get into tech because it was sold as this panacea, this solution to all the
+
+40:41.000 --> 40:46.840
+world's problems in terms of employment, in terms of everything.
+
+40:46.840 --> 40:50.440
+Now we're in a bit of a precarious situation with all these layoffs happening at these
+
+40:50.440 --> 40:56.880
+big, big companies that people have, if you work there, you might have felt a sense of
+
+40:56.880 --> 41:05.000
+job security and it's incredibly sad and I know people personally who's been affected
+
+41:05.000 --> 41:11.960
+by all of this stuff and it's hard, it doesn't matter where you live, it's still extremely
+
+41:11.960 --> 41:18.240
+disruptive to be told, sorry, but we're going to have to let you go.
+
+41:18.240 --> 41:21.280
+Because it's not something you planned on.
+
+41:21.280 --> 41:26.240
+You were coming into the office, doing your thing, you maybe even had plans for the rest
+
+41:26.240 --> 41:34.040
+of the year of what you'd like to accomplish and all of that is just, it's over, to rethink,
+
+41:34.040 --> 41:36.960
+it's time to rethink everything.
+
+41:36.960 --> 41:43.680
+So for some people it's worse than others, but I don't think it's easy for anybody when
+
+41:43.680 --> 41:45.360
+this happens to you.
+
+41:45.360 --> 41:52.040
+So I think there's a lot of support needed for these kinds of things, for these people
+
+41:52.040 --> 41:59.240
+going through this and I'm sure, I haven't brought this topic up yet with the people
+
+41:59.240 --> 42:06.080
+in the community, but I am sure there's quite a few folks that have put a lot on the line
+
+42:06.080 --> 42:11.920
+to change careers that's now maybe thinking that they've made the wrong choice and are
+
+42:11.920 --> 42:16.360
+in between a rock and a hard place because they might have given up a job where they
+
+42:16.360 --> 42:21.600
+had something to do something else only to find that the industry they thought was so
+
+42:21.600 --> 42:27.440
+secure and so lucrative is going through a really, really tough time.
+
+42:27.440 --> 42:32.680
+And so they might feel like, oh my goodness, what the heck do I do?
+
+42:32.680 --> 42:39.340
+So do you have any advice for these people, like how to stay motivated and stay focused
+
+42:39.340 --> 42:43.800
+when it might even feel like the world is collapsing around you?
+
+42:43.800 --> 42:44.800
+Yeah.
+
+42:44.800 --> 42:50.120
+I mean, my heart goes out to all of those people and every time I see those announcements,
+
+42:50.120 --> 42:57.160
+my heart sinks a little because I know, especially in places where you're like, I'm secure here,
+
+42:57.160 --> 43:02.700
+that quickly things can change and it's interesting.
+
+43:02.700 --> 43:07.320
+This is another area where my perspective has changed.
+
+43:07.320 --> 43:16.400
+The thing that I have learned is we can only control our own actions.
+
+43:16.400 --> 43:18.480
+External forces are external forces.
+
+43:18.480 --> 43:21.560
+We can't control them.
+
+43:21.560 --> 43:31.000
+The only thing we can control is how we react to those forces as well as decisions made
+
+43:31.000 --> 43:34.400
+in the past are made.
+
+43:34.400 --> 43:39.120
+Things that have happened in the past, those things cannot be changed.
+
+43:39.120 --> 43:49.320
+It is what we do today and tomorrow that we can control how we move differently.
+
+43:49.320 --> 43:57.640
+So the first thing I will say is, and this has been helpful for me in a lot of my transitions,
+
+43:57.640 --> 44:00.640
+you have to grieve the loss of the thing.
+
+44:00.640 --> 44:04.080
+You've lost something that's significant, right?
+
+44:04.080 --> 44:09.800
+Especially something that is the source of your livelihood.
+
+44:09.800 --> 44:14.680
+I think one of the things, when I was scared with managing emotions earlier in my life,
+
+44:14.680 --> 44:21.640
+it would be, what are all the unhealthy ways I can distract myself from this thing?
+
+44:21.640 --> 44:26.060
+There was no vice that was too good for me.
+
+44:26.060 --> 44:32.800
+Whatever I needed to do to suppress the feeling or ignore it or distract myself from it was
+
+44:32.800 --> 44:40.680
+where I invested my time, whereas the skill that I've really been cultivating more recently
+
+44:40.680 --> 44:47.960
+when these things come up is to actually feel them all the way through.
+
+44:47.960 --> 44:51.400
+I'll give a very specific example.
+
+44:51.400 --> 45:02.400
+When I started this most recent round of businesses, it was during COVID.
+
+45:02.400 --> 45:09.600
+We had a baby girl in May of 2021.
+
+45:09.600 --> 45:15.720
+The financial insecurity was not insignificant.
+
+45:15.720 --> 45:23.440
+One of the things, and my partner and I actually did this activity together, we're like, let's
+
+45:23.440 --> 45:25.480
+feel through losing everything.
+
+45:25.480 --> 45:33.200
+Because the thing that we're afraid of is that you're going to end up at a point where
+
+45:33.200 --> 45:35.600
+you can't survive.
+
+45:35.600 --> 45:37.220
+We felt through it.
+
+45:37.220 --> 45:45.400
+We felt through losing our jobs, we felt through losing savings, housing, all of these things.
+
+45:45.400 --> 45:49.920
+Yeah, it's hard to feel through all those things, but once you've felt through them,
+
+45:49.920 --> 45:57.560
+you realize you are so far from that ultimate outcome.
+
+45:57.560 --> 46:03.880
+Now that you have felt how terrible it could feel, it's not going to go away, but it's
+
+46:03.880 --> 46:07.680
+not going to have the same control over you.
+
+46:07.680 --> 46:09.780
+You can start to focus on the thing.
+
+46:09.780 --> 46:13.880
+We started to focus on the, all right, well, if those things do happen, what are things
+
+46:13.880 --> 46:15.760
+that we would do?
+
+46:15.760 --> 46:19.320
+What are places we could go and earn money easily?
+
+46:19.320 --> 46:23.840
+If we needed to ask for help, if we needed to find less expensive housing.
+
+46:23.840 --> 46:26.760
+We did this practical.
+
+46:26.760 --> 46:27.760
+What would we do?
+
+46:27.760 --> 46:30.600
+Then we were like, okay, that was enough.
+
+46:30.600 --> 46:39.280
+We grieved it, we strategized around it, but no, now let's focus on the big things we want
+
+46:39.280 --> 46:43.600
+to create for our future now.
+
+46:43.600 --> 46:45.920
+That's the first thing I'll say.
+
+46:45.920 --> 46:47.680
+Don't try to distract from it.
+
+46:47.680 --> 46:49.460
+Feel it all the way through.
+
+46:49.460 --> 46:57.000
+Feel through that worst case scenario so it doesn't have that kind of death grip on you.
+
+46:57.000 --> 46:59.920
+Then ask yourself, what can I do with this opportunity?
+
+46:59.920 --> 47:01.520
+What can I do with this time?
+
+47:01.520 --> 47:07.200
+I've seen so many people, Scott, that have actually taken the time to reconnect to a
+
+47:07.200 --> 47:14.880
+creative practice or just something that energizes and fulfills them.
+
+47:14.880 --> 47:20.200
+I think that is another simple first step.
+
+47:20.200 --> 47:26.560
+Don't feel the need to jump right into the next thing.
+
+47:26.560 --> 47:30.560
+If there is a need for financial security, the thing I always encourage people to do
+
+47:30.560 --> 47:39.640
+is look at what you need to live and ask yourself, how can I satisfy this for six to 12 months
+
+47:39.640 --> 47:42.920
+with the least amount of my time?
+
+47:42.920 --> 47:51.960
+I can really create space to nurture myself, do more purposeful exploration, and really
+
+47:51.960 --> 48:02.800
+find the next thing that's going to energize me and also sustain me financially.
+
+48:02.800 --> 48:08.800
+But I know, like I said, I've worked through recessions.
+
+48:08.800 --> 48:13.800
+I've been part of downsizing and it's just that it's going to happen and it's nothing
+
+48:13.800 --> 48:15.640
+you did.
+
+48:15.640 --> 48:18.720
+The thing you have control over is what you do next.
+
+48:18.720 --> 48:19.720
+Yeah.
+
+48:19.720 --> 48:25.320
+I mean, there's the flip side of that coin, which they call survivor's remorse.
+
+48:25.320 --> 48:30.360
+It's when you're the one that doesn't get let go and you're still at the company because
+
+48:30.360 --> 48:40.520
+one of the clients that I worked with in mid-2020, they had some big layoffs and so I wasn't
+
+48:40.520 --> 48:45.320
+affected by it, thankfully, and I know that me and some of my colleagues that I worked
+
+48:45.320 --> 48:56.080
+with there had that survivor's remorse, that thing where you feel kind of a little bad,
+
+48:56.080 --> 48:57.080
+especially if you've worked.
+
+48:57.080 --> 49:00.640
+Like some of the people that was affected, I've worked with them for years.
+
+49:00.640 --> 49:05.000
+I mean, some of these are my friends and they've been let go and I haven't been.
+
+49:05.000 --> 49:09.560
+So that's also something to not forget.
+
+49:09.560 --> 49:13.120
+Of all the people that has been let go, there's also a whole bunch of people that has not
+
+49:13.120 --> 49:17.640
+been let go at these companies who had to see their friends be affected like this and
+
+49:17.640 --> 49:22.160
+worrying about, are they going to be okay, are they going to find something?
+
+49:22.160 --> 49:28.760
+I mean, it's a tough time there, like the world is still recovering from COVID and we're
+
+49:28.760 --> 49:29.760
+not there yet.
+
+49:29.760 --> 49:39.800
+So opportunities aren't as plentiful as people would like to think or like to believe.
+
+49:39.800 --> 49:42.160
+So yeah, there's both sides to that coin.
+
+49:42.160 --> 49:50.200
+But I know when people are just going through this, the last thing you want is advice.
+
+49:50.200 --> 49:53.200
+You just want somebody to listen.
+
+49:53.200 --> 49:59.000
+But whenever people are ready, I think there's two videos on YouTube I recently stumbled
+
+49:59.000 --> 50:01.080
+upon that made an impact on me.
+
+50:01.080 --> 50:04.240
+The one is from the founder of Wired.
+
+50:04.240 --> 50:08.480
+He has this video, I think it's called 38 Pieces of Unsolicited Advice, something like
+
+50:08.480 --> 50:09.480
+that.
+
+50:09.480 --> 50:13.360
+And one of the things he said is very close to what you've just mentioned, where he said
+
+50:13.360 --> 50:21.000
+is when you're young, for six months to a year, live as frugally as you can.
+
+50:21.000 --> 50:25.840
+So that you know what it is, eat beans and rice, so that you know what that feels like,
+
+50:25.840 --> 50:31.520
+so that when you want to take a big chance in your life, you know what it is to be poor.
+
+50:31.520 --> 50:36.760
+And it will be, like you said, it will have less an effect on you because you know what
+
+50:36.760 --> 50:40.040
+worst case scenario potentially could be.
+
+50:40.040 --> 50:47.200
+And then the other one was a conversation on the Huberman Lab podcast with Dr. Elia
+
+50:47.200 --> 50:48.200
+Crum.
+
+50:48.200 --> 50:50.620
+And it's all about mindset.
+
+50:50.620 --> 50:52.640
+And that is just brilliant.
+
+50:52.640 --> 51:00.160
+It's just incredible the power that our minds have if we and the way we talk to ourselves
+
+51:00.160 --> 51:05.560
+and what we put out there and what we'd say when we look in the mirror in the morning.
+
+51:05.560 --> 51:11.400
+That is such a big impact on how we experience life in general that I think we should really
+
+51:11.400 --> 51:17.440
+take time to, like you say, make space for these things and not just be so focused on
+
+51:17.440 --> 51:18.760
+the next thing.
+
+51:18.760 --> 51:26.320
+So you've now touched on a topic in two points, Kalk, that I think is very important as it
+
+51:26.320 --> 51:27.480
+relates to all of this.
+
+51:27.480 --> 51:32.360
+You know, you talked about kind of communication, right, amongst peers and when you're talking
+
+51:32.360 --> 51:38.840
+to people and what intentional and attentive and listening communication looks like, but
+
+51:38.840 --> 51:42.840
+also how we communicate with ourselves.
+
+51:42.840 --> 51:48.520
+And one of the most transformative books that I have read in the last couple of years is
+
+51:48.520 --> 51:54.680
+a book called Nonviolent Communication by Marshall Rosenberg.
+
+51:54.680 --> 52:01.720
+And I never felt that I was given, through all of my schooling, nobody ever said, like,
+
+52:01.720 --> 52:07.400
+here's how to intentionally communicate with yourself and others in a nonjudgmental and
+
+52:07.400 --> 52:09.760
+compassionate way.
+
+52:09.760 --> 52:15.280
+And I just, I've gifted this book dozens of times, I just sent another copy out today,
+
+52:15.280 --> 52:20.120
+because it gave me the ability to say, all right, this thing I'm feeling, even if it's
+
+52:20.120 --> 52:26.000
+a negative emotion, fear, anger, frustration, disappointment, whatever it is, there is a
+
+52:26.000 --> 52:34.920
+positive, like, intention around an unmet need that I have, like, it is doing something
+
+52:34.920 --> 52:37.400
+actually to protect me.
+
+52:37.400 --> 52:42.600
+I just need to actually give it, like, the attention that it deserves and not look at
+
+52:42.600 --> 52:50.480
+it as something to judge myself for, but something to explore, like, oh, I'm feeling frustrated
+
+52:50.480 --> 52:57.040
+because I needed, or I feel the need for stability, and now I don't have that stability.
+
+52:57.040 --> 53:03.920
+So what can I do to get to your point, like, to get that stability that I need to for this?
+
+53:03.920 --> 53:10.400
+But that book has given me the language not only to, like, be less judgmental as I talk
+
+53:10.400 --> 53:16.800
+to myself, but, like you alluded to earlier, also be able to have those conversations,
+
+53:16.800 --> 53:21.760
+especially in, you know, in work settings where disagreements come up or people have
+
+53:21.760 --> 53:29.200
+differing opinions, like, that book has kind of given me the playbook to just navigate
+
+53:29.200 --> 53:38.840
+those in a way that, quite candidly, like, feels more intentional and feels good, regardless
+
+53:38.840 --> 53:44.640
+of what the outcome of it is, like, now I can walk into situations and even if the other
+
+53:44.640 --> 53:48.880
+person's yelling at me, I'm okay, because I know I'm showing up the way I wanted to
+
+53:48.880 --> 53:54.440
+show up and I'm acknowledging their feelings and all of those things, so I share that as
+
+53:54.440 --> 53:59.640
+another resource, I think, that, like, is grounded in me, like, there are some basics
+
+53:59.640 --> 54:06.240
+here and communications with ourselves and others is, like, an important thing to, you
+
+54:06.240 --> 54:08.120
+know, to develop in ourselves.
+
+54:08.120 --> 54:10.160
+Yeah, for sure.
+
+54:10.160 --> 54:11.280
+I've heard about the book as well.
+
+54:11.280 --> 54:15.120
+I haven't read it yet, but it's definitely on my to-read list.
+
+54:15.120 --> 54:18.720
+I believe it's literally on my to-read list on Amazon.
+
+54:18.720 --> 54:23.520
+I just need to put it in the cart.
+
+54:23.520 --> 54:30.000
+So I alluded to earlier, like, where I kind of stumbled upon your video, the Monday pep
+
+54:30.000 --> 54:36.040
+talk on the Groove community and I think a lot of people that hear this might, Groove
+
+54:36.040 --> 54:37.040
+community?
+
+54:37.040 --> 54:38.040
+What's that?
+
+54:38.040 --> 54:44.400
+So I've been involved with them since the very, very beginnings and I've at some point
+
+54:44.400 --> 54:51.880
+I opened up their Slack and I've been really active there, more so than the app for various
+
+54:51.880 --> 54:55.640
+reasons, but don't need to go into that now.
+
+54:55.640 --> 54:58.560
+Nothing to do with the app or Groove.
+
+54:58.560 --> 55:02.440
+It's like personal situational things that is preventing me from using it as much as
+
+55:02.440 --> 55:04.680
+I'd like.
+
+55:04.680 --> 55:15.400
+And for you, what have you found in the Groove community and how would you, do you think,
+
+55:15.400 --> 55:18.520
+would you invite other people to join this community?
+
+55:18.520 --> 55:22.120
+What has it added to your life?
+
+55:22.120 --> 55:23.880
+Great question.
+
+55:23.880 --> 55:31.800
+Just to answer the, I have already referred, you know, dozens of people to it.
+
+55:31.800 --> 55:38.480
+It's important that I talk about my community journey because I, before Groove there was,
+
+55:38.480 --> 55:44.080
+and when I was first consulting on my own in Philadelphia, I was a member of like multiple
+
+55:44.080 --> 55:49.200
+co-working spaces, which for me was great on so many levels.
+
+55:49.200 --> 55:52.840
+Like it gave me access to multiple communities.
+
+55:52.840 --> 55:55.660
+I could be around value aligned people.
+
+55:55.660 --> 55:59.160
+Like it was awesome.
+
+55:59.160 --> 56:04.960
+So when the pandemic hit and like I had stopped working for the company I was working for,
+
+56:04.960 --> 56:08.440
+so like I no longer had my co-worker community.
+
+56:08.440 --> 56:15.100
+I no longer had, you know, co-working space communities.
+
+56:15.100 --> 56:22.680
+There was a physical co-working space in Philadelphia that stood up an online co-working community.
+
+56:22.680 --> 56:24.960
+It's called Indie Hall.
+
+56:24.960 --> 56:32.120
+And when I discovered Indie Hall, it gave me that thing that I was missing.
+
+56:32.120 --> 56:37.400
+They had a Discord channel and they had, they just had open co-working channels.
+
+56:37.400 --> 56:41.120
+So if you were working, you could just pop into a co-working channel.
+
+56:41.120 --> 56:42.200
+Other people could join in.
+
+56:42.200 --> 56:46.320
+You could share your video or not, but like it felt like you were in a room with other
+
+56:46.320 --> 56:47.320
+people.
+
+56:47.320 --> 56:53.940
+And I was like, I had no idea how badly I needed this thing until I found this thing.
+
+56:53.940 --> 57:00.440
+And then last year I was also introduced to Groove in the early days.
+
+57:00.440 --> 57:05.200
+And one of the things that I was struggling with at Indie Hall, especially as things started
+
+57:05.200 --> 57:09.480
+to open up physically, is like there were days where I'd be the only person in the virtual
+
+57:09.480 --> 57:10.480
+co-working room.
+
+57:10.480 --> 57:15.080
+And I was like, this would be better if like there was always people that were in there
+
+57:15.080 --> 57:16.080
+with me.
+
+57:16.080 --> 57:19.840
+So as soon as I got introduced to Groove, I was like, oh, wait a second.
+
+57:19.840 --> 57:25.800
+Like I don't want to say guaranteed, but like now the app is at a point, like at any point
+
+57:25.800 --> 57:31.800
+of the day, because it is a global community, if I go in there, I'm going to find at least
+
+57:31.800 --> 57:37.480
+one person to work with, if not like three others.
+
+57:37.480 --> 57:42.720
+And the thing that I have realized, especially through this journey of working for myself
+
+57:42.720 --> 57:50.120
+and not being in an office anymore and not being, I need that connection desperately
+
+57:50.120 --> 57:52.120
+in my day.
+
+57:52.120 --> 57:59.520
+I need it for accountability, I need it just for the human interaction component.
+
+57:59.520 --> 58:05.520
+And Groove does a lot of things really, really well.
+
+58:05.520 --> 58:12.880
+And just for quick background, there are 50 minute sessions where you get matched up with
+
+58:12.880 --> 58:15.920
+up to three other people.
+
+58:15.920 --> 58:20.920
+You have a couple minutes to share what you're working on, and then you start work.
+
+58:20.920 --> 58:26.720
+The timer starts for 50 minutes, everybody's cameras go off and there's just a chat window.
+
+58:26.720 --> 58:30.180
+And then you come back after 50 minutes and share what you've worked on.
+
+58:30.180 --> 58:37.440
+So it has given me that human connection that I was needing kind of desperately.
+
+58:37.440 --> 58:40.760
+It's given me the accountability.
+
+58:40.760 --> 58:48.040
+It has also given me a tremendous amount of grace and compassion for myself, because there
+
+58:48.040 --> 58:52.680
+are a lot of just good value aligned people on the platform.
+
+58:52.680 --> 58:57.280
+And I can't tell you how many grooves I'm on a day where a person is like, here's what
+
+58:57.280 --> 59:02.440
+I'm gonna do during this groove and then they come back on and they're like, so I got distracted.
+
+59:02.440 --> 59:05.800
+And that is something I joke to people all the time.
+
+59:05.800 --> 59:09.840
+It was such a gift because you're like, all right, I'm here for 50 minutes, I have to
+
+59:09.840 --> 59:11.200
+get all of this stuff done.
+
+59:11.200 --> 59:17.720
+And people are like, yeah, I felt the need to clean the dishes and then pet the dog.
+
+59:17.720 --> 59:19.520
+And then I sent them.
+
+59:19.520 --> 59:25.920
+But it also gave me this very just reminder that we need to show ourselves and one another
+
+59:25.920 --> 59:27.400
+grace and compassion.
+
+59:27.400 --> 59:39.480
+So I joke that it is a human connection app that is masquerading as a productivity app.
+
+59:39.480 --> 59:44.240
+Because I feel like it gives you so much more than just that.
+
+59:44.240 --> 59:48.160
+Yeah, that's a very good description of it.
+
+59:48.160 --> 59:49.400
+I love that.
+
+59:49.400 --> 59:59.900
+And I have to say, as a introvert myself, I would go so far as to say to other introverts,
+
+59:59.900 --> 01:00:04.840
+you need more human connection than you think you do.
+
+01:00:04.840 --> 01:00:09.800
+Oftentimes the story out there is that if you're an introvert, people drain your energy.
+
+01:00:09.800 --> 01:00:16.600
+And while that's true to some extent, not having any is definitely detrimental to your
+
+01:00:16.600 --> 01:00:18.460
+mental well-being.
+
+01:00:18.460 --> 01:00:25.760
+So even if you see yourself as an introvert, I'd still encourage you to give these networks.
+
+01:00:25.760 --> 01:00:28.480
+Maybe it's Groove, maybe it's something else.
+
+01:00:28.480 --> 01:00:33.480
+Give it a try, because you'd be surprised how energized you feel after you've had that
+
+01:00:33.480 --> 01:00:34.480
+human connection.
+
+01:00:34.480 --> 01:00:37.840
+I mean, you can limit it to the number of grooves that you feel comfortable doing in
+
+01:00:37.840 --> 01:00:38.840
+a day.
+
+01:00:38.840 --> 01:00:42.160
+There's no obligation to join one off to the other off to the other.
+
+01:00:42.160 --> 01:00:48.220
+If one is enough for you to get the energy that you need, that's great.
+
+01:00:48.220 --> 01:00:53.440
+Maybe the person on the other side of that screen also just needed that one thing that
+
+01:00:53.440 --> 01:00:54.440
+day.
+
+01:00:54.440 --> 01:00:58.800
+So yeah, I definitely encourage people, even if you're an introvert, give it a shot.
+
+01:00:58.800 --> 01:01:01.400
+It might do more for you than you think.
+
+01:01:01.400 --> 01:01:02.400
+I love that, Skulk.
+
+01:01:02.400 --> 01:01:07.200
+And I'll add to that, you can test lots of communities.
+
+01:01:07.200 --> 01:01:11.320
+Sometimes you're not going to find the community that meets you where you are on the first
+
+01:01:11.320 --> 01:01:12.320
+try.
+
+01:01:12.320 --> 01:01:19.960
+One of my friend's expressions, which I like, is just find your weirdos.
+
+01:01:19.960 --> 01:01:24.920
+There's a group of people that you can connect with out there.
+
+01:01:24.920 --> 01:01:25.920
+They exist.
+
+01:01:25.920 --> 01:01:27.800
+You just need to find them.
+
+01:01:27.800 --> 01:01:33.720
+I feel like there's places like Discord and Reddit where niche groups are popping up.
+
+01:01:33.720 --> 01:01:41.320
+To your point, we do all need that connection and we can find it with people that get us
+
+01:01:41.320 --> 01:01:44.200
+just as we are, right?
+
+01:01:44.200 --> 01:01:46.720
+We don't have to be or do anything different.
+
+01:01:46.720 --> 01:01:50.840
+We can just show up as we are and there's communities that will fully accept us that
+
+01:01:50.840 --> 01:01:51.840
+way.
+
+01:01:51.840 --> 01:01:52.840
+We just have to find them.
+
+01:01:52.840 --> 01:01:55.560
+Yeah, that's very, very true.
+
+01:01:55.560 --> 01:01:56.680
+Well said.
+
+01:01:56.680 --> 01:02:01.820
+So I have one question left, but I have another question that's popped into my head while
+
+01:02:01.820 --> 01:02:07.040
+I was watching you on camera, because there's a Venn diagram on your wall.
+
+01:02:07.040 --> 01:02:12.040
+And I'm curious what that Venn diagram is about, if you can share.
+
+01:02:12.040 --> 01:02:13.040
+Yeah.
+
+01:02:13.040 --> 01:02:20.520
+It was by a local artist here in Philly and it's just daytime, nighttime, and the middle
+
+01:02:20.520 --> 01:02:23.960
+of the Venn diagram is best time.
+
+01:02:23.960 --> 01:02:26.400
+Gotcha.
+
+01:02:26.400 --> 01:02:35.880
+So yeah, it's just that space in between your day and your night that is the middle of the
+
+01:02:35.880 --> 01:02:37.280
+diagram.
+
+01:02:37.280 --> 01:02:38.280
+Yeah.
+
+01:02:38.280 --> 01:02:42.880
+For me, the nighttime would be the big overlap.
+
+01:02:42.880 --> 01:02:45.320
+I'm definitely a night owl.
+
+01:02:45.320 --> 01:02:51.080
+I fought against it, but like so many things in life, it's best to play to your strengths
+
+01:02:51.080 --> 01:02:57.920
+and not try to change because the world isn't necessarily set up for how you work best.
+
+01:02:57.920 --> 01:03:04.920
+There's always ways to find loopholes, find workarounds that you can make the wall a little
+
+01:03:04.920 --> 01:03:12.160
+bit more welcoming, I don't know if that's the right word, but twist the world to work
+
+01:03:12.160 --> 01:03:15.760
+with you instead of trying to change yourself to fit the world.
+
+01:03:15.760 --> 01:03:18.120
+I think that's what I was trying to say.
+
+01:03:18.120 --> 01:03:22.440
+Harmony is the word that's been coming up in a lot of conversations recently, right?
+
+01:03:22.440 --> 01:03:28.720
+You're just trying to find your place in the world that kind of feels harmonious for you.
+
+01:03:28.720 --> 01:03:33.280
+It may not exist in all of those existing structures that you've been around, it doesn't
+
+01:03:33.280 --> 01:03:36.040
+mean it doesn't exist at all, right?
+
+01:03:36.040 --> 01:03:38.560
+Yeah, for sure.
+
+01:03:38.560 --> 01:03:39.560
+Yeah.
+
+01:03:39.560 --> 01:03:45.320
+So in closing, this has been wonderful, a question that I like to throw in every now
+
+01:03:45.320 --> 01:03:51.560
+and again because it's a tough one, but I think once people think about it a little
+
+01:03:51.560 --> 01:03:55.400
+bit, beautiful things come from it.
+
+01:03:55.400 --> 01:04:02.840
+So what is the best advice you've received in your life so far?
+
+01:04:02.840 --> 01:04:08.360
+This is one, when you shared it at Skulk ahead of time, I was like, oh man, this is a tough
+
+01:04:08.360 --> 01:04:21.640
+one for me to answer with a single response and I've been realizing I'm trying to be much
+
+01:04:21.640 --> 01:04:30.040
+more attentive to answering the prompts because I've noticed my ability to not answer the
+
+01:04:30.040 --> 01:04:38.600
+direct question, so the best advice I have received in your life, so I've really received
+
+01:04:38.600 --> 01:04:54.640
+in my life so far is...
+
+01:04:54.640 --> 01:05:08.620
+I think this is gonna go back to my earlier point around focus on how you wanna feel first.
+
+01:05:08.620 --> 01:05:15.580
+Being someone that struggled with anger and frustration previously in my life, I went
+
+01:05:15.580 --> 01:05:23.960
+into last year and my single target feeling was a feeling of peace and I reminded myself
+
+01:05:23.960 --> 01:05:33.160
+of that every single day and despite a year that had plenty of ups and downs, I felt largely
+
+01:05:33.160 --> 01:05:39.120
+at peace all of last year and I think that was just attributed to saying this is how
+
+01:05:39.120 --> 01:05:45.760
+I wanna feel and I'm gonna remind myself every day that even if I am in situations that are
+
+01:05:45.760 --> 01:05:51.320
+not peaceful, it doesn't mean I can't show up in a peaceful and intentional way.
+
+01:05:51.320 --> 01:05:58.800
+Yeah, that's beautiful, that makes me think of what story Thich Nhat Hanh, I don't know
+
+01:05:58.800 --> 01:06:04.880
+if it's a story or if it's just something he's been known to quote and he's like, if
+
+01:06:04.880 --> 01:06:12.000
+you're on a boat and the sea is rough, it only takes one person to stay calm to ensure
+
+01:06:12.000 --> 01:06:18.720
+that the boat doesn't capsize, so maybe you can be that one person when life's chaotic
+
+01:06:18.720 --> 01:06:24.520
+that just brings a little bit of peace and then it spreads and before you know it, everybody
+
+01:06:24.520 --> 01:06:27.400
+is a little bit more peaceful.
+
+01:06:27.400 --> 01:06:30.080
+Thank you so much, Matthew, this has been beautiful, it's been lovely.
+
+01:06:30.080 --> 01:06:36.120
+I'm so glad I asked you, I knew this was gonna be a good conversation.
+
+01:06:36.120 --> 01:06:37.800
+Thank you so much for joining.
+
+01:06:37.800 --> 01:06:44.680
+Thank you again for the opportunity, Skalk, I've really, I've enjoyed it, I'm also, story
+
+01:06:44.680 --> 01:06:51.440
+for another time, but I love a career that is a mosaic like my own, so we'll have to
+
+01:06:51.440 --> 01:06:56.240
+find time, I'd love to hear more about your journey as well and the last thing I'll end
+
+01:06:56.240 --> 01:07:02.680
+on is like, the thing I love to do is have these conversations with people and like I'm
+
+01:07:02.680 --> 01:07:08.200
+willing to invest time in people regardless of where they are, so if there's anything
+
+01:07:08.200 --> 01:07:14.600
+I can ever do to kind of support you or anyone in your community, please never hesitate to
+
+01:07:14.600 --> 01:07:15.600
+ask.
+
+01:07:15.600 --> 01:07:23.080
+I mean that so sincerely, like it's important, it's important to me to kind of support people
+
+01:07:23.080 --> 01:07:30.160
+regardless of where they are on their journeys, so just please take it as an open invitation.
+
+01:07:30.160 --> 01:07:35.600
+Okay, thank you so much, Matthew, that's lovely, I appreciate that.
+
+01:07:35.600 --> 01:08:04.320
+Have a lovely rest of your day.
+
