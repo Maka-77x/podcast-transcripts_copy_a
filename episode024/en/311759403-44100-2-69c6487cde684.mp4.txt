@@ -1,0 +1,721 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web developers
+and the mentors and teachers that help them along the way.
+Welcome, Andreas, to the Mycelium Network Podcast.
+Thanks for having me.
+I'm super excited.
+It's a huge pleasure.
+It's been a long time in the making.
+We've discussed and gone back and forth and back and forth over polywork, and finally
+we found a day in time that works for everybody, so I'm glad.
+We have business trips, am I right?
+Yeah, yeah, yeah, and then the holidays and everything.
+To start off with, can you tell us – I know you mentioned before we started that this
+is probably the most uncomfortable question of the bunch, so let's get that one out
+of the way.
+If you can tell us a little bit about who you are, your career, and then what gets you
+up in the morning.
+Yeah.
+I'm Andreas.
+I'm a software engineer.
+Currently, I'm a R&D software developer at Encompass Technologies.
+Basically it's an alcoholic beverage software as a service where essentially we help all
+three tiers of the U.S. alcohol distribution system, so whether that's people who make
+beer, people who distribute beer, and then people who sell beer, and obviously other
+wines, spirits, etc.
+I handle a lot of integrations with a database called DSD-Link where it's got global product
+data, global customer data throughout the entire Encompass network, so then as we get
+more partners and stuff like that on, I usually handle a lot of the integrations and stuff
+like that.
+In terms of outside of work, I've been doing programming software development for
+about four or five years now.
+When I'm not programming and stuff, I love Dungeons and Dragons.
+I play around with some tarot every now and then, and then also tattoos and home brewing
+mead actually.
+In general, I just like to jump around to a whole bunch of different hobbies.
+My partner keeps me plenty busy.
+She's like, oh, this is a great idea.
+We should go and try this, and I'm like, yeah, sure, yeah, sure, let's do it.
+Kind of like all over the place, but those are the main things that I usually am found
+doing.
+That sounds great.
+Can you explain a bit about what mead is and what the brewing process involves?
+With mead, a lot of people like to equate it to honey wine, so essentially the main
+primary ingredient that you're fermenting is honey, and the yeast consume that honey.
+Usually there's a couple steps where you go through primary fermentation and then you
+rack it into a separate container and secondary fermentation.
+Essentially all you're doing is having the yeast consume those different sugars, and
+with honey it creates a unique flavor that my partner and I really like, where it's
+a little bit sweeter and it's more depending on the type of honey that you use and type
+of yeast, it will likely be a lot closer to a white wine, like a sweeter, maybe like a
+Pinot Grigio.
+In general, it's been a lot of fun.
+We've done a whole bunch of different small batches of like a gallon, one of the ones
+that we're really proud of is one that we call the May Queen, which is basically like
+blood oranges, lemon zest, vanilla, and a couple more other flavors with some really
+high quality alpine honey from up here in Colorado.
+You'd be surprised how much good honey makes a difference.
+If you just go to the supermarket and drop honey that you pick up at the supermarket,
+obviously that will get you there, but we like to do smaller batches with higher quality
+ingredients and generally we just do it for ourselves and a couple of family members.
+It's a lot of fun to just be able to experiment with the different ingredients and see how
+the yeast takes it and creates these different flavors.
+Yeah, it's super cool.
+Honey, it makes a big difference if you get the real stuff, not the mix, the half and
+half that you often get at the supermarket.
+We have a little honey company about 10 kilometers from where I stay and when we buy honey from
+them, you immediately notice the difference.
+I can use that in my coffee and it tastes great, whereas if you use the honey from the
+supermarket, it's like, I'm not too sure about this.
+It's doubly so with me because the yeast take on a lot of those flavors or off flavors as
+well.
+If they don't have as much real sugars and stuff to consume, it's a lot harder for them
+to make a flavor that is actually pleasant.
+There's a lot of different variables that go into, obviously with brewing in general,
+you could create some off flavors with certain ingredients.
+It's just a huge balancing act, but to your point on the coffee and stuff, you can immediately
+tell the difference.
+Yeah, for sure.
+That's fascinating.
+Yeah, I can imagine how that can become a really interesting hobby.
+It leads into my second question that I kind of had because I picked this up when I write
+some stuff in your, I can't remember if it was Lictin or if it was Polywork, where you're
+clearly enthusiastic about beer, I think specifically, but maybe other alcohol variants as well.
+More than that, this idea that it brings people together, it forms community.
+I'm curious, the MyCMNitric podcast is part of a larger community around early stage developers.
+Obviously, community is very important to us and to me.
+I wonder, what gets you excited about community?
+Why are you so excited about this whole idea of beer and then the beer forming this community
+bringing people together?
+What is it about that stuff that makes you excited?
+Yeah, so I will say a lot of that has been kind of my exposure to the beverage industry
+with Encompass, which I'm really appreciative of because it really opened my eyes to just
+how much work goes behind the scenes to get a beer on your table or a wine or whatever
+the case may be, the amount of work and the amount of talent that goes into it to get
+a beer into the distributor and then go from the distributor to the retailer and then be
+able to sell that to you.
+There's a lot of work behind the scenes that goes into it and all of that is people who
+are extremely talented, extremely passionate about the beer, well, the beverages that they
+sell.
+It's the same beer, but realistically, it's so much more than that and really the more
+I got exposed to it, the more I realized just how much of it is community really.
+Whether you are making beer, distributing beer or selling it, there is a community that
+kind of revolves around it.
+There's so many different little neighborhoods and even just in the United States, but worldwide
+where there's a liquor store somewhere in that community and that whenever there's
+a party, there's something like that, usually you're going and grabbing beer, you're going
+and grabbing some wine, you're grabbing some cider.
+It's something that you don't necessarily think about, but it's what it's used for.
+It's used for celebrations, it's used for parties, it's used for things that bring people
+together and things that we can celebrate together.
+That's one thing that I really realized as I started working in the beverage industry
+with this software, that it's just such an amazing community and the more you engage
+with it, the more you get out of it.
+People are always willing to talk to you about brewing, regardless of what kind of brewing
+it is, you can get along with somebody who has only ever brewed beer in their life.
+If you just say, hey, I do cider, I do mead, I do this other weird thing that I decided
+to ferment this very specific plant or something like that, at the very least you have that
+kind of common bond where you're going and trying to make something new and pleasant
+that's like at the end of the day, you're sharing that with somebody.
+You're not necessarily just sitting around doing that by yourself, at least you've got
+a partner, you've got some friends that you want to share that with.
+Even if that's online, there's so much to it that is just community that people don't
+necessarily realize.
+For me, that's really the excitement aspect of it where I love contributing to that community
+because at the end of the day, it's such a big component of the human experience, I would
+say, because it's just been alcohol fermented beverages have been around as long as you
+can probably remember.
+It's something that we sometimes take for granted, but it's a valuable part of what
+makes a community.
+Yeah, agreed, and I think there's parallels to be drawn there to software.
+If you build, if you write a little library or a little tool or something, it's always
+great to have a community to go to and to say, hey, look at this thing I made and people
+are like, that's really cool and you get that feedback and you get that even when people
+tell you, oh, you know what, there's this way that you can make this even better.
+I think it's the same thing when it comes to brewing.
+If you share your brewing recipe, somebody might say, you know what, I did something
+similar and I did this little difference and it made such a big, like you have this experience
+with these different honeys and that having the real deal coming from a craft place or
+something is so much better than the honey you get at the supermarket.
+You might get somebody in the community who says, I'm making me, but I just can't quite
+get there and you say, what honey are you using?
+And they're like, oh, I'm using this thing from this place and you're like, you should
+try and get it from a local farmer or something like somebody that works with bees because
+that's going to make all the difference.
+I think that knowledge sharing is a big part of it as well.
+Yeah.
+I'll give another example on that.
+It's like the usage of what kind of parts of the lemon to use in like a meat or something
+like that because then a lot of times the acidity of things like lemons and stuff may
+be adverse towards yeast depending on the other things that you put in there.
+You can do stuff like add lipids to the yeast so that then it kind of strengthens their
+cellular walls.
+We're getting way into the very specifics there, but I have a lot of good friends that
+are fermentation science majors, which I didn't know was a thing until I got to Encompass
+where they kind of gave me that kind of feedback where like, hey, if you're trying to use
+more acidic, less than ideal flavors that would be great for us to consume but not necessarily
+ideal for the yeast to live in and produce alcohol in, you could potentially add some
+additional things to strengthen the yeast and build up their tolerance, so to speak.
+There's different parts of the lemon even.
+We use like the pith and other parts of it instead of just straight up the lemon pieces
+where you still get that kind of lemon flavor without necessarily introducing as much of
+the acidity.
+Yeah.
+I understand.
+It sounds very similar to cooking, also knowing what parts of the vegetable or fruit or whatever
+spice to use and how much and when you add it to the mix and all that kind of stuff.
+There's so many parallels between all these things and just community and the fact that
+we're social creatures and we seek out this communion around things that we're interested
+in and that we find so much joy from all of this.
+So with that in mind, there's the other side of the coin where it's introducing different
+flavors can sometimes be a little tricky like you just mentioned and maybe we can draw a
+very strange parallel again here between that and introducing diversity into the workplace.
+I think everybody's acknowledged that it's a good thing.
+It's fascinating that it took us time to realize that.
+It seems like one of those like more obvious things that the more differences of opinion
+and the more differences of background and culture you have, the better your product
+will be.
+It doesn't matter what industry you're targeting, I think in general it's always a good idea.
+But it's taken a while and I think the tech industry maybe have taken a bit longer than
+others but it's getting there, it's getting better.
+But I've spoken to a female guest previously who came from Mexico to the US and she spoke
+a lot about the tensions and struggles she's found while in Mexico because of the cultural
+differences where women wasn't really seen as somebody that would go into the tech industry
+or even science for that matter but for her she was lucky in appearance was not of that
+thought.
+So they actually encouraged her to pursue it.
+And then other challenges she faced when she then moved to the United States and you've
+raised a whole bunch of points about this so I don't want to talk about it too much.
+I just wanted to give some context around that and then have you just speak to this
+a little bit because I know that you have been affected by this maybe on a more implicit
+rather than explicit situations but if you want to talk about that, just the idea of
+adding more ingredients, adding more diversity to the mix and what the potential problems
+there could be and how everybody can work together to make this not such a struggle
+that it's actually something we celebrate.
+Right.
+So I guess I'll start with kind of my own experiences leading up to officially kind
+of being in the tech industry and studying tech.
+So I mentioned this in our kind of discussions on Polywork but I'm Puerto Rican, my parents
+are Puerto Rican and kind of similar to the guest you mentioned, being Hispanic has kind
+of its challenges in the US depending on the area, a lot of times especially.
+My dad is in the army, still is, and he's kind of, we moved around a whole bunch.
+I've lived around in a whole bunch of places and sometimes it's more implicit bias depending
+on the kind of people that are kind of circulating in the military space and sometimes it's very
+much explicit.
+And those experiences aren't necessarily great but they do certainly frame the perspective
+of like, hey this is, it's not the same to be Hispanic in the United States as it is
+to just wake up and be, I suppose the term that they would likely use is from the United
+States.
+Even though Puerto Rico is a US territory, a lot of times people would talk to me as
+if I wasn't part of the US or like that I wasn't a US citizen and I should go back
+to my own country.
+And it's like, okay, I'm here, I'm ready to do this, I'm ready to contribute.
+So that's been kind of challenging.
+My dad always liked to say, when it comes to that, sometimes it's just a difference
+of like, hey I'm not, my last name's Sepulveda, my last name's not Smith or Johnson or something
+like that.
+And then that's not to exclude anybody, that's just to put a frame of reference of like,
+hey, sometimes people will perceive you differently.
+Because of where you come from, what kind of culture you bring to the table.
+And so that was a lot of my time growing up.
+Like I moved around a whole bunch, I lived in Korea for six years and then lived in Hawaii
+for another six, terrible places to live.
+And from there went into tech kind of as studying computer science and then kind of taking on
+jobs either in the university or like internships and stuff like that from there.
+I will say definitely from that point on, it went from more of a explicit to an implicit
+bias where people aren't necessarily going and outright saying, oh yeah, go back to your
+country but maybe they'll go and say something that's kind of like off that makes you feel
+weird.
+And it's like, why does that make me feel weird?
+Like where is that coming from and where is this person, do they know that this makes
+me feel weird?
+And that's not always an easy question to answer.
+More recently there was an experience that I had with one of my managers at a company
+previous where they would basically say, whenever I would use bigger words like an expanded
+vernacular than just like, hey, how's it going?
+Maybe I'll go and sprinkle some words that better illustrate what I'm saying.
+And he would kind of make comments like, oh, those are big words.
+And it's like, to a certain extent it's like, okay, it's not a word they use very often
+but at the same time, am I not capable of saying those words?
+Do you not believe me capable of using an expanded vernacular?
+It's not always easy to even broach those subjects.
+And I found that a lot of times it's, those implicit biases, generally speaking, I don't
+like to go and say, oh, it is the person's fault and they likely they just don't know.
+I'd like to give people the benefit of the doubt because that ends up more often than
+not contributing to a positive conversation about it of improvement rather than necessarily
+being like, hey, you're like going in and throwing labels like, hey, you're racist.
+Hey, you're this.
+Likely that's not the person's intention.
+And I think the discussion aspect of it is super important and kind of jumping all over
+the place a little bit.
+But generally speaking, yeah, like that's kind of my thoughts on it where it requires
+a conversation, I'd say.
+So how do you think we can make having that conversation easier?
+As I know from the previous case that I mentioned, that was one of the challenges talking about
+it.
+There was not a lot of support and it didn't feel like you could openly talk about this.
+She thankfully lost, I heard, at a company where that is not that much of a problem anymore
+and it's actually encouraged.
+Have you had experience maybe, I don't know, anywhere that you've worked or interacted
+maybe at university even, where you found that people have made this like a thing where
+they've said like, whenever you feel this, this is the avenue where you bring this up
+and where we can talk about this.
+Because I think the tricky thing with implicit bias is that, like you said, oftentimes the
+person might not even know that what they're saying is making something in you feel uncomfortable
+or not good about yourself.
+So how do we bring that to the fore?
+How do we allow those conversations to happen without it turning into a confrontational
+thing?
+I know it's a hard question.
+So I think it starts with knowing what is confrontational and non-confrontational language.
+There was a really great book that one of the other software engineers that I networked
+with showed me non-violent communication.
+I forget who exactly wrote the book, but it was very informative in terms of like, there
+are so many things that you might bring up that may or may not be considered confrontational.
+Just the way that you say you bring up an issue might be the difference between someone
+taking that personally and someone taking that as a point of improvement.
+I think there are so many other factors that go into it, like whether or not you guys are
+part of this same culture, different cultures.
+One example might be just with a recent networking opportunity I had.
+I was the only American at that kind of event.
+Everybody else was kind of from Europe and from Africa and all these different places,
+and talking to them was very interesting because they were very excited to talk with me.
+I was very excited to talk with them, but there were some times when they would say
+things that it would be like, huh.
+Sometimes with the way that we talk in the United States, we're not necessarily as direct
+as we would like to be.
+Just someone very directly saying something to me, it's appreciated.
+I love it.
+I think it's great, but it's like getting accustomed to the different kinds of ways
+that people speak and what kind of cultural norms there are.
+I think that's one huge aspect of it.
+From there, I really think that nonviolent communication is an important piece.
+Then really just identifying it as, hey, really talk about it less from, hey, this person
+is doing something wrong, and more of, hey, this is how I'm feeling right now.
+I want to understand how we can maybe improve this kind of relationship that we have and
+putting it from a perspective of we, right?
+It's not on the person necessarily to go and learn because a lot of times if they just
+don't know that that's the case, there's a lot of instances where just bringing that
+up for the first time may be what opens their eyes and they're like, oh, I am so sorry
+that I did that to you.
+You can have that discussion and move forward in a positive manner, but definitely bringing
+it up in a constructive way of like, hey, I really appreciate the kind of feedback.
+Let's say it's a manager and you are somebody who is experiencing that kind of implicit
+bias from your manager, like my example, somebody who is talking to me as if I can't use higher
+level vocabulary, like just going in and sending some time aside and being like, hey, I feel
+like those comments that you made about my big words are kind of hurtful, like alternatively
+maybe framing it from the perspective of like, hey, those comments are hurtful.
+Why do you feel the need to say that?
+Understanding the other person's perspective I think is also a big component of it because
+it may be that they think that it's like, oh, well, that's the way my parents acted
+with me whenever I said big words, they'd be like, oh, those are big words.
+For them in their family, it means something, but for us outside, maybe it means something
+different.
+You really never know until you have that conversation.
+A lot of times it's navigating that and just taking it with the idea of neither of you
+are really trying to be malicious about things, we're just trying to solve a problem.
+If we can approach it from that perspective, really a lot of the other things kind of fall
+in line because at the very least you have two solution oriented people that are going
+to accomplish this kind of improvement in the relationship between you two as opposed
+to just coming at it from, oh, you're a racist, I can't believe that you would say something
+like that.
+Sure maybe those labels will make you feel better when you say them, but that won't
+necessarily solve the problem because a lot of times if people get confronted like that,
+they'll just like retreat and kind of maybe double down because they don't believe that
+they're being that way.
+There's so many different reactions to that as opposed to a more constructive and positive
+approach.
+Generally speaking, people are more willing to come to the table and meet you halfway.
+Yeah, I know for sure.
+That's really good advice.
+To switch to a different topic that's along the similar lines, but talking about the other
+side of the things, during our conversational and poly work, I mentioned I also want to
+talk about the good parts and you weren't exactly sure what I meant by that.
+By the way, that is something that I found interesting.
+In written language, we often write from our perspective and we use maybe cultural phrases
+that we understand, not thinking what the person who's reading this might read from
+that.
+It's been really interesting on one of the projects we do as part of the Marseille network.
+There's quite a lot of written content involved there and we have people from Brazil and places
+like that who's also involved in it.
+There's one particular person, Raphael, that I've also spoken to on the podcast previously,
+who's amazing at the feedback he gives and the way he does it.
+He's just really good at it.
+He's pointed out some things in the written context where he's like, I'm not exactly sure
+what you mean here.
+Did you mean this or did you mean this thing?
+That has opened my eyes incredibly to a lot of things that we don't necessarily think
+about.
+It's highlighted how important it is to have this diversity within a team, within a community
+because they bring out the best in thing because now that content is so much more accessible
+to a much wider audience because you've been much more clear about what you're actually
+trying to say in this paragraph or in this sentence.
+With that in mind, what I meant with the good parts is some of the things like the framework
+wars and some of these struggles we still have in the workplace and the diversity and
+talking and how do we talk about the difficult things in a productive manner.
+The good parts for me is then when it comes down to making things, what is it about the
+tech industry that made you think like, hmm, I think I'm interested in what that is.
+I want to learn more about what that is and as you learn more, something about it piqued
+your interest and you were like, yeah, I think I want to do this for my career.
+That is the good parts.
+What were those things about the tech industry that got you to say, yeah, this is what I
+want to do as a career?
+I would say one of the big things is obviously problem solving.
+I love being presented some sort of challenge, some sort of feature, even some sort of bug
+where there's a problem that needs to be solved and going through the motions of like, well,
+what is the current problem?
+Do we need additional user research to solve this problem?
+I love going through that process because a lot of times that research is really applicable
+in other contexts.
+You don't really think about it when you go and do just a single feature.
+Maybe you want to add a chat bot or something like that to a front-facing webpage just as
+a random example.
+Now you know how to do that for the next project that you're doing and you kind of learn some
+additional aspects of maybe you need to implement it asynchronously, where now you have the
+ability, especially in JavaScript, to understand promises and understand weights and be able
+to work with more asynchronous data where each of these little experiences kind of culminate
+into being able to solve bigger problems.
+Usually a lot of the problem solving is breaking down those big problems into smaller problems.
+With that, being able to then equate that to experiences that you had in the past of
+being like, hey, well, I've solved four or five of these problems and I can research
+this fifth one.
+Just being able to leverage that kind of problem solving mindset on a daily basis and solve
+problems that really help people in the long run is a huge aspect of the good parts of
+the tech industry.
+I'd say also collaboration.
+I keep on going to community and collaboration, but really I think you get the most out of
+really software building when you are able to leverage a design team, whether that's
+a UI, UX team, a product manager, a product owner.
+I've got a project right now where we're working on a CRM app.
+It's currently in alpha.
+We're still kind of working through some of the things with our initial alpha customer,
+but we've got sales on deck.
+We've got marketing.
+We've got the product team, product owners for three different products in our company
+and the UI, UX lead, and all of us together that creates such an interesting discussion
+every week and interesting next steps all the time of like, hey, this is what we actually
+kind of need based off of our conversations with the user, based off of our conversations
+of what our system can handle and cannot handle.
+This is how we need to implement it.
+Let's go through the process of creating some of these wireframes.
+Let's make some higher fidelity designs.
+I love that aspect of it because there's so much discussion and kind of like that where
+you likely don't have the full picture unless you talk to other people.
+That's not even including like the stakeholders of the actual project, like the companies
+or the clients that you're working with where now introducing them into the mix and understanding
+their problems that also creates such an interesting experience of collaboration where everybody
+that you work with in the tech industry, you're collaborating in some way.
+It's not just like, oh, hey, do this.
+Usually if you're on a team with a couple of developers, you are collaborating on something,
+whether that's going and reviewing each other's code, pair programming, whatever the case
+may be.
+I can give plenty more examples, but that collaboration aspect is such a big component
+of it that I like and I love, if you can't tell, I love talking with people.
+It's really rewarding to be able to do that and then also leverage some technical skill
+to be able to accomplish those kind of software solutions.
+Yeah, that's great.
+I agree 100%.
+I love that collaborative thing as well, especially when you're working on a problem that everybody
+is passionate about, enthusiastic about, and everybody wants to see the best possible solution
+in the end of the day, I think that is like when you've really hit gold, so to speak.
+I have one question that's going to kind of lead into a different thing I want you to
+talk about a little bit, so let's start with the first one, which is from everything I've
+read, I can see that you're really into D&D, Dungeons and Dragons, are there any parallels
+that you can draw between the game of Dungeons and Dragons and the tech industry or working
+on a team?
+Yeah, certainly.
+Most of my experience in Dungeons and Dragons is as a game master, so a lot of it is just
+almost like project management where you have a clear goal of what needs to happen this
+session and just an overarching, hey, the goal of this campaign is to do this, but then
+you have these smaller sessions and you can equate those to sprints, where each of these
+sprints you're trying to accomplish something in that sprint and some DMs are more rigid
+and they say, hey, we're not leaving until we accomplish this thing.
+That is the end of the session.
+For me, it's a lot more flexible of like, hey, if we go through the motions and we get
+to that point, great.
+If we get farther than that point, fantastic.
+If we get to a point where we're not necessarily at where I wanted to be in the story, that's
+okay.
+We'll go and plan better for the next one.
+A lot of that is literally parallel with just agile methodology.
+From a player perspective, a lot of that collaboration still holds where instead you each are components
+of that agile methodology where let's say it's a couple of developers, a product designer,
+et cetera, where maybe you're the bard, you're the paladin, you're the rogue, where each
+of you have skills that help in different situations.
+Maybe you have to do some sort of stealth, sneak into the castle and save the princess.
+The rogue is better suited for that and maybe the paladin can create a distraction.
+If you think about it from a software perspective, some people are better with front-end technologies,
+some people are better with backend technologies, some people are better with very specific
+tools and some people are better at the people side of communication and stuff like that.
+A lot of that holds in Dungeons and Dragons as well where the opportunities to leverage
+what your class is good at are always there and generally speaking, a good GM will take
+the opportunities to highlight those, same with a good manager.
+You know your people's strengths, you can help them with your weaknesses but also highlight
+their strengths and have them play to their best role because obviously a paladin maybe
+isn't the best person to be sneaking around in full plate armor, just as an example.
+They're going to be sounding like plates that just dropped out of a pantry or something
+like that, just like all this noise everywhere.
+Those are some of the parallels but a lot of the times you can find a lot of similarities
+between the two and yeah, I play it enough to where I even have a campaign in the company
+that I'm currently at in Compass where a lot of the people like it's me, I'm a developer,
+we've got some other people who are like somebody from HR, a couple product managers, a release
+manager, all these different people who if we take out the D&D aspect of it and then
+look at the actual team aspect of it, we've got this diverse team of individuals with
+different experiences, different specialties in the software and also in general in their
+career where they can leverage it.
+I think that's some of the things that I can think of off the top of my head.
+I can obviously go and rant on about it all day because I love Dungeons and Dragons.
+Yeah, no, I love that.
+That's wonderful.
+I love that analogy.
+It's really great.
+That leads me into the next thing.
+I had a look on your GitHub profile and you have a project called Sovereign of Chaos.
+I think I'm pronouncing it correctly.
+That sounds incredibly interesting.
+I'd love you to dig into that some and some of the things that I'm interested in is what
+exactly it is, how you came about to build this, and then from the larger collaborative
+aspects, are you open to others using this, working it, contributing back to it, and give
+us a nice overview of what this project is and what your goals are with it?
+Yeah, I'll start with the naming because obviously the Sovereign of Chaos, it's like out of all
+the things that you can name a project, why would you name it that?
+That's actually a Dungeons and Dragons thing, more specifically the setting of Eberron.
+That's one of the settings that they've published.
+It's not just one setting that they have for Dungeons and Dragons and that's it.
+There's a couple published ones that Wizards of the Coast, the company that owns Dungeons
+and Dragons, have published and then obviously people can go and bring in their own homebrew
+worlds.
+One of the worlds that I really like and really resonate with me is Eberron.
+It was written by a guy named Keith Baker.
+He's really a big player with the concept of like nothing is black and white and again
+it goes back to kind of like the same kind of concepts we've been talking about today
+where it's not as easy as just kind of like yes or no or like it's a discussion.
+Eberron is kind of the same way where in a lot of ways like there are spells of like
+detect good and evil in Dungeons and Dragons where Keith Baker has said, hey, if I had
+my way in Eberron, those wouldn't work because it's all perspective based, right?
+Where somebody wouldn't necessarily like just because someone is classified as a monstrosity
+in the system mechanically does not necessarily mean that they're evil, right?
+And I really like that setting because of that where there's a lot of muddled grays
+and it's kind of generally speaking like a Knorr aspect to it.
+One of the major cities in Eberron is this place called Sharn which is this big floating
+like metropolis kind of like I'm trying to think of an example like very Art Deco kind
+of like 19 like roaring 20s with that mixture of like medieval fantasy and also like magic
+and then also sprinkled in with some more technology aspects fueled by magic.
+So that setting really resonated with me.
+The Sovereign of Chaos is one of those kind of figures in the Dark Six of Eberron.
+They're like some of the gods that people worship in that setting.
+The Traveler as he's called is the Sovereign of Chaos.
+He kind of brings along change that's kind of what his kind of what is called the underlying
+concepts behind him are around like change and really with the project I decided to name
+him that because I really wanted just like a Discord bot where I could really play around
+with different concepts and not really have a single sort of goal and just have it be
+like hey I want to add this feature to it great like really more of a learning experience
+for me than necessarily like a purpose-built bot for a specific you know user flow or something
+like that and that's kind of evident in the kind of features that it has like I started
+small with some basic things like you know like an eight ball like some like a gotcha
+item puller where like given this feed of magic items from like existing Dungeons and
+Dragons publications obviously with the open game license in mind you know going and producing
+those magic items because sometimes in the game there are instances where somebody like
+you want to reward them with some sort of magic item but you don't necessarily know
+what to do because you weren't planning on that they they managed to to go and do something
+that you want to reward them somehow but you have no idea so like maybe you think of oh
+I want to pull uncommon magic item really a lot of the the features were also revolving
+around Dungeons and Dragons and trying to help with my own game mastering initiative
+order and skills challenges were also one thing where it kept the persistent state of
+the current initiative challenges or initiative orders where essentially that kind of means
+that there's some sort of combative encounter that is happening at that moment same thing
+with skills challenges just being able to track that and having some order to a more
+complex situation so maybe it's not a combat situation but a practical example might be
+hey you have to escape this castle like you're not in combat yet but you are also about to
+be arrested like how how does your team navigate that and attaching a sort of the reason why
+I would attach an initiative order to that is just to give the opportunity for everybody
+in the team to contribute because then it goes in a sequential order of turns as opposed
+to whoever raises their hand first and blurts out what they want to do gives a lot more
+opportunity for contributions as opposed to not with those features that was really the
+kind of core concept behind it the intention was to kind of take input and provide output
+through a discord server which discords python api or discord pi like it is so useful and
+so easy to use that it felt like you know these features are just flying out of my fingers
+into the keyboard into the repository so it was really exciting seeing it and I had it
+on a server of about 50 people and that it was also doing like event reminders like kind
+of like asynchronous stuff like I just started building on top of it and kind of having it
+be a one one bot for everything for that server so people could go and set reminders go and
+specific events like maybe there was some sort of like every monday we do this like
+just sending reminders and stuff like that trying to think about what else off the top
+of my head but it was just a whole bunch of features just discord oriented for that purpose
+just playing around and seeing what the extent of the discord pi library could do and being
+able to use it positively like just to improve the experience on a server so that was a lot
+of fun with it I mean in terms of like open source like being able to fork it build on
+it I'd say anybody that wants to can go for it it's one of the big reasons why I put it
+on github in a public repository because it's just built on discord pi and a couple other
+minor libraries that I'm pretty sure all have the same kind of licensing that it's just
+kind of like hey go for it so yeah I mean anybody that wants to to pull or contribute
+build on that like a lot of the concepts are were really helpful for me to learn especially
+like asynchronous handling of like messages and being able to like shard and kind of basically
+thread a bot so that then in the event of like multiple servers trying to add this bot
+to it then you know like how do you handle that and and keep a data structure that makes
+sense for like you know server a shouldn't be seeing the data for server b and you get
+into that even more so with like I added like xp tracking and stuff like that as well so
+every time somebody sent a message like you know should that xp carry over between server
+to server those those were the kind of questions that I had so like I mean it was extremely
+beneficial to to build and it really improved my knowledge of building software so if it
+helps anybody like that sees it and wants to to take a look or play around with discord
+pi and see what's capable say go for it right so do you it's interesting I like a lot of
+the features and a lot of they make me think like do you foresee a machine learning aspect
+to this being useful say somebody is like really like dug into the open ai python stuff
+and they're like hmm I wonder if we can add some like machine learning aspects to this
+thing is that something you'd be interested in exploring I think so I think there's a
+lot of benefits to machine learning like from a perspective of like just trying to improve
+our lives instead of replace people's like jobs or anything like that there are a lot
+of aspects where we we can improve people's lives with it the with discord specifically
+I can see potentially like being able to process and understand what what violent communication
+looks like what like derogatory communication looks like and as the you know human like
+linguistics evolves like having something that evolves with it to be able to accurately
+create a safe and comfortable environment I can see that being very useful from the
+my specific bot I can see a lot of value in doing machine learning on how to properly
+build an encounter so like with every monster and Dungeons and Dragons there is some sort
+of challenge rating assigned to them and different skills that they can use even in the same
+challenge rating and like that challenge ratings from 0 to 30 you still have a lot of aspects
+where that challenge rating isn't exactly a full indicator of what how challenging this
+is going to be for your party because certain classes are are you know have different abilities
+that may be better suited to combat a creature than others so I can see from a machine learning
+perspective like it might be valuable to take a deeper understanding of not just the challenge
+ratings but also the the classes and being like hey given these are the players that
+are engaging with this this is a more realistic aspect of whether or not this encounter is
+easy medium hard or deadly you know I can see a lot of value in that as well because
+then that creates a better experience when the GM doesn't have to worry about completely
+TPKing the party which is a total party kill you know or alternatively creating a big bad
+and like bringing that person in only to have it be completely curb stomped by the party
+because you know like based off of like even action economy you could run into those types
+of issues where where one enemy is moving for every five people that are fighting against
+it like obviously there's just like that economy of action like is going to create a problem
+so machine learning to better understand that and apply those more higher level concepts
+to Dungeons and Dragons and properly schedule an encounter and like create an encounter
+that's valuable and meaningful and kind of accomplishes what the DM is trying to do.
+I think that could be super valuable and it would be super cool if I had a tool like that.
+Yeah, that's great.
+Yeah, I'm fascinated about how we can use these new found technologies and skills to
+improve our lives definitely I think that is the one thing that I kind of decided to
+do is to look at it from a positive perspective there's a lot of negativity around it and
+I understand it but at the same time I'm like it's not going anywhere so we might as well
+find ways of using it effectively to improve us as a species maybe that's maybe a little
+bit going too far but maybe not maybe it's possible but at least like improving my day
+to day like is it any way it can make me a little bit more productive take care of some
+of the medium that I don't really enjoy doing so you know can I have something that's trained
+to help me do these things yeah I'm trying to see it from that perspective but then keeping
+ethics in mind and you know is this done like what is the potential downsides of this like
+keeping that in your mind but not being a complete cynic about all of this right there's
+a positive aspect to it positive aspect really to anything it's just a matter of like you
+know especially with AI like we can find ways to incorporate it without necessarily making
+people's lives worse I agree 100% yeah yeah for sure so with everything that you've experienced
+in your time in tech for people just getting into the industry whether that is young folks
+getting into it like because just straight out of school or out of university or whether
+it's people in different stages of their lives deciding to switch careers like do you have
+any like advice for these people like what what should they think about keep in mind
+when they're just getting into this set some expectations that's more same than some of
+the some of the expectations that are sometimes thrown out there when it comes to tech breaking
+the problem in smaller chunks like just in general it's really easy to be intimidated
+by wanting to learn how to program I have a couple people who have reached out even
+in my current company where they're like hey I really want to learn how to program I want
+to get to the point of developer and I'm like okay I'd be happy to help like if you have
+some sort of learning and you're trying to understand how something works or even learn
+how some of the things work more deeply in our company like I'd be happy to do that
+and like it seems like a lot of times people get intimidated by the daunting task that
+is learning programming because it seems like such a big mountain for a lot of people and
+really you only get up that mountain through several smaller steps right like you know
+even software building you know you break those problems down we've kind of mentioned
+that before it's the same thing with learning software like maybe you want to be a front
+end developer or something like that like you know there there are smaller components
+to what that is like maybe you want to learn the core you break that problem from front
+end developer and be like well no actually that means that I need to learn HTML I need
+to learn CSS I need to learn JavaScript I need to learn React I need to learn some sort
+of stack of like maybe the lamp stack or the the myrn stack or something like that like
+break that problem down and be like okay well now I need to learn like mongo like node.js
+react okay and then break that problem down and be like cool I want to learn the core
+concepts I want to get a project going for node.js like here's my kind of goal with this
+learning to be able to accomplish this and really breaking that problem down like either
+if you're trying to learn on your own or in academia it's really helpful and it will
+only help you in kind of the crazy projects that they kind of throw at you in academia
+as well I had a class I went to Northern Arizona University and one of the professors ran a
+course for operating systems where essentially we were building our own operating system
+simulator in C and that was really one of the points where I started really breaking
+down problems in the smaller chunks in a lot of ways because I had to because he would
+just be like hey I want you to implement all these different scheduling algorithms like
+shortest job first first first in first out like and it's like oh god I have two weeks
+to do this and like my last project didn't do so well so it's like I've got to make
+those changes I've got to improve those and then I've got to go and build the new stuff
+so it's once I start understanding like how to break those problems down that really helped
+me to be able to navigate challenges in the tech industry where instead of seeing it as
+this big project now I'm like okay these are the kind of smaller steps and then even
+smaller steps and then this is what I can do right now and this is kind of the process
+to go from point A to point B to point C however many other letters that it takes to get to
+the end goal so I would say that's my big advice break the problem into smaller chunks
+break the learning of tech and the kind of professional development in the smaller chunks
+and just take it in stride really because you may not think that you're really making
+a lot of progress but if you look back on yourself even a month after where you were
+today like chances are you've learned a lot more than you think you have you've probably
+implemented something that you didn't think that you were able to do and you look back
+and you're like wow it magnifies so much more in the context of years of experience
+to where like really you know the only way you're going to get through that is not by
+thinking about it from the perspective of like hey I want to get here in 10 years let's
+break this problem down because then at the very least those are actionable steps that
+your brain can actually process and be able to navigate successfully.
+Yeah that's great advice and yeah I totally agree I often break it down right down to
+what is the first variable I need to keep maybe keep some state okay cool so now how
+do I set this date how do I update this date so you kind of start to really from that little
+tiny variable that then builds out and out and out into solving the bigger solution so
+in closing you've shared like many of your interests but one other one that I know that
+you have is you're a tattoo enthusiast you know the second person in a week that I've
+spoken to that has the same interest and the one thing that I always enjoy about it is
+learning about the stories behind the tattoos because often they're super interesting so
+is there any particular tattoo that you have that has a story of special meaning to you
+behind it that you're wanting to share with the community?
+Oh yeah totally so I kind of have my whole arm here like my right arm kind of filled
+up with tattoos still need to finish it up like there's a couple of blank spaces and
+I'd like to get my tattoo artist to actually fill it in and make it feel like a completed
+like sleeve but there's one right here if you can see that one so for audio purposes
+I'll go and describe it so essentially it's kind of a dragon face kind of in like black
+and white lots of shading in it as well as some aspects of red in the eyes the dragon
+itself is from a game called Monster Hunter Monster Hunter World to be specifically or
+to be specific sorry the what's this is the final boss of their the expansion Iceborne
+in a lot of ways Monster Hunter really is like similar to the experiences I've had
+where you are taking things one hunt at a time and like you're like wow this game is
+really hard like I'm not sure if this is necessarily like great like sometimes it's not the easiest
+game to play especially depending on what kind of weapon you choose to play that game
+like whether it's a greatsword like a gunlance or something like that there's like 16 different
+weapons but this was actually my first tattoo and the reason why I got it was mainly it
+was something bold I wanted to have a piece on my body that was bold when people saw it
+then they were like whoa like it's an eye-catcher immediately people are like whoa that is so
+cool can I take a look at that it's a little bit vain but at the same time the other aspect
+of it it was really my first tattoo and I was kind of on the fence for a while about
+getting tattoos a lot of my upbringing was kind of like oh no well your body is a temple
+you know all this sort of Christian values associated with that and ultimately getting
+out and actually exploring the world myself and understanding the world and perceiving
+it myself that really opened my eyes to like well you know yeah my body is a temple I should
+take care of it but you know I it's my choice what I get to decorate it in my temple with
+you know like if I'm you know just to kind of put it in that temple perspective so really
+with that I like Monster Hunter is a game that I hold very near and dear to my heart
+and Sharashvalda itself it's kind of like this world-ending worm like this kind of and
+the way it's presented in the game is this kind of like almost omniscient like dragon
+that is just like constantly like there's a point once you start fighting in in like
+the third phase where its eyes open up and it's those same stark kind of red eyes except
+the eyes are not tracking your player in the game they are tracking you the camera perspective
+so regardless of where you're hitting and stuff that that camera you know it creates
+this element of like the Shara knows what's going on almost you know like knows what's
+what what this is what this is versus you know like just being in that game it kind
+of creates this kind of fourth wall break of this dragon that is so wise and intelligent
+that it can see beyond that perspective and and generally speaking that that kind of aspect
+of wisdom and and stuff like that is also a big component of why I chose that monster
+out of all the monsters because I could have chosen like the the cover art dragon or something
+like that you know I could have chosen any anything but really Sharashvalda really resonated
+with me yeah that's great I knew there was a story thank you so much this was a wonderful
+conversation so much you paint such beautiful pictures with your words really I really enjoyed
+listening to you talk I hope this was a good experience I know this was your first podcast
+it was definitely great for me so thank you so much for joining and I wish you all all
+of the success in your future yeah thank you I really appreciate the opportunity and really
+I if you can't tell I love talking with people I love hearing about your own experiences
+as well so you know I'm really glad to be on and yeah hopefully we talk soon yeah for
+sure have a lovely rest of your day and I'll speak to you soon thank you for listening
+to this episode of the my senior network podcast if you're not already please subscribe store
+and leave a review for us in your podcatcher of choice this helps others find us and helps
+us make a better podcast for you on this course you can also find and follow us on twitter
+at meet with my senior enjoy the community on discord all the links are available in
+the show notes

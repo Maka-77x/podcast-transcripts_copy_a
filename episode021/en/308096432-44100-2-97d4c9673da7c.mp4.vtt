@@ -1,0 +1,2585 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+
+00:06.640 --> 00:10.280
+and the mentors and teachers that help them along the way.
+
+00:10.280 --> 00:14.560
+Hey, Juan, welcome to the Mycelium Network Podcast.
+
+00:14.560 --> 00:19.440
+Hey, thank you for having me, I'm really excited to be here today.
+
+00:19.440 --> 00:20.440
+Yeah.
+
+00:20.440 --> 00:22.440
+Yeah, I'm looking forward to this conversation.
+
+00:22.440 --> 00:28.200
+So on another podcast I run called the Mechanical Ink Podcast, I had a really good conversation
+
+00:28.200 --> 00:33.800
+with Abby and Nathalie from GitHub about all things open source and all the cool stuff
+
+00:33.800 --> 00:36.760
+that GitHub's doing around that space.
+
+00:36.760 --> 00:41.120
+And the education thing came up during our conversation there and they were like, you
+
+00:41.120 --> 00:45.320
+should speak to Juan because he runs all this stuff and he's really enthusiastic about this
+
+00:45.320 --> 00:46.320
+space.
+
+00:46.320 --> 00:50.560
+I was like, that would be great and it would be a perfect fit for the Mycelium Network
+
+00:50.560 --> 00:54.920
+Podcast because of what I do as part of this community.
+
+00:54.920 --> 00:58.320
+And hey, it happened and here we are.
+
+00:58.320 --> 01:03.380
+So I kind of let the cat out of the bag that you are from GitHub.
+
+01:03.380 --> 01:08.440
+But without saying anything further, I'm going to give the floor to you and let you introduce
+
+01:08.440 --> 01:09.920
+yourself to everybody.
+
+01:09.920 --> 01:15.720
+Yeah, we're spoiling the news for our listeners.
+
+01:15.720 --> 01:20.240
+So my name is Juan Pablo Flores, I am a Senior Program Manager here at the GitHub Education
+
+01:20.240 --> 01:27.680
+Team, where my job is to help students across the world to, you know, get opportunities
+
+01:27.680 --> 01:33.240
+on open source, help them to build awesome communities in their campus through the GitHub
+
+01:33.240 --> 01:35.320
+Campus Experts Program.
+
+01:35.320 --> 01:41.360
+And I also kind of like, we do a little bit of everything, but as a whole, my job, my
+
+01:41.360 --> 01:46.600
+main role at GitHub is to support our students on the GitHub Campus Experts Program, which
+
+01:46.600 --> 01:54.400
+is our developer program where we teach students how to build or grow welcoming communities
+
+01:54.400 --> 01:59.680
+on their campus so that they can help others get prepared before they graduate.
+
+01:59.680 --> 02:02.380
+Yeah, that's awesome.
+
+02:02.380 --> 02:06.600
+It's definitely something I'm going to dig in a little bit more.
+
+02:06.600 --> 02:10.880
+On your Twitter, a website that's a little...
+
+02:10.880 --> 02:11.880
+Oh no.
+
+02:11.880 --> 02:15.480
+...hinted at the moment.
+
+02:15.480 --> 02:19.680
+I saw you shared a photo of your first two tattoos.
+
+02:19.680 --> 02:23.700
+I'm always curious about, like, I don't have any myself, but I always know that when people
+
+02:23.700 --> 02:27.080
+do get these, it's usually, there's usually a story behind it.
+
+02:27.080 --> 02:31.360
+So I don't know if you are open to sharing what's behind the story behind your first
+
+02:31.360 --> 02:32.360
+two.
+
+02:32.360 --> 02:37.120
+Yeah, no, it's a whole story because of course, I think the first tattoo is the one you think
+
+02:37.120 --> 02:38.840
+about the most.
+
+02:38.840 --> 02:42.600
+I'm already thinking about doing like two or three more in the future, right?
+
+02:42.600 --> 02:45.760
+But the first one is...
+
+02:45.760 --> 02:54.000
+So I'm a very big fan of cybernetics and anime and everything that has to do around that.
+
+02:54.000 --> 03:00.680
+And I saw these two very cool storyboards from Ghost in the Shell, the animated version.
+
+03:00.680 --> 03:06.440
+And when I saw them the first time, I was like, these drawings are just like absolutely
+
+03:06.440 --> 03:07.440
+amazing.
+
+03:07.440 --> 03:16.400
+They have really cool details about the head of the shell, let's call it, because that's
+
+03:16.400 --> 03:18.480
+how it's called the shell, right?
+
+03:18.480 --> 03:23.640
+Which is kind of like this robotic head with a lot of different tubes coming out of it.
+
+03:23.640 --> 03:29.400
+And then the next scene or the next storyboard is a brain and the brain has different details
+
+03:29.400 --> 03:34.720
+of parts of the brain and some statistics of the brain that look very cool and very
+
+03:34.720 --> 03:35.720
+futuristic.
+
+03:35.720 --> 03:41.000
+And I saw it like, I think a year and a half ago and I was like, I would love to have like
+
+03:41.000 --> 03:45.960
+the two of these two storyboards because also like something cool about storyboards is that
+
+03:45.960 --> 03:50.120
+it's kind of like this space where they're planning the scenes and they're planning the
+
+03:50.120 --> 03:52.640
+movie and what you're going to watch.
+
+03:52.640 --> 03:58.840
+So it has a little bit of that behind the scenes of a movie that I really like.
+
+03:58.840 --> 04:04.780
+So the two storyboards that I got tattooed, one of them is, it's one of the opening scenes
+
+04:04.780 --> 04:14.200
+is when they're kind of like turning their robots on and it's in a part of the movie
+
+04:14.200 --> 04:19.960
+very specific where they say like, so this is the shell and it's like the head of the
+
+04:19.960 --> 04:31.040
+robot and then they talk about the ghost inside the shell, which is the brain that you can
+
+04:31.040 --> 04:34.280
+see and both are very well put together.
+
+04:34.280 --> 04:38.200
+It was so hard to find a tattoo artist that was able to draw them because it's like a
+
+04:38.200 --> 04:40.240
+lot of really small lines.
+
+04:40.240 --> 04:43.480
+So you also need to be very careful in how you maintain it because if you get a ton of
+
+04:43.480 --> 04:50.280
+sun or you try to tan, these lines will diffuse into like each other.
+
+04:50.280 --> 04:54.400
+So you need to be very careful with that, but fun story.
+
+04:54.400 --> 05:05.280
+I got to know the MosFest team and we are building a space called Humans Behind the
+
+05:05.280 --> 05:10.520
+Machine, which turns out to be very related to Ghost in a Shell.
+
+05:10.520 --> 05:17.400
+So definitely I think there was some inspiration there from attending and just like supporting
+
+05:17.400 --> 05:18.400
+MosFest.
+
+05:18.400 --> 05:22.400
+Yeah, that's a great story.
+
+05:22.400 --> 05:32.040
+I've watched that movie a couple of times and it's intense.
+
+05:32.040 --> 05:36.640
+For me personally, I feel like I have to do it in little bits because it's one of those
+
+05:36.640 --> 05:41.800
+things like Lord of the Rings and The Hobbit and those things, every time you read it,
+
+05:41.800 --> 05:46.840
+every time you watch it, you pick up new details about it and you kind of start connecting
+
+05:46.840 --> 05:49.560
+to the true story behind all of it.
+
+05:49.560 --> 05:54.000
+So I really enjoy that, it's something I want to watch again in this new year.
+
+05:54.000 --> 05:57.120
+I kind of tend to watch it once a year.
+
+05:57.120 --> 06:01.160
+I saw it was really, really cool, but it is very detailed, the tattoo, that's for sure.
+
+06:01.160 --> 06:04.960
+It's amazing artwork and amazing artist who did that.
+
+06:04.960 --> 06:05.960
+So yeah.
+
+06:05.960 --> 06:06.960
+Yeah.
+
+06:06.960 --> 06:07.960
+It's like my precious now.
+
+06:07.960 --> 06:10.960
+I need to take care of it until it's hard to be destroyed.
+
+06:10.960 --> 06:11.960
+Because now I'm in Seattle, right?
+
+06:11.960 --> 06:12.960
+Because we don't get a lot of sunlight.
+
+06:12.960 --> 06:20.760
+But if I just reach anywhere, I'm just putting a ton of stuff to avoid it getting burned
+
+06:20.760 --> 06:22.720
+by the sun.
+
+06:22.720 --> 06:23.720
+That's interesting.
+
+06:23.720 --> 06:25.720
+I never knew that about tattoos.
+
+06:25.720 --> 06:26.720
+Interesting.
+
+06:26.720 --> 06:27.720
+Yeah.
+
+06:27.720 --> 06:33.200
+So as you said, you are program manager for the GitHub education.
+
+06:33.200 --> 06:39.880
+And I don't know if all of these topics that I'm going to mention falls under the umbrella.
+
+06:39.880 --> 06:44.040
+But some of the things that I know about that, to me, in my mind, fits under this umbrella
+
+06:44.040 --> 06:47.080
+is, like you said, the campus experts.
+
+06:47.080 --> 06:48.960
+That's the one thing that I'm aware of.
+
+06:48.960 --> 06:53.280
+And then other things like GitHub skills, which is something relatively new, where you
+
+06:53.280 --> 06:59.280
+can kind of create a course material using a combination of a repo and GitHub actions.
+
+06:59.280 --> 07:04.500
+And you kind of tie it all together to teach somebody some kind of skill and base that
+
+07:04.500 --> 07:07.680
+around some kind of cool automation using actions.
+
+07:07.680 --> 07:09.740
+And then there is GitHub classrooms.
+
+07:09.740 --> 07:12.320
+Something that I've looked at a couple of times.
+
+07:12.320 --> 07:18.120
+But I think I can't quite connect what exactly it all offers.
+
+07:18.120 --> 07:23.260
+So my question to you is, can you unpack some of these different things?
+
+07:23.260 --> 07:27.320
+What does fall under the umbrella that you care what is outside of it?
+
+07:27.320 --> 07:32.080
+And just what does all of these things offer both students, but then also educators?
+
+07:32.080 --> 07:33.080
+Yeah.
+
+07:33.080 --> 07:38.400
+No, there's a big, there's like different audience when we talk about education, right?
+
+07:38.400 --> 07:42.320
+Like we have the students, which are the ones that I work with the most.
+
+07:42.320 --> 07:50.920
+We have teachers who is kind of like, I would say the best or the most important influencers
+
+07:50.920 --> 07:56.720
+in the world, because they basically teach the technologies that the sports will be starting
+
+07:56.720 --> 07:59.920
+to use after they graduate, right?
+
+07:59.920 --> 08:06.020
+And what I wanted to make sure, our team does manage the managed GitHub classroom.
+
+08:06.020 --> 08:13.760
+So GitHub classroom, look at it as a way that a teacher can improve the way that they manage
+
+08:13.760 --> 08:14.760
+their classroom.
+
+08:14.760 --> 08:20.040
+So probably when you were a student, or in my case, I remember when I was a student,
+
+08:20.040 --> 08:29.280
+when I had to like work with code and do like projects, I would need to take a USB and probably
+
+08:29.280 --> 08:35.760
+put my code on a USB and do my stuff and then kind of like working with my team was like
+
+08:35.760 --> 08:39.080
+absolutely awful because no one knew GitHub at that time.
+
+08:39.080 --> 08:45.280
+I mean, I don't want to say that I'm old though, but it was not one of those things that you
+
+08:45.280 --> 08:51.920
+would learn in college to know how to work together, which I think is one of the most
+
+08:51.920 --> 08:57.920
+fundamental things that any developer needs to learn is how do we work together with code?
+
+08:57.920 --> 09:03.080
+It's very likely that as a developer, you will work in a team, if not with other people
+
+09:03.080 --> 09:06.800
+in the internet or in an office.
+
+09:06.800 --> 09:11.480
+So learning how to work together is one of those skills that I'm surprised it is not
+
+09:11.480 --> 09:18.880
+still kind of part of the curriculum, but that has a fundamental part on any student's
+
+09:18.880 --> 09:25.000
+role or future, especially because it's not only about doing code, but it's also about
+
+09:25.000 --> 09:30.680
+like communicating and it's also about like how do you avoid or divide work?
+
+09:30.680 --> 09:37.080
+So it's much more complex than just like doing a git commit, git push and git pull, right?
+
+09:37.080 --> 09:42.920
+So with GitHub Classroom, we try to lower the barrier of entry for both students and
+
+09:42.920 --> 09:48.800
+teachers so that a teacher, for example, if you're creating curricula, you can distribute
+
+09:48.800 --> 09:51.240
+that curricula through GitHub.
+
+09:51.240 --> 09:56.120
+So instead of sharing a link with a link with everyone and then students having to like
+
+09:56.120 --> 10:01.880
+work and then it becomes a little bit messy, everyone gets, everyone can click a link and
+
+10:01.880 --> 10:07.960
+they form like teams and they have like everything set up to start working on a GitHub repository.
+
+10:07.960 --> 10:13.040
+Now this helps the teacher because the teacher can see each of the individual repositories
+
+10:13.040 --> 10:20.360
+that students are working on and it also helps the student because they would have everything
+
+10:20.360 --> 10:21.360
+that they need.
+
+10:21.360 --> 10:27.440
+Like GitHub, while GitHub in specific and GitHub repositories, I like to think about
+
+10:27.440 --> 10:31.520
+it as not only as code, but as content as well.
+
+10:31.520 --> 10:38.080
+So especially when we talk about learning, GitHub repositories offer great pieces of
+
+10:38.080 --> 10:44.360
+content that people is not only pushing code, but they're also pushing documentation and
+
+10:44.360 --> 10:50.760
+they're pushing like all of these automations for folks to kind of like learn online and
+
+10:50.760 --> 10:52.760
+the same thing happens with GitHub Classroom.
+
+10:52.760 --> 10:56.880
+So GitHub Classroom not only offers teachers these control of like, hey, what's kind of
+
+10:56.880 --> 11:02.720
+like the current status of the project they can review, even like if you are one of those
+
+11:02.720 --> 11:06.960
+teachers that really wants to get into it, you can see, you know, who developed which
+
+11:06.960 --> 11:10.480
+part of the code base because you have Git involved.
+
+11:10.480 --> 11:16.640
+So you can even see if they really work together or if it was like someone that did everything.
+
+11:16.640 --> 11:24.800
+But also for teachers, there's this tool that I forgot the specific name, but they can set
+
+11:24.800 --> 11:31.400
+up a few GitHub actions and automations to review their submissions automatically so
+
+11:31.400 --> 11:37.840
+that once they have like, well, once all the tests pass, the student is able to merge it
+
+11:37.840 --> 11:42.320
+and they get like the scoring for the work that they did.
+
+11:42.320 --> 11:49.120
+So in essence, and then teachers can connect these to any of the tools or platforms that
+
+11:49.120 --> 11:54.520
+they're using to match their classroom or, you know, these massive tools where you have
+
+11:54.520 --> 11:58.680
+like the rooster of students and you match like the grades and everything.
+
+11:58.680 --> 12:05.480
+There's also some automations there so that teachers have to do less of the work of managing
+
+12:05.480 --> 12:10.680
+the technical side and they can focus more on teaching the classes that they have to.
+
+12:10.680 --> 12:15.240
+On the other side, GitHub skills, it's not based on the education team, but definitely
+
+12:15.240 --> 12:19.240
+I think is one of the coolest tools that we have because it's kind of like, in some sort
+
+12:19.240 --> 12:23.560
+of ways, it's kind of a companion for you to learn.
+
+12:23.560 --> 12:28.600
+In this case, or for the most part, how to use them, how to use Git and GitHub.
+
+12:28.600 --> 12:33.760
+And it's not only kind of like, here's like these massive like documentation about how
+
+12:33.760 --> 12:39.840
+to use Git and GitHub, but as you start doing very small steps, it starts to unlock the
+
+12:39.840 --> 12:41.520
+next step and more knowledge.
+
+12:41.520 --> 12:45.720
+So that, you know, one of the problems that we've learned is that pitching Git and GitHub
+
+12:45.720 --> 12:46.720
+is complex.
+
+12:46.720 --> 12:52.520
+Like it's not easy, especially when you are getting started in your career.
+
+12:52.520 --> 12:56.960
+People throw at you like not only how to use like Git commands, but how to use a command
+
+12:56.960 --> 13:02.120
+line and how to use a terminal and then it's how to use a new platform and everyone tries
+
+13:02.120 --> 13:05.160
+to merge everything in a very short amount of time.
+
+13:05.160 --> 13:10.280
+And with GitHub skills, you take a little bit of like more of like baby steps and help
+
+13:10.280 --> 13:15.880
+folks start to build that learning without overwhelming them with all the knowledge that
+
+13:15.880 --> 13:18.880
+they might need to use the platform at its fullest.
+
+13:18.880 --> 13:26.600
+And this is something I don't remember the name, but it's the reverse pyramid, the reverse
+
+13:26.600 --> 13:28.680
+concept pyramid, something like that.
+
+13:28.680 --> 13:32.640
+So it's just a lot of video games where they're teaching you how to use the game.
+
+13:32.640 --> 13:36.800
+They don't make you like fight a massive boss or anything, but first it's like this is how
+
+13:36.800 --> 13:40.920
+you walk and this is how to jump and this is how you hit the monster.
+
+13:40.920 --> 13:44.720
+And then they put you like a boss, right, but unless you're playing like Elden Ring
+
+13:44.720 --> 13:48.400
+or something where you suffer playing, right.
+
+13:48.400 --> 13:56.080
+The whole idea is to teach you step by step how to do the thing and then with GitHub skills
+
+13:56.080 --> 14:00.160
+kind of like evolving and showing you more steps that you can do and more stuff, the
+
+14:00.160 --> 14:06.520
+students avoid, well, the students and professional developers have a clear path on how they can
+
+14:06.520 --> 14:07.520
+master GitHub.
+
+14:07.520 --> 14:08.520
+Yeah.
+
+14:08.520 --> 14:09.520
+Yeah.
+
+14:09.520 --> 14:11.520
+Well, it's great.
+
+14:11.520 --> 14:18.120
+I've used GitHub skills to just as an experiment to just basically see how I would set up a
+
+14:18.120 --> 14:23.160
+basic like this is how you would do a pull request and like have a little GitHub skill
+
+14:23.160 --> 14:28.560
+that takes you through the steps of forking and then once you fork, you do this and that
+
+14:28.560 --> 14:32.440
+and that and then pull request and then it's merged and yeah, you pass to the GitHub skill.
+
+14:32.440 --> 14:33.720
+It's really, really useful.
+
+14:33.720 --> 14:37.760
+It takes a little bit of getting used to at the beginning, just getting an on-ramp and
+
+14:37.760 --> 14:41.880
+understanding how the actions fit together and how the end of the action triggers the
+
+14:41.880 --> 14:44.120
+next step and all that kind of stuff.
+
+14:44.120 --> 14:48.440
+But once you've done it once, like doing the second one is much easier and the third one
+
+14:48.440 --> 14:49.500
+is even easier.
+
+14:49.500 --> 14:54.320
+So it's one of those things where it's like your knowledge builds on top of each other
+
+14:54.320 --> 14:59.120
+and eventually, you'll just end up creating a whole bunch of little courses and it's great
+
+14:59.120 --> 15:02.040
+for a bunch of stuff because you can have automated tests.
+
+15:02.040 --> 15:07.160
+So if you did the JavaScript, for example, correctly, the test should all pass.
+
+15:07.160 --> 15:12.360
+If they don't, then while you've done something wrong, so you have to go have a look and you
+
+15:12.360 --> 15:19.160
+can try and be as clever as possible to try and detect certain common mistakes so that
+
+15:19.160 --> 15:23.200
+you can highlight it via comment on the pull request, like this is probably what you've
+
+15:23.200 --> 15:26.720
+done wrong because this specific test has failed.
+
+15:26.720 --> 15:32.320
+So yeah, I think there's a lot of potential there, but there is like a little bit of a
+
+15:32.320 --> 15:36.400
+learning curve, but I think it's fair.
+
+15:36.400 --> 15:40.440
+Because the value you get out of it, like the learning, the time you have to take to
+
+15:40.440 --> 15:43.560
+learn it is worth that time, I think.
+
+15:43.560 --> 15:46.640
+But you brought up something interesting that I was going to ask later, but I might as well
+
+15:46.640 --> 15:47.640
+bring it up now.
+
+15:47.640 --> 15:55.120
+So I was going to ask you if you have any advice for aspiring developers and young and
+
+15:55.120 --> 16:01.640
+old just starting out in their career, but then I wanted to bring in that part where
+
+16:01.640 --> 16:08.760
+like exactly like you said, being a maker, a coder, a developer, technical writer, whatever
+
+16:08.760 --> 16:13.760
+it is that you're doing in tech, writing code or writing the documentation is only one part
+
+16:13.760 --> 16:14.840
+of the job.
+
+16:14.840 --> 16:18.420
+A big part of the job is like working with others.
+
+16:18.420 --> 16:24.520
+And if you don't understand how to do that well, it can often turn a really great job
+
+16:24.520 --> 16:29.080
+into a drag because you're just struggling to work with people.
+
+16:29.080 --> 16:33.720
+So I don't know, seeing that you also agree that that is something that's missing from
+
+16:33.720 --> 16:38.680
+curricula and stuff like that, what advice do you have for people starting their career?
+
+16:38.680 --> 16:41.160
+Like what is the important things to think about?
+
+16:41.160 --> 16:49.200
+Yeah, no, especially with the last part, I have to say that I'm going to take my very
+
+16:49.200 --> 16:50.200
+personal space.
+
+16:50.200 --> 16:55.900
+I remember going to college and there was like this communication class that you need
+
+16:55.900 --> 16:56.900
+to take, right?
+
+16:56.900 --> 17:01.680
+And everyone saw that class as just like, oh, just like a class they put to fill up
+
+17:01.680 --> 17:02.880
+like the curricula, right?
+
+17:02.880 --> 17:06.360
+Or something that is not important because people, you know, as a developer, you only
+
+17:06.360 --> 17:07.940
+care about the technical side, right?
+
+17:07.940 --> 17:11.960
+Like you only want to code and be the perfect developer.
+
+17:11.960 --> 17:14.960
+And unfortunately, that sense, I don't know if it happens in other countries.
+
+17:14.960 --> 17:20.600
+I know it happens a lot in Mexico, especially in the university that I went to.
+
+17:20.600 --> 17:25.400
+But I agree that, you know, one of the biggest challenges that I found, and this is from
+
+17:25.400 --> 17:30.720
+my experience working with students from across the world, is that every culture has its
+
+17:30.720 --> 17:36.520
+very, you can see culture in the communication style of a person.
+
+17:36.520 --> 17:41.960
+And what I mean by that is there are some cultures that are very open to work in public
+
+17:41.960 --> 17:47.000
+and share if they are finding a bar or if they are struggling with something.
+
+17:47.000 --> 17:50.800
+There are some other cultures that prefer to do that privately because they don't want
+
+17:50.800 --> 17:55.800
+to expose themselves or they don't want to get the attention from other people.
+
+17:55.800 --> 17:59.000
+There are folks that like very direct communication.
+
+17:59.000 --> 18:04.880
+So they won't tell you like a very long, hello, how are you doing?
+
+18:04.880 --> 18:06.640
+I hope everything is doing great.
+
+18:06.640 --> 18:11.360
+There's like some other cultures that do that because they really value like building a
+
+18:11.360 --> 18:13.040
+connection as well.
+
+18:13.040 --> 18:19.320
+So communication, I would say, is by far one of the hardest things for any developer, especially
+
+18:19.320 --> 18:21.560
+if you work in open source.
+
+18:21.560 --> 18:24.840
+Communication is essential so that you don't build on top of someone's full request by
+
+18:24.840 --> 18:30.640
+mistake so that you don't take an issue that probably someone else already has taken or
+
+18:30.640 --> 18:36.120
+someone or, you know, just like there's so many parts that require communication in our
+
+18:36.120 --> 18:44.160
+everyday lives that I think it needs a little bit more.
+
+18:44.160 --> 18:50.280
+It should be taken a little bit more seriously, especially in a world where working with folks
+
+18:50.280 --> 18:54.200
+from the other side of the world, which is like you and I, we're talking during South
+
+18:54.200 --> 18:55.200
+Africa.
+
+18:55.200 --> 18:59.120
+I mean Seattle is almost like across the world.
+
+18:59.120 --> 19:05.840
+So cultures change a lot and understanding that there are different communication styles,
+
+19:05.840 --> 19:12.120
+I would say helps a lot of folks to get more confident of being able to propose things,
+
+19:12.120 --> 19:17.880
+but also to understand the behaviors that they see other people are doing.
+
+19:17.880 --> 19:23.240
+So definitely communication and understanding different cultures I'd say is one of the most
+
+19:23.240 --> 19:25.120
+important skills that you can develop.
+
+19:25.120 --> 19:30.560
+And I understand that for some folks, like working in a national or local company is
+
+19:30.560 --> 19:33.640
+more than enough and that's okay, but you never know.
+
+19:33.640 --> 19:37.120
+Like I would even like within a country, culture is so different.
+
+19:37.120 --> 19:45.200
+So I think it's still very important that, you know, we dedicate some time to think or
+
+19:45.200 --> 19:51.080
+learn how different communication styles work and that will effectively help us to have
+
+19:51.080 --> 20:00.120
+a better work spaces and healthier communication channels with both like the work that we do
+
+20:00.120 --> 20:05.800
+professionally, the work that we do personally, and in general like with the communities as
+
+20:05.800 --> 20:07.800
+well that we help.
+
+20:07.800 --> 20:10.800
+I completely forgot what was the other question though.
+
+20:10.800 --> 20:12.800
+I got too much into this.
+
+20:12.800 --> 20:14.800
+No, no, no, no, that's perfect.
+
+20:14.800 --> 20:15.800
+Yeah.
+
+20:15.800 --> 20:18.000
+No, it was just like any, I think you've covered all the bases there.
+
+20:18.000 --> 20:19.760
+I think it's good.
+
+20:19.760 --> 20:25.920
+I agree with what you've said there with that in mind and talking about communication.
+
+20:25.920 --> 20:29.280
+So as an educator, of course, that is key.
+
+20:29.280 --> 20:34.840
+Like if you can't communicate well, you're going to have a tough time teaching people
+
+20:34.840 --> 20:41.580
+because not only do you have to transfer knowledge, but you have to do it in a way where you can
+
+20:41.580 --> 20:48.160
+keep their attention and get their interest, make them excited about the stuff that you're
+
+20:48.160 --> 20:51.800
+learning because that's the only way that we retain knowledge is if we're actually enjoying
+
+20:51.800 --> 20:52.800
+what we're doing.
+
+20:52.800 --> 20:56.240
+So you have to think about how you communicate.
+
+20:56.240 --> 21:01.440
+So along those lines, there's so many ways to teach these days.
+
+21:01.440 --> 21:06.160
+Like we touched on GitHub classroom, for example, we touched on the automated side of it where
+
+21:06.160 --> 21:14.560
+it's you're kind of playing a game with, against or not against, with a machine learning thing
+
+21:14.560 --> 21:15.560
+like GitHub skills.
+
+21:15.560 --> 21:19.800
+You know, it's like you're there, the human doing your thing, and there's a machine telling
+
+21:19.800 --> 21:23.160
+you whether you succeeded or failed and stuff like that.
+
+21:23.160 --> 21:29.360
+And then there is another thing that's, I've kind of tried it and then stopped and now
+
+21:29.360 --> 21:34.880
+I'm kind of considering going back to it because of a talk I heard at Universe, GitHub Universe.
+
+21:34.880 --> 21:38.560
+And interestingly enough, when I was reading up about some of the stuff that you've been
+
+21:38.560 --> 21:42.920
+doing that you've done in your past, you were actually involved with a research paper around
+
+21:42.920 --> 21:48.200
+this idea of streaming on places like Twitch.
+
+21:48.200 --> 21:54.600
+And specifically around audience and streamer participation at the scale of Twitch.
+
+21:54.600 --> 21:58.960
+So thinking about that, and I've heard so many people say that, you know, Twitch can
+
+21:58.960 --> 22:02.560
+actually be a great place to teach.
+
+22:02.560 --> 22:03.560
+What do you think about that?
+
+22:03.560 --> 22:10.280
+And what advice and thoughts do you have around this whole idea of using a platform that most
+
+22:10.280 --> 22:14.160
+people won't even associate with this idea?
+
+22:14.160 --> 22:16.960
+But do you agree that this can be a successful platform?
+
+22:16.960 --> 22:21.800
+And if so, do you have any like kind of advice for people that are thinking about doing this?
+
+22:21.800 --> 22:22.960
+Yeah.
+
+22:22.960 --> 22:31.000
+So Twitch, that research, it was such a great time because it was like before the pandemic.
+
+22:31.000 --> 22:37.520
+And I got this awesome opportunity to work with a lab in West Virginia University and
+
+22:37.520 --> 22:44.040
+Carnegie Mellon to, they were doing something called audience participation games, which
+
+22:44.040 --> 22:50.320
+is basically, you know, when you have an audience like on Twitch, how can you involve your audience
+
+22:50.320 --> 22:54.520
+to be part of something that they're watching, like you're consuming content, but at the
+
+22:54.520 --> 23:00.200
+same time, you are building that content as well with the host.
+
+23:00.200 --> 23:05.640
+And this whole research came out of the Twitch Plays Pokemon stream, which happened like
+
+23:05.640 --> 23:12.600
+a few years ago, people had kind of like the control of the character on Pokemon.
+
+23:12.600 --> 23:18.920
+I don't remember which version, but basically, like anyone on the audience was able to send
+
+23:18.920 --> 23:23.760
+a message in chat and depending on the command that they sent, the character on the video
+
+23:23.760 --> 23:25.880
+game would do something.
+
+23:25.880 --> 23:33.800
+And it was a bomb of an event to have Twitch Plays Pokemon, like a huge community of developers
+
+23:33.800 --> 23:36.040
+came together.
+
+23:36.040 --> 23:40.360
+They normally would lose all of their items, so they would like release all the Pokemons
+
+23:40.360 --> 23:45.240
+and lose all the Master Balls and all the Pokeballs that they had.
+
+23:45.240 --> 23:49.240
+So it was hilarious to see it, but it was really interesting because you can analyze
+
+23:49.240 --> 23:57.440
+a lot of like human behavior with these games and, you know, I think there was like this
+
+23:57.440 --> 24:01.560
+item that you were not able to throw away in the game.
+
+24:01.560 --> 24:06.640
+And the audience took that as kind of like the relic, like the most important item, and
+
+24:06.640 --> 24:11.480
+they had like stories about the shell, it was a shell, about the shell and how the shell
+
+24:11.480 --> 24:15.440
+represents the game and represents what they were there for.
+
+24:15.440 --> 24:20.000
+And it was absolutely incredible how a community was built around that.
+
+24:20.000 --> 24:28.560
+I think for Twitch, Twitch has, it's very interesting because I really like Twitch as
+
+24:28.560 --> 24:31.240
+a medium of learning.
+
+24:31.240 --> 24:36.160
+I think one of the challenges that Twitch has to become a learning platform is that
+
+24:36.160 --> 24:41.600
+it's very, very immediate, which means if you lose a show, you lose the content.
+
+24:41.600 --> 24:46.480
+So probably you won't be able to watch a replay around Twitch.
+
+24:46.480 --> 24:51.040
+And that's what makes other platforms become so successful is that you can, probably if
+
+24:51.040 --> 24:56.920
+you miss it, that's okay, but then you can watch the replay or you can watch the recording
+
+24:56.920 --> 24:59.400
+afterwards and with Twitch that happens.
+
+24:59.400 --> 25:04.880
+But unfortunately, like a lot of those pieces of content gets lost because Twitch has like
+
+25:04.880 --> 25:10.160
+these 30 days bot time-lapse.
+
+25:10.160 --> 25:15.240
+Some accounts will have that like unlimited though, but the typical thing is like five
+
+25:15.240 --> 25:16.320
+to 30 days.
+
+25:16.320 --> 25:24.360
+So what we've learned through this research, my job was a lot more on how audiences work
+
+25:24.360 --> 25:26.720
+as you grow your channel.
+
+25:26.720 --> 25:34.600
+So we define like five different clusters of channels on Twitch, depending on how big
+
+25:34.600 --> 25:38.440
+they were and which work and like the relationships that we see.
+
+25:38.440 --> 25:43.160
+And it's very interesting because when you're a small channel, you can really create personal
+
+25:43.160 --> 25:45.760
+connections between the audience and the host.
+
+25:45.760 --> 25:50.840
+But then you have like these stadium, we call them stadium size channels where you have
+
+25:50.840 --> 25:56.280
+like 35,000 people watching, which is incredible to think about.
+
+25:56.280 --> 26:03.160
+But it becomes like a stadium where it stops being like Juan and I don't know, Fer or whoever
+
+26:03.160 --> 26:04.160
+it is.
+
+26:04.160 --> 26:05.520
+And it's just like, hey, Chad, how's it going?
+
+26:05.520 --> 26:07.320
+So it's like, oh, that's interesting.
+
+26:07.320 --> 26:11.400
+When do you become Chad and when are you like someone, right?
+
+26:11.400 --> 26:17.960
+So at the end, our thing was much more about how the audience and hosts relate and communicate
+
+26:17.960 --> 26:23.640
+during this kind of growth, depending on where your channel was sitting on.
+
+26:23.640 --> 26:27.720
+In terms of education, there's some really cool things that I've seen around.
+
+26:27.720 --> 26:33.480
+I've seen that folks are, first of all, they feel less pressured to join a live stream,
+
+26:33.480 --> 26:35.300
+especially if you have guests.
+
+26:35.300 --> 26:40.080
+So if you're a streamer and you're like, hey, do you want to jump in and chat?
+
+26:40.080 --> 26:43.960
+People are more likely to jump in and chat than if you tell them like, hey, I'm making
+
+26:43.960 --> 26:47.480
+this YouTube video about XYZ, do you want to jump in?
+
+26:47.480 --> 26:51.280
+They're like, oh, but I need to prepare because this is going to be recorded and this is going
+
+26:51.280 --> 26:52.280
+to be...
+
+26:52.280 --> 26:57.000
+So definitely there's a little bit more planning sometimes on YouTube.
+
+26:57.000 --> 27:02.520
+And for learning, I think Twitch still has a long way to go.
+
+27:02.520 --> 27:07.320
+I think it is a great platform for building great connections and building a community
+
+27:07.320 --> 27:10.120
+and bringing everyone together.
+
+27:10.120 --> 27:16.080
+A lot of folks are using these learning public type of streams where you probably are learning
+
+27:16.080 --> 27:19.240
+some new thing and you stream yourself doing so.
+
+27:19.240 --> 27:22.800
+It's really cool because then chat kind of helps you out as well if you're making a mistake,
+
+27:22.800 --> 27:25.680
+they will point that out in Twitch chat.
+
+27:25.680 --> 27:29.840
+But also it's a little bit, since it's not as formal as probably like the traditional
+
+27:29.840 --> 27:35.020
+education system, some folks feel more enticed to participate.
+
+27:35.020 --> 27:40.560
+So if something funny happens, people take that opportunity to kind of like jump into
+
+27:40.560 --> 27:43.240
+chat and engage.
+
+27:43.240 --> 27:50.760
+So I think it allows people to engage a little bit more and really build a community around
+
+27:50.760 --> 27:53.320
+learning these type of things.
+
+27:53.320 --> 27:57.200
+Now what I see a lot of the streamers are doing is that they do the live stream and
+
+27:57.200 --> 28:02.800
+then they take the recording, edit, and then publish that on other platforms so that they
+
+28:02.800 --> 28:04.680
+can have this content evergreen.
+
+28:04.680 --> 28:09.400
+And I think that's like the best move that you can do because then you feed from the
+
+28:09.400 --> 28:14.120
+other platform's audience back to Twitch and then you feed your Twitch audience back to
+
+28:14.120 --> 28:15.120
+these other platforms.
+
+28:15.120 --> 28:18.480
+So it's kind of like a very good cycle that I've seen has working really good, especially
+
+28:18.480 --> 28:22.000
+if you're interested in creating content.
+
+28:22.000 --> 28:26.360
+Doing that will really help you to grow your channel really fast.
+
+28:26.360 --> 28:29.320
+Yeah, that's good advice.
+
+28:29.320 --> 28:32.160
+Yeah, it's interesting.
+
+28:32.160 --> 28:35.080
+I'm definitely trying it again.
+
+28:35.080 --> 28:39.960
+But I think what you've said here is interesting is maybe I think maybe it's just you have
+
+28:39.960 --> 28:45.360
+to rethink based on the platform, what you do, how you do things.
+
+28:45.360 --> 28:52.240
+I like this idea where people think like because Twitch is a little ephemeral in a sense, it's
+
+28:52.240 --> 28:53.560
+more forgiving.
+
+28:53.560 --> 28:58.120
+And so people aren't so concerned about making a blunder on a live stream because they're
+
+28:58.120 --> 29:00.080
+like, ah, it's going to go away in a couple of days.
+
+29:00.080 --> 29:01.080
+It's fine.
+
+29:01.080 --> 29:06.640
+Whereas if it's something that's going to stay around forever, they might be like, I
+
+29:06.640 --> 29:13.240
+have to, like you said, be really well prepared for this so that I don't get called out because
+
+29:13.240 --> 29:17.960
+I said something that wasn't quite accurate or whatever the case may be.
+
+29:17.960 --> 29:24.640
+But then maybe it's a natural evolution of the education system.
+
+29:24.640 --> 29:27.800
+I think everybody acknowledges that it's not what it should be.
+
+29:27.800 --> 29:29.520
+It's not what it can be.
+
+29:29.520 --> 29:35.400
+And maybe this is one of those experiments that a lot of people are trying to see if
+
+29:35.400 --> 29:42.600
+maybe this is an evolution of education and this is what the folks of nowadays gravitate
+
+29:42.600 --> 29:43.600
+toward.
+
+29:43.600 --> 29:48.120
+This is how they'd like to learn by kind of observing and then joining in when they feel
+
+29:48.120 --> 29:50.960
+comfortable.
+
+29:50.960 --> 29:57.840
+As part of like a lot of the stuff that I do, especially with the MyCNM network, that's
+
+29:57.840 --> 30:04.360
+how I try and entice people to get involved is by not forcing them into the public or
+
+30:04.360 --> 30:09.760
+saying you have to do this thing, but kind of allowing them to participate on the sidelines
+
+30:09.760 --> 30:16.560
+for as long as they need and then starting to slowly maybe speak up about something and
+
+30:16.560 --> 30:19.800
+see that, oh, okay, wait, that wasn't that bad.
+
+30:19.800 --> 30:25.400
+And then they'll try it again and they'll maybe try it again.
+
+30:25.400 --> 30:28.680
+So I think another aspect... Go for it.
+
+30:28.680 --> 30:29.680
+Oh, sorry.
+
+30:29.680 --> 30:34.000
+I think there's a couple of really cool things that I've noticed.
+
+30:34.000 --> 30:40.800
+The first one is, for example, if you see Harvard CS50, it's one of these massive online
+
+30:40.800 --> 30:46.560
+courses on getting started with computer science.
+
+30:46.560 --> 30:47.560
+It has both components.
+
+30:47.560 --> 30:52.240
+It has a pre-recording component and then a live component to it as well.
+
+30:52.240 --> 30:53.240
+That worked really good.
+
+30:53.240 --> 30:59.400
+And it's opening Harvard classes to everyone in the world and you can watch them whenever
+
+30:59.400 --> 31:00.400
+fits your time best.
+
+31:00.400 --> 31:07.440
+You don't need to be there 9 a.m. and probably tired of everything that happened the day
+
+31:07.440 --> 31:12.160
+before or probably you didn't have a good sleep, you still need to be there.
+
+31:12.160 --> 31:17.620
+And that flexibility is welcomed by a lot of folks.
+
+31:17.620 --> 31:23.480
+So the first thing is, yes, there's a lot of new content and especially after the last
+
+31:23.480 --> 31:28.560
+couple of years, the amount of content that was produced is incredible.
+
+31:28.560 --> 31:31.880
+So anyone, you can learn a ton of stuff.
+
+31:31.880 --> 31:36.000
+I think the hardest thing now is navigating the content and finding the content that fits
+
+31:36.000 --> 31:41.360
+your style the most or that is quality content.
+
+31:41.360 --> 31:46.880
+The other side is that there was a lot of experimentation being done during these last
+
+31:46.880 --> 31:54.160
+two years and one of the things that I really liked of one of our student events, they organized
+
+31:54.160 --> 31:58.240
+a series of workshops on Minecraft.
+
+31:58.240 --> 32:03.960
+So they brought their entire community to Minecraft and everyone has their characters
+
+32:03.960 --> 32:08.440
+and it's fun because you're playing a video game but they're also learning and teaching
+
+32:08.440 --> 32:12.160
+and stuff and people really like that.
+
+32:12.160 --> 32:19.080
+And I'm the least creative person in the world but I think the fact that people have the
+
+32:19.080 --> 32:25.040
+opportunity to experiment with new mediums and new places and new spaces really helped
+
+32:25.040 --> 32:30.440
+out to find out different ways to do the things that we have always done the same way.
+
+32:30.440 --> 32:36.840
+Like you're now, if you want to become a software developer, software engineer, computer scientist,
+
+32:36.840 --> 32:44.120
+you're not now entirely locked into a classroom but there's so many different ways in which
+
+32:44.120 --> 32:50.540
+you can build your career and for example, open source is a great way to gather professional
+
+32:50.540 --> 32:58.200
+experience without the hustle of internships and finding a job.
+
+32:58.200 --> 33:04.840
+You can start learning some really good professional skills just by jumping into a repository
+
+33:04.840 --> 33:09.440
+and asking how can I help to make this repository better, right?
+
+33:09.440 --> 33:12.480
+And a lot of that is what we talk, it's not only the communication but also the technical
+
+33:12.480 --> 33:16.200
+side that you can learn through open source.
+
+33:16.200 --> 33:23.640
+Yeah, and to that point, so Stormy Peters who's also at GitHub now mentioned during
+
+33:23.640 --> 33:30.680
+a talk she gave at Universe that by 2030 it's estimated that we'll need around 1.6 million
+
+33:30.680 --> 33:33.480
+new developers joining the tech industry.
+
+33:33.480 --> 33:38.440
+That's a lot of new developers in what, it's seven years remaining.
+
+33:38.440 --> 33:41.920
+So I mean, GitHub is doing a lot of this stuff.
+
+33:41.920 --> 33:45.680
+So I'm going to jump between a couple of things here.
+
+33:45.680 --> 33:53.920
+So I think the first question I want to ask around that topic is what do you see as the
+
+33:53.920 --> 34:01.840
+role of community such as the MyCDM network in helping us get to that 1.6 million?
+
+34:01.840 --> 34:05.600
+But also something that I'm very interested in is twofold.
+
+34:05.600 --> 34:08.560
+One is using open source as the vehicle.
+
+34:08.560 --> 34:16.080
+And two, making diversity, equity and inclusion a natural part of these communities.
+
+34:16.080 --> 34:20.040
+It's not this thing that you like tack on at the end to try and like, oh yeah, we have
+
+34:20.040 --> 34:21.320
+to be diverse.
+
+34:21.320 --> 34:26.240
+It's kind of just naturally, it naturally just happens because of the way you communicate,
+
+34:26.240 --> 34:28.920
+maybe the platforms you choose.
+
+34:28.920 --> 34:32.840
+I'd just love to hear your thoughts on the whole big topic.
+
+34:32.840 --> 34:37.480
+Yeah, no, these are three big topics.
+
+34:37.480 --> 34:45.200
+I think, so for us, communities are fundamental at GitHub, especially with GitHub education.
+
+34:45.200 --> 34:53.040
+We do a lot of efforts with, for example, campus experts.
+
+34:53.040 --> 34:57.640
+It's not only, it's kind of like a very different type of program where you would normally see
+
+34:57.640 --> 35:07.080
+these master programs in the industry where it's like, oh yeah, teach X, Y, Z like technologies.
+
+35:07.080 --> 35:11.960
+I think with campus experts, what we're trying to do is to be a little bit more in-depth
+
+35:11.960 --> 35:16.440
+on the role of communities, especially with student communities.
+
+35:16.440 --> 35:22.520
+And a big part of that for us is making sure, first is making sure that the student has
+
+35:22.520 --> 35:28.440
+all the tools and resources that they need to be able to build a successful community.
+
+35:28.440 --> 35:33.640
+And it's not only, I think one of the biggest mistakes that I've seen is that a lot of folks
+
+35:33.640 --> 35:39.360
+open a community because it's the thing that other people are doing.
+
+35:39.360 --> 35:42.920
+And instead of that, we wanted to make sure that the students are part of the program,
+
+35:42.920 --> 35:50.640
+that they understand that a community is a tool that you can use to get X amount of people
+
+35:50.640 --> 35:54.520
+or a certain population to a specific goal.
+
+35:54.520 --> 35:59.920
+So instead of thinking of a community as the end goal of like, let's build that, I don't
+
+35:59.920 --> 36:07.200
+know, a water community, because we want everyone to know about water, it's like, is a community
+
+36:07.200 --> 36:09.440
+the right tool to make sure that that happens?
+
+36:09.440 --> 36:15.400
+Or is it just, do you just need like a conference about like water and not a community?
+
+36:15.400 --> 36:23.840
+And I think as developers, we try to use communities as the tool that solves every one of our problems.
+
+36:23.840 --> 36:28.400
+We want to make sure that people think a little bit more about their communities.
+
+36:28.400 --> 36:33.560
+So the first thing that we do is we teach students six different modules.
+
+36:33.560 --> 36:38.760
+So they could have core skills to organize or have a community.
+
+36:38.760 --> 36:43.740
+So we first take them through a community assessment.
+
+36:43.740 --> 36:47.400
+So basically like, what's your community looking like, what are some of the struggles, what's
+
+36:47.400 --> 36:49.280
+the mission of the community?
+
+36:49.280 --> 36:53.280
+Then we make them go through diversity and inclusion, which is module number two.
+
+36:53.280 --> 37:03.320
+And it's essentially thinking of what are some minorities in your city, in your location
+
+37:03.320 --> 37:08.800
+that might be feeling left behind or left outside of these events?
+
+37:08.800 --> 37:14.240
+And then once they analyze which are these communities, how can you make sure that they
+
+37:14.240 --> 37:17.080
+feel welcomed in your community?
+
+37:17.080 --> 37:23.000
+And how can you reach out to them or where can you find them so that you can do an intentional
+
+37:23.000 --> 37:27.480
+effort to invite them and be part of the events that you're doing?
+
+37:27.480 --> 37:35.240
+And I think these two are very core components of the program, because it's not only about,
+
+37:35.240 --> 37:39.320
+let's do diversity and inclusion because it's what, as you mentioned, it's the last thing
+
+37:39.320 --> 37:44.160
+that we will care about or it's what other people are doing, but rather it's like, who
+
+37:44.160 --> 37:50.160
+are some people in my university that probably don't feel welcomed to join these events?
+
+37:50.160 --> 37:52.840
+And that's very different in each country.
+
+37:52.840 --> 37:59.900
+Every city has a different set of groups that might not fit that they belong in tech.
+
+37:59.900 --> 38:05.200
+So it's not something that we as program managers can say, yeah, you need to focus
+
+38:05.200 --> 38:09.200
+on this population because they are a minority, but rather we leave that to the student and
+
+38:09.200 --> 38:15.520
+we guide them into really understanding who these populations might be so that they can
+
+38:15.520 --> 38:19.960
+then start planning how they can reach out to them, invite them, and make sure that they
+
+38:19.960 --> 38:28.120
+have a safe space for them to be, to attend or to be or to just join the event.
+
+38:28.120 --> 38:34.760
+Then we teach them about how to do workshops, how to do talks, we teach them how to talk
+
+38:34.760 --> 38:39.880
+about technical concepts in a much more easier way so that everyone can understand, and then
+
+38:39.880 --> 38:44.920
+at the end they do a community proposal, which is basically the culmination of everything
+
+38:44.920 --> 38:52.560
+that they have learned in the past five modules, and they make a proposal based on what they
+
+38:52.560 --> 38:57.120
+see the community struggles are, where they want the community to be, what are some diversity
+
+38:57.120 --> 39:02.760
+and inclusion barriers that they might find, and then they build this proposal of, okay,
+
+39:02.760 --> 39:10.320
+if I want to solve issue number one, I need to make a workshop about technology XYZ, or
+
+39:10.320 --> 39:17.800
+if I want more people, the most common thing that we see is that students want to bridge
+
+39:17.800 --> 39:23.360
+the gap between industry and academia, so it's like, okay, why don't you bring some
+
+39:23.360 --> 39:27.440
+people from the industry into your university to have conversations about things that they're
+
+39:27.440 --> 39:33.880
+looking for, and some people are like, I want people to be together and get to know each
+
+39:33.880 --> 39:38.520
+other because sometimes university can be a little bit isolating, so they organize get
+
+39:38.520 --> 39:45.200
+togethers or a hackathon or some fun project, so again, it's not much about using a community
+
+39:45.200 --> 39:50.000
+as the end goal, but rather as a tool to bring your community where you want it to be, and
+
+39:50.000 --> 39:55.160
+then events serve the same thing, we see all the time of, I want to organize the biggest
+
+39:55.160 --> 39:59.560
+hackathon in the world because we want to be the biggest one, and it's like, that's
+
+39:59.560 --> 40:05.320
+fun though, but if you can have a thousand people and if they have a terrible experience,
+
+40:05.320 --> 40:11.640
+they won't come back, why don't you focus on a smaller event where everyone has an absolutely
+
+40:11.640 --> 40:16.600
+crazy, great amount of time so that they come back in the future or they have something
+
+40:16.600 --> 40:23.840
+cool to take back with them after the event finishes, so it's a lot of making students
+
+40:23.840 --> 40:30.760
+rethink about all of these things that they have heard and making sure that they have
+
+40:30.760 --> 40:36.440
+this deep understanding on not only what they're doing, but also how can they take their communities
+
+40:36.440 --> 40:42.320
+where they want them to be, and going back to the question because I deviated a ton,
+
+40:42.320 --> 40:47.560
+the same thing happens with learning and communities, right, I know, there's, I think for every
+
+40:47.560 --> 40:52.400
+city that I've visited, there's someone that wants to get more people into open source,
+
+40:52.400 --> 40:57.960
+want to make sure that people have someone that they can reach out to, to learn or grow
+
+40:57.960 --> 41:04.080
+their skills, and I think communities can play a really good role there to, you know,
+
+41:04.080 --> 41:08.760
+like they understand the context, the local context, and they are going to be better like
+
+41:08.760 --> 41:15.840
+teaching new technologies or helping folks to learn about tech and computer science better
+
+41:15.840 --> 41:23.360
+than any company from the US will be able to, so communities are kind of like those folks
+
+41:23.360 --> 41:28.080
+that, you know, and this is why, for example, the Mozilla developer network is so important,
+
+41:28.080 --> 41:34.440
+like you publish the documentation and you publish these amazing like resources for folks,
+
+41:34.440 --> 41:39.200
+but they don't work if nobody kind of like teaches them locally or they take them and
+
+41:39.200 --> 41:43.040
+they make their own and then they modify it a little bit so that folks in their city are
+
+41:43.040 --> 41:47.520
+able to understand it better, so you create this kind of like neutral documentation and
+
+41:47.520 --> 41:51.760
+then people can, as kind of like content creators, right, like they take these things that they
+
+41:51.760 --> 41:56.560
+see and they make their own, they modify it, they put, and if you're in Mexico, you put
+
+41:56.560 --> 42:01.520
+a little bit of salsa to it and then you share that to your community, right, and that's
+
+42:01.520 --> 42:05.560
+kind of like the whole goal of communities, like these people understand the struggles
+
+42:05.560 --> 42:10.060
+and their community is better than we do and they can create content that is more fitting
+
+42:10.060 --> 42:16.720
+to the local context than what we would ever going to do, because if you go or I go to
+
+42:16.720 --> 42:20.920
+these communities, I'm probably going to teach the neutral documentation and they'll be
+
+42:20.920 --> 42:25.960
+like, okay, that was fun, but like I didn't get it, and it's better if someone that really,
+
+42:25.960 --> 42:30.440
+you know, like is building that community and that sense of belonging and that trust
+
+42:30.440 --> 42:37.480
+with the community as well, is they have better tools to give these new content to their communities
+
+42:37.480 --> 42:40.880
+better than we could ever do.
+
+42:40.880 --> 42:46.120
+Now in terms of, I don't know if that makes sense to you, I think.
+
+42:46.120 --> 42:50.760
+Yeah, yeah, totally, no, yeah, that's great, yeah.
+
+42:50.760 --> 42:55.240
+So I think language plays a big role there, right?
+
+42:55.240 --> 43:00.480
+I think you kind of touched on something, I think language plays a big role, like when
+
+43:00.480 --> 43:06.560
+you talk about local communities taking content and then making it their own.
+
+43:06.560 --> 43:11.120
+I think that one of the big things is just the language, like if it's only available
+
+43:11.120 --> 43:13.960
+in English, that in itself might be a barrier.
+
+43:13.960 --> 43:19.880
+I think at the beginning, you mentioned that like, get and get up and teaching that is
+
+43:19.880 --> 43:27.880
+get up less, but to some extent, but get more specifically is often not taught at the beginning.
+
+43:27.880 --> 43:35.120
+And so we've actually seen that in a group that you would think this is not a problem,
+
+43:35.120 --> 43:38.480
+it is been the one big stumbling block.
+
+43:38.480 --> 43:45.320
+Like for example, at the Write the Docs conference in Portland, just speaking with these technical
+
+43:45.320 --> 43:50.060
+writers that that's their job is writing technical content.
+
+43:50.060 --> 43:54.000
+When you ask them what is one of the biggest hurdles to contributing to an open source
+
+43:54.000 --> 44:01.360
+project, say for example, MDN Web Docs, they would say get, honestly, I'm not sure how
+
+44:01.360 --> 44:05.240
+to use get properly, I'm always scared I mess everything up.
+
+44:05.240 --> 44:11.120
+I'm not 100% sure how the whole branching and pull request thing works, and that is
+
+44:11.120 --> 44:13.280
+why I really don't.
+
+44:13.280 --> 44:21.760
+There are of course other factors as well, that's cultural and sometimes it's us maybe
+
+44:21.760 --> 44:26.160
+not yet creating as welcoming a space as we think we are.
+
+44:26.160 --> 44:31.760
+It's also, but far and away, one of the biggest things is just this core thing.
+
+44:31.760 --> 44:36.720
+And I think if you're in that community, you will understand that much better than somebody
+
+44:36.720 --> 44:38.480
+looking from the outside.
+
+44:38.480 --> 44:45.080
+Because as a coder or something, you might think like, get is just, it's not easy by
+
+44:45.080 --> 44:51.440
+no means, but the basic commands you need to be productive aren't that hard.
+
+44:51.440 --> 44:55.920
+But that is for you, who uses this every day.
+
+44:55.920 --> 45:00.480
+For somebody who that is not core to doing their job, it's a different story.
+
+45:00.480 --> 45:04.840
+And I think that plays into the spoken language as well.
+
+45:04.840 --> 45:05.840
+Yes.
+
+45:05.840 --> 45:15.440
+Language and I think, well, we can nerd about documentation and stuff for ages, but there's
+
+45:15.440 --> 45:23.680
+one thing that I met Rachel Lee neighbors, she is absolutely amazing.
+
+45:23.680 --> 45:27.320
+We were talking about this because we were going through the same struggle of like, we
+
+45:27.320 --> 45:33.840
+want to make sure our documentation is accessible to everyone, but it's so hard because of like
+
+45:33.840 --> 45:38.880
+maintaining one piece of documentation in English is hard and then you try to translate
+
+45:38.880 --> 45:44.360
+everything into multiple languages, it becomes absolutely unmanageable.
+
+45:44.360 --> 45:46.800
+So especially if you have a small team, right?
+
+45:46.800 --> 45:52.200
+If you have like a thousand person team, like congratulations and it's great to hear there's
+
+45:52.200 --> 45:57.520
+a lot of such teams, but what she mentioned, and I think this makes a ton of sense is that
+
+45:57.520 --> 46:02.040
+one of the best tips that she can do, first of all, yes, communities play a good, a massive
+
+46:02.040 --> 46:04.400
+role there.
+
+46:04.400 --> 46:12.880
+But the second thing is making sure that your documentation is easily translatable by machine,
+
+46:12.880 --> 46:24.160
+which means a lot of folks would click the Google Chrome or Firefox auto-translate tool
+
+46:24.160 --> 46:26.960
+to get the conditions on their own language.
+
+46:26.960 --> 46:32.240
+So making sure that that translation is a quality translation and making your documentation
+
+46:32.240 --> 46:39.480
+easily translatable by a machine plays a better role than redoing your whole documentation
+
+46:39.480 --> 46:42.400
+in a different language.
+
+46:42.400 --> 46:50.720
+So I mean, this is going to be a little bit of not me thinking of me product maintaining,
+
+46:50.720 --> 46:54.240
+like thinking of product and documentation as a product is like maintaining languages
+
+46:54.240 --> 47:00.040
+is so hard, so expensive, and it really requires a lot of resources.
+
+47:00.040 --> 47:04.880
+If you don't have the team to be able to do so, what you can do is to make sure that it
+
+47:04.880 --> 47:11.760
+is translatable by a machine and that it makes sense after the machine translates it.
+
+47:11.760 --> 47:19.600
+Do you think that is simply avoiding stuff like jargon, avoiding not spelling out acronyms
+
+47:19.600 --> 47:22.280
+before you actually start using them?
+
+47:22.280 --> 47:25.000
+Do you think those are the kinds of things that you would do?
+
+47:25.000 --> 47:26.000
+Yeah.
+
+47:26.000 --> 47:31.280
+No, Charlie, I think there's, I mean, I'm not an expert in documentation, unfortunately.
+
+47:31.280 --> 47:40.180
+I would love to, but there's very small, and I think this has been best practices on documentation
+
+47:40.180 --> 47:45.160
+writing for a long time that really helped out the algorithm to make the translation
+
+47:45.160 --> 47:46.160
+the best.
+
+47:46.160 --> 47:47.160
+Yeah.
+
+47:47.160 --> 47:48.160
+Yeah.
+
+47:48.160 --> 47:49.160
+Yeah, I know.
+
+47:49.160 --> 47:54.360
+I would love to get somebody on here to talk about just, I spoke with Chris Mills, who's
+
+47:54.360 --> 47:58.560
+been doing technical writing for a very long time, but it'd be interesting to talk to like
+
+47:58.560 --> 48:03.560
+maybe two or three technical writers on one of these episodes and just, because I think
+
+48:03.560 --> 48:08.120
+it's so critical to have good documentation, especially for open source projects.
+
+48:08.120 --> 48:13.220
+I think some of the most successful open source projects are successful because their documentation
+
+48:13.220 --> 48:14.720
+is so good.
+
+48:14.720 --> 48:21.560
+I know one of the reasons Vue.js got such a big fan base in China as opposed to React,
+
+48:21.560 --> 48:26.840
+which the rest of the world seems to have chosen as their framework of choice, is because
+
+48:26.840 --> 48:33.560
+the documentation for Vue is available in Chinese from the get-go because Evan Yeo is
+
+48:33.560 --> 48:38.640
+from China originally, and so it was important for him to ensure that that documentation
+
+48:38.640 --> 48:44.800
+is available in Chinese because he knows how important that is to people in China.
+
+48:44.800 --> 48:51.400
+So it's interesting, and I mean for myself as a developer and a maker, if I want to use
+
+48:51.400 --> 48:57.240
+your tool or your framework or your whatever, if your documentation is terrible, then that
+
+48:57.240 --> 49:02.480
+is definitely the first place where I'm going to probably see if there's another option
+
+49:02.480 --> 49:03.480
+available.
+
+49:03.480 --> 49:06.000
+That has good documentation.
+
+49:06.000 --> 49:10.240
+So I think it's something that's critical to understand well and then to understand
+
+49:10.240 --> 49:16.120
+how to write this, like you said, so it is machine translatable in an efficient manner,
+
+49:16.120 --> 49:19.680
+so it doesn't translate in a way that it no longer makes sense.
+
+49:19.680 --> 49:23.560
+Like you read it in Spanish and you're like, I'm not exactly sure that's what they were
+
+49:23.560 --> 49:27.960
+trying to say here, and you kind of have to switch back to the English version.
+
+49:27.960 --> 49:28.960
+That's really good.
+
+49:28.960 --> 49:29.960
+That's interesting.
+
+49:29.960 --> 49:31.280
+I haven't thought about it from that way.
+
+49:31.280 --> 49:32.280
+That's really interesting.
+
+49:32.280 --> 49:37.600
+And also, as an open source maintainer, making sure that your documentation is clean and
+
+49:37.600 --> 49:42.320
+understandable helps you onboard more folks into using your tools.
+
+49:42.320 --> 49:47.840
+So it also ends up benefiting you in terms of how many people are using the tools.
+
+49:47.840 --> 49:52.640
+If that's the goal of you, you're creating the project, right?
+
+49:52.640 --> 50:00.560
+So I think for a lot of the research that we've done with open source projects, thinking
+
+50:00.560 --> 50:07.800
+why is it sometimes hard for some folks to use open source every day is because onboarding
+
+50:07.800 --> 50:13.440
+to using these tools sometimes is a little bit hard for some folks that either they're
+
+50:13.440 --> 50:19.760
+changing their careers or they're just getting started and they hear about XYZ technology,
+
+50:19.760 --> 50:22.040
+but they don't understand the onboarding.
+
+50:22.040 --> 50:26.320
+Unfortunately, people leave really fast.
+
+50:26.320 --> 50:32.600
+And talking about open source and open source for learning, I think some of the research
+
+50:32.600 --> 50:39.680
+that we've done in the past is for us, I think internships are awesome, but unfortunately
+
+50:39.680 --> 50:43.320
+not everyone has access to an internship close to them.
+
+50:43.320 --> 50:51.760
+Internships are still very geo-located to the US, Canada, and Europe.
+
+50:51.760 --> 50:55.760
+There's some in India that are starting, which I think is amazing.
+
+50:55.760 --> 51:00.840
+But unfortunately, outside of these programs, it's really hard to get into an internship.
+
+51:00.840 --> 51:05.040
+Either you will need to apply to the company and then see if they will offer you a visa
+
+51:05.040 --> 51:10.560
+to be able to work during the internship, which that opens a whole different kind of
+
+51:10.560 --> 51:17.720
+worms, or you would need to find other ways in which you can gain experience.
+
+51:17.720 --> 51:19.280
+At the end, that's the whole goal, right?
+
+51:19.280 --> 51:25.160
+We want to make sure that folks get this experience of being out there and learning how things
+
+51:25.160 --> 51:29.880
+are done outside of the academia before they graduate, because it's really valuable for
+
+51:29.880 --> 51:31.560
+them and for the industry.
+
+51:31.560 --> 51:39.400
+At the end, something that we've learned is just by supporting student developers, we
+
+51:39.400 --> 51:42.560
+help the whole industry.
+
+51:42.560 --> 51:47.480
+We make sure that folks, before they graduate, they come with more experience and with better
+
+51:47.480 --> 51:54.560
+tools and better classes, the whole industry levels up as well.
+
+51:54.560 --> 51:58.000
+It's in the long term, it's not going to be immediate, but definitely it's worth making
+
+51:58.000 --> 52:03.320
+the investment to help the next generation to have everything that they need to be awesome.
+
+52:03.320 --> 52:11.800
+On the other side, I think open source is very democratic on the way that it works.
+
+52:11.800 --> 52:18.480
+As a student, you're able to go to any open source repository and see what are some of
+
+52:18.480 --> 52:22.360
+the issues that are open and explore the technology.
+
+52:22.360 --> 52:27.000
+What I really like about open source is that no one asks you for your resume to make a
+
+52:27.000 --> 52:28.000
+contribution.
+
+52:28.000 --> 52:32.480
+It would suck if you would have to be like, oh yeah, here's my experience on these type
+
+52:32.480 --> 52:33.480
+of projects.
+
+52:33.480 --> 52:39.200
+These are some contributions that I've made, and this is why my pull request should be
+
+52:39.200 --> 52:41.000
+the one that you accept.
+
+52:41.000 --> 52:43.760
+That would break open source at its core.
+
+52:43.760 --> 52:50.840
+Yeah, yeah, well said, well said.
+
+52:50.840 --> 52:55.120
+Open source offers a very democratic entrance for everyone to make these contributions and
+
+52:55.120 --> 53:01.680
+start gaining more experience with how code is built.
+
+53:01.680 --> 53:05.040
+I love the fact that it doesn't matter where you're coming from.
+
+53:05.040 --> 53:11.000
+We are trying to find ways in which we can help folks to contribute to these open source
+
+53:11.000 --> 53:12.000
+projects.
+
+53:12.000 --> 53:18.080
+A lot of that as well is some of the challenges is navigating open source, which is how can
+
+53:18.080 --> 53:24.040
+I find an issue that I can contribute to, which has been a challenge from eternity.
+
+53:24.040 --> 53:30.960
+Not only that, but also how do I make sure... A lot of folks, especially students that
+
+53:30.960 --> 53:36.120
+are making their first open source contribution, there's a lot of imposter syndrome involved.
+
+53:36.120 --> 53:44.040
+You have the code that probably the maintainer or the contributors are looking for, but the
+
+53:44.040 --> 53:50.120
+students really doubt themselves if this is some valuable piece of code.
+
+53:50.120 --> 53:54.280
+Another big problem that we've seen is imposter syndrome in the industry, which I think is
+
+53:54.280 --> 53:56.320
+kind of like a pandemic.
+
+53:56.320 --> 54:00.840
+Everyone has imposter syndrome at some point in their career, but once again, when we talk
+
+54:00.840 --> 54:07.840
+about cultures, exposing your work to the world and having an open source maintainer
+
+54:07.840 --> 54:13.040
+of a project that probably you're a big fan of review your code, that's challenging if
+
+54:13.040 --> 54:19.240
+it's the first time that you're making this contribution.
+
+54:19.240 --> 54:24.560
+There's a few challenges, but from what I've seen, more companies are putting attention
+
+54:24.560 --> 54:29.400
+into the activities that folks have on GitHub.
+
+54:29.400 --> 54:35.080
+So if you're making contributions to open source, that is something that will boost
+
+54:35.080 --> 54:41.440
+your resume once you're applying to formal jobs or traditional jobs.
+
+54:41.440 --> 54:47.360
+So a lot of folks in a lot of your careers are starting to use GitHub more to verify
+
+54:47.360 --> 54:48.360
+your experience.
+
+54:48.360 --> 54:54.280
+They check out if you have any projects there.
+
+54:54.280 --> 55:01.040
+Even that we've heard weird stories of even if your profile looks like professional-ish,
+
+55:01.040 --> 55:06.360
+which that's a very weird thing to say, but I kind of understand what they're meaning.
+
+55:06.360 --> 55:14.240
+It's like, oh yeah, you don't have a really good profile picture, but definitely the activity
+
+55:14.240 --> 55:21.040
+that you're doing in GitHub can essentially help you out to make your resume or your profile
+
+55:21.040 --> 55:24.920
+outstand from others as you apply for jobs afterwards.
+
+55:24.920 --> 55:30.720
+I've heard a ton of stories of people getting jobs out of GitHub.
+
+55:30.720 --> 55:38.660
+So people that become continuous contributors or recurring contributors to open source projects,
+
+55:38.660 --> 55:42.320
+they get visibility from other developers.
+
+55:42.320 --> 55:47.840
+I mean, if I can get someone that is contributing a lot to an open source project that I'm building
+
+55:47.840 --> 55:55.480
+my technology from, I would totally send them a message of, hey, are you looking for a job?
+
+55:55.480 --> 56:00.480
+I have full transparency of how you work, and I think this is extremely valuable.
+
+56:00.480 --> 56:05.520
+So, I really hope, and it's not a hope, I think it's something that we're naturally
+
+56:05.520 --> 56:11.000
+moving towards too, that first of all, open source offers a democratic way of getting
+
+56:11.000 --> 56:15.320
+professional experience in, I would say, its fullest component.
+
+56:15.320 --> 56:21.040
+Second of all, it can help you get a job, especially if you are getting started in tech
+
+56:21.040 --> 56:27.280
+or if you change your careers, making open source contributions and being active in a
+
+56:27.280 --> 56:31.760
+way that might bump your resume or your application to a job.
+
+56:31.760 --> 56:35.520
+And third, it's a great way to meet really cool people that are doing really cool stuff.
+
+56:35.520 --> 56:41.280
+And you never know, probably one of them can get you to your next job or your first job
+
+56:41.280 --> 56:42.280
+as well.
+
+56:42.280 --> 56:43.280
+Yeah, that's great.
+
+56:43.280 --> 56:44.280
+100% agree.
+
+56:44.280 --> 56:48.920
+Yeah, you've answered all my questions and then some.
+
+56:48.920 --> 56:49.920
+So that's great.
+
+56:49.920 --> 56:52.120
+I love that.
+
+56:52.120 --> 56:55.640
+So I have basically two questions left.
+
+56:55.640 --> 57:01.160
+And the one is, so we've talked a lot about students and all the opportunities there are
+
+57:01.160 --> 57:03.120
+and all the things that getups offer.
+
+57:03.120 --> 57:08.240
+But as you've worked with all these students and you've seen what works and what doesn't
+
+57:08.240 --> 57:14.960
+work and some new trends, maybe that's emerging or anything, is there anything specific advice
+
+57:14.960 --> 57:17.240
+you have for educators?
+
+57:17.240 --> 57:21.680
+Like are there some things that you've seen that, you know, if you incorporate this into
+
+57:21.680 --> 57:28.240
+how you teach, it really works well with students and these are things that's kind of like that
+
+57:28.240 --> 57:30.720
+doesn't kind of gel with students?
+
+57:30.720 --> 57:33.120
+Yeah, no, totally.
+
+57:33.120 --> 57:40.560
+I think educators in particular are, we put a lot of responsibility on their hands.
+
+57:40.560 --> 57:45.880
+Like they don't only have to create a lot of the curricula, they also need to, I would
+
+57:45.880 --> 57:47.640
+say it's kind of like a performance art, right?
+
+57:47.640 --> 57:50.600
+Like you need to engage people and keep them excited about what they're learning.
+
+57:50.600 --> 57:52.920
+But also you need to teach them.
+
+57:52.920 --> 57:58.040
+So it's like, it's not only kind of like watching a TV show on whatever platform, but it's also
+
+57:58.040 --> 58:03.000
+how do you make sure that people really kind of like understand what I'm talking about
+
+58:03.000 --> 58:07.960
+and they can take that into something useful afterwards.
+
+58:07.960 --> 58:13.040
+And they also need to review and give comments and feedback to all the work that students
+
+58:13.040 --> 58:14.040
+are doing.
+
+58:14.040 --> 58:20.920
+My thing with teachers is that sometimes, especially for some schools that, well, I
+
+58:20.920 --> 58:27.000
+think it's across multiple institutions, but teachers do a lot of work.
+
+58:27.000 --> 58:30.400
+The best piece of advice that I would give is that they're not alone.
+
+58:30.400 --> 58:36.960
+Like there's a ton of other teachers there that are looking forward to sharing what they
+
+58:36.960 --> 58:38.680
+have done.
+
+58:38.680 --> 58:44.000
+From the GitHub side, we have the GitHub campus advisors and we have a private GitHub discussion
+
+58:44.000 --> 58:45.000
+with all the teachers.
+
+58:45.000 --> 58:48.720
+And it has been really cool because they share some of their resources.
+
+58:48.720 --> 58:56.080
+So for example, if a teacher has done an intro to algorithms and data structures course on
+
+58:56.080 --> 59:00.280
+GitHub, they will share, sometimes they will share, depending on the college, because some
+
+59:00.280 --> 59:06.800
+colleges really kind of like protect their property, but some of them are very cool and
+
+59:06.800 --> 59:10.080
+they share their resources with other teachers.
+
+59:10.080 --> 59:13.060
+So if you're giving the same class, you already have the content.
+
+59:13.060 --> 59:20.920
+So you only need to worry about the performance part of your job.
+
+59:20.920 --> 59:26.120
+On the other side, I think there's very small things that you can do to make sure that people
+
+59:26.120 --> 59:28.760
+really engage with your classroom.
+
+59:28.760 --> 59:35.240
+In our case, I know it sounds like it's not a lot, but with GitHub, you're able to, if
+
+59:35.240 --> 59:37.840
+you reach out to GitHub, please do it for a teacher.
+
+59:37.840 --> 59:39.340
+We would love to help you.
+
+59:39.340 --> 59:42.840
+But we send like a swag back to teachers.
+
+59:42.840 --> 59:49.960
+With Mona stickers and with Octocad stickers, Mona is our mascot for folks who probably
+
+59:49.960 --> 59:50.960
+haven't heard that before.
+
+59:50.960 --> 59:55.840
+We send them like cheat sheets and a lot of other resources that they can use while they're
+
+59:55.840 --> 59:58.480
+teaching.
+
+59:58.480 --> 01:00:03.200
+And it turns out that the impact of these small resources, like the cheat sheet is by
+
+01:00:03.200 --> 01:00:08.320
+far one of the most used tool because you have like all the Git commands that probably
+
+01:00:08.320 --> 01:00:11.000
+you will be using in one single piece of paper.
+
+01:00:11.000 --> 01:00:17.280
+It's kind of like these very small things when we support students that do a ton of
+
+01:00:17.280 --> 01:00:23.760
+impact on their experience managing classrooms.
+
+01:00:23.760 --> 01:00:24.760
+So reach out to us.
+
+01:00:24.760 --> 01:00:25.760
+We would love to help.
+
+01:00:25.760 --> 01:00:27.480
+And I think the most important is that you're not alone.
+
+01:00:27.480 --> 01:00:32.880
+There's a lot of other teachers that are in the same journey as you are.
+
+01:00:32.880 --> 01:00:37.240
+If you're just getting started, I would recommend reaching out and talking with teachers that
+
+01:00:37.240 --> 01:00:40.480
+have more experience learning from them.
+
+01:00:40.480 --> 01:00:47.720
+And I think there's some really great resources there for teachers to take.
+
+01:00:47.720 --> 01:00:50.400
+I think as a whole, you have a very important job.
+
+01:00:50.400 --> 01:00:54.560
+You're preparing the next generation and we want to make sure that you have all the tools
+
+01:00:54.560 --> 01:01:01.560
+that you need to do that the best way possible.
+
+01:01:01.560 --> 01:01:07.880
+Stories from campus advisors, we've heard some really beautiful stories.
+
+01:01:07.880 --> 01:01:08.880
+We have help.
+
+01:01:08.880 --> 01:01:14.200
+I'm talking about Mexico a lot because I'm from Mexico, so I have a really good communication
+
+01:01:14.200 --> 01:01:15.200
+with them.
+
+01:01:15.200 --> 01:01:23.200
+But we sent a swag pack to a teacher in an indigenous school in Guerrero, which indigenous
+
+01:01:23.200 --> 01:01:28.720
+schools unfortunately are very under-resourced in the country.
+
+01:01:28.720 --> 01:01:34.160
+And for them, the fact that they got the stickers and the chichits was life-changing for the
+
+01:01:34.160 --> 01:01:35.360
+students.
+
+01:01:35.360 --> 01:01:38.280
+They were very excited about the classroom afterwards.
+
+01:01:38.280 --> 01:01:43.880
+They were really engaged with the teacher and the teacher has a huge round of applause
+
+01:01:43.880 --> 01:01:49.960
+to that teacher because he is teaching a technology that is in another language to folks that
+
+01:01:49.960 --> 01:01:54.240
+speak in one of the multiple indigenous languages in the country.
+
+01:01:54.240 --> 01:01:59.760
+And they're building some absolutely amazing things and they send us a photo every quarter
+
+01:01:59.760 --> 01:02:04.520
+of a project that they build and you can always see the students with their GitHub stickers
+
+01:02:04.520 --> 01:02:07.440
+and feeling very proud of that.
+
+01:02:07.440 --> 01:02:11.640
+And I think that's like a super heartwarming story.
+
+01:02:11.640 --> 01:02:16.320
+But yeah, it's like the small things count a lot, I think, with teachers and there's
+
+01:02:16.320 --> 01:02:20.640
+been a lot of movement in the last two years of how we teach and this is like the right
+
+01:02:20.640 --> 01:02:26.600
+time for us or what we've noticed as well is that this is the right time to reconnect
+
+01:02:26.600 --> 01:02:32.440
+with the students, especially if you have the ability to have them there in person.
+
+01:02:32.440 --> 01:02:37.640
+It's a great time to reconnect and really build these trust relations with students.
+
+01:02:37.640 --> 01:02:41.400
+Being a teacher is much more than just like teaching.
+
+01:02:41.400 --> 01:02:47.720
+You're like a psychologist, a therapist, you are everything, content creator.
+
+01:02:47.720 --> 01:02:52.760
+So I don't know, I'm just like very astonished with everything that they do.
+
+01:02:52.760 --> 01:02:55.080
+Yeah, that's beautiful.
+
+01:02:55.080 --> 01:02:58.480
+Well this was awesome and there's so many good things shared here.
+
+01:02:58.480 --> 01:03:04.520
+I only have one closing question for you and that is, what is the best piece of advice
+
+01:03:04.520 --> 01:03:08.960
+that you've ever received?
+
+01:03:08.960 --> 01:03:16.880
+I think the best piece of advice that I've received is, it's a great question.
+
+01:03:16.880 --> 01:03:24.960
+I think, so I'm going to give some context because I was building, before I joined GitHub,
+
+01:03:24.960 --> 01:03:30.640
+I was building like a hack fund in Mexico and it was so hard because it was when hack
+
+01:03:30.640 --> 01:03:33.280
+funds were not like a thing.
+
+01:03:33.280 --> 01:03:39.920
+So when we went to like sponsors, our companies to sponsor us, they were like, oh, but what's
+
+01:03:39.920 --> 01:03:40.920
+a hack fund?
+
+01:03:40.920 --> 01:03:43.920
+Are you going to hack the bank?
+
+01:03:43.920 --> 01:03:45.920
+We laugh at that right now, right?
+
+01:03:45.920 --> 01:03:50.480
+But at that time it was like, okay, I expect that they don't know what this is all about
+
+01:03:50.480 --> 01:03:51.680
+and it was so hard.
+
+01:03:51.680 --> 01:03:56.760
+It was so hard to raise funds to do the work that we wanted to do.
+
+01:03:56.760 --> 01:04:05.080
+And a friend of mine told me that if it was easy, anybody would be able to make it.
+
+01:04:05.080 --> 01:04:10.920
+And it's like, you know, when you're going through some hardship on your job or your
+
+01:04:10.920 --> 01:04:15.320
+work or something, it's like, you know, if you're one of the few that has the ability
+
+01:04:15.320 --> 01:04:19.720
+to do it, it's because like it's not easy, like it's going to be challenging sometimes
+
+01:04:19.720 --> 01:04:22.360
+to do the work that we do.
+
+01:04:22.360 --> 01:04:25.400
+And I think that for me was like, yeah, that makes sense.
+
+01:04:25.400 --> 01:04:30.720
+Like it's, we're the first ones doing that, we're doing that at the time.
+
+01:04:30.720 --> 01:04:35.280
+People have tried in the past, but didn't work out successfully and I was like, okay,
+
+01:04:35.280 --> 01:04:36.280
+that do make sense.
+
+01:04:36.280 --> 01:04:41.320
+So yeah, I think that's my best piece of advice.
+
+01:04:41.320 --> 01:04:44.200
+Yeah, that's great advice.
+
+01:04:44.200 --> 01:04:46.320
+And that's for sure.
+
+01:04:46.320 --> 01:04:47.320
+You can see it everywhere.
+
+01:04:47.320 --> 01:04:52.840
+Nobody wants to be the first because it's hard to be the first to do something.
+
+01:04:52.840 --> 01:04:56.440
+Even if it's just a variation on what somebody else has already done, it's always hard to
+
+01:04:56.440 --> 01:04:57.440
+be the first one.
+
+01:04:57.440 --> 01:05:04.000
+You see it in these online conferences, like the chat is really quiet until the first person
+
+01:05:04.000 --> 01:05:06.720
+posts the, hey, welcome everybody.
+
+01:05:06.720 --> 01:05:09.460
+Suddenly it starts rolling.
+
+01:05:09.460 --> 01:05:13.560
+So it's like that thing, like everybody finds it hard to be the first.
+
+01:05:13.560 --> 01:05:19.720
+So if you're the first to do X in your community or in your country, then know it's going to
+
+01:05:19.720 --> 01:05:22.880
+be hard, but it's probably going to be worth it at the same time.
+
+01:05:22.880 --> 01:05:28.160
+So I think it's great advice and yeah, people should definitely take that to heart.
+
+01:05:28.160 --> 01:05:29.160
+Thanks so much, Juan.
+
+01:05:29.160 --> 01:05:31.160
+This was a wonderful conversation.
+
+01:05:31.160 --> 01:05:36.560
+I'm so glad this happened and I'm so excited to share this with the community.
+
+01:05:36.560 --> 01:05:39.560
+Have a wonderful rest of your day and speak to you soon.
+
+01:05:39.560 --> 01:05:40.560
+Talk to you all soon.
+
+01:05:40.560 --> 01:05:41.560
+Have a good one.
+
+01:05:41.560 --> 01:05:46.560
+Thank you for listening to this episode of the My Senior Network Podcast.
+
+01:05:46.560 --> 01:05:52.120
+If you're not already, please subscribe, star, and leave a review for us in your podcatcher
+
+01:05:52.120 --> 01:05:53.640
+of choice.
+
+01:05:53.640 --> 01:05:59.440
+This helps others find us and helps us make a better podcast for you on this course.
+
+01:05:59.440 --> 01:06:04.440
+You can also find and follow us on Twitter at NetworkMySenior and join the community
+
+01:06:04.440 --> 01:06:05.440
+on Discord.
+
+01:06:05.440 --> 01:06:11.880
+All the links are available in the show notes.
+

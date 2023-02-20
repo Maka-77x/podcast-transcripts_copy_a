@@ -1,0 +1,1688 @@
+WEBVTT
+
+00:00.000 --> 00:06.640
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+
+00:06.640 --> 00:09.760
+and the mentors and teachers that help them along the way.
+
+00:09.760 --> 00:14.960
+Hey Ryan, welcome to the Mycelium Network Podcast.
+
+00:14.960 --> 00:16.460
+It's a pleasure to be here.
+
+00:16.460 --> 00:18.160
+It's a pleasure to join you, Skulk.
+
+00:18.160 --> 00:19.680
+Yeah, pleasure's all mine.
+
+00:19.680 --> 00:22.040
+We haven't talked in way too long.
+
+00:22.040 --> 00:23.840
+I know, way too long.
+
+00:23.840 --> 00:24.840
+Yeah.
+
+00:24.840 --> 00:31.720
+I know you from Mozilla, and for a long time we worked together on the MDN WebDocs project.
+
+00:31.720 --> 00:38.520
+And then you had a short period of time where you explored some other avenues, which we'll
+
+00:38.520 --> 00:40.560
+talk about a bit later.
+
+00:40.560 --> 00:47.120
+And then you came back to the Fall and joined the Mozilla family again.
+
+00:47.120 --> 00:53.160
+So but I think since you rejoined, both of us have been heads down on a bunch of things
+
+00:53.160 --> 00:55.760
+and never really got a chance to connect again.
+
+00:55.760 --> 01:02.640
+So I thought, what better way to reconnect than record a bloody podcast?
+
+01:02.640 --> 01:08.480
+So I invited you and I was so happy when you said you are into it.
+
+01:08.480 --> 01:10.400
+So I'm looking forward to this.
+
+01:10.400 --> 01:11.400
+Me too.
+
+01:11.400 --> 01:13.880
+It's an honor, Skulk.
+
+01:13.880 --> 01:19.560
+So to get us started, I've sat in many meetings where we've introduced ourselves, where we
+
+01:19.560 --> 01:22.840
+were both in the room, where we've introduced ourselves to other people, where we've shared
+
+01:22.840 --> 01:26.560
+some of our life's journey to people.
+
+01:26.560 --> 01:30.800
+And so therefore, I know you have a really interesting story to tell.
+
+01:30.800 --> 01:36.840
+So I'm going to keep quiet and start wherever you feel like.
+
+01:36.840 --> 01:44.320
+And just tell us, who is Rian Johnson, where you come from, and how did you get to today?
+
+01:44.320 --> 01:47.520
+Yeah, that's a great question.
+
+01:47.520 --> 01:56.360
+It's especially fun talking to you about it, because I know of your background in music
+
+01:56.360 --> 01:58.360
+and really accomplished in music.
+
+01:58.360 --> 02:05.840
+And I always thought that was just so cool that you've got that artistic, cultural background,
+
+02:05.840 --> 02:11.160
+and then you bring that to technology, because I can relate to that somewhat.
+
+02:11.160 --> 02:12.160
+Yeah.
+
+02:12.160 --> 02:23.720
+When I started off in technology, I always tell people that the reason I got into technology
+
+02:23.720 --> 02:33.600
+was because I was very interested in humanities, writing, and art, and all that stuff.
+
+02:33.600 --> 02:39.000
+But I think technology attracted me initially when I was young.
+
+02:39.000 --> 02:44.800
+And a teenager was just because of the chance to make good money.
+
+02:44.800 --> 02:47.120
+I came from a poor family.
+
+02:47.120 --> 02:50.360
+And so that was one aspect.
+
+02:50.360 --> 02:56.720
+But also, I think in a sense, that's kind of an external thing, really.
+
+02:56.720 --> 03:05.000
+But from an internal point of view, I thought it was a chance to create some things.
+
+03:05.000 --> 03:13.200
+I guess I was always attracted to engineering from the creative aspect of it.
+
+03:13.200 --> 03:21.640
+And then also, I remember being really attracted to computers, really, from the point of view
+
+03:21.640 --> 03:22.640
+of...
+
+03:22.640 --> 03:29.400
+I had heard about artificial intelligence way back then, and that intrigued me.
+
+03:29.400 --> 03:33.480
+How is it that computers think what?
+
+03:33.480 --> 03:34.480
+What is that?
+
+03:34.480 --> 03:35.480
+What does that mean?
+
+03:35.480 --> 03:37.960
+And I was always intrigued by that.
+
+03:37.960 --> 03:39.640
+And I wanted to get to the bottom of it.
+
+03:39.640 --> 03:42.920
+So there was a philosophical aspect to it as well.
+
+03:42.920 --> 03:51.680
+And I think that's probably maybe the biggest core of who I am is maybe I'm more attracted
+
+03:51.680 --> 03:54.440
+to philosophy and psychology and things like that.
+
+03:54.440 --> 04:01.800
+But technology was my way to make a living and get myself...
+
+04:01.800 --> 04:07.520
+We weren't in poverty, but we just didn't have money as a family.
+
+04:07.520 --> 04:18.680
+So I went into electrical engineering, and specifically what I kind of focused on...
+
+04:18.680 --> 04:25.160
+I was never really into voltage and current and all that kind of stuff.
+
+04:25.160 --> 04:29.000
+But what I was really interested in was computers.
+
+04:29.000 --> 04:38.440
+And again, because of this angle of what is a computer and what makes it tick?
+
+04:38.440 --> 04:47.360
+And so I focused on computer hardware, but we did computer hardware and software in college.
+
+04:47.360 --> 04:50.720
+And I thought I was really fascinated by it.
+
+04:50.720 --> 04:57.120
+And I enjoyed especially the digital systems point of view.
+
+04:57.120 --> 05:03.920
+And I remember in my sophomore year of college, the light bulb came on and how hardware works.
+
+05:03.920 --> 05:07.000
+And that was kind of cool.
+
+05:07.000 --> 05:13.360
+So the college was electrical engineering, really a focus on computer hardware and software,
+
+05:13.360 --> 05:14.600
+mostly computer hardware.
+
+05:14.600 --> 05:19.740
+And I got out of college and I just wanted to do computer hardware.
+
+05:19.740 --> 05:26.180
+And I started working for a company called Zycad, they were a little startup in Minnesota.
+
+05:26.180 --> 05:29.800
+And I don't know if you remember, there was a big computer company in Minnesota called
+
+05:29.800 --> 05:33.920
+Control Data, and they made these large mainframes.
+
+05:33.920 --> 05:38.840
+And a few of the engineers from Control Data had started this company called Zycad.
+
+05:38.840 --> 05:46.600
+And they were making this basically this supercomputer.
+
+05:46.600 --> 05:49.360
+And I thought it was really kind of a cool...
+
+05:49.360 --> 05:54.360
+It was very small at the time, and I joined when it was very small.
+
+05:54.360 --> 06:01.480
+And so anyway, so that was fun.
+
+06:01.480 --> 06:02.720
+It was interesting.
+
+06:02.720 --> 06:07.920
+And I learned a lot about hardware systems and designing hardware systems.
+
+06:07.920 --> 06:15.160
+But I also kind of began to realize that the only people that really get to do the creative
+
+06:15.160 --> 06:21.760
+work in hardware systems are just kind of at the top of the pyramid.
+
+06:21.760 --> 06:25.000
+And that started my transition, basically.
+
+06:25.000 --> 06:26.640
+Then I did that for a while.
+
+06:26.640 --> 06:35.480
+And then I think another, I guess, source of discontent was I was feeling like I spent
+
+06:35.480 --> 06:43.180
+so much time studying tech, and I didn't really get to explore the humanities side of my personality.
+
+06:43.180 --> 06:49.520
+So I said, I'm gonna start working in what we call within the hardware realm, we call
+
+06:49.520 --> 06:52.840
+the applications engineering, which is you kind of work with the customers more.
+
+06:52.840 --> 06:56.260
+It's very technical, but you work more with people.
+
+06:56.260 --> 06:57.960
+So I did that for a while.
+
+06:57.960 --> 07:03.320
+And then eventually I just thought, I don't know if I'm kind of sick of tech.
+
+07:03.320 --> 07:07.760
+And so I started studying...
+
+07:07.760 --> 07:15.840
+This will be crazy, but I started studying jazz guitar at the time and just thinking,
+
+07:15.840 --> 07:21.560
+I'm just gonna quit my job and study jazz guitar and just figure out what to do next
+
+07:21.560 --> 07:23.200
+after that.
+
+07:23.200 --> 07:27.360
+And so I did, I quit my job.
+
+07:27.360 --> 07:35.360
+And then, crazy enough, it's a long story, so I won't go into it, but I landed at this
+
+07:35.360 --> 07:42.960
+Benedictine monastery out in the West Coast just as a guest.
+
+07:42.960 --> 07:46.960
+They had this kind of thing where you could just go there as a guest and live there and
+
+07:46.960 --> 07:49.920
+work there for a year.
+
+07:49.920 --> 07:56.640
+So I did that, and that was really, that was just fun, it was a great time to just kind
+
+07:56.640 --> 07:57.640
+of...
+
+07:57.640 --> 08:05.600
+I just became basically a farm hand, I milk cows and just read books and thought and stuff
+
+08:05.600 --> 08:06.600
+like that.
+
+08:06.600 --> 08:07.600
+So it was really great.
+
+08:07.600 --> 08:12.600
+That's fascinating.
+
+08:12.600 --> 08:18.760
+But then, after a year of that, I was like, I wanna get back to life.
+
+08:18.760 --> 08:21.320
+And so I thought, I'm gonna go into psychology.
+
+08:21.320 --> 08:27.800
+So then I went and got my master's degree in counseling psychology.
+
+08:27.800 --> 08:33.080
+And I just kind of had thought, I'm done with tech.
+
+08:33.080 --> 08:37.240
+And it felt good, actually.
+
+08:37.240 --> 08:42.000
+It felt more who I was.
+
+08:42.000 --> 08:50.080
+And I remember I finished my master's degree, and working as a psychologist, as a therapist,
+
+08:50.080 --> 08:51.880
+it's kind of hard to make a living.
+
+08:51.880 --> 08:56.240
+So I was faced with like, well, how do I get a job?
+
+08:56.240 --> 08:59.320
+How do I make money?
+
+08:59.320 --> 09:07.160
+And some friends who were living in San Diego had started this little software company called
+
+09:07.160 --> 09:15.680
+Cabinet Solutions, basically software for people who design cabinets, kitchen cabinets.
+
+09:15.680 --> 09:21.960
+And they were just tiny, barely making a living, living near the beach in Carlsbad and San
+
+09:21.960 --> 09:22.960
+Diego.
+
+09:22.960 --> 09:30.880
+And they're like, hey, come on out to California and work with us while you figure out what
+
+09:30.880 --> 09:32.360
+you wanna do.
+
+09:32.360 --> 09:36.680
+So I did, I just went out there.
+
+09:36.680 --> 09:39.880
+And it was kind of a shock at first, actually, because I'd given up on...
+
+09:39.880 --> 09:44.560
+I hadn't followed tech or done anything in tech.
+
+09:44.560 --> 09:50.280
+So I started programming in C, C++.
+
+09:50.280 --> 09:51.840
+And it was really rough at the first.
+
+09:51.840 --> 09:56.480
+And I remember just like, I started working with them, and then I thought, oh, I can't
+
+09:56.480 --> 09:57.480
+do this.
+
+09:57.480 --> 10:00.240
+But they talked me into it, you know.
+
+10:00.240 --> 10:01.240
+So I kept going.
+
+10:01.240 --> 10:09.560
+And sort of fast forwarding more is that I kind of just got pulled into software, which
+
+10:09.560 --> 10:18.200
+I liked, because I thought software is like this space where everyone can be more creative.
+
+10:18.200 --> 10:24.320
+And I think especially in the world that we're in, that you know even better than I do, Skulk,
+
+10:24.320 --> 10:33.400
+is the open source world we're in, where everybody's creating these really high quality packages
+
+10:33.400 --> 10:34.400
+of software.
+
+10:34.400 --> 10:41.240
+And for me, I know the Python world the best, but also the JavaScript world, of course.
+
+10:41.240 --> 10:51.960
+But it's pretty amazing, the industry really depends on these really high quality open
+
+10:51.960 --> 10:52.960
+source packages.
+
+10:52.960 --> 10:55.680
+Yeah, the world runs on open source.
+
+10:55.680 --> 10:58.280
+Yeah, it's amazing, isn't it?
+
+10:58.280 --> 11:00.120
+So it's like, I thought that was really cool.
+
+11:00.120 --> 11:04.040
+And I still think that's really amazing, you know, that I feel like the software space
+
+11:04.040 --> 11:08.520
+is so much more creative, you know.
+
+11:08.520 --> 11:13.840
+And I was slow to realize that, you know, having been initially attracted to the hardware
+
+11:13.840 --> 11:16.480
+side.
+
+11:16.480 --> 11:26.120
+But yeah, my journey from there was, I think my first, I was working for a company called
+
+11:26.120 --> 11:32.040
+Boston Scientific, but when I joined, they were called Guidant, they were in Minnesota,
+
+11:32.040 --> 11:37.400
+and they were a medical device, you know, pacemaker, defibrillator manufacturer.
+
+11:37.400 --> 11:43.440
+And that was really a cool place to work too, because, you know, it's just this new realm
+
+11:43.440 --> 11:50.840
+of medical related and hardware, software.
+
+11:50.840 --> 11:57.880
+And I was doing kind of software related stuff that was, I mean, I was working with software
+
+11:57.880 --> 12:03.840
+that was kind of related to the hardware, the quality of the hardware.
+
+12:03.840 --> 12:08.600
+And it was there that I really discovered Python through a friend.
+
+12:08.600 --> 12:14.600
+And again, I was starting to kind of get tired of technology, and, you know, I think that's
+
+12:14.600 --> 12:19.000
+one of the main themes of my tech path is just Python.
+
+12:19.000 --> 12:20.960
+I just fell in love with it.
+
+12:20.960 --> 12:23.840
+I just love the language.
+
+12:23.840 --> 12:25.160
+I love the ecosystem.
+
+12:25.160 --> 12:31.360
+I remember Django was just coming out, you know, the web framework.
+
+12:31.360 --> 12:38.120
+And you know, I remember taking a class in Django way back then, you know, it was like,
+
+12:38.120 --> 12:44.320
+one of the very earliest Django versions.
+
+12:44.320 --> 12:45.520
+And that just got me hooked.
+
+12:45.520 --> 12:51.880
+And I just, you know, I remember just telling my wife, like, I'm done, I'm only going to
+
+12:51.880 --> 12:56.600
+take jobs that are related to Python from now on.
+
+12:56.600 --> 13:01.240
+And so then I got this job at Seagate, again, kind of related.
+
+13:01.240 --> 13:12.120
+They were trying to make non-volatile memory, but much denser in a research project.
+
+13:12.120 --> 13:16.560
+And I came on as sort of, you know, working with Python to help them with their testing
+
+13:16.560 --> 13:18.160
+and things like that.
+
+13:18.160 --> 13:20.000
+So I did that for a while.
+
+13:20.000 --> 13:23.640
+They Seagate eventually closed that.
+
+13:23.640 --> 13:33.280
+And then the real big break for me was I saw an opening at Lucasfilm in the Bay Area.
+
+13:33.280 --> 13:38.480
+And I said, oh, man, that's, you know, that would just be a dream job.
+
+13:38.480 --> 13:43.320
+And it seemed so perfect, too, because they were really a heavy Python shop.
+
+13:43.320 --> 13:51.280
+So I applied and was, you know, pleasantly surprised that I got, you know, an interview.
+
+13:51.280 --> 13:55.520
+I still remember just all the details of flying out there.
+
+13:55.520 --> 14:02.640
+The Lucasfilm, they have several campuses, but the main campus was right in the Presidio.
+
+14:02.640 --> 14:05.160
+It's freaking gorgeous.
+
+14:05.160 --> 14:06.660
+It's amazing.
+
+14:06.660 --> 14:10.860
+And I remember flying out there and, you know, it was just fabulous.
+
+14:10.860 --> 14:13.200
+And I hit it off with a team.
+
+14:13.200 --> 14:16.800
+So anyway, I got the job and went out there.
+
+14:16.800 --> 14:25.800
+And that really shaped me, I think, more than anything other than Mozilla, you know, just
+
+14:25.800 --> 14:31.400
+because the team there was fantastic.
+
+14:31.400 --> 14:36.800
+And my manager there, Lori Giannino, who's still there, a lot of this team, the team
+
+14:36.800 --> 14:39.640
+that I worked with, a lot of that team is still there.
+
+14:39.640 --> 14:40.640
+They were just fabulous.
+
+14:40.640 --> 14:44.640
+Lori is just probably, you know, one of the best managers, well, definitely one of the
+
+14:44.640 --> 14:46.520
+best managers I've ever worked with.
+
+14:46.520 --> 14:54.800
+Jeff O'Dell was a manager there, just great people, great technology, you know, fun space
+
+14:54.800 --> 15:01.600
+because we basically built Python software to help manage, you know, movie, the movie
+
+15:01.600 --> 15:04.800
+production process.
+
+15:04.800 --> 15:09.120
+And so I worked all my time there, I worked with Industrial Light and Magic.
+
+15:09.120 --> 15:14.160
+So I got to meet some, you know, fascinating people, you know, that are kind of semi-famous
+
+15:14.160 --> 15:20.280
+in the movie industry, you know, visual effects supervisors.
+
+15:20.280 --> 15:21.920
+And it was really, it was fabulous.
+
+15:21.920 --> 15:27.960
+And the team was, it was like one of those cases where I just felt like I fell into,
+
+15:27.960 --> 15:37.360
+you know, we actually fell into something that was, you know, really great, great team,
+
+15:37.360 --> 15:43.520
+great people, great organization, you know, fascinating work.
+
+15:43.520 --> 15:47.680
+But of course, the downside, it was, the plus side and the downside is it was in the Bay
+
+15:47.680 --> 15:53.880
+Area because the plus side is I love the Bay Area, I love the weather, the location, the
+
+15:53.880 --> 15:54.880
+city.
+
+15:54.880 --> 16:04.160
+The downside is it's so, you know, expensive that it's so hard to kind of plant roots there.
+
+16:04.160 --> 16:10.640
+But anyway, you know, and then from there, you know, basically have to leave Lucasfilm
+
+16:10.640 --> 16:18.640
+just for the reasons of trying to, you know, buy a house.
+
+16:18.640 --> 16:22.160
+So I took a, I left Lucasfilm and went to work, one of my friends at Lucasfilm went
+
+16:22.160 --> 16:25.760
+to work for a biotech company called Twist Bioscience.
+
+16:25.760 --> 16:31.920
+They're building synthetic DNA for biotech research.
+
+16:31.920 --> 16:41.640
+So I went to work for them for about six months, and I would love to get into some of that
+
+16:41.640 --> 16:46.480
+because that's another theme I wanted to talk to you about, Skulk.
+
+16:46.480 --> 16:54.160
+Anyway, I left Twist Bioscience and went, came to Portland, Oregon, and eventually landed
+
+16:54.160 --> 16:55.160
+at Mozilla.
+
+16:55.160 --> 17:02.280
+And to me, the two great places I've been at are Lucasfilm, Mozilla, and like you said,
+
+17:02.280 --> 17:06.680
+I, you know, I had my early stand at Mozilla where you and I worked together on MDN Web
+
+17:06.680 --> 17:13.920
+Docs and then went off and worked for about six months at a quantum computing place called
+
+17:13.920 --> 17:17.760
+PsiQuantum, which is fascinating.
+
+17:17.760 --> 17:20.640
+And then now I'm back at Mozilla and I'm so grateful to be back because Mozilla is such
+
+17:20.640 --> 17:27.840
+a special place, you know, as you and I know, there's a lot of special people here that
+
+17:27.840 --> 17:35.080
+really care about, you know, the web and ethics and, you know, what's good for humanity in
+
+17:35.080 --> 17:36.080
+terms of technology.
+
+17:36.080 --> 17:43.320
+So anyway, I jumped all over the place, but I think another thing I wanted to touch on
+
+17:43.320 --> 17:48.200
+with you was, I think one of the themes throughout my whole career that's kind of driven what
+
+17:48.200 --> 17:59.320
+I do is just trying to find, I guess, a context in which to work in technology that feels
+
+17:59.320 --> 18:05.920
+humane, you know, like where the ends are humane and the way we work together as a team
+
+18:05.920 --> 18:08.680
+is humane.
+
+18:08.680 --> 18:12.600
+And that's been such a, you know, I'd love to talk to you about that because I feel like
+
+18:12.600 --> 18:17.160
+it's, that's one of the biggest challenges, I think, you know, like I think one of the
+
+18:17.160 --> 18:24.480
+questions you had, that you had, you know, kind of laid out that we could talk about
+
+18:24.480 --> 18:26.960
+was just like, what are the challenges in tech?
+
+18:26.960 --> 18:34.000
+And I feel like that's, that's to me, one of the biggest, you know, apart from the larger
+
+18:34.000 --> 18:44.480
+challenges of, you know, all the ethical dilemmas of, you know, big tech and social media and
+
+18:44.480 --> 18:52.600
+AI and all, you know, kind of the bubbles, you know, the kind of the worldview bubbles
+
+18:52.600 --> 18:57.280
+that you get into in social media and that kind of stuff, which everybody has been well
+
+18:57.280 --> 19:02.600
+documented and everybody, you know, hopefully knows about that, because those are huge,
+
+19:02.600 --> 19:07.720
+you know, I think world destabilizing kind of issues.
+
+19:07.720 --> 19:14.400
+But apart from that, I feel like one of the biggest challenges is just, I think, you know,
+
+19:14.400 --> 19:21.280
+I don't think in technology, we found a way to work together, you know, like, yeah, we're
+
+19:21.280 --> 19:26.480
+building technology, but it's a social endeavor, you know, you have to get a team together.
+
+19:26.480 --> 19:32.040
+Technology is so complex that you have to build teams and teams are groups of people.
+
+19:32.040 --> 19:43.120
+And I feel like we don't yet in tech have a good feeling for, you know, or I don't know,
+
+19:43.120 --> 19:47.840
+how would you say the scope, but I feel like we don't have a good appreciation for that,
+
+19:47.840 --> 19:48.840
+how important that is.
+
+19:48.840 --> 19:55.680
+And I think that's one of the things I love so much about Lucasfilm and my manager, Laurie
+
+19:55.680 --> 20:00.280
+Janino and Jeff, my managers there, Laurie Janino and Jeff Waddell, is that I feel like
+
+20:00.280 --> 20:06.040
+they were just very people centered, you know, like Laurie just felt like I'm going to build
+
+20:06.040 --> 20:11.680
+the team, the team is the most important thing, and the technology will come out of it, you
+
+20:11.680 --> 20:14.680
+know, and the technology will follow.
+
+20:14.680 --> 20:17.520
+And it's so rare.
+
+20:17.520 --> 20:24.560
+And I think that's something I've always been thinking about and chasing, you know.
+
+20:24.560 --> 20:27.880
+Yeah, I know for sure.
+
+20:27.880 --> 20:35.800
+I think one of the things that might have been contributing to this is, I don't know
+
+20:35.800 --> 20:40.280
+when exactly it started, but at some point, I think it might have been in the initial
+
+20:40.280 --> 20:45.720
+dot com bubble and burst, and then it followed on from there.
+
+20:45.720 --> 20:49.960
+It's this idea that you don't spend more than two years at a company.
+
+20:49.960 --> 20:53.600
+Like if you're longer at a company for two years, people start questioning like, what
+
+20:53.600 --> 20:55.280
+the heck, why are you still here?
+
+20:55.280 --> 21:02.040
+And I think because of that, you can never really build a culture because just as the
+
+21:02.040 --> 21:08.040
+culture starts forming, a bunch of people leave and new people enter.
+
+21:08.040 --> 21:09.360
+Totally agree.
+
+21:09.360 --> 21:17.680
+I think it's good to have movement, but I think there's too much turn.
+
+21:17.680 --> 21:21.280
+And so I think people get into it for the wrong reasons.
+
+21:21.280 --> 21:27.280
+But I think that is why places like Lucas Formezilla, and hopefully what I can create
+
+21:27.280 --> 21:33.920
+with the company I'm building, is somewhere where there's variety and where you're encouraged
+
+21:33.920 --> 21:39.640
+to come up with ideas, explore them, fail, and it's okay.
+
+21:39.640 --> 21:45.520
+I think in a lot of companies, while they say failure is good and the more you fail,
+
+21:45.520 --> 21:50.000
+the more you learn, oftentimes you'll find that it's not really true.
+
+21:50.000 --> 21:56.160
+If you do try something that doesn't work, it's rare that they're going to celebrate
+
+21:56.160 --> 21:59.560
+that failure.
+
+21:59.560 --> 22:04.320
+There's going to be a heck of a lot of questions that's going to follow that failure.
+
+22:04.320 --> 22:09.820
+And if you can't justify it, you're more often than not going to be out of a job.
+
+22:09.820 --> 22:20.560
+So I think that that's the problem is like companies are just, and I think a lot of people
+
+22:20.560 --> 22:22.240
+just do it for the money.
+
+22:22.240 --> 22:24.200
+And I think that's also incorrect.
+
+22:24.200 --> 22:30.400
+And I think it's got a lot to do with marketing around tech, where there's a narrative being
+
+22:30.400 --> 22:38.400
+spun that it's a way to get rich, you know, get a job in tech and just one, two, three
+
+22:38.400 --> 22:42.560
+years and you're going to be a millionaire and you can like quit and go sail a boat for
+
+22:42.560 --> 22:44.000
+the rest of your life.
+
+22:44.000 --> 22:49.400
+And sure, that happens to some folks, but those are not the rule.
+
+22:49.400 --> 22:52.600
+Those are the outliers by a big thing.
+
+22:52.600 --> 22:58.200
+And I think people keep chasing that and that's why they keep leaving and leaving and leaving
+
+22:58.200 --> 23:02.680
+because they're chasing something that, and I don't think that you should do it for that.
+
+23:02.680 --> 23:09.500
+I think we should, like you said, have humane ends and the means should be humane.
+
+23:09.500 --> 23:14.280
+So that we're building culture, we're building a group of people that believe in the product
+
+23:14.280 --> 23:17.120
+that we're building or the products that we're building.
+
+23:17.120 --> 23:25.840
+And I think open source maybe has more of this than working at a specific company.
+
+23:25.840 --> 23:29.320
+Some you're lucky to experience that, like Mozilla.
+
+23:29.320 --> 23:34.640
+Maybe that's why Mozilla has this theme, because it's largely open source.
+
+23:34.640 --> 23:43.900
+Because there's this dude, Ron Lanier, that is now, I believe, still at Microsoft Research.
+
+23:43.900 --> 23:50.520
+And he made the point that one of the most successful social networks is GitHub.
+
+23:50.520 --> 23:53.360
+They've somehow got it right.
+
+23:53.360 --> 24:01.120
+And he's thought around it is it's because there's a sense of ownership and there's
+
+24:01.120 --> 24:07.200
+this sense of co-creation and there's a creativity there.
+
+24:07.200 --> 24:12.520
+So while on social media you send a tweet and it's ephemeral, it just goes into the
+
+24:12.520 --> 24:18.520
+void and maybe nobody sees it, here you're creating something together that is having
+
+24:18.520 --> 24:19.520
+direct impact.
+
+24:19.520 --> 24:24.040
+Like MDN, for example, we're all building it with this big community of contributors.
+
+24:24.040 --> 24:28.960
+And it has a good feeling about it because we've heard so many times how people have
+
+24:28.960 --> 24:32.640
+told us how it's had an impact on their life.
+
+24:32.640 --> 24:36.720
+Like I was able to contribute and through that I got a job or I was able to learn because
+
+24:36.720 --> 24:41.160
+MDN is for free and now I was able to lift myself out of poverty.
+
+24:41.160 --> 24:45.440
+So when I think when you hear things like that and you work together as a group for
+
+24:45.440 --> 24:53.560
+long enough, it starts building a relationship with everybody.
+
+24:53.560 --> 24:56.680
+And then it's really hard to leave.
+
+24:56.680 --> 25:03.920
+I think everybody that's left the team in the last year or two, it was not easy.
+
+25:03.920 --> 25:12.480
+Beautifully said Skulk, you should be the subject of this podcast Skulk, I loved everything
+
+25:12.480 --> 25:13.480
+you said.
+
+25:13.480 --> 25:18.240
+It was beautifully said and you're absolutely right.
+
+25:18.240 --> 25:28.160
+I think you touched on one of the key things, it's just nobody stays any place long enough.
+
+25:28.160 --> 25:35.320
+And the two exceptions in my career have been Lucasfilm and Mozilla, where Lucasfilm, that
+
+25:35.320 --> 25:40.720
+same group like Lori is very protective of her group.
+
+25:40.720 --> 25:49.640
+And they've been together for 10, 15 years now and largely the same group is still there.
+
+25:49.640 --> 25:55.080
+And they really, like you said Skulk, it's all like you want to work in a community where
+
+25:55.080 --> 26:02.800
+you feel accepted and everybody wants to be accepted in the community and create something
+
+26:02.800 --> 26:06.480
+together.
+
+26:06.480 --> 26:14.760
+So yeah, I loved everything you said, I could just sit back and listen to you go on because
+
+26:14.760 --> 26:19.840
+I think that's so important and I think that's missing.
+
+26:19.840 --> 26:28.640
+I feel like that's, you said it so well, I feel like some open source projects have better
+
+26:28.640 --> 26:32.120
+communities than any companies do.
+
+26:32.120 --> 26:36.080
+Yeah, for sure.
+
+26:36.080 --> 26:45.840
+If I take a common month, because in this year I basically changed careers from a friendly
+
+26:45.840 --> 26:54.080
+engineer to a community manager and I mean, if I take the number of times that we've had
+
+26:54.080 --> 27:00.280
+somebody that's been not even necessarily toxic, but just disruptive as part of this
+
+27:00.280 --> 27:08.480
+massive open source project, one of the, what in the top 20 open source projects on GitHub,
+
+27:08.480 --> 27:11.600
+it's been like, I can count it on a single hand.
+
+27:11.600 --> 27:18.800
+And if you compare and contrast that with stuff you hear that happens inside companies,
+
+27:18.800 --> 27:27.800
+the way women are treated, the way people who are non-binary, and then also crazy things
+
+27:27.800 --> 27:37.920
+like people who have neurodiversity, who are being treated really unfairly and they have
+
+27:37.920 --> 27:42.400
+so much to contribute if you play to their strengths.
+
+27:42.400 --> 27:49.280
+But oftentimes our world and the companies that run the world are not set up for these
+
+27:49.280 --> 27:55.080
+people and then you lose that sense of you feel as an outsider and then it's hard to
+
+27:55.080 --> 28:01.960
+find, it's hard, everything becomes harder because I heard the other day, I spoke to
+
+28:01.960 --> 28:07.200
+Jennifer Riggins on a different podcast and she mentioned that they did some research
+
+28:07.200 --> 28:14.560
+and if you blinded people doing reviews, so you don't know the gender or anything about
+
+28:14.560 --> 28:25.020
+this pull request that you're reviewing, more pull requests of women are accepted than men.
+
+28:25.020 --> 28:30.400
+But if you take the blinders off, the opposite happens.
+
+28:30.400 --> 28:36.600
+Because there's also this weird thing with a female will not apply for a job unless she
+
+28:36.600 --> 28:44.340
+feels she meets 100% of the job description criteria, whereas the average man will apply
+
+28:44.340 --> 28:51.040
+if he meets only 65% of the criteria, which is crazy because we all know job descriptions
+
+28:51.040 --> 28:52.040
+are bogus.
+
+28:52.040 --> 28:59.080
+I mean, if you can literally fulfill everything they ask for, you're a superhuman.
+
+28:59.080 --> 29:01.800
+You're a superhuman, exactly.
+
+29:01.800 --> 29:08.680
+Because honestly, I can't believe, as we mentioned previously, some of the challenges in tech,
+
+29:08.680 --> 29:18.720
+I think that is still one of the biggest challenges is the interview process and how the job descriptions
+
+29:18.720 --> 29:27.220
+that people use are just unreasonable and it makes it super hard for people getting
+
+29:27.220 --> 29:31.920
+into tech, so it doesn't necessarily mean people are like in their early 20s.
+
+29:31.920 --> 29:36.560
+This can be somebody in their 40s that has been doing whatever for their whole life and
+
+29:36.560 --> 29:39.960
+just decided, I want to do something else and I decided to get into tech.
+
+29:39.960 --> 29:44.840
+That is one of the hardest things is they look at this world and they're like, where
+
+29:44.840 --> 29:46.920
+am I going to find my place?
+
+29:46.920 --> 29:51.220
+All these people want three, four, five years experience and they want me to have experience
+
+29:51.220 --> 29:53.220
+and databases and all these things.
+
+29:53.220 --> 29:58.840
+I did a boot camp, I have some basic knowledge and I can contribute to something.
+
+29:58.840 --> 30:05.720
+So you feel like you're running in molasses, as they say.
+
+30:05.720 --> 30:12.400
+The other crazy thing about our, and hopefully this won't last too long, but because of this
+
+30:12.400 --> 30:21.960
+insane layoffs that's happened in the last six months almost, there's this weird counterbalance
+
+30:21.960 --> 30:28.000
+that's happened in the tech industry where there are thousands of highly skilled people
+
+30:28.000 --> 30:33.920
+on the job market now and so all these new folks that got into engineering with promises
+
+30:33.920 --> 30:40.960
+of wealth and success now have to compete with these people for positions and so it's
+
+30:40.960 --> 30:46.820
+making their lives really, really tough and like me, I see that because I run this little
+
+30:46.820 --> 30:51.540
+this community and there's quite a number of people there that's exactly at this point
+
+30:51.540 --> 30:57.080
+where they're entering this market from as young folks or as people that was a lawyer
+
+30:57.080 --> 31:03.880
+for the last 10 years or whatever and they're scared that they might have made a mistake
+
+31:03.880 --> 31:09.760
+because they're looking at the situation and they're like, oh, I'm not so sure if I'm going
+
+31:09.760 --> 31:11.400
+to get a job.
+
+31:11.400 --> 31:18.860
+So you have to be, and it is tough, I don't lie to these people, I told them it is tough,
+
+31:18.860 --> 31:26.560
+but don't give up because there are companies out there that value the person over just
+
+31:26.560 --> 31:31.720
+the media labor of writing code every day that will take you in, that will give you
+
+31:31.720 --> 31:37.320
+an opportunity and allow you to grow inside the company because that's what you want.
+
+31:37.320 --> 31:44.680
+You want to take that person that's enthusiastic in and give them a place to grow because you
+
+31:44.680 --> 31:52.080
+as the company, you're going to, wow, you're going to reap the benefits of that big time.
+
+31:52.080 --> 31:55.520
+Yeah, wholeheartedly agree, Skollak.
+
+31:55.520 --> 32:03.800
+I feel like what's missing, one of the biggest, I mean, kind of a riff off what you've been
+
+32:03.800 --> 32:08.400
+saying, which I loved everything you said, is that I feel like one of the biggest challenges
+
+32:08.400 --> 32:16.480
+that I would love to be a part of the solution is, one of the biggest challenges we have
+
+32:16.480 --> 32:28.880
+is to create, I think you touched on it, almost all of tech is focused on just money, basically,
+
+32:28.880 --> 32:29.880
+profit.
+
+32:29.880 --> 32:35.720
+And I feel like we need a different model where obviously you have to make a living,
+
+32:35.720 --> 32:37.520
+we all have to make a living.
+
+32:37.520 --> 32:44.360
+So there is that side where you have to bring in income, but I feel like the focus should
+
+32:44.360 --> 32:52.400
+be more on building a community, an organization that's a community of people that really care
+
+32:52.400 --> 32:55.360
+about each other as people.
+
+32:55.360 --> 33:02.360
+And we also realize we have to make a living and we can use each other's talents and gifts
+
+33:02.360 --> 33:11.200
+as a community to make a living together and use tech, and tech is just sort of a way to
+
+33:11.200 --> 33:12.200
+do that.
+
+33:12.200 --> 33:21.560
+And then, I feel like that's so necessary, we need a new model, I think we need new experiments,
+
+33:21.560 --> 33:25.680
+I guess, to find new models where this will work.
+
+33:25.680 --> 33:33.080
+Mozilla is kind of one of those where it's not perfect, but it's different, it's different
+
+33:33.080 --> 33:40.320
+enough where I think there really is some sense of community there.
+
+33:40.320 --> 33:49.400
+Obviously I've seen the dark side too, but in the Bay Area, it's just too much driven
+
+33:49.400 --> 33:51.720
+by money, it's just pure money.
+
+33:51.720 --> 33:58.280
+And I was shocked at how cold-hearted that is, like you said, there is no sense of community,
+
+33:58.280 --> 34:03.840
+there is no sense of we're doing this for each other and for our customers.
+
+34:03.840 --> 34:08.280
+And I feel like that's missing sometimes, it's all about how do we achieve money rather
+
+34:08.280 --> 34:15.080
+than let's build something that's of value to our customers and of value to ourselves
+
+34:15.080 --> 34:17.800
+as a community that's making this.
+
+34:17.800 --> 34:29.160
+And it's almost like we need organizations that are more like small craft-oriented or
+
+34:29.160 --> 34:36.840
+places that are doing this out of the love of providing something for somebody and also
+
+34:36.840 --> 34:43.080
+a love of doing something together and creating something together and supporting each other.
+
+34:43.080 --> 34:51.960
+And what's sad is that often you talk about this and people roll their eyes and you know,
+
+34:51.960 --> 34:58.080
+oh yeah, the business world is cold and that's not going to fly, but it will fly.
+
+34:58.080 --> 35:07.040
+People do create excellent small companies, whether it's bakeries or whatever.
+
+35:07.040 --> 35:12.020
+And they do create successful organizations because they do focus on, hey, let's serve
+
+35:12.020 --> 35:17.440
+our customers something really good, something quality, but let's also care for each other
+
+35:17.440 --> 35:20.840
+in that process, like you and I were talking about.
+
+35:20.840 --> 35:25.800
+The end is good and the means is good in terms of getting there.
+
+35:25.800 --> 35:31.520
+And I feel like that's so hard to find, it's too hard to find in our industry.
+
+35:31.520 --> 35:34.360
+I think that's the biggest thing that young people face.
+
+35:34.360 --> 35:41.280
+Oh, one more thing I wanted to, sorry, my brain is firing from all this stuff.
+
+35:41.280 --> 35:44.120
+Yeah, no, go for it.
+
+35:44.120 --> 35:51.480
+But one of the things that's been inspiring me lately is I like jazz.
+
+35:51.480 --> 35:57.840
+And I love in the jazz community, there's a sense of, I think the jazz community has
+
+35:57.840 --> 36:04.640
+such a healthy, there's something really healthy about it, more than I've seen in other places
+
+36:04.640 --> 36:15.560
+where the elders of the jazz community, the greats, they feel this responsibility to bring
+
+36:15.560 --> 36:23.520
+in the young, the people that are entering jazz and to kind of take them under the wing.
+
+36:23.520 --> 36:30.480
+And then the young also feel like they need to respect the tradition, the Coltrane's or
+
+36:30.480 --> 36:40.600
+whatever, Miles Davis, and they need to kind of absorb what they've done and respect them.
+
+36:40.600 --> 36:46.320
+But what was interesting is that the elders of the jazz community want them to, hey, you
+
+36:46.320 --> 36:53.880
+got to absorb where we've been, but you don't absorb it to copy us, you absorb it to take
+
+36:53.880 --> 36:55.200
+it where you want to go.
+
+36:55.200 --> 36:56.200
+Yeah, exactly.
+
+36:56.200 --> 37:01.360
+And I thought that was just so beautiful, that balance between creating something new
+
+37:01.360 --> 37:03.440
+and respecting the tradition.
+
+37:03.440 --> 37:10.360
+And I feel like a lot of that applies to any organization or in tech, which is a creative
+
+37:10.360 --> 37:11.360
+industry.
+
+37:11.360 --> 37:15.320
+Yeah, you've got to kind of absorb the tradition.
+
+37:15.320 --> 37:20.520
+You've got to look at, for example, in the Python world, hey, how did Django build this
+
+37:20.520 --> 37:29.240
+framework? And how did they go about doing this? How did the Django folks do this? And
+
+37:29.240 --> 37:33.400
+then look at the code, look at the way they organize themselves, look at the community
+
+37:33.400 --> 37:39.480
+they've built, and then digest that and then say, how can we make this even better? Where
+
+37:39.480 --> 37:42.320
+can we take it from there?
+
+37:42.320 --> 37:49.560
+I think that's just so cool about jazz. And I feel like that's not, it's not really there
+
+37:49.560 --> 37:51.960
+in the tech community. There isn't a sense of like...
+
+37:51.960 --> 37:57.560
+Yeah, it's unfortunate, right? I mean, because I totally get what you're saying. And I think
+
+37:57.560 --> 38:04.240
+a lot of the craft industries are getting a drive. And here it's like, insert whatever
+
+38:04.240 --> 38:11.800
+product like craft coffee, craft bakeries, craft beer, craft teas, all these things.
+
+38:11.800 --> 38:19.480
+I think what I've seen in a lot of these places, when I look at their, the way they share,
+
+38:19.480 --> 38:25.440
+what they've accomplished, they always celebrate each and every person that's there. And I
+
+38:25.440 --> 38:32.280
+think being smaller net helps there. Like there's a point where you get too big, which
+
+38:32.280 --> 38:37.840
+is something that I'm very, very conscious of, is I think there's some point where you
+
+38:37.840 --> 38:43.600
+have to ask yourself the question of how much is enough? Because I think some people have
+
+38:43.600 --> 38:49.560
+forgotten to ask that question. And there's some people in this world that have more than
+
+38:49.560 --> 38:58.480
+is really fair. So you have to ask yourself the question of when do I have enough? Because
+
+38:58.480 --> 39:03.920
+there is a saturation point for all of us. And it might differ from one person to the
+
+39:03.920 --> 39:11.880
+other, but I think it kind of tops out at a certain point. And then how big is big enough
+
+39:11.880 --> 39:17.280
+if you're creating a company? And I think there, it also differs, but I think there's
+
+39:17.280 --> 39:22.760
+also, again, there's saturation point. I think as soon as you lose touch with the people,
+
+39:22.760 --> 39:30.920
+you're getting too big. As soon as the people aspect starts getting lost in process and
+
+39:30.920 --> 39:37.880
+I don't know, policy, you probably should start looking at the bigger picture and ask
+
+39:37.880 --> 39:42.000
+are we getting too big? Should we slow down? And most likely the answer is going to be
+
+39:42.000 --> 39:48.920
+yes. Because the other big thing that I see in those things is the sense of community.
+
+39:48.920 --> 39:55.320
+And what do you want in a community? You want everybody to succeed. There's no community
+
+39:55.320 --> 40:01.920
+formed around the idea that I want to push you down so that I can be on top. That is
+
+40:01.920 --> 40:06.680
+not what a community is about. When you're in a community, you want to lift everybody
+
+40:06.680 --> 40:12.480
+up. So if somebody in the community is struggling, you're going to say, how can we help? So you
+
+40:12.480 --> 40:20.000
+will naturally, it's almost crazy that we're not doing it this way. Because it seems to
+
+40:20.000 --> 40:27.560
+me it's a better recipe for success than focusing on material wealth. Because there you quickly
+
+40:27.560 --> 40:33.520
+get to the doggy dog world. I think you get to the doggy dog world very quickly and then
+
+40:33.520 --> 40:39.200
+it gets toxic. Whereas if you're in this community thing, everybody is there to make sure that
+
+40:39.200 --> 40:45.480
+everybody succeeds and whatever success means for you. But it's important that you understand
+
+40:45.480 --> 40:49.960
+what success means to somebody else so that you can support them in that journey. And
+
+40:49.960 --> 40:56.400
+they will naturally do it back because that's how karma works. That's how we as human beings
+
+40:56.400 --> 41:10.200
+work. If I feel that you have my best in your head, then I will do the same for you. But
+
+41:10.200 --> 41:15.440
+if I feel attacked by you, then I might naturally attack back. Because our little lizard brain
+
+41:15.440 --> 41:21.160
+will kick in and say, danger, we need to either run or we need to fight back. And I think
+
+41:21.160 --> 41:27.800
+you know that while having studied psychology. So that is actually quite an interesting inflection
+
+41:27.800 --> 41:36.400
+point there. How does that knowledge you gained studying counseling psychology, do you find
+
+41:36.400 --> 41:44.160
+it useful that you know that in the tech world? Does it help you deal with some things?
+
+41:44.160 --> 41:49.720
+I mean, I think you've already touched on a lot of it, Scott. You said it so beautifully
+
+41:49.720 --> 42:06.560
+really is. I think technology is, the people in tech are too focused on the tech. And they're
+
+42:06.560 --> 42:16.320
+not focused enough on the community. They're not focused enough on that. We can't build
+
+42:16.320 --> 42:23.040
+anything of value unless we do it together with a community of people. And it's too often
+
+42:23.040 --> 42:35.400
+focused on who's the best. They get all the spoils. It isn't like, hey, we did this together.
+
+42:35.400 --> 42:41.280
+It's just like, oh, Tesla is Elon Musk. No, it's not Elon Musk. It's like a whole group
+
+42:41.280 --> 42:53.240
+of people creating something. I feel like that's what psychology is. The study of that
+
+42:53.240 --> 43:00.440
+is helped in the sense of this. You see the complexity of doing something together as
+
+43:00.440 --> 43:05.960
+a community of people. People have different motivations. They have different interests
+
+43:05.960 --> 43:14.760
+and different talents. And that is to me so fascinating. It's just during that stint when
+
+43:14.760 --> 43:22.080
+I was managing the engineering team at MDN Webbox, I loved it from that point of view.
+
+43:22.080 --> 43:28.560
+I would love to be, I think management interests me just from that point of view. How do you
+
+43:28.560 --> 43:35.920
+build a community and have people feel like they're doing what they want to do and can
+
+43:35.920 --> 43:42.320
+contribute in a way that appeals to their strengths? I think that's the side of psychology
+
+43:42.320 --> 43:51.360
+that's really fit in the tech world. And I feel like we need more of that. We need more
+
+43:51.360 --> 44:01.840
+engineers, people who are interested in tech who bring that focus of caring about not just
+
+44:01.840 --> 44:08.280
+the tech, but how we work together. And we've touched upon all that. And again, it goes
+
+44:08.280 --> 44:15.440
+back to your point, Skulk. I'm so glad you're a community manager now at MDN because I've
+
+44:15.440 --> 44:21.720
+always felt that from you. You always have had that strong sense of like, hey, we got
+
+44:21.720 --> 44:29.080
+to do this as a community. The community matters. But when the bottom line is quarterly profits,
+
+44:29.080 --> 44:37.080
+the community doesn't matter. Obviously, look at the way Musk has treated Twitter. The community
+
+44:37.080 --> 44:45.800
+doesn't matter at all. All that matters is tech and working hard and feeding the beast
+
+44:45.800 --> 44:54.880
+of quarterly profits. We can't survive as a, humanity can't survive if that's the model
+
+44:54.880 --> 45:02.080
+of organizations. It's crazy. Organizations are part of a larger thing called society
+
+45:02.080 --> 45:11.920
+and countries. And the way we organize ourselves as corporations, it matters a lot. It matters
+
+45:11.920 --> 45:19.760
+a lot for society. And people have to work in these kind of cold machines called corporations.
+
+45:19.760 --> 45:27.780
+I think a lot of the big tech companies are kind of colder than... Some are less cold
+
+45:27.780 --> 45:34.040
+than others, but they're pretty impersonal and can be pretty cold. And I think we need
+
+45:34.040 --> 45:40.800
+more of these smaller communities where there's more warmth and more support in each other
+
+45:40.800 --> 45:46.640
+while you're trying to make... You need that dual focus. You got to get a group of people
+
+45:46.640 --> 45:53.360
+together that really care about making something of value for others. I think that should be
+
+45:53.360 --> 46:01.080
+the focus. Hey, let's create something of real value for others and take joy in that.
+
+46:01.080 --> 46:06.440
+And then also take joy in, we're going to do that and make a living at the same time.
+
+46:06.440 --> 46:12.800
+The goal isn't to get rich. The goal is to put food on the table, support our families,
+
+46:12.800 --> 46:22.680
+enjoy life, participate in society, and then also create something of value for others.
+
+46:22.680 --> 46:29.440
+And I feel like that's... I think we need more of. We need that in the tech world. And
+
+46:29.440 --> 46:39.000
+it's not easy. I'm not saying it's easy. It's easy to put our finger on it. But I feel like...
+
+46:39.000 --> 46:46.240
+You've already said this better than I did, Skulk, but I feel like it's too focused right
+
+46:46.240 --> 46:55.640
+now on money and people get into it for the wrong reason of getting rich. And it should
+
+46:55.640 --> 47:02.580
+be more on like, hey, how can I support myself, support my colleagues, and do good things
+
+47:02.580 --> 47:08.880
+for the customer? Yeah, for sure. That's a much healthier approach.
+
+47:08.880 --> 47:15.560
+I think maybe we're at a point where the time is right to experiment, like you said. Experiment
+
+47:15.560 --> 47:22.560
+with some new ideas, some new ways of working. That's why I always like to, when I refer
+
+47:22.560 --> 47:29.440
+to the people that use MDN, I like to refer to them as readers as opposed to users. Because
+
+47:29.440 --> 47:36.200
+I think language matters, right? The language we use often changes how we think of something.
+
+47:36.200 --> 47:40.840
+So if you call somebody a user, you might think of their needs differently than you
+
+47:40.840 --> 47:48.760
+might if they're a reader or a learner. So I think language matters. And I think to some
+
+47:48.760 --> 47:51.160
+extent... That's really well said.
+
+47:51.160 --> 47:56.200
+We've kind of done some of that at Mozilla, but then it slips again. So we have to constantly
+
+47:56.200 --> 48:04.680
+remind ourselves that what we call the people that use our products, benefit from our products,
+
+48:04.680 --> 48:09.600
+we need to think about the language we use, because it's going to mentally flip switches.
+
+48:09.600 --> 48:13.720
+That's going to make you think about things. And I think then it's also important to see...
+
+48:13.720 --> 48:19.360
+I think that's what's kind of nice about Mozilla is this whole Mozilla-ians thing. You know,
+
+48:19.360 --> 48:25.320
+once a Mozilla, always a Mozilla-ian. I think that extends that. That is what I'm talking
+
+48:25.320 --> 48:30.240
+about, the language. That makes it feel more like it's not just a company. It's a bit more
+
+48:30.240 --> 48:41.280
+than that. But yeah, it's tough because sometimes the family is not that healthy. And then some
+
+48:41.280 --> 48:49.280
+things happen that's also not healthy for the family. But yeah, it's interesting.
+
+48:49.280 --> 48:53.560
+I know we're running low on time, Sculpeh. Just one more thing, the thought that occurred
+
+48:53.560 --> 49:08.280
+to me. I think it's maybe a good topic to end on. I feel like with technology becoming
+
+49:08.280 --> 49:16.840
+more powerful, artificial intelligence is incredible what that can do now. And the power
+
+49:16.840 --> 49:25.640
+of that to solve problems is incredible. And dabbling in quantum computing and working
+
+49:25.640 --> 49:33.200
+for that PsyQuantum for a bit, I see what's coming there. And that's incredible. Once
+
+49:33.200 --> 49:39.800
+a quantum computer is built that's usable, that can solve real problems. And one of the
+
+49:39.800 --> 49:45.800
+biggest focuses there is really chemistry. At PsyQuantum, the founders talk about quantum
+
+49:45.800 --> 49:52.120
+computing will be able to basically solve chemistry problems that are just absolutely
+
+49:52.120 --> 49:58.600
+impossible to solve. And you can actually engineer materials and that kind of thing.
+
+49:58.600 --> 50:03.640
+So there's a whole revolution coming in quantum computing. We're already in the middle of
+
+50:03.640 --> 50:09.720
+a revolution with artificial intelligence. That's all we all can talk about that and
+
+50:09.720 --> 50:14.920
+see that coming. But I think everything that you and I have been talking about, the community
+
+50:14.920 --> 50:28.880
+aspect and the way we organize our organizations, the way we create communities, I think because
+
+50:28.880 --> 50:34.880
+of these developments in tech, that's even a hundred times more important now. If we
+
+50:34.880 --> 50:42.120
+don't get that right, these powerful technologies of quantum computing and AI are going to be
+
+50:42.120 --> 50:48.960
+controlled by organizations that don't have a sense of community. All they do care about
+
+50:48.960 --> 50:58.280
+is getting rich and enriching a few. And that is dangerous. I guess my point is that it's
+
+50:58.280 --> 51:05.160
+so imperative that I think humanity in the tech world solves this problem of how do we
+
+51:05.160 --> 51:16.480
+organize ourselves in terms of providing value to people and make a living in a way that
+
+51:16.480 --> 51:22.520
+supports the external community outside the organization, as well as the internal community
+
+51:22.520 --> 51:30.160
+within the organization. I feel like if we don't do that as human beings, it's super
+
+51:30.160 --> 51:38.120
+dangerous. We've got these amazing, powerful technologies coming down the road and we don't
+
+51:38.120 --> 51:46.440
+have the organizational... How would you say this, Skoll? But we don't have that sense
+
+51:46.440 --> 51:52.000
+of community and how we organize ourselves yet. That hasn't kept up with it.
+
+51:52.000 --> 52:02.080
+No, it hasn't. Technology has run away with us. I totally agree. The big thing that is
+
+52:02.080 --> 52:06.880
+needed is ethics, right? Because a lot of things that's not happening is ethics. And
+
+52:06.880 --> 52:14.360
+I think if you build a healthy company with a sense of community and purpose, ethics comes
+
+52:14.360 --> 52:25.640
+built in. But if those core things that you just said are missing, then ethics become
+
+52:25.640 --> 52:31.720
+like accessibility, where it's bolted on and it doesn't really feel sincere. So I think
+
+52:31.720 --> 52:38.480
+you are 100% correct that the technology is evolving at the speed of light, but we need
+
+52:38.480 --> 52:46.560
+to step back and look at what are we doing with it and how are we treating each other
+
+52:46.560 --> 52:52.880
+in this process. Because a lot of the technologies we've built are toxic to us as human beings
+
+52:52.880 --> 52:59.960
+and to our children and all of this. And it's simply because it's run away. We've lost touch
+
+52:59.960 --> 53:07.880
+with it and it's evolved to a point where it's out of control. But all is not lost.
+
+53:07.880 --> 53:13.120
+I think the fact that me and you can have a conversation about this and be in agreement
+
+53:13.120 --> 53:19.360
+on this means there are more people that will also feel this way. And connecting all of
+
+53:19.360 --> 53:27.840
+those people will build up a momentum that can then drive a change. Thanks so much, Ryan,
+
+53:27.840 --> 53:33.840
+for this lovely conversation. Thank you, Skalk. I'm just energized after talking to you. I'm
+
+53:33.840 --> 53:40.560
+serious. I could just go on for like two more hours. No, for sure. I was about to say that.
+
+53:40.560 --> 53:48.400
+So we'll definitely do this again, whether it's on a podcast or just because. But yeah,
+
+53:48.400 --> 53:54.200
+thanks so much and have a lovely rest of your day and all of the very, very best. Thanks
+
+53:54.200 --> 54:22.520
+so much, Skalk. It's really been a pleasure.
+

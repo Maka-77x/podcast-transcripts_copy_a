@@ -1,0 +1,562 @@
+Welcome to the Mycelium Network Podcast, a podcast all about early stage web developers
+and the mentors and teachers that help them along the way.
+Hey Ryan, welcome to the Mycelium Network Podcast.
+It's a pleasure to be here.
+It's a pleasure to join you, Skulk.
+Yeah, pleasure's all mine.
+We haven't talked in way too long.
+I know, way too long.
+Yeah.
+I know you from Mozilla, and for a long time we worked together on the MDN WebDocs project.
+And then you had a short period of time where you explored some other avenues, which we'll
+talk about a bit later.
+And then you came back to the Fall and joined the Mozilla family again.
+So but I think since you rejoined, both of us have been heads down on a bunch of things
+and never really got a chance to connect again.
+So I thought, what better way to reconnect than record a bloody podcast?
+So I invited you and I was so happy when you said you are into it.
+So I'm looking forward to this.
+Me too.
+It's an honor, Skulk.
+So to get us started, I've sat in many meetings where we've introduced ourselves, where we
+were both in the room, where we've introduced ourselves to other people, where we've shared
+some of our life's journey to people.
+And so therefore, I know you have a really interesting story to tell.
+So I'm going to keep quiet and start wherever you feel like.
+And just tell us, who is Rian Johnson, where you come from, and how did you get to today?
+Yeah, that's a great question.
+It's especially fun talking to you about it, because I know of your background in music
+and really accomplished in music.
+And I always thought that was just so cool that you've got that artistic, cultural background,
+and then you bring that to technology, because I can relate to that somewhat.
+Yeah.
+When I started off in technology, I always tell people that the reason I got into technology
+was because I was very interested in humanities, writing, and art, and all that stuff.
+But I think technology attracted me initially when I was young.
+And a teenager was just because of the chance to make good money.
+I came from a poor family.
+And so that was one aspect.
+But also, I think in a sense, that's kind of an external thing, really.
+But from an internal point of view, I thought it was a chance to create some things.
+I guess I was always attracted to engineering from the creative aspect of it.
+And then also, I remember being really attracted to computers, really, from the point of view
+of...
+I had heard about artificial intelligence way back then, and that intrigued me.
+How is it that computers think what?
+What is that?
+What does that mean?
+And I was always intrigued by that.
+And I wanted to get to the bottom of it.
+So there was a philosophical aspect to it as well.
+And I think that's probably maybe the biggest core of who I am is maybe I'm more attracted
+to philosophy and psychology and things like that.
+But technology was my way to make a living and get myself...
+We weren't in poverty, but we just didn't have money as a family.
+So I went into electrical engineering, and specifically what I kind of focused on...
+I was never really into voltage and current and all that kind of stuff.
+But what I was really interested in was computers.
+And again, because of this angle of what is a computer and what makes it tick?
+And so I focused on computer hardware, but we did computer hardware and software in college.
+And I thought I was really fascinated by it.
+And I enjoyed especially the digital systems point of view.
+And I remember in my sophomore year of college, the light bulb came on and how hardware works.
+And that was kind of cool.
+So the college was electrical engineering, really a focus on computer hardware and software,
+mostly computer hardware.
+And I got out of college and I just wanted to do computer hardware.
+And I started working for a company called Zycad, they were a little startup in Minnesota.
+And I don't know if you remember, there was a big computer company in Minnesota called
+Control Data, and they made these large mainframes.
+And a few of the engineers from Control Data had started this company called Zycad.
+And they were making this basically this supercomputer.
+And I thought it was really kind of a cool...
+It was very small at the time, and I joined when it was very small.
+And so anyway, so that was fun.
+It was interesting.
+And I learned a lot about hardware systems and designing hardware systems.
+But I also kind of began to realize that the only people that really get to do the creative
+work in hardware systems are just kind of at the top of the pyramid.
+And that started my transition, basically.
+Then I did that for a while.
+And then I think another, I guess, source of discontent was I was feeling like I spent
+so much time studying tech, and I didn't really get to explore the humanities side of my personality.
+So I said, I'm gonna start working in what we call within the hardware realm, we call
+the applications engineering, which is you kind of work with the customers more.
+It's very technical, but you work more with people.
+So I did that for a while.
+And then eventually I just thought, I don't know if I'm kind of sick of tech.
+And so I started studying...
+This will be crazy, but I started studying jazz guitar at the time and just thinking,
+I'm just gonna quit my job and study jazz guitar and just figure out what to do next
+after that.
+And so I did, I quit my job.
+And then, crazy enough, it's a long story, so I won't go into it, but I landed at this
+Benedictine monastery out in the West Coast just as a guest.
+They had this kind of thing where you could just go there as a guest and live there and
+work there for a year.
+So I did that, and that was really, that was just fun, it was a great time to just kind
+of...
+I just became basically a farm hand, I milk cows and just read books and thought and stuff
+like that.
+So it was really great.
+That's fascinating.
+But then, after a year of that, I was like, I wanna get back to life.
+And so I thought, I'm gonna go into psychology.
+So then I went and got my master's degree in counseling psychology.
+And I just kind of had thought, I'm done with tech.
+And it felt good, actually.
+It felt more who I was.
+And I remember I finished my master's degree, and working as a psychologist, as a therapist,
+it's kind of hard to make a living.
+So I was faced with like, well, how do I get a job?
+How do I make money?
+And some friends who were living in San Diego had started this little software company called
+Cabinet Solutions, basically software for people who design cabinets, kitchen cabinets.
+And they were just tiny, barely making a living, living near the beach in Carlsbad and San
+Diego.
+And they're like, hey, come on out to California and work with us while you figure out what
+you wanna do.
+So I did, I just went out there.
+And it was kind of a shock at first, actually, because I'd given up on...
+I hadn't followed tech or done anything in tech.
+So I started programming in C, C++.
+And it was really rough at the first.
+And I remember just like, I started working with them, and then I thought, oh, I can't
+do this.
+But they talked me into it, you know.
+So I kept going.
+And sort of fast forwarding more is that I kind of just got pulled into software, which
+I liked, because I thought software is like this space where everyone can be more creative.
+And I think especially in the world that we're in, that you know even better than I do, Skulk,
+is the open source world we're in, where everybody's creating these really high quality packages
+of software.
+And for me, I know the Python world the best, but also the JavaScript world, of course.
+But it's pretty amazing, the industry really depends on these really high quality open
+source packages.
+Yeah, the world runs on open source.
+Yeah, it's amazing, isn't it?
+So it's like, I thought that was really cool.
+And I still think that's really amazing, you know, that I feel like the software space
+is so much more creative, you know.
+And I was slow to realize that, you know, having been initially attracted to the hardware
+side.
+But yeah, my journey from there was, I think my first, I was working for a company called
+Boston Scientific, but when I joined, they were called Guidant, they were in Minnesota,
+and they were a medical device, you know, pacemaker, defibrillator manufacturer.
+And that was really a cool place to work too, because, you know, it's just this new realm
+of medical related and hardware, software.
+And I was doing kind of software related stuff that was, I mean, I was working with software
+that was kind of related to the hardware, the quality of the hardware.
+And it was there that I really discovered Python through a friend.
+And again, I was starting to kind of get tired of technology, and, you know, I think that's
+one of the main themes of my tech path is just Python.
+I just fell in love with it.
+I just love the language.
+I love the ecosystem.
+I remember Django was just coming out, you know, the web framework.
+And you know, I remember taking a class in Django way back then, you know, it was like,
+one of the very earliest Django versions.
+And that just got me hooked.
+And I just, you know, I remember just telling my wife, like, I'm done, I'm only going to
+take jobs that are related to Python from now on.
+And so then I got this job at Seagate, again, kind of related.
+They were trying to make non-volatile memory, but much denser in a research project.
+And I came on as sort of, you know, working with Python to help them with their testing
+and things like that.
+So I did that for a while.
+They Seagate eventually closed that.
+And then the real big break for me was I saw an opening at Lucasfilm in the Bay Area.
+And I said, oh, man, that's, you know, that would just be a dream job.
+And it seemed so perfect, too, because they were really a heavy Python shop.
+So I applied and was, you know, pleasantly surprised that I got, you know, an interview.
+I still remember just all the details of flying out there.
+The Lucasfilm, they have several campuses, but the main campus was right in the Presidio.
+It's freaking gorgeous.
+It's amazing.
+And I remember flying out there and, you know, it was just fabulous.
+And I hit it off with a team.
+So anyway, I got the job and went out there.
+And that really shaped me, I think, more than anything other than Mozilla, you know, just
+because the team there was fantastic.
+And my manager there, Lori Giannino, who's still there, a lot of this team, the team
+that I worked with, a lot of that team is still there.
+They were just fabulous.
+Lori is just probably, you know, one of the best managers, well, definitely one of the
+best managers I've ever worked with.
+Jeff O'Dell was a manager there, just great people, great technology, you know, fun space
+because we basically built Python software to help manage, you know, movie, the movie
+production process.
+And so I worked all my time there, I worked with Industrial Light and Magic.
+So I got to meet some, you know, fascinating people, you know, that are kind of semi-famous
+in the movie industry, you know, visual effects supervisors.
+And it was really, it was fabulous.
+And the team was, it was like one of those cases where I just felt like I fell into,
+you know, we actually fell into something that was, you know, really great, great team,
+great people, great organization, you know, fascinating work.
+But of course, the downside, it was, the plus side and the downside is it was in the Bay
+Area because the plus side is I love the Bay Area, I love the weather, the location, the
+city.
+The downside is it's so, you know, expensive that it's so hard to kind of plant roots there.
+But anyway, you know, and then from there, you know, basically have to leave Lucasfilm
+just for the reasons of trying to, you know, buy a house.
+So I took a, I left Lucasfilm and went to work, one of my friends at Lucasfilm went
+to work for a biotech company called Twist Bioscience.
+They're building synthetic DNA for biotech research.
+So I went to work for them for about six months, and I would love to get into some of that
+because that's another theme I wanted to talk to you about, Skulk.
+Anyway, I left Twist Bioscience and went, came to Portland, Oregon, and eventually landed
+at Mozilla.
+And to me, the two great places I've been at are Lucasfilm, Mozilla, and like you said,
+I, you know, I had my early stand at Mozilla where you and I worked together on MDN Web
+Docs and then went off and worked for about six months at a quantum computing place called
+PsiQuantum, which is fascinating.
+And then now I'm back at Mozilla and I'm so grateful to be back because Mozilla is such
+a special place, you know, as you and I know, there's a lot of special people here that
+really care about, you know, the web and ethics and, you know, what's good for humanity in
+terms of technology.
+So anyway, I jumped all over the place, but I think another thing I wanted to touch on
+with you was, I think one of the themes throughout my whole career that's kind of driven what
+I do is just trying to find, I guess, a context in which to work in technology that feels
+humane, you know, like where the ends are humane and the way we work together as a team
+is humane.
+And that's been such a, you know, I'd love to talk to you about that because I feel like
+it's, that's one of the biggest challenges, I think, you know, like I think one of the
+questions you had, that you had, you know, kind of laid out that we could talk about
+was just like, what are the challenges in tech?
+And I feel like that's, that's to me, one of the biggest, you know, apart from the larger
+challenges of, you know, all the ethical dilemmas of, you know, big tech and social media and
+AI and all, you know, kind of the bubbles, you know, the kind of the worldview bubbles
+that you get into in social media and that kind of stuff, which everybody has been well
+documented and everybody, you know, hopefully knows about that, because those are huge,
+you know, I think world destabilizing kind of issues.
+But apart from that, I feel like one of the biggest challenges is just, I think, you know,
+I don't think in technology, we found a way to work together, you know, like, yeah, we're
+building technology, but it's a social endeavor, you know, you have to get a team together.
+Technology is so complex that you have to build teams and teams are groups of people.
+And I feel like we don't yet in tech have a good feeling for, you know, or I don't know,
+how would you say the scope, but I feel like we don't have a good appreciation for that,
+how important that is.
+And I think that's one of the things I love so much about Lucasfilm and my manager, Laurie
+Janino and Jeff, my managers there, Laurie Janino and Jeff Waddell, is that I feel like
+they were just very people centered, you know, like Laurie just felt like I'm going to build
+the team, the team is the most important thing, and the technology will come out of it, you
+know, and the technology will follow.
+And it's so rare.
+And I think that's something I've always been thinking about and chasing, you know.
+Yeah, I know for sure.
+I think one of the things that might have been contributing to this is, I don't know
+when exactly it started, but at some point, I think it might have been in the initial
+dot com bubble and burst, and then it followed on from there.
+It's this idea that you don't spend more than two years at a company.
+Like if you're longer at a company for two years, people start questioning like, what
+the heck, why are you still here?
+And I think because of that, you can never really build a culture because just as the
+culture starts forming, a bunch of people leave and new people enter.
+Totally agree.
+I think it's good to have movement, but I think there's too much turn.
+And so I think people get into it for the wrong reasons.
+But I think that is why places like Lucas Formezilla, and hopefully what I can create
+with the company I'm building, is somewhere where there's variety and where you're encouraged
+to come up with ideas, explore them, fail, and it's okay.
+I think in a lot of companies, while they say failure is good and the more you fail,
+the more you learn, oftentimes you'll find that it's not really true.
+If you do try something that doesn't work, it's rare that they're going to celebrate
+that failure.
+There's going to be a heck of a lot of questions that's going to follow that failure.
+And if you can't justify it, you're more often than not going to be out of a job.
+So I think that that's the problem is like companies are just, and I think a lot of people
+just do it for the money.
+And I think that's also incorrect.
+And I think it's got a lot to do with marketing around tech, where there's a narrative being
+spun that it's a way to get rich, you know, get a job in tech and just one, two, three
+years and you're going to be a millionaire and you can like quit and go sail a boat for
+the rest of your life.
+And sure, that happens to some folks, but those are not the rule.
+Those are the outliers by a big thing.
+And I think people keep chasing that and that's why they keep leaving and leaving and leaving
+because they're chasing something that, and I don't think that you should do it for that.
+I think we should, like you said, have humane ends and the means should be humane.
+So that we're building culture, we're building a group of people that believe in the product
+that we're building or the products that we're building.
+And I think open source maybe has more of this than working at a specific company.
+Some you're lucky to experience that, like Mozilla.
+Maybe that's why Mozilla has this theme, because it's largely open source.
+Because there's this dude, Ron Lanier, that is now, I believe, still at Microsoft Research.
+And he made the point that one of the most successful social networks is GitHub.
+They've somehow got it right.
+And he's thought around it is it's because there's a sense of ownership and there's
+this sense of co-creation and there's a creativity there.
+So while on social media you send a tweet and it's ephemeral, it just goes into the
+void and maybe nobody sees it, here you're creating something together that is having
+direct impact.
+Like MDN, for example, we're all building it with this big community of contributors.
+And it has a good feeling about it because we've heard so many times how people have
+told us how it's had an impact on their life.
+Like I was able to contribute and through that I got a job or I was able to learn because
+MDN is for free and now I was able to lift myself out of poverty.
+So when I think when you hear things like that and you work together as a group for
+long enough, it starts building a relationship with everybody.
+And then it's really hard to leave.
+I think everybody that's left the team in the last year or two, it was not easy.
+Beautifully said Skulk, you should be the subject of this podcast Skulk, I loved everything
+you said.
+It was beautifully said and you're absolutely right.
+I think you touched on one of the key things, it's just nobody stays any place long enough.
+And the two exceptions in my career have been Lucasfilm and Mozilla, where Lucasfilm, that
+same group like Lori is very protective of her group.
+And they've been together for 10, 15 years now and largely the same group is still there.
+And they really, like you said Skulk, it's all like you want to work in a community where
+you feel accepted and everybody wants to be accepted in the community and create something
+together.
+So yeah, I loved everything you said, I could just sit back and listen to you go on because
+I think that's so important and I think that's missing.
+I feel like that's, you said it so well, I feel like some open source projects have better
+communities than any companies do.
+Yeah, for sure.
+If I take a common month, because in this year I basically changed careers from a friendly
+engineer to a community manager and I mean, if I take the number of times that we've had
+somebody that's been not even necessarily toxic, but just disruptive as part of this
+massive open source project, one of the, what in the top 20 open source projects on GitHub,
+it's been like, I can count it on a single hand.
+And if you compare and contrast that with stuff you hear that happens inside companies,
+the way women are treated, the way people who are non-binary, and then also crazy things
+like people who have neurodiversity, who are being treated really unfairly and they have
+so much to contribute if you play to their strengths.
+But oftentimes our world and the companies that run the world are not set up for these
+people and then you lose that sense of you feel as an outsider and then it's hard to
+find, it's hard, everything becomes harder because I heard the other day, I spoke to
+Jennifer Riggins on a different podcast and she mentioned that they did some research
+and if you blinded people doing reviews, so you don't know the gender or anything about
+this pull request that you're reviewing, more pull requests of women are accepted than men.
+But if you take the blinders off, the opposite happens.
+Because there's also this weird thing with a female will not apply for a job unless she
+feels she meets 100% of the job description criteria, whereas the average man will apply
+if he meets only 65% of the criteria, which is crazy because we all know job descriptions
+are bogus.
+I mean, if you can literally fulfill everything they ask for, you're a superhuman.
+You're a superhuman, exactly.
+Because honestly, I can't believe, as we mentioned previously, some of the challenges in tech,
+I think that is still one of the biggest challenges is the interview process and how the job descriptions
+that people use are just unreasonable and it makes it super hard for people getting
+into tech, so it doesn't necessarily mean people are like in their early 20s.
+This can be somebody in their 40s that has been doing whatever for their whole life and
+just decided, I want to do something else and I decided to get into tech.
+That is one of the hardest things is they look at this world and they're like, where
+am I going to find my place?
+All these people want three, four, five years experience and they want me to have experience
+and databases and all these things.
+I did a boot camp, I have some basic knowledge and I can contribute to something.
+So you feel like you're running in molasses, as they say.
+The other crazy thing about our, and hopefully this won't last too long, but because of this
+insane layoffs that's happened in the last six months almost, there's this weird counterbalance
+that's happened in the tech industry where there are thousands of highly skilled people
+on the job market now and so all these new folks that got into engineering with promises
+of wealth and success now have to compete with these people for positions and so it's
+making their lives really, really tough and like me, I see that because I run this little
+this community and there's quite a number of people there that's exactly at this point
+where they're entering this market from as young folks or as people that was a lawyer
+for the last 10 years or whatever and they're scared that they might have made a mistake
+because they're looking at the situation and they're like, oh, I'm not so sure if I'm going
+to get a job.
+So you have to be, and it is tough, I don't lie to these people, I told them it is tough,
+but don't give up because there are companies out there that value the person over just
+the media labor of writing code every day that will take you in, that will give you
+an opportunity and allow you to grow inside the company because that's what you want.
+You want to take that person that's enthusiastic in and give them a place to grow because you
+as the company, you're going to, wow, you're going to reap the benefits of that big time.
+Yeah, wholeheartedly agree, Skollak.
+I feel like what's missing, one of the biggest, I mean, kind of a riff off what you've been
+saying, which I loved everything you said, is that I feel like one of the biggest challenges
+that I would love to be a part of the solution is, one of the biggest challenges we have
+is to create, I think you touched on it, almost all of tech is focused on just money, basically,
+profit.
+And I feel like we need a different model where obviously you have to make a living,
+we all have to make a living.
+So there is that side where you have to bring in income, but I feel like the focus should
+be more on building a community, an organization that's a community of people that really care
+about each other as people.
+And we also realize we have to make a living and we can use each other's talents and gifts
+as a community to make a living together and use tech, and tech is just sort of a way to
+do that.
+And then, I feel like that's so necessary, we need a new model, I think we need new experiments,
+I guess, to find new models where this will work.
+Mozilla is kind of one of those where it's not perfect, but it's different, it's different
+enough where I think there really is some sense of community there.
+Obviously I've seen the dark side too, but in the Bay Area, it's just too much driven
+by money, it's just pure money.
+And I was shocked at how cold-hearted that is, like you said, there is no sense of community,
+there is no sense of we're doing this for each other and for our customers.
+And I feel like that's missing sometimes, it's all about how do we achieve money rather
+than let's build something that's of value to our customers and of value to ourselves
+as a community that's making this.
+And it's almost like we need organizations that are more like small craft-oriented or
+places that are doing this out of the love of providing something for somebody and also
+a love of doing something together and creating something together and supporting each other.
+And what's sad is that often you talk about this and people roll their eyes and you know,
+oh yeah, the business world is cold and that's not going to fly, but it will fly.
+People do create excellent small companies, whether it's bakeries or whatever.
+And they do create successful organizations because they do focus on, hey, let's serve
+our customers something really good, something quality, but let's also care for each other
+in that process, like you and I were talking about.
+The end is good and the means is good in terms of getting there.
+And I feel like that's so hard to find, it's too hard to find in our industry.
+I think that's the biggest thing that young people face.
+Oh, one more thing I wanted to, sorry, my brain is firing from all this stuff.
+Yeah, no, go for it.
+But one of the things that's been inspiring me lately is I like jazz.
+And I love in the jazz community, there's a sense of, I think the jazz community has
+such a healthy, there's something really healthy about it, more than I've seen in other places
+where the elders of the jazz community, the greats, they feel this responsibility to bring
+in the young, the people that are entering jazz and to kind of take them under the wing.
+And then the young also feel like they need to respect the tradition, the Coltrane's or
+whatever, Miles Davis, and they need to kind of absorb what they've done and respect them.
+But what was interesting is that the elders of the jazz community want them to, hey, you
+got to absorb where we've been, but you don't absorb it to copy us, you absorb it to take
+it where you want to go.
+Yeah, exactly.
+And I thought that was just so beautiful, that balance between creating something new
+and respecting the tradition.
+And I feel like a lot of that applies to any organization or in tech, which is a creative
+industry.
+Yeah, you've got to kind of absorb the tradition.
+You've got to look at, for example, in the Python world, hey, how did Django build this
+framework? And how did they go about doing this? How did the Django folks do this? And
+then look at the code, look at the way they organize themselves, look at the community
+they've built, and then digest that and then say, how can we make this even better? Where
+can we take it from there?
+I think that's just so cool about jazz. And I feel like that's not, it's not really there
+in the tech community. There isn't a sense of like...
+Yeah, it's unfortunate, right? I mean, because I totally get what you're saying. And I think
+a lot of the craft industries are getting a drive. And here it's like, insert whatever
+product like craft coffee, craft bakeries, craft beer, craft teas, all these things.
+I think what I've seen in a lot of these places, when I look at their, the way they share,
+what they've accomplished, they always celebrate each and every person that's there. And I
+think being smaller net helps there. Like there's a point where you get too big, which
+is something that I'm very, very conscious of, is I think there's some point where you
+have to ask yourself the question of how much is enough? Because I think some people have
+forgotten to ask that question. And there's some people in this world that have more than
+is really fair. So you have to ask yourself the question of when do I have enough? Because
+there is a saturation point for all of us. And it might differ from one person to the
+other, but I think it kind of tops out at a certain point. And then how big is big enough
+if you're creating a company? And I think there, it also differs, but I think there's
+also, again, there's saturation point. I think as soon as you lose touch with the people,
+you're getting too big. As soon as the people aspect starts getting lost in process and
+I don't know, policy, you probably should start looking at the bigger picture and ask
+are we getting too big? Should we slow down? And most likely the answer is going to be
+yes. Because the other big thing that I see in those things is the sense of community.
+And what do you want in a community? You want everybody to succeed. There's no community
+formed around the idea that I want to push you down so that I can be on top. That is
+not what a community is about. When you're in a community, you want to lift everybody
+up. So if somebody in the community is struggling, you're going to say, how can we help? So you
+will naturally, it's almost crazy that we're not doing it this way. Because it seems to
+me it's a better recipe for success than focusing on material wealth. Because there you quickly
+get to the doggy dog world. I think you get to the doggy dog world very quickly and then
+it gets toxic. Whereas if you're in this community thing, everybody is there to make sure that
+everybody succeeds and whatever success means for you. But it's important that you understand
+what success means to somebody else so that you can support them in that journey. And
+they will naturally do it back because that's how karma works. That's how we as human beings
+work. If I feel that you have my best in your head, then I will do the same for you. But
+if I feel attacked by you, then I might naturally attack back. Because our little lizard brain
+will kick in and say, danger, we need to either run or we need to fight back. And I think
+you know that while having studied psychology. So that is actually quite an interesting inflection
+point there. How does that knowledge you gained studying counseling psychology, do you find
+it useful that you know that in the tech world? Does it help you deal with some things?
+I mean, I think you've already touched on a lot of it, Scott. You said it so beautifully
+really is. I think technology is, the people in tech are too focused on the tech. And they're
+not focused enough on the community. They're not focused enough on that. We can't build
+anything of value unless we do it together with a community of people. And it's too often
+focused on who's the best. They get all the spoils. It isn't like, hey, we did this together.
+It's just like, oh, Tesla is Elon Musk. No, it's not Elon Musk. It's like a whole group
+of people creating something. I feel like that's what psychology is. The study of that
+is helped in the sense of this. You see the complexity of doing something together as
+a community of people. People have different motivations. They have different interests
+and different talents. And that is to me so fascinating. It's just during that stint when
+I was managing the engineering team at MDN Webbox, I loved it from that point of view.
+I would love to be, I think management interests me just from that point of view. How do you
+build a community and have people feel like they're doing what they want to do and can
+contribute in a way that appeals to their strengths? I think that's the side of psychology
+that's really fit in the tech world. And I feel like we need more of that. We need more
+engineers, people who are interested in tech who bring that focus of caring about not just
+the tech, but how we work together. And we've touched upon all that. And again, it goes
+back to your point, Skulk. I'm so glad you're a community manager now at MDN because I've
+always felt that from you. You always have had that strong sense of like, hey, we got
+to do this as a community. The community matters. But when the bottom line is quarterly profits,
+the community doesn't matter. Obviously, look at the way Musk has treated Twitter. The community
+doesn't matter at all. All that matters is tech and working hard and feeding the beast
+of quarterly profits. We can't survive as a, humanity can't survive if that's the model
+of organizations. It's crazy. Organizations are part of a larger thing called society
+and countries. And the way we organize ourselves as corporations, it matters a lot. It matters
+a lot for society. And people have to work in these kind of cold machines called corporations.
+I think a lot of the big tech companies are kind of colder than... Some are less cold
+than others, but they're pretty impersonal and can be pretty cold. And I think we need
+more of these smaller communities where there's more warmth and more support in each other
+while you're trying to make... You need that dual focus. You got to get a group of people
+together that really care about making something of value for others. I think that should be
+the focus. Hey, let's create something of real value for others and take joy in that.
+And then also take joy in, we're going to do that and make a living at the same time.
+The goal isn't to get rich. The goal is to put food on the table, support our families,
+enjoy life, participate in society, and then also create something of value for others.
+And I feel like that's... I think we need more of. We need that in the tech world. And
+it's not easy. I'm not saying it's easy. It's easy to put our finger on it. But I feel like...
+You've already said this better than I did, Skulk, but I feel like it's too focused right
+now on money and people get into it for the wrong reason of getting rich. And it should
+be more on like, hey, how can I support myself, support my colleagues, and do good things
+for the customer? Yeah, for sure. That's a much healthier approach.
+I think maybe we're at a point where the time is right to experiment, like you said. Experiment
+with some new ideas, some new ways of working. That's why I always like to, when I refer
+to the people that use MDN, I like to refer to them as readers as opposed to users. Because
+I think language matters, right? The language we use often changes how we think of something.
+So if you call somebody a user, you might think of their needs differently than you
+might if they're a reader or a learner. So I think language matters. And I think to some
+extent... That's really well said.
+We've kind of done some of that at Mozilla, but then it slips again. So we have to constantly
+remind ourselves that what we call the people that use our products, benefit from our products,
+we need to think about the language we use, because it's going to mentally flip switches.
+That's going to make you think about things. And I think then it's also important to see...
+I think that's what's kind of nice about Mozilla is this whole Mozilla-ians thing. You know,
+once a Mozilla, always a Mozilla-ian. I think that extends that. That is what I'm talking
+about, the language. That makes it feel more like it's not just a company. It's a bit more
+than that. But yeah, it's tough because sometimes the family is not that healthy. And then some
+things happen that's also not healthy for the family. But yeah, it's interesting.
+I know we're running low on time, Sculpeh. Just one more thing, the thought that occurred
+to me. I think it's maybe a good topic to end on. I feel like with technology becoming
+more powerful, artificial intelligence is incredible what that can do now. And the power
+of that to solve problems is incredible. And dabbling in quantum computing and working
+for that PsyQuantum for a bit, I see what's coming there. And that's incredible. Once
+a quantum computer is built that's usable, that can solve real problems. And one of the
+biggest focuses there is really chemistry. At PsyQuantum, the founders talk about quantum
+computing will be able to basically solve chemistry problems that are just absolutely
+impossible to solve. And you can actually engineer materials and that kind of thing.
+So there's a whole revolution coming in quantum computing. We're already in the middle of
+a revolution with artificial intelligence. That's all we all can talk about that and
+see that coming. But I think everything that you and I have been talking about, the community
+aspect and the way we organize our organizations, the way we create communities, I think because
+of these developments in tech, that's even a hundred times more important now. If we
+don't get that right, these powerful technologies of quantum computing and AI are going to be
+controlled by organizations that don't have a sense of community. All they do care about
+is getting rich and enriching a few. And that is dangerous. I guess my point is that it's
+so imperative that I think humanity in the tech world solves this problem of how do we
+organize ourselves in terms of providing value to people and make a living in a way that
+supports the external community outside the organization, as well as the internal community
+within the organization. I feel like if we don't do that as human beings, it's super
+dangerous. We've got these amazing, powerful technologies coming down the road and we don't
+have the organizational... How would you say this, Skoll? But we don't have that sense
+of community and how we organize ourselves yet. That hasn't kept up with it.
+No, it hasn't. Technology has run away with us. I totally agree. The big thing that is
+needed is ethics, right? Because a lot of things that's not happening is ethics. And
+I think if you build a healthy company with a sense of community and purpose, ethics comes
+built in. But if those core things that you just said are missing, then ethics become
+like accessibility, where it's bolted on and it doesn't really feel sincere. So I think
+you are 100% correct that the technology is evolving at the speed of light, but we need
+to step back and look at what are we doing with it and how are we treating each other
+in this process. Because a lot of the technologies we've built are toxic to us as human beings
+and to our children and all of this. And it's simply because it's run away. We've lost touch
+with it and it's evolved to a point where it's out of control. But all is not lost.
+I think the fact that me and you can have a conversation about this and be in agreement
+on this means there are more people that will also feel this way. And connecting all of
+those people will build up a momentum that can then drive a change. Thanks so much, Ryan,
+for this lovely conversation. Thank you, Skalk. I'm just energized after talking to you. I'm
+serious. I could just go on for like two more hours. No, for sure. I was about to say that.
+So we'll definitely do this again, whether it's on a podcast or just because. But yeah,
+thanks so much and have a lovely rest of your day and all of the very, very best. Thanks
+so much, Skalk. It's really been a pleasure.
